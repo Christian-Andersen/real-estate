@@ -84,6 +84,7 @@ header = [
 ]
 ids = []
 urls = []
+postcodes = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
     with open(path, 'r', newline='') as f:
@@ -98,59 +99,69 @@ for file in os.listdir('data'):
             ids.append(row[0])
             urls.append(row[2])
 
-for i in range(1, 50+1):
-    print('Page:', i)
-    webpage = 'https://www.domain.com.au/sold-listings/?state=qld&page='+str(i)
-    s = get_site(webpage)
-    d = html_to_dict(s)
-    if not d:
-        raise ValueError("Failed to find on url\n"+webpage)
-    for value in d.values():
-        if 'postcode' in value['listingModel']['address']:
-            postcode = value['listingModel']['address']['postcode']
+webpages = ['https://www.domain.com.au/sold-listings/']
+for postcode in postcodes:
+    if postcode == 'unkown':
+        continue
+    webpages.append('https://www.domain.com.au/sold-listings/?postcode='+postcode)
+
+for webpage in webpages:
+    print('Webpage:', webpage)
+    for i in range(1, 50+1):
+        print('Page:', i)
+        if '?' in webpage:
+            s = get_site(webpage)+'&page='+str(i)
         else:
-            postcode = 'unknown'
-        file = os.path.join('data', postcode+'.csv')
-        if not os.path.isfile(file):
-            with open(file, 'w', newline='') as f:
+            s = get_site(webpage)+'?page='+str(i)
+        d = html_to_dict(s)
+        if not d:
+            raise ValueError("Failed to find on url\n"+webpage)
+        for value in d.values():
+            if 'postcode' in value['listingModel']['address']:
+                postcode = value['listingModel']['address']['postcode']
+            else:
+                postcode = 'unknown'
+            file = os.path.join('data', postcode+'.csv')
+            if not os.path.isfile(file):
+                with open(file, 'w', newline='') as f:
+                    w = csv.writer(f)
+                    w.writerow(header)
+            with open(file, 'a', newline='') as f:
                 w = csv.writer(f)
-                w.writerow(header)
-        with open(file, 'a', newline='') as f:
-            w = csv.writer(f)
-            if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
-                print('Dupe found and skipped')
-                continue
-            row = []
-            row.append(value['id'])
-            row.append(value['listingType'])
-            row.append(value['listingModel']['url'])
-            row.append(value['listingModel']['price'])
-            if row[-1].startswith('$'):
-                row[-1] = row[-1][1:].replace(',', '')
-            row.append(value['listingModel']['tags']['tagClassName'])
-            row.append(value['listingModel']['tags']['tagText'])
-            date = datetime.strptime(
-                ' '.join(row[-1].split()[-3:]), '%d %b %Y')
-            row.append(int(date.strftime('%Y%m%d')))
-            address = value['listingModel']['address']
-            row.append(add_column(address, 'street'))
-            row.append(add_column(address, 'suburb'))
-            row.append(add_column(address, 'state'))
-            row.append(add_column(address, 'postcode'))
-            row.append(add_column(address, 'lat'))
-            row.append(add_column(address, 'lng'))
-            features = value['listingModel']['features']
-            row.append(add_column(features, 'beds'))
-            row.append(add_column(features, 'baths'))
-            row.append(add_column(features, 'parking'))
-            row.append(add_column(features, 'propertyType'))
-            row.append(add_column(features, 'propertyTypeFormatted'))
-            row.append(add_column(features, 'isRural'))
-            row.append(add_column(features, 'landSize'))
-            row.append(add_column(features, 'landUnit'))
-            if row[-1] == 'm²':
-                row[-1] = 'm2'
-            row.append(add_column(features, 'isRetirement'))
-            ids.append(value['id'])
-            urls.append(value['listingModel']['url'])
-            w.writerow(row)
+                if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
+                    print('Dupe found and skipped')
+                    continue
+                row = []
+                row.append(value['id'])
+                row.append(value['listingType'])
+                row.append(value['listingModel']['url'])
+                row.append(value['listingModel']['price'])
+                if row[-1].startswith('$'):
+                    row[-1] = row[-1][1:].replace(',', '')
+                row.append(value['listingModel']['tags']['tagClassName'])
+                row.append(value['listingModel']['tags']['tagText'])
+                date = datetime.strptime(
+                    ' '.join(row[-1].split()[-3:]), '%d %b %Y')
+                row.append(int(date.strftime('%Y%m%d')))
+                address = value['listingModel']['address']
+                row.append(add_column(address, 'street'))
+                row.append(add_column(address, 'suburb'))
+                row.append(add_column(address, 'state'))
+                row.append(add_column(address, 'postcode'))
+                row.append(add_column(address, 'lat'))
+                row.append(add_column(address, 'lng'))
+                features = value['listingModel']['features']
+                row.append(add_column(features, 'beds'))
+                row.append(add_column(features, 'baths'))
+                row.append(add_column(features, 'parking'))
+                row.append(add_column(features, 'propertyType'))
+                row.append(add_column(features, 'propertyTypeFormatted'))
+                row.append(add_column(features, 'isRural'))
+                row.append(add_column(features, 'landSize'))
+                row.append(add_column(features, 'landUnit'))
+                if row[-1] == 'm²':
+                    row[-1] = 'm2'
+                row.append(add_column(features, 'isRetirement'))
+                ids.append(value['id'])
+                urls.append(value['listingModel']['url'])
+                w.writerow(row)
