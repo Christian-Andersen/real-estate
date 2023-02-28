@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018325339,listing,/1-donohoe-gardens-kingston-beach-tas-7050-2018325339,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,1 Donohoe Gardens,KINGSTON BEACH,TAS,7050,-42.9898,147.32132,4,2,7,House,House,False,760,m2,False
+2018254950,listing,/1-28a-nolan-crescent-kingston-tas-7050-2018254950,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,1/28A Nolan Crescent,KINGSTON,TAS,7050,-42.9676247,147.293625,3,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,374,m2,False
+2018321140,listing,/1-11-lester-crescent-kingston-tas-7050-2018321140,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,1/11 Lester Crescent,KINGSTON,TAS,7050,-42.9734879,147.303,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,358,m2,False

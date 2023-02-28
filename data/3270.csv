@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018314486,listing,/19-hamilton-street-peterborough-vic-3270-2018314486,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,19 Hamilton Street,PETERBOROUGH,VIC,3270,-38.60506,142.8767,3,1,1,House,House,False,536,m2,False

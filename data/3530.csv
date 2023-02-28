@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018323002,listing,/27-main-street-culgoa-vic-3530-2018323002,129000,is-sold,Sold by private treaty 27 Feb 2023,20230227,27 Main Street,CULGOA,VIC,3530,-35.71699,143.106476,2,1,2,House,House,False,0,m2,False

@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018316329,listing,/23-11-samuel-terry-avenue-kensington-nsw-2033-2018316329,Price Withheld,is-sold,Sold prior to auction 28 Feb 2023,20230228,23/11 Samuel Terry Avenue,KENSINGTON,NSW,2033,-33.9049,151.214508,1,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018111864,listing,/7-ingram-street-kensington-nsw-2033-2018111864,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Ingram Street,KENSINGTON,NSW,2033,-33.911396,151.214142,-,-,-,VacantLand,Vacant land,False,0,m2,False
+2018359508,listing,/16-3-5-kensington-road-kensington-nsw-2033-2018359508,965000,is-sold,Sold prior to auction 27 Feb 2023,20230227,16/3-5 Kensington Road,KENSINGTON,NSW,2033,-33.91114,151.221085,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

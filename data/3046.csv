@@ -1,0 +1,6 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018274700,listing,/2a-reserve-court-glenroy-vic-3046-2018274700,715000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2A Reserve Court,GLENROY,VIC,3046,-37.70055,144.908859,3,2,2,Townhouse,Townhouse,False,155,m2,False
+2018302512,listing,/2-101-plumpton-avenue-glenroy-vic-3046-2018302512,615000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2/101 Plumpton Avenue,GLENROY,VIC,3046,-37.7060928,144.920746,3,2,1,Townhouse,Townhouse,False,128,m2,False
+2018382195,listing,/4-38-harold-street-glenroy-vic-3046-2018382195,740000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/38 Harold Street,GLENROY,VIC,3046,-37.7064247,144.92421,3,1,1,Townhouse,Townhouse,False,179,m2,False
+2018301800,listing,/4-30-chapman-avenue-glenroy-vic-3046-2018301800,750000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4/30 Chapman Avenue,GLENROY,VIC,3046,-37.7104874,144.915314,3,2,2,Townhouse,Townhouse,False,0,m2,False
+2018315589,listing,/2-51-north-street-hadfield-vic-3046-2018315589,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,2/51 North Street,HADFIELD,VIC,3046,-37.7056236,144.94693,2,2,1,Townhouse,Townhouse,False,114,m2,False

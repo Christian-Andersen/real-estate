@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018341121,listing,/55-peterson-st-highett-vic-3190-2018341121,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,55 Peterson St,HIGHETT,VIC,3190,-37.9454842,145.031479,3,1,2,House,House,False,604,m2,False

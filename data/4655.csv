@@ -1,0 +1,7 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018032898,listing,/3-neilson-road-craignish-qld-4655-2018032898,840000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Neilson Road,CRAIGNISH,QLD,4655,-25.2817764,152.72583,2,1,6,AcreageSemiRural,Acreage / Semi-Rural,True,2,ha,False
+2018263050,listing,/37-ocean-park-drive-dundowran-beach-qld-4655-2018263050,1170000,is-sold,Sold by private treaty 28 Feb 2023,20230228,37 Ocean Park Drive,DUNDOWRAN BEACH,QLD,4655,-25.2711449,152.741531,4,2,2,House,House,False,2623,m2,False
+2017824317,listing,/37-beach-road-pialba-qld-4655-2017824317,455000,is-sold,Sold by private treaty 28 Feb 2023,20230228,37 Beach Road,PIALBA,QLD,4655,-25.2798328,152.83223,4,1,1,House,House,False,665,m2,False
+2018259176,listing,/3-melong-street-scarness-qld-4655-2018259176,598000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Melong Street,SCARNESS,QLD,4655,-25.2931271,152.854752,3,1,2,House,House,False,771,m2,False
+2018297119,listing,/15-conondale-court-torquay-qld-4655-2018297119,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,15 Conondale Court,TORQUAY,QLD,4655,-25.3000488,152.874191,3,2,2,House,House,False,768,m2,False
+2018055418,listing,/330-bingham-road-booral-qld-4655-2018055418,720000,is-sold,Sold by private treaty 27 Feb 2023,20230227,330 Bingham Road,BOORAL,QLD,4655,-25.3683987,152.8776,3,1,6,AcreageSemiRural,Acreage / Semi-Rural,True,2.23,ha,False

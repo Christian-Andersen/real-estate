@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018236080,listing,/8-2-evans-crescent-oaklands-park-sa-5046-2018236080,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,8/2 Evans Crescent,OAKLANDS PARK,SA,5046,-35.0099068,138.544022,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018312226,listing,/50-addison-road-warradale-sa-5046-2018312226,742500,is-sold,Sold by private treaty 28 Feb 2023,20230228,50 Addison Road,WARRADALE,SA,5046,-35.0116119,138.5339,4,2,4,House,House,False,324,m2,False

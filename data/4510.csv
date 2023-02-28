@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2017906172,listing,/12-lehmann-circuit-caboolture-south-qld-4510-2017906172,505000,is-sold,Sold by private treaty 27 Feb 2023,20230227,12 Lehmann Circuit,CABOOLTURE SOUTH,QLD,4510,-27.0937672,152.958282,3,2,1,House,House,False,320,m2,False
+2018336882,listing,/10-canon-court-caboolture-qld-4510-2018336882,680000,is-sold,Sold by private treaty 27 Feb 2023,20230227,10 Canon Court,CABOOLTURE,QLD,4510,-27.0697422,152.9389,4,2,3,House,House,False,867,m2,False
+2018380337,listing,/8-48-50-lee-street-caboolture-qld-4510-2018380337,133000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8/48-50 Lee Street,CABOOLTURE,QLD,4510,-27.0858822,152.965424,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018309303,listing,/9-114-116-rawson-road-greenacre-nsw-2190-2018309303,855000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9/114-116 Rawson Road,GREENACRE,NSW,2190,-33.9010048,151.049973,3,2,3,Villa,Villa,False,0,m2,False

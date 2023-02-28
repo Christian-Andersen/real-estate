@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018306070,listing,/1540-scarsdale-pitfield-road-cape-clear-vic-3351-2018306070,283000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1540 Scarsdale - Pitfield Road,CAPE CLEAR,VIC,3351,-37.7866669,143.61293,1,1,2,House,House,True,2.02,ha,False

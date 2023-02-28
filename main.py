@@ -1,3 +1,4 @@
+import time
 import os
 import csv
 import atexit
@@ -67,9 +68,16 @@ header = [
 # Get information from the data folder
 ids = []
 urls = []
-postcodes = []
+postcodes_first = []
+postcodes_second = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
+    os.path.getsize
+    if 'unknown' not in file:
+        if ((time.time()-os.path.getmtime(path)) > 32*60*60) or (os.path.getsize(path) < 1000):
+            postcodes_first.append(file.split('.')[0])
+        else:
+            postcodes_second.append(file.split('.')[0])
     with open(path, 'r', newline='') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
@@ -82,20 +90,25 @@ for file in os.listdir('data'):
             ids.append(row[0])
             urls.append(row[2])
 print('Total Properties:', len(ids))
+print('Total Postcodes:', len(postcodes_first)+len(postcodes_second))
+
 
 # Use postcoes to create webpages to scrape
 webpages = ['https://www.domain.com.au/sold-listings/']
-for postcode in postcodes:
-    if postcode == 'unkown':
-        continue
+webpages = []
+for postcode in postcodes_first:
     webpages.append(
         'https://www.domain.com.au/sold-listings/?postcode='+postcode)
-print('Total webpages:', len(webpages))
+for postcode in postcodes_second:
+    webpages.append(
+        'https://www.domain.com.au/sold-listings/?postcode='+postcode)
+webpages = list(set(webpages))
+print('Total Webpages:', len(webpages))
 
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
-service = Service('geckodriver.exe')
+service = Service(GeckoDriverManager().install())
 driver = webdriver.Firefox(options=options, service=service)
 atexit.register(driver.quit)
 
@@ -114,6 +127,9 @@ for webpage in webpages:
         if not property_dictionary:
             raise ValueError("Failed to find on url\n"+webpage)
         for value in property_dictionary.values():
+            if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
+                print('Dupe found and skipped')
+                continue
             if 'postcode' in value['listingModel']['address']:
                 postcode = value['listingModel']['address']['postcode']
             else:
@@ -123,42 +139,40 @@ for webpage in webpages:
                 with open(file, 'w', newline='') as f:
                     w = csv.writer(f)
                     w.writerow(header)
+
+            row = []
+            row.append(value['id'])
+            row.append(value['listingType'])
+            row.append(value['listingModel']['url'])
+            row.append(value['listingModel']['price'])
+            if row[-1].startswith('$'):
+                row[-1] = row[-1][1:].replace(',', '')
+            row.append(value['listingModel']['tags']['tagClassName'])
+            row.append(value['listingModel']['tags']['tagText'])
+            date = datetime.strptime(
+                ' '.join(row[-1].split()[-3:]), '%d %b %Y')
+            row.append(int(date.strftime('%Y%m%d')))
+            address = value['listingModel']['address']
+            row.append(add_column(address, 'street'))
+            row.append(add_column(address, 'suburb'))
+            row.append(add_column(address, 'state'))
+            row.append(add_column(address, 'postcode'))
+            row.append(add_column(address, 'lat'))
+            row.append(add_column(address, 'lng'))
+            features = value['listingModel']['features']
+            row.append(add_column(features, 'beds'))
+            row.append(add_column(features, 'baths'))
+            row.append(add_column(features, 'parking'))
+            row.append(add_column(features, 'propertyType'))
+            row.append(add_column(features, 'propertyTypeFormatted'))
+            row.append(add_column(features, 'isRural'))
+            row.append(add_column(features, 'landSize'))
+            row.append(add_column(features, 'landUnit'))
+            if row[-1] == 'm²':
+                row[-1] = 'm2'
+            row.append(add_column(features, 'isRetirement'))
+            ids.append(str(value['id']))
+            urls.append(value['listingModel']['url'])
             with open(file, 'a', newline='') as f:
                 w = csv.writer(f)
-                if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
-                    print('Dupe found and skipped')
-                    continue
-                row = []
-                row.append(value['id'])
-                row.append(value['listingType'])
-                row.append(value['listingModel']['url'])
-                row.append(value['listingModel']['price'])
-                if row[-1].startswith('$'):
-                    row[-1] = row[-1][1:].replace(',', '')
-                row.append(value['listingModel']['tags']['tagClassName'])
-                row.append(value['listingModel']['tags']['tagText'])
-                date = datetime.strptime(
-                    ' '.join(row[-1].split()[-3:]), '%d %b %Y')
-                row.append(int(date.strftime('%Y%m%d')))
-                address = value['listingModel']['address']
-                row.append(add_column(address, 'street'))
-                row.append(add_column(address, 'suburb'))
-                row.append(add_column(address, 'state'))
-                row.append(add_column(address, 'postcode'))
-                row.append(add_column(address, 'lat'))
-                row.append(add_column(address, 'lng'))
-                features = value['listingModel']['features']
-                row.append(add_column(features, 'beds'))
-                row.append(add_column(features, 'baths'))
-                row.append(add_column(features, 'parking'))
-                row.append(add_column(features, 'propertyType'))
-                row.append(add_column(features, 'propertyTypeFormatted'))
-                row.append(add_column(features, 'isRural'))
-                row.append(add_column(features, 'landSize'))
-                row.append(add_column(features, 'landUnit'))
-                if row[-1] == 'm²':
-                    row[-1] = 'm2'
-                row.append(add_column(features, 'isRetirement'))
-                ids.append(value['id'])
-                urls.append(value['listingModel']['url'])
                 w.writerow(row)

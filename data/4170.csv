@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018283601,listing,/8-62-richmond-road-morningside-qld-4170-2018283601,485000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8/62 Richmond Road,MORNINGSIDE,QLD,4170,-27.470665,153.073318,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018312715,listing,/1-48-bundara-street-morningside-qld-4170-2018312715,715000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1/48 Bundara Street,MORNINGSIDE,QLD,4170,-27.4728031,153.071777,3,2,1,Townhouse,Townhouse,False,0,m2,False
+2018314294,listing,/5-88-lawson-street-morningside-qld-4170-2018314294,495000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5/88 Lawson Street,MORNINGSIDE,QLD,4170,-27.469368,153.069122,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

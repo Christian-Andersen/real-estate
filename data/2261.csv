@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018235699,listing,/14-churchill-street-bateau-bay-nsw-2261-2018235699,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,14 Churchill Street,BATEAU BAY,NSW,2261,-33.3952827,151.471848,4,2,3,House,House,False,648,m2,False
+2018155244,listing,/694-the-entrance-road-bateau-bay-nsw-2261-2018155244,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,694 The Entrance Road,BATEAU BAY,NSW,2261,-33.3977737,151.472687,4,2,6,House,House,False,640,m2,False
+2018286582,listing,/15-nightshade-drive-berkeley-vale-nsw-2261-2018286582,1200000,is-sold,Sold by private treaty 27 Feb 2023,20230227,15 Nightshade Drive,BERKELEY VALE,NSW,2261,-33.33262,151.426514,4,2,2,House,House,False,522,m2,False
+2018341447,listing,/14-moloki-avenue-chittaway-bay-nsw-2261-2018341447,725000,is-sold,Sold by private treaty 27 Feb 2023,20230227,14 Moloki Avenue,CHITTAWAY BAY,NSW,2261,-33.3254776,151.4361,3,1,2,House,House,False,462,m2,False

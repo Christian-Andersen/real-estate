@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018004506,listing,/3-55-monash-street-sunshine-vic-3020-2018004506,438000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3/55 Monash Street,SUNSHINE,VIC,3020,-37.78978,144.839386,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018292128,listing,/49-nicholson-parade-sunshine-west-vic-3020-2018292128,705000,is-sold,Sold by private treaty 28 Feb 2023,20230228,49 Nicholson Parade,SUNSHINE WEST,VIC,3020,-37.79935,144.807541,3,2,2,House,House,False,0,m2,False
+2018382087,listing,/702-1-foundry-road-sunshine-vic-3020-2018382087,398500,is-sold,Sold by private treaty 28 Feb 2023,20230228,702/1 Foundry Road,SUNSHINE,VIC,3020,-37.7797279,144.832474,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

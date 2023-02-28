@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018308865,listing,/15-misfeld-street-moura-qld-4718-2018308865,273000,is-sold,Sold by private treaty 28 Feb 2023,20230228,15 Misfeld Street,MOURA,QLD,4718,-24.5752831,149.973221,3,1,2,House,House,False,784,m2,False
+2018261824,listing,/17-shirley-st-moura-qld-4718-2018261824,132000,is-sold,Sold by private treaty 27 Feb 2023,20230227,17 Shirley St,MOURA,QLD,4718,-24.571701,149.974182,3,1,1,House,House,False,809,m2,False

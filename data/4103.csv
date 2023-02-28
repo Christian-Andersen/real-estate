@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018290454,listing,/2-393-annerley-road-annerley-qld-4103-2018290454,705000,is-sold,Sold by private treaty 27 Feb 2023,20230227,2/393 Annerley Road,ANNERLEY,QLD,4103,-27.5070457,153.031479,3,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

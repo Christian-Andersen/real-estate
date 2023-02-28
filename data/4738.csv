@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018280044,listing,/5-galloway-drive-ilbilbie-qld-4738-2018280044,215000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Galloway Drive,ILBILBIE,QLD,4738,-21.6830463,149.451019,-,-,-,VacantLand,Vacant land,False,1003,m2,False

@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018167713,listing,/2-paluma-place-narangba-qld-4504-2018167713,710000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Paluma Place,NARANGBA,QLD,4504,-27.1760139,152.9436,4,2,2,House,House,False,455,m2,False
+2018252242,listing,/27-baphal-crescent-narangba-qld-4504-2018252242,690000,is-sold,Sold by private treaty 28 Feb 2023,20230228,27 Baphal Crescent,NARANGBA,QLD,4504,-27.1883163,152.951782,4,2,2,House,House,False,600,m2,False
+2018247179,listing,/26-eco-crescent-narangba-qld-4504-2018247179,620000,is-sold,Sold by private treaty 27 Feb 2023,20230227,26 Eco Crescent,NARANGBA,QLD,4504,-27.18491,152.950089,4,2,2,House,House,False,448,m2,False

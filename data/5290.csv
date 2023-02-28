@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018347170,listing,/10-napoli-place-mount-gambier-sa-5290-2018347170,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Napoli Place,MOUNT GAMBIER,SA,5290,-37.8244133,140.799728,-,-,-,VacantLand,Vacant land,False,710,m2,False
+2018276608,listing,/3-heathfield-way-mount-gambier-sa-5290-2018276608,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Heathfield Way,MOUNT GAMBIER,SA,5290,-37.8087,140.766464,3,1,1,House,House,False,629,m2,False
+2018313854,listing,/46-acacia-street-mount-gambier-sa-5290-2018313854,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,46 Acacia Street,MOUNT GAMBIER,SA,5290,-37.81407,140.77327,4,1,2,House,House,False,825,m2,False
+2018345271,listing,/1-degaris-street-mount-gambier-sa-5290-2018345271,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,1 Degaris Street,MOUNT GAMBIER,SA,5290,-37.83083,140.763992,3,2,2,House,House,False,697,m2,False

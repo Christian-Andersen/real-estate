@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018311112,listing,/6-lindenell-drive-drouin-vic-3818-2018311112,1150000,is-sold,Sold by private treaty 28 Feb 2023,20230228,6 Lindenell Drive,DROUIN,VIC,3818,-38.10689,145.837357,5,2,6,House,House,False,5510,m2,False
+2018332381,listing,/2-alf-court-drouin-vic-3818-2018332381,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Alf Court,DROUIN,VIC,3818,-38.13941,145.85144,4,2,2,House,House,False,512,m2,False
+2018213417,listing,/22-fairchild-street-drouin-vic-3818-2018213417,632000,is-sold,Sold by private treaty 27 Feb 2023,20230227,22 Fairchild Street,DROUIN,VIC,3818,-38.1446953,145.863037,3,2,2,House,House,False,705,m2,False
+2018322283,listing,/21-lampard-road-drouin-vic-3818-2018322283,400000,is-sold,Sold by private treaty 27 Feb 2023,20230227,21 Lampard Road,DROUIN,VIC,3818,-38.13718,145.8521,2,1,2,House,House,False,691,m2,False

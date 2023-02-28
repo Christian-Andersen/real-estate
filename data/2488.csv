@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018313717,listing,/20-cassidy-crescent-bogangar-nsw-2488-2018313717,1670000,is-sold,Sold by private treaty 27 Feb 2023,20230227,20 Cassidy Crescent,BOGANGAR,NSW,2488,-28.33844,153.569977,4,3,2,House,House,False,797,m2,False

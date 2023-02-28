@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018381749,listing,/17-witonga-crescent-baulkham-hills-nsw-2153-2018381749,1525000,is-sold,Sold by private treaty 28 Feb 2023,20230228,17 Witonga Crescent,BAULKHAM HILLS,NSW,2153,-33.7597427,151.0046,3,1,2,House,House,False,695,m2,False
+2018323038,listing,/58-mackillop-drive-baulkham-hills-nsw-2153-2018323038,1737000,is-sold,Sold at auction 27 Feb 2023,20230227,58 Mackillop Drive,BAULKHAM HILLS,NSW,2153,-33.73774,150.97345,4,2,2,House,House,False,763,m2,False
+2018322042,listing,/38-kalimna-drive-baulkham-hills-nsw-2153-2018322042,2335000,is-sold,Sold at auction 27 Feb 2023,20230227,38 Kalimna Drive,BAULKHAM HILLS,NSW,2153,-33.7487373,150.975037,5,3,2,House,House,False,695,m2,False

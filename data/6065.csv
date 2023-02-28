@@ -1,0 +1,8 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018254554,listing,/33-pissaro-crescent-ashby-wa-6065-2018254554,627000,is-sold,Sold by private treaty 27 Feb 2023,20230227,33 Pissaro Crescent,ASHBY,WA,6065,-31.7329769,115.792175,3,2,2,House,House,False,589,m2,False
+2018142156,listing,/madeley-wa-6065-2018142156,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,,MADELEY,WA,6065,-31.8132019,115.8275,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018210279,listing,/madeley-wa-6065-2018210279,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,,MADELEY,WA,6065,-31.8132019,115.8275,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018210375,listing,/madeley-wa-6065-2018210375,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,,MADELEY,WA,6065,-31.8132019,115.8275,4,3,2,NewHouseLand,New House & Land,False,0,m2,False
+2018214211,listing,/1-trent-bridge-avenue-madeley-wa-6065-2018214211,700000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1 Trent Bridge Avenue,MADELEY,WA,6065,-31.8140659,115.82505,4,2,2,House,House,False,522,m2,False
+2018303237,listing,/2b-korab-link-madeley-wa-6065-2018303237,600000,is-sold,Sold by private treaty 27 Feb 2023,20230227,2b Korab Link,MADELEY,WA,6065,-31.8054352,115.820023,4,2,2,House,House,False,383,m2,False
+2018291705,listing,/24-archer-street-pearsall-wa-6065-2018291705,630000,is-sold,Sold by private treaty 27 Feb 2023,20230227,24 Archer Street,PEARSALL,WA,6065,-31.7829,115.81398,4,2,2,House,House,False,581,m2,False

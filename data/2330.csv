@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018207500,listing,/8-dargin-close-singleton-nsw-2330-2018207500,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,8 Dargin Close,SINGLETON,NSW,2330,-32.537693,151.1643,5,2,2,House,House,False,800,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2017213961,listing,/9-cricklewood-court-plainland-qld-4341-2017213961,810000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Cricklewood Court,PLAINLAND,QLD,4341,-27.58348,152.411545,5,2,2,House,House,False,5859,m2,False

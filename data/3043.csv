@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018320508,listing,/111-lenoak-street-gladstone-park-vic-3043-2018320508,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,111 Lenoak Street,GLADSTONE PARK,VIC,3043,-37.6973267,144.89563,3,1,4,House,House,False,548,m2,False
+2018329077,listing,/103-taylor-drive-gladstone-park-vic-3043-2018329077,647000,is-sold,Sold at auction 27 Feb 2023,20230227,103 Taylor Drive,GLADSTONE PARK,VIC,3043,-37.68878,144.887527,3,1,1,House,House,False,541,m2,False

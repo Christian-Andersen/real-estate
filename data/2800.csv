@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018229600,listing,/255-phoenix-mine-road-orange-nsw-2800-2018229600,1470000,is-sold,Sold by private treaty 27 Feb 2023,20230227,255 Phoenix Mine Road,ORANGE,NSW,2800,-33.3582039,149.143066,4,2,5,House,House,True,2,ha,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018323771,listing,/10-9-keith-street-scullin-act-2614-2018323771,392000,is-sold,Sold by private treaty 28 Feb 2023,20230228,10/9 Keith Street,SCULLIN,ACT,2614,-35.2344475,149.041061,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

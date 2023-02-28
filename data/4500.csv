@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018290904,listing,/34-panorama-street-bray-park-qld-4500-2018290904,541000,is-sold,Sold by private treaty 27 Feb 2023,20230227,34 Panorama Street,BRAY PARK,QLD,4500,-27.2871323,152.973434,3,1,2,House,House,False,607,m2,False

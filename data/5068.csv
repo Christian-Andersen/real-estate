@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018352364,listing,/8a-park-road-kensington-park-sa-5068-2018352364,1020000,is-sold,Sold at auction 28 Feb 2023,20230228,8A Park Road,KENSINGTON PARK,SA,5068,-34.9237061,138.6509,5,1,2,House,House,False,456,m2,False
+2018356247,listing,/14-alpha-street-kensington-park-sa-5068-2018356247,882000,is-sold,Sold at auction 28 Feb 2023,20230228,14 Alpha Street,KENSINGTON PARK,SA,5068,-34.9250565,138.653717,3,1,1,House,House,False,437,m2,False
+2018354190,listing,/10-cuthero-terrace-kensington-gardens-sa-5068-2018354190,1080000,is-sold,Sold prior to auction 27 Feb 2023,20230227,10 Cuthero Terrace,KENSINGTON GARDENS,SA,5068,-34.9175644,138.661865,3,1,2,House,House,False,585,m2,False

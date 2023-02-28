@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018176224,listing,/3-40-swanview-terrace-south-perth-wa-6151-2018176224,975000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3/40 Swanview Terrace,SOUTH PERTH,WA,6151,-31.973917,115.875938,3,2,2,Townhouse,Townhouse,False,0,m2,False
+2018285291,listing,/4-72-strickland-street-south-perth-wa-6151-2018285291,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/72 Strickland Street,SOUTH PERTH,WA,6151,-31.9870033,115.860283,3,1,1,Townhouse,Townhouse,False,0,m2,False
+2018325531,listing,/4-seventh-avenue-kensington-wa-6151-2018325531,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Seventh Avenue,KENSINGTON,WA,6151,-31.98226,115.88446,3,2,1,House,House,False,809,m2,False

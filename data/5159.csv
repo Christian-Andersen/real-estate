@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018314409,listing,/2-burton-mews-aberfoyle-park-sa-5159-2018314409,585000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Burton Mews,ABERFOYLE PARK,SA,5159,-35.07771,138.59726,3,2,2,House,House,False,420,m2,False
+2018285839,listing,/18-tripoli-road-happy-valley-sa-5159-2018285839,585000,is-sold,Sold by private treaty 28 Feb 2023,20230228,18 Tripoli Road,HAPPY VALLEY,SA,5159,-35.0785446,138.552124,3,2,1,House,House,False,646,m2,False

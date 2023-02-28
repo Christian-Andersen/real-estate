@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018088557,listing,/5-dannevig-place-inverloch-vic-3996-2018088557,1000000,is-sold,Sold by private treaty 28 Feb 2023,20230228,5 Dannevig Place,INVERLOCH,VIC,3996,-38.62744,145.74913,4,2,2,House,House,False,701,m2,False
+2018338760,listing,/18-mariner-place-inverloch-vic-3996-2018338760,870000,is-sold,Sold by private treaty 28 Feb 2023,20230228,18 Mariner Place,INVERLOCH,VIC,3996,-38.6399269,145.705261,3,2,3,House,House,False,0,m2,False
+2018262234,listing,/32-lohr-avenue-inverloch-vic-3996-2018262234,1080000,is-sold,Sold by private treaty 27 Feb 2023,20230227,32 Lohr Avenue,INVERLOCH,VIC,3996,-38.6454353,145.698486,3,1,2,House,House,False,570,m2,False

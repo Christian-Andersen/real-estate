@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018343248,listing,/76-albert-avenue-boronia-vic-3155-2018343248,634000,is-sold,Sold by private treaty 28 Feb 2023,20230228,76 Albert Avenue,BORONIA,VIC,3155,-37.8561859,145.296616,3,1,-,House,House,False,563,m2,False
+2018221317,listing,/6-blamey-court-boronia-vic-3155-2018221317,710000,is-sold,Sold by private treaty 27 Feb 2023,20230227,6 Blamey Court,BORONIA,VIC,3155,-37.8439255,145.2882,3,2,2,House,House,False,770,m2,False

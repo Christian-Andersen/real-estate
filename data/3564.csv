@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018241959,listing,/4-fawkner-court-echuca-vic-3564-2018241959,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Fawkner Court,ECHUCA,VIC,3564,-36.15699,144.737885,5,2,6,House,House,False,4136,m2,False
+2018266310,listing,/3-willicent-terrace-echuca-vic-3564-2018266310,638000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Willicent Terrace,ECHUCA,VIC,3564,-36.1392136,144.736847,4,2,2,House,House,False,0,m2,False
+2018302836,listing,/104-crossen-street-echuca-vic-3564-2018302836,660000,is-sold,Sold by private treaty 27 Feb 2023,20230227,104 Crossen Street,ECHUCA,VIC,3564,-36.1357,144.735291,3,2,3,House,House,False,878,m2,False

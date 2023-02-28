@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018337435,listing,/40-silver-street-marrickville-nsw-2204-2018337435,1670000,is-sold,Sold at auction 28 Feb 2023,20230228,40 Silver Street,MARRICKVILLE,NSW,2204,-33.90901,151.158569,2,1,1,House,House,False,164,m2,False
+2018335289,listing,/3-3-ann-street-marrickville-nsw-2204-2018335289,395000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3/3 Ann Street,MARRICKVILLE,NSW,2204,-33.9126167,151.1522,1,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,36,m2,False

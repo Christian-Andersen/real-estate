@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018290491,listing,/39-balmerino-drive-carina-qld-4152-2018290491,1120000,is-sold,Sold by private treaty 27 Feb 2023,20230227,39 Balmerino Drive,CARINA,QLD,4152,-27.4768677,153.0887,3,2,2,House,House,False,653,m2,False

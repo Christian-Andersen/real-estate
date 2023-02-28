@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018132352,listing,/1702-88-marine-parade-coolangatta-qld-4225-2018132352,1200000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1702/88 Marine Parade,COOLANGATTA,QLD,4225,-28.167881,153.539871,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018319896,listing,/3-39-43-tweed-street-coolangatta-qld-4225-2018319896,1175000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3/39-43 Tweed Street,COOLANGATTA,QLD,4225,-28.17064,153.533875,3,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018352750,listing,/201-4-10-douglas-street-coolangatta-qld-4225-2018352750,1005000,is-sold,Sold at auction 27 Feb 2023,20230227,201/4-10 Douglas Street,COOLANGATTA,QLD,4225,-28.1687145,153.528122,3,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

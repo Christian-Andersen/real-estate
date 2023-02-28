@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018354066,listing,/123-palmer-street-dubbo-nsw-2830-2018354066,585000,is-sold,Sold by private treaty 28 Feb 2023,20230228,123 Palmer Street,DUBBO,NSW,2830,-32.26775,148.614777,3,1,1,House,House,False,854,m2,False

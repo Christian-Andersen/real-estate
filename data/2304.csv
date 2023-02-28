@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018312027,listing,/3-bakeri-circuit-warabrook-nsw-2304-2018312027,775000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Bakeri Circuit,WARABROOK,NSW,2304,-32.8813934,151.714478,3,1,2,House,House,False,472,m2,False

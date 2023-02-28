@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018319219,listing,/105-carron-close-arakoon-nsw-2431-2018319219,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,105 Carron Close,ARAKOON,NSW,2431,-30.9085159,153.057632,-,-,-,VacantLand,Vacant land,True,10000,m2,False

@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018381953,listing,/4-0506-32-kitchener-parade-bankstown-nsw-2200-2018381953,707050,is-sold,Sold by private treaty 28 Feb 2023,20230228,4-0506/32 Kitchener Parade,BANKSTOWN,NSW,2200,-33.91625,151.032623,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018384289,listing,/523-74-restwell-street-bankstown-nsw-2200-2018384289,575000,is-sold,Sold by private treaty 28 Feb 2023,20230228,523/74 Restwell Street,BANKSTOWN,NSW,2200,-33.9214668,151.035141,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018148884,listing,/5-68-reynolds-avenue-bankstown-nsw-2200-2018148884,460000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5/68 Reynolds Avenue,BANKSTOWN,NSW,2200,-33.9095268,151.03009,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

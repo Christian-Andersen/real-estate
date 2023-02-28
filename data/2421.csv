@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018338806,listing,/29-glenburn-road-paterson-nsw-2421-2018338806,1550000,is-sold,Sold by private treaty 28 Feb 2023,20230228,29 Glenburn Road,PATERSON,NSW,2421,-32.5924263,151.632751,4,3,8,House,House,True,2.47,ha,False

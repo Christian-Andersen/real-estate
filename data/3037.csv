@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018319110,listing,/9-kanmore-crescent-hillside-vic-3037-2018319110,700000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Kanmore Crescent,HILLSIDE,VIC,3037,-37.6853447,144.755157,4,2,2,House,House,False,605,m2,False

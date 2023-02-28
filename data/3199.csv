@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018039825,listing,/304-16-clyde-street-frankston-vic-3199-2018039825,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,304/16 Clyde Street,FRANKSTON,VIC,3199,-38.14288,145.1249,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018305673,listing,/35-parer-street-frankston-vic-3199-2018305673,490000,is-sold,Sold by private treaty 27 Feb 2023,20230227,35 Parer Street,FRANKSTON,VIC,3199,-38.14244,145.140488,2,1,1,House,House,False,310,m2,False
+2018380885,listing,/2-bordeaux-court-frankston-vic-3199-2018380885,850000,is-sold,Sold prior to auction 27 Feb 2023,20230227,2 Bordeaux Court,FRANKSTON,VIC,3199,-38.16973,145.157455,4,2,2,House,House,False,732,m2,False

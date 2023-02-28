@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018006849,listing,/2-17-mangini-street-morley-wa-6062-2018006849,599000,is-sold,Sold by private treaty 27 Feb 2023,20230227,2/17 Mangini Street,MORLEY,WA,6062,-31.891901,115.898407,3,2,2,House,House,False,0,m2,False
+2018346901,listing,/5a-lingfield-way-morley-wa-6062-2018346901,360000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5a Lingfield Way,MORLEY,WA,6062,-31.89163,115.914948,2,1,2,House,House,False,407,m2,False
+2018372566,listing,/17-croesus-street-morley-wa-6062-2018372566,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,17 Croesus Street,MORLEY,WA,6062,-31.8848782,115.923218,4,2,2,House,House,False,399,m2,False

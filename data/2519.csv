@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018353192,listing,/3-33-farrell-street-balgownie-nsw-2519-2018353192,700000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3/33 Farrell Street,BALGOWNIE,NSW,2519,-34.3879433,150.879044,2,1,1,Villa,Villa,False,0,m2,False
+2018215755,listing,/47-cabbage-tree-lane-fairy-meadow-nsw-2519-2018215755,820000,is-sold,Sold by private treaty 27 Feb 2023,20230227,47 Cabbage Tree Lane,FAIRY MEADOW,NSW,2519,-34.3969955,150.8855,2,1,-,House,House,False,588,m2,False

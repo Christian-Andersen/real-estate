@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018062708,listing,/217-367-369-burwood-road-hawthorn-vic-3122-2018062708,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,217/367-369 Burwood Road,HAWTHORN,VIC,3122,-37.82255,145.036255,1,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018317879,listing,/47-urquhart-street-hawthorn-vic-3122-2018317879,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,47 Urquhart Street,HAWTHORN,VIC,3122,-37.82672,145.040421,5,4,2,House,House,False,699,m2,False

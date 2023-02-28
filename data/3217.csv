@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018309897,listing,/43-aviation-drive-mount-duneed-vic-3217-2018309897,660000,is-sold,Sold by private treaty 27 Feb 2023,20230227,43 Aviation Drive,MOUNT DUNEED,VIC,3217,-38.2222939,144.33313,3,2,1,House,House,False,366,m2,False
