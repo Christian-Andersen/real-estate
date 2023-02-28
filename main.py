@@ -15,12 +15,6 @@ def add_column(group, header):
 
 def get_site(url):
     """Grabs the site from url input"""
-    # Configure headless Firefox options
-    options = Options()
-    options.add_argument('-headless')
-
-    # Create a new instance of the Firefox driver with the configured options
-    driver = webdriver.Firefox(options=options)
 
     # Navigate to the URL
     driver.get(url)
@@ -82,6 +76,8 @@ header = [
     'landUnit',
     'isRetirement'
 ]
+
+# Get information from the data folder
 ids = []
 urls = []
 postcodes = []
@@ -99,20 +95,30 @@ for file in os.listdir('data'):
             ids.append(row[0])
             urls.append(row[2])
 
+# Use postcoes to create webpages to scrape
 webpages = ['https://www.domain.com.au/sold-listings/']
 for postcode in postcodes:
     if postcode == 'unkown':
         continue
-    webpages.append('https://www.domain.com.au/sold-listings/?postcode='+postcode)
+    webpages.append(
+        'https://www.domain.com.au/sold-listings/?postcode='+postcode)
 
+# Create a webpage driver
+options = Options()
+options.add_argument('-headless')
+driver = webdriver.Firefox(options=options)
+
+# Scrape them
 for webpage in webpages:
     print('Webpage:', webpage)
     for i in range(1, 50+1):
         print('Page:', i)
         if '?' in webpage:
-            s = get_site(webpage+'&page='+str(i))
+            site = webpage+'&page='+str(i)
         else:
-            s = get_site(webpage+'?page='+str(i))
+            site = webpage+'?page='+str(i)
+        print(site, '\n')
+        s = get_site(site)
         d = html_to_dict(s)
         if not d:
             raise ValueError("Failed to find on url\n"+webpage)
