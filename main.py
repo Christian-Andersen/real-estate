@@ -120,12 +120,15 @@ for webpage in webpages:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
-        print('Page:', i, '\n'+site)
+        print('Page:', i, '\t', 'Sites:', len(ids), '\n'+site)
         driver.get(site)
         html_content = driver.page_source
         property_dictionary = html_to_dict(html_content)
         if not property_dictionary:
-            raise ValueError("Failed to find on url\n"+webpage)
+            with open('failed_sites.txt', 'a') as f:
+                f.write(site+'\n')
+            continue
+        print("FAILED TO FIND DICTIONARY FROM URL\n"+site)
         for value in property_dictionary.values():
             if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
                 print('Dupe found and skipped')
@@ -139,7 +142,6 @@ for webpage in webpages:
                 with open(file, 'w', newline='') as f:
                     w = csv.writer(f)
                     w.writerow(header)
-
             row = []
             row.append(value['id'])
             row.append(value['listingType'])
