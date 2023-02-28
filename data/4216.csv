@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018300801,listing,/49-mungera-street-runaway-bay-qld-4216-2018300801,900000,is-sold,Sold by private treaty 28 Feb 2023,20230228,49 Mungera Street,RUNAWAY BAY,QLD,4216,-27.92533,153.3944,3,1,2,House,House,False,506,m2,False
+2018327169,listing,/2109-5-harbour-side-court-biggera-waters-qld-4216-2018327169,640000,is-sold,Sold by private treaty 27 Feb 2023,20230227,2109/5 Harbour Side Court,BIGGERA WATERS,QLD,4216,-27.9321918,153.394623,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018362324,listing,/39-hansford-road-coombabah-qld-4216-2018362324,685000,is-sold,Sold by private treaty 27 Feb 2023,20230227,39 Hansford Road,COOMBABAH,QLD,4216,-27.8996334,153.384262,3,1,2,House,House,False,600,m2,False

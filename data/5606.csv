@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018228638,listing,/2-11-south-point-drive-port-lincoln-sa-5606-2018228638,860000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2/11 South Point Drive,PORT LINCOLN,SA,5606,-34.7457047,135.877945,4,3,2,House,House,False,358,m2,False
+2018335151,listing,/6-argent-street-port-lincoln-sa-5606-2018335151,197250,is-sold,Sold by private treaty 28 Feb 2023,20230228,6 Argent Street,PORT LINCOLN,SA,5606,-34.7401772,135.849243,3,1,1,House,House,False,666,m2,False
+2018188014,listing,/20-cronin-avenue-port-lincoln-sa-5606-2018188014,195000,is-sold,Sold by private treaty 27 Feb 2023,20230227,20 Cronin Avenue,PORT LINCOLN,SA,5606,-34.7360153,135.850632,3,1,2,House,House,False,668,m2,False
+2018275882,listing,/8-willison-street-port-lincoln-sa-5606-2018275882,344000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 Willison Street,PORT LINCOLN,SA,5606,-34.7170563,135.8466,3,1,2,House,House,False,834,m2,False

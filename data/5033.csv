@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018335022,listing,/7-collins-street-cowandilla-sa-5033-2018335022,806000,is-sold,Sold at auction 27 Feb 2023,20230227,7 Collins Street,COWANDILLA,SA,5033,-34.9298363,138.5588,4,2,3,House,House,False,655,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018158816,listing,/4-john-aarts-court-mudgee-nsw-2850-2018158816,735000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 John Aarts Court,MUDGEE,NSW,2850,-32.58988,149.562866,4,3,2,House,House,False,884,m2,False

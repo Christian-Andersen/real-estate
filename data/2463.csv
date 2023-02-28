@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018242485,listing,/7-grafton-street-maclean-nsw-2463-2018242485,615000,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Grafton Street,MACLEAN,NSW,2463,-29.4589729,153.2031,3,1,1,House,House,False,792,m2,False

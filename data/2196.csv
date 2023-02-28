@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018336144,listing,/45-payten-avenue-roselands-nsw-2196-2018336144,1285000,is-sold,Sold at auction 27 Feb 2023,20230227,45 Payten Avenue,ROSELANDS,NSW,2196,-33.9328041,151.068176,3,1,3,House,House,False,607,m2,False

@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018318273,listing,/8-767-high-street-reservoir-vic-3073-2018318273,445000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8/767 High Street,RESERVOIR,VIC,3073,-37.72918,145.005264,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018329938,listing,/3-15-harbury-street-reservoir-vic-3073-2018329938,585500,is-sold,Sold by private treaty 27 Feb 2023,20230227,3/15 Harbury Street,RESERVOIR,VIC,3073,-37.71414,144.9993,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018380288,listing,/3-73-crookston-road-reservoir-vic-3073-2018380288,720000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3/73 Crookston Road,RESERVOIR,VIC,3073,-37.70999,145.017,2,2,-,Townhouse,Townhouse,False,0,m2,False
+2018324859,listing,/11-767-high-street-reservoir-vic-3073-2018324859,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,11/767 High Street,RESERVOIR,VIC,3073,-37.72918,145.005264,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

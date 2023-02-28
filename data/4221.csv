@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018292014,listing,/2-amboina-avenue-palm-beach-qld-4221-2018292014,959500,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Amboina Avenue,PALM BEACH,QLD,4221,-28.1324348,153.470779,3,2,1,House,House,False,513,m2,False
+2018339488,listing,/94-nineteenth-avenue-palm-beach-qld-4221-2018339488,1200000,is-sold,Sold at auction 28 Feb 2023,20230228,94 Nineteenth Avenue,PALM BEACH,QLD,4221,-28.1140041,153.456879,5,3,2,House,House,False,611,m2,False
+2018333981,listing,/12-illaroo-street-palm-beach-qld-4221-2018333981,1500000,is-sold,Sold at auction 27 Feb 2023,20230227,12 Illaroo Street,PALM BEACH,QLD,4221,-28.1222839,153.467636,4,2,2,House,House,False,0,m2,False

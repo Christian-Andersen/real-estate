@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018248800,listing,/13-gordon-street-capella-qld-4723-2018248800,150000,is-sold,Sold at auction 27 Feb 2023,20230227,13 Gordon Street,CAPELLA,QLD,4723,-23.0894928,148.025925,3,1,2,House,House,False,783,m2,False
+2018248898,listing,/57-burn-street-capella-qld-4723-2018248898,175000,is-sold,Sold at auction 27 Feb 2023,20230227,57 Burn Street,CAPELLA,QLD,4723,-23.08404,148.0269,5,1,1,House,House,False,991,m2,False
+2018249041,listing,/57-burn-street-capella-qld-4723-2018249041,175000,is-sold,Sold at auction 27 Feb 2023,20230227,57 Burn Street,CAPELLA,QLD,4723,-23.08404,148.0269,5,1,1,House,House,False,991,m2,False

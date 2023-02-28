@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018379969,listing,/lot-4-62-country-road-pinjarra-wa-6208-2018379969,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,Lot 4/62 Country Road,PINJARRA,WA,6208,-32.60654,115.857018,-,-,-,VacantLand,Vacant land,False,251,m2,False
+2018349500,listing,/104-south-yunderup-road-south-yunderup-wa-6208-2018349500,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,104 South Yunderup Road,SOUTH YUNDERUP,WA,6208,-32.58541,115.790665,4,2,2,House,House,False,824,m2,False

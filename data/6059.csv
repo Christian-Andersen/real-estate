@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018071889,listing,/4-98-boulton-street-dianella-wa-6059-2018071889,263000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4/98 Boulton Street,DIANELLA,WA,6059,-31.9019413,115.872459,1,1,1,House,House,False,82,m2,False
+2018223783,listing,/5-38-camden-street-dianella-wa-6059-2018223783,400000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5/38 Camden Street,DIANELLA,WA,6059,-31.89163,115.889549,3,1,1,Villa,Villa,False,213,m2,False
+2018381465,listing,/6-98-boulton-street-dianella-wa-6059-2018381465,327500,is-sold,Sold by private treaty 27 Feb 2023,20230227,6/98 Boulton Street,DIANELLA,WA,6059,-31.9019413,115.872459,2,1,1,House,House,False,0,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018197736,listing,/33-bennett-drive-regents-park-qld-4118-2018197736,549500,is-sold,Sold by private treaty 27 Feb 2023,20230227,33 Bennett Drive,REGENTS PARK,QLD,4118,-27.6680355,153.048355,3,1,2,House,House,False,735,m2,False

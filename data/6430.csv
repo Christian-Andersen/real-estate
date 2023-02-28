@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018258728,listing,/81-hanbury-street-kalgoorlie-wa-6430-2018258728,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,81 Hanbury Street,KALGOORLIE,WA,6430,-30.752039,121.475746,-,-,-,VacantLand,Vacant land,False,582,m2,False
+2018380330,listing,/27-broadarrow-road-kalgoorlie-wa-6430-2018380330,89000,is-sold,Sold by private treaty 27 Feb 2023,20230227,27 Broadarrow Road,KALGOORLIE,WA,6430,-30.7374535,121.475288,2,1,1,House,House,False,506,m2,False
+2018338365,listing,/24a-balfour-street-south-kalgoorlie-wa-6430-2018338365,400000,is-sold,Sold by private treaty 27 Feb 2023,20230227,24A Balfour Street,SOUTH KALGOORLIE,WA,6430,-30.75778,121.476616,3,2,1,House,House,False,574,m2,False

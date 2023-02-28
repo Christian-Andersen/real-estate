@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018307292,listing,/83-3-7-taylor-street-lidcombe-nsw-2141-2018307292,860000,is-sold,Sold by private treaty 27 Feb 2023,20230227,83/3-7 Taylor Street,LIDCOMBE,NSW,2141,-33.86483,151.044342,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018381430,listing,/4-macdermott-way-lidcombe-nsw-2141-2018381430,660000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Macdermott Way,LIDCOMBE,NSW,2141,-33.88002,151.044891,1,1,2,Townhouse,Townhouse,False,0,m2,False

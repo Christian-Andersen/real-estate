@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018262893,listing,/28-arch-avenue-churchill-vic-3842-2018262893,570000,is-sold,Sold by private treaty 27 Feb 2023,20230227,28 Arch Avenue,CHURCHILL,VIC,3842,-38.322,146.416,4,2,2,House,House,False,541,m2,False

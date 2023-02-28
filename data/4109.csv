@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018301589,listing,/365-mccullough-street-sunnybank-qld-4109-2018301589,1085000,is-sold,Sold by private treaty 27 Feb 2023,20230227,365 McCullough Street,SUNNYBANK,QLD,4109,-27.57268,153.067657,3,1,2,House,House,False,607,m2,False

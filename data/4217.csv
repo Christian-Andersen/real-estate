@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018113449,listing,/35-charolais-crescent-benowa-waters-qld-4217-2018113449,1790000,is-sold,Sold by private treaty 27 Feb 2023,20230227,35 Charolais Crescent,BENOWA WATERS,QLD,4217,-28.0199184,153.394928,5,3,2,House,House,False,882,m2,False
+2018350412,listing,/502-12-enderley-avenue-surfers-paradise-qld-4217-2018350412,556500,is-sold,Sold by private treaty 27 Feb 2023,20230227,502/12 Enderley Avenue,SURFERS PARADISE,QLD,4217,-28.0091248,153.430679,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

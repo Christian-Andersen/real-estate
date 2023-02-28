@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018275852,listing,/10-mackintosh-road-wheelers-hill-vic-3150-2018275852,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Mackintosh Road,WHEELERS HILL,VIC,3150,-37.8959045,145.177475,5,4,4,House,House,False,1010,m2,False
+2018318682,listing,/5-goodin-grove-glen-waverley-vic-3150-2018318682,2727000,is-sold,Sold at auction 27 Feb 2023,20230227,5 Goodin Grove,GLEN WAVERLEY,VIC,3150,-37.8756828,145.16188,3,1,4,House,House,False,808,m2,False
+2018330171,listing,/5-hawthorn-way-glen-waverley-vic-3150-2018330171,880000,is-sold,Sold at auction 27 Feb 2023,20230227,5 Hawthorn Way,GLEN WAVERLEY,VIC,3150,-37.8970146,145.149353,4,2,2,Townhouse,Townhouse,False,0,m2,False

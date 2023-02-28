@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018309843,listing,/1203-58-mount-cotton-road-capalaba-qld-4157-2018309843,465000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1203/58 Mount Cotton Road,CAPALABA,QLD,4157,-27.5264244,153.190582,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,107,m2,False
+2018382139,listing,/4-marisa-court-capalaba-qld-4157-2018382139,645000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Marisa Court,CAPALABA,QLD,4157,-27.5411472,153.20668,3,1,2,House,House,False,819,m2,False

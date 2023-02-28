@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018320593,listing,/11-gregory-street-ermington-nsw-2115-2018320593,1718880,is-sold,Sold prior to auction 28 Feb 2023,20230228,11 Gregory Street,ERMINGTON,NSW,2115,-33.8192978,151.064941,3,1,2,House,House,False,518,m2,False

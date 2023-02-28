@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018321788,listing,/2-simpson-street-woodville-south-sa-5011-2018321788,880000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Simpson Street,WOODVILLE SOUTH,SA,5011,-34.880394,138.5334,3,2,3,House,House,False,627,m2,False

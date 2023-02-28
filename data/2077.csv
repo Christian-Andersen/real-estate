@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018354079,listing,/506-18-26-romsey-street-waitara-nsw-2077-2018354079,780000,is-sold,Sold by private treaty 28 Feb 2023,20230228,506/18-26 Romsey Street,WAITARA,NSW,2077,-33.70738,151.10376,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018284171,listing,/505-135-pacific-highway-hornsby-nsw-2077-2018284171,517000,is-sold,Sold by private treaty 27 Feb 2023,20230227,505/135 Pacific Highway,HORNSBY,NSW,2077,-33.70624,151.098587,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018342231,listing,/153b-galston-road-hornsby-heights-nsw-2077-2018342231,1200000,is-sold,Sold prior to auction 27 Feb 2023,20230227,153B Galston Road,HORNSBY HEIGHTS,NSW,2077,-33.6743431,151.096954,5,2,4,House,House,False,847,m2,False

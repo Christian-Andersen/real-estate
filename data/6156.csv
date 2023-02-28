@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018189202,listing,/12-isaac-street-melville-wa-6156-2018189202,675000,is-sold,Sold by private treaty 28 Feb 2023,20230228,12 Isaac Street,MELVILLE,WA,6156,-32.03923,115.798706,-,-,-,VacantLand,Vacant land,False,503,m2,False

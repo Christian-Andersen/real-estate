@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2017913931,listing,/lot-1-30-willis-little-drive-benalla-vic-3672-2017913931,295000,is-sold,Sold by private treaty 28 Feb 2023,20230228,Lot 1/30 Willis Little Drive,BENALLA,VIC,3672,-36.5608635,146.005646,-,-,-,VacantLand,Vacant land,False,4001,m2,False

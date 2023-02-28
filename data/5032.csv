@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018299477,listing,/2-marles-court-brooklyn-park-sa-5032-2018299477,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Marles Court,BROOKLYN PARK,SA,5032,-34.93456,138.544022,3,1,1,House,House,False,0,m2,False
+2018121793,listing,/31-lyons-street-brooklyn-park-sa-5032-2018121793,940000,is-sold,Sold by private treaty 27 Feb 2023,20230227,31 Lyons Street,BROOKLYN PARK,SA,5032,-34.9357,138.54689,6,3,4,House,House,False,879,m2,False

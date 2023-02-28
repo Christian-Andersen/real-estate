@@ -1,8 +1,11 @@
 import os
 import csv
+import atexit
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.service import Service
+from webdriver_manager.firefox import GeckoDriverManager
 
 
 def add_column(group, header):
@@ -11,22 +14,6 @@ def add_column(group, header):
         return group[header]
     else:
         return '-'
-
-
-def get_site(url):
-    """Grabs the site from url input"""
-
-    # Navigate to the URL
-    driver.get(url)
-
-    # Retrieve the HTML content of the page
-    html_content = driver.page_source
-
-    # Close the browser
-    driver.quit()
-
-    # Process the HTML content as needed
-    return html_content
 
 
 def html_to_dict(s):
@@ -94,6 +81,7 @@ for file in os.listdir('data'):
                 print('Dupe url found: ', row[2])
             ids.append(row[0])
             urls.append(row[2])
+print('Total Properties:', len(ids))
 
 # Use postcoes to create webpages to scrape
 webpages = ['https://www.domain.com.au/sold-listings/']
@@ -102,27 +90,30 @@ for postcode in postcodes:
         continue
     webpages.append(
         'https://www.domain.com.au/sold-listings/?postcode='+postcode)
+print('Total webpages:', len(webpages))
 
-# Create a webpage driver
+# Create selenium driver
 options = Options()
 options.add_argument('-headless')
-driver = webdriver.Firefox(options=options)
+service = Service('geckodriver.exe')
+driver = webdriver.Firefox(options=options, service=service)
+atexit.register(driver.quit)
 
 # Scrape them
 for webpage in webpages:
     print('Webpage:', webpage)
     for i in range(1, 50+1):
-        print('Page:', i)
         if '?' in webpage:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
-        print(site, '\n')
-        s = get_site(site)
-        d = html_to_dict(s)
-        if not d:
+        print('Page:', i, '\n'+site)
+        driver.get(site)
+        html_content = driver.page_source
+        property_dictionary = html_to_dict(html_content)
+        if not property_dictionary:
             raise ValueError("Failed to find on url\n"+webpage)
-        for value in d.values():
+        for value in property_dictionary.values():
             if 'postcode' in value['listingModel']['address']:
                 postcode = value['listingModel']['address']['postcode']
             else:

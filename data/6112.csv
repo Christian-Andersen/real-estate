@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018251678,listing,/118-salter-road-mount-nasura-wa-6112-2018251678,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,118 Salter Road,MOUNT NASURA,WA,6112,-32.1345024,116.031113,3,1,-,House,House,False,1037,m2,False
+2018287233,listing,/3-lime-court-seville-grove-wa-6112-2018287233,480000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Lime Court,SEVILLE GROVE,WA,6112,-32.14207,115.979576,4,2,1,House,House,False,777,m2,False

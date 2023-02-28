@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018326281,listing,/32-corsair-street-schofields-nsw-2762-2018326281,1376000,is-sold,Sold at auction 27 Feb 2023,20230227,32 Corsair Street,SCHOFIELDS,NSW,2762,-33.7096062,150.874222,5,3,1,House,House,False,306,m2,False

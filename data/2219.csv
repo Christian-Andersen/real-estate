@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018383755,listing,/49-horbury-street-sans-souci-nsw-2219-2018383755,1800000,is-sold,Sold by private treaty 27 Feb 2023,20230227,49 Horbury Street,SANS SOUCI,NSW,2219,-33.9873238,151.139847,4,2,2,House,House,False,397,m2,False

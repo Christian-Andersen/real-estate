@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018384193,listing,/9-hirono-close-leichhardt-qld-4305-2018384193,470000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Hirono Close,LEICHHARDT,QLD,4305,-27.6297932,152.733841,4,2,2,House,House,False,400,m2,False
+2018246657,listing,/1-4-fitzroy-street-churchill-qld-4305-2018246657,355000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/4 Fitzroy Street,CHURCHILL,QLD,4305,-27.64398,152.7512,3,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,121,m2,False
+2018349913,listing,/8-bostock-street-newtown-qld-4305-2018349913,858000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 Bostock Street,NEWTOWN,QLD,4305,-27.6156673,152.781876,4,2,3,House,House,False,708,m2,False
+2018150760,listing,/15-vineyard-street-one-mile-qld-4305-2018150760,540000,is-sold,Sold by private treaty 27 Feb 2023,20230227,15 Vineyard Street,ONE MILE,QLD,4305,-27.6332054,152.737442,3,1,4,House,House,False,2024,m2,False

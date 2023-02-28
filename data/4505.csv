@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018332078,listing,/21-robyn-street-burpengary-qld-4505-2018332078,687000,is-sold,Sold by private treaty 28 Feb 2023,20230228,21 Robyn Street,BURPENGARY,QLD,4505,-27.1522446,152.961533,3,2,4,House,House,False,809,m2,False
+2018228616,listing,/55-noble-street-burpengary-east-qld-4505-2018228616,465000,is-sold,Sold by private treaty 27 Feb 2023,20230227,55 Noble Street,BURPENGARY EAST,QLD,4505,-27.1255455,152.995239,-,-,-,VacantLand,Vacant land,False,544,m2,False
+2018296811,listing,/5-susan-court-burpengary-qld-4505-2018296811,485000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Susan Court,BURPENGARY,QLD,4505,-27.1506748,152.961945,3,1,2,House,House,False,822,m2,False
+2018310358,listing,/73-welsh-street-burpengary-qld-4505-2018310358,655000,is-sold,Sold by private treaty 27 Feb 2023,20230227,73 Welsh Street,BURPENGARY,QLD,4505,-27.13028,152.969986,4,2,2,House,House,False,609,m2,False

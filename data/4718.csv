@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018261824,listing,/17-shirley-st-moura-qld-4718-2018261824,132000,is-sold,Sold by private treaty 27 Feb 2023,20230227,17 Shirley St,MOURA,QLD,4718,-24.571701,149.974182,3,1,1,House,House,False,809,m2,False

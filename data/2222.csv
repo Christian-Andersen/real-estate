@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018314308,listing,/3-64a-66-cambridge-street-penshurst-nsw-2222-2018314308,970000,is-sold,Sold at auction 27 Feb 2023,20230227,3/64A-66 Cambridge Street,PENSHURST,NSW,2222,-33.95666,151.08551,3,2,2,Villa,Villa,False,0,m2,False

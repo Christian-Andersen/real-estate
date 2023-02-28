@@ -1,0 +1,6 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018112284,listing,/45-newport-way-balga-wa-6061-2018112284,274000,is-sold,Sold by private treaty 27 Feb 2023,20230227,45 Newport Way,BALGA,WA,6061,-31.8519478,115.848373,2,1,2,Duplex,Duplex,False,274,m2,False
+2018159486,listing,/164c-balga-avenue-balga-wa-6061-2018159486,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,164C Balga Avenue,BALGA,WA,6061,-31.860096,115.852455,3,2,2,House,House,False,201,m2,False
+2018096342,listing,/21-berrigan-street-nollamara-wa-6061-2018096342,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,21 Berrigan Street,NOLLAMARA,WA,6061,-31.8814411,115.846588,3,2,2,House,House,False,728,m2,False
+2018219937,listing,/352b-eastbourne-crescent-nollamara-wa-6061-2018219937,535000,is-sold,Sold by private treaty 27 Feb 2023,20230227,352B Eastbourne Crescent,NOLLAMARA,WA,6061,-31.8790054,115.8466,3,2,2,Townhouse,Townhouse,False,282,m2,False
+2018341749,listing,/30-apara-way-nollamara-wa-6061-2018341749,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,30 Apara Way,NOLLAMARA,WA,6061,-31.8800812,115.8455,3,1,-,House,House,False,1003,m2,False

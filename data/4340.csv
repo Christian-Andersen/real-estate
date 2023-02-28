@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018106761,listing,/69-matthew-street-rosewood-qld-4340-2018106761,505000,is-sold,Sold by private treaty 27 Feb 2023,20230227,69 Matthew Street,ROSEWOOD,QLD,4340,-27.6363373,152.59404,4,2,4,House,House,False,1391,m2,False

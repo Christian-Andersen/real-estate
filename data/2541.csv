@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018286541,listing,/5-romar-close-bomaderry-nsw-2541-2018286541,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Romar Close,BOMADERRY,NSW,2541,-34.8406944,150.602768,4,2,3,House,House,False,660,m2,False
+2018271528,listing,/31-warrigal-street-nowra-nsw-2541-2018271528,800000,is-sold,Sold by private treaty 27 Feb 2023,20230227,31 Warrigal Street,NOWRA,NSW,2541,-34.8969231,150.620667,4,2,2,House,House,False,796,m2,False
+2018265309,listing,/14-casa-circuit-south-nowra-nsw-2541-2018265309,428000,is-sold,Sold by private treaty 27 Feb 2023,20230227,14 Casa Circuit,SOUTH NOWRA,NSW,2541,-34.9087639,150.6028,-,-,-,VacantLand,Vacant land,False,501,m2,False

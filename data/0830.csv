@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018343404,listing,/3-skeahan-drive-durack-nt-0830-2018343404,498000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Skeahan Drive,DURACK,NT,0830,-12.4799681,130.972458,3,2,2,House,House,False,729,m2,False
+2018310117,listing,/49-bauldry-avenue-farrar-nt-0830-2018310117,585000,is-sold,Sold by private treaty 27 Feb 2023,20230227,49 Bauldry Avenue,FARRAR,NT,0830,-12.4778576,130.999252,4,2,2,House,House,False,778,m2,False

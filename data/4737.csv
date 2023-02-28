@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018312218,listing,/519-middle-creek-road-sarina-qld-4737-2018312218,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,519 Middle Creek Road,SARINA,QLD,4737,-21.47728,149.102676,4,2,4,House,House,True,1.98,ha,False

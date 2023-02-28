@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018301732,listing,/16-pandanus-street-gympie-qld-4570-2018301732,505000,is-sold,Sold by private treaty 27 Feb 2023,20230227,16 Pandanus Street,GYMPIE,QLD,4570,-26.17951,152.679047,3,2,2,House,House,False,596,m2,False
+2018344500,listing,/8-farmer-court-southside-qld-4570-2018344500,556000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 Farmer Court,SOUTHSIDE,QLD,4570,-26.222456,152.665649,4,2,2,House,House,False,879,m2,False

@@ -1,0 +1,4 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018207500,listing,/8-dargin-close-singleton-nsw-2330-2018207500,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,8 Dargin Close,SINGLETON,NSW,2330,-32.537693,151.1643,5,2,2,House,House,False,800,m2,False
+2017884240,listing,/2-58-wattleponds-road-singleton-nsw-2330-2017884240,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,2/58 Wattleponds Road,SINGLETON,NSW,2330,-32.5402222,151.1734,3,2,1,SemiDetached,Semi-Detached,False,0,m2,False
+2018338901,listing,/7-gentle-close-singleton-nsw-2330-2018338901,820000,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Gentle Close,SINGLETON,NSW,2330,-32.5428925,151.171112,4,2,2,House,House,False,842,m2,False

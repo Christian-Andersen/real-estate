@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018322400,listing,/912c-3-broughton-street-parramatta-nsw-2150-2018322400,650000,is-sold,Sold by private treaty 27 Feb 2023,20230227,912C/3 Broughton Street,PARRAMATTA,NSW,2150,-33.81374,151.018784,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
