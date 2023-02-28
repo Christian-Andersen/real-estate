@@ -68,7 +68,7 @@ header = [
 # Get information from the data folder
 ids = []
 urls = []
-postcodes_first = []
+postcodes_first = ['4550', '4551', '4553', '4554', '4556']
 postcodes_second = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
@@ -119,14 +119,24 @@ for webpage in webpages:
         else:
             site = webpage+'?page='+str(i)
         print('Page:', i, '\t', 'Sites:', len(ids), '\t'+site)
-        driver.get(site)
+        failed_get_site = False
+        for _ in range(10):
+            try:
+                driver.get(site)
+                break
+            except Exception as e:
+                with open('failed_sites.txt', 'a') as f:
+                    f.write(site+'\n')
+                print(e)
+        if failed_get_site:
+            continue
         html_content = driver.page_source
         property_dictionary = html_to_dict(html_content)
         if not property_dictionary:
             with open('failed_sites.txt', 'a') as f:
                 f.write(site+'\n')
-            print("FAILED TO FIND DICTIONARY FROM URL")
-            continue
+            print("Assume no properties this page or later ones")
+            break
         for value in property_dictionary.values():
             if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
                 print('Dupe found and skipped')
