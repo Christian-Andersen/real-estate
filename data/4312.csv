@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018385764,listing,/214-16-hassall-street-esk-qld-4312-2018385764,219500,is-sold,Sold by private treaty 27 Feb 2023,20230227,214/16 Hassall Street,ESK,QLD,4312,-27.2404976,152.4236,2,1,1,AcreageSemiRural,Acreage / Semi-Rural,True,0,m2,False

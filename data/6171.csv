@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018243165,listing,/15-auburn-way-baldivis-wa-6171-2018243165,420000,is-sold,Sold by private treaty 27 Feb 2023,20230227,15 Auburn Way,BALDIVIS,WA,6171,-32.3134537,115.82341,3,2,2,House,House,False,390,m2,False
 2018336916,listing,/58-highbury-boulevard-baldivis-wa-6171-2018336916,530000,is-sold,Sold by private treaty 27 Feb 2023,20230227,58 Highbury Boulevard,BALDIVIS,WA,6171,-32.3493,115.820061,4,2,2,House,House,False,412,m2,False
+2018381681,listing,/9-hibiscus-way-baldivis-wa-6171-2018381681,510000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Hibiscus Way,BALDIVIS,WA,6171,-32.3401642,115.82489,4,2,2,House,House,False,576,m2,False

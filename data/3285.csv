@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018327356,listing,/1-windham-street-narrawong-vic-3285-2018327356,140000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1 Windham Street,NARRAWONG,VIC,3285,-38.2523346,141.716324,-,-,-,VacantLand,Vacant land,False,575,m2,False

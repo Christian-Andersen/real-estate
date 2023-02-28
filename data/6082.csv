@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018253715,listing,/665-osborne-street-mount-helena-wa-6082-2018253715,694000,is-sold,Sold by private treaty 28 Feb 2023,20230228,665 Osborne Street,MOUNT HELENA,WA,6082,-31.8715954,116.188148,4,1,2,House,House,True,2.16,ha,False

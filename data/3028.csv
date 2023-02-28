@@ -1,2 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018347058,listing,/335-victoria-street-altona-meadows-vic-3028-2018347058,753000,is-sold,Sold by private treaty 28 Feb 2023,20230228,335 Victoria Street,ALTONA MEADOWS,VIC,3028,-37.88686,144.775909,3,1,4,House,House,False,0,m2,False
+2018144133,listing,/3-6-allen-street-laverton-vic-3028-2018144133,472000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3/6 Allen Street,LAVERTON,VIC,3028,-37.8614,144.767578,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018322406,listing,/16-thompson-court-altona-meadows-vic-3028-2018322406,740000,is-sold,Sold by private treaty 01 Mar 2023,20230301,16 Thompson Court,ALTONA MEADOWS,VIC,3028,-37.8908,144.785019,3,1,2,House,House,False,530,m2,False
+2018341200,listing,/1-7-devenport-court-altona-meadows-vic-3028-2018341200,495000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1/7 Devenport Court,ALTONA MEADOWS,VIC,3028,-37.8764534,144.784637,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011719709,listing,/3325-6-andreas-avenue-dundee-beach-nt-0840-2011719709,190000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3325/6 Andreas Avenue,DUNDEE BEACH,NT,0840,-12.7585459,130.358047,-,-,-,Rural,Rural,True,9990,m2,False

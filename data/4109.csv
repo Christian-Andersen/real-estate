@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018260583,listing,/29-kingman-street-sunnybank-hills-qld-4109-2018260583,735000,is-sold,Sold by private treaty 28 Feb 2023,20230228,29 Kingman Street,SUNNYBANK HILLS,QLD,4109,-27.5917168,153.0514,3,1,2,House,House,False,562,m2,False

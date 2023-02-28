@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018120762,listing,/32-35-goderich-street-east-perth-wa-6004-2018120762,518000,is-sold,Sold by private treaty 28 Feb 2023,20230228,32/35 Goderich Street,EAST PERTH,WA,6004,-31.9583969,115.874146,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018187013,listing,/139-181-adelaide-terrace-east-perth-wa-6004-2018187013,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,139/181 Adelaide Terrace,EAST PERTH,WA,6004,-31.9596272,115.870789,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018230672,listing,/23-138-adelaide-terrace-east-perth-wa-6004-2018230672,170000,is-sold,Sold by private treaty 28 Feb 2023,20230228,23/138 Adelaide Terrace,EAST PERTH,WA,6004,-31.959734,115.872765,-,1,-,Studio,Studio,False,30,m2,False

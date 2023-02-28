@@ -99,15 +99,13 @@ header = [
 ]
 
 # Get information from the data folder
-ids = []
-urls = []
+ids = {}
 postcodes_first = []
 postcodes_second = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
-    os.path.getsize
     if 'unknown' not in file:
-        if os.path.getsize(path) < 10000:
+        if os.path.getsize(path) < 200_000:
             postcodes_first.append(file.split('.')[0])
         else:
             postcodes_second.append(file.split('.')[0])
@@ -116,18 +114,20 @@ for file in os.listdir('data'):
         for row in csv_reader:
             if row[0] == 'id':
                 continue
-            if row[0] in ids:
+            elif row[0] in ids:
                 print('Dupe id found: ', row[0])
-            if row[2] in urls:
-                print('Dupe url found: ', row[2])
-            ids.append(row[0])
-            urls.append(row[2])
+                if ids[row[0]] != row[2]:
+                    print(row[0])
+                    print(ids[row[0]])
+                    print(row[2])
+                    raise KeyError("url mismatch for same id")
+            else:
+                ids[row[0]] = row[2]
 print('Total Properties:', len(ids))
 print('Total Postcodes:', len(postcodes_first)+len(postcodes_second))
 
 # Use postcoes to create webpages to scrape
 webpages = ['https://www.domain.com.au/sold-listings/']
-webpages = []
 for postcode in postcodes_first:
     webpages.append(
         'https://www.domain.com.au/sold-listings/?postcode='+postcode)
@@ -173,15 +173,20 @@ for webpage in webpages:
             property_dictionary = html_to_dict(html_content)
         dupes = 0
         for value in property_dictionary.values():
-            if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
-                print('Dupe found and skipped')
+            if str(value['id']) in ids:
+                if ids[str(value['id'])] != value['listingModel']['url']:
+                    print(str(value['id']))
+                    print(ids[str(value['id'])])
+                    print(value['listingModel']['url'])
+                    raise KeyError("url mismatch for same id")
                 dupes += 1
                 if dupes == 20:
-                    if (i == 50) and (adjust == 1):
-                        break
-                    elif (adjust == -1):
+                    if (adjust == -1):
                         i = 1
-                        break
+                    elif i != 50:
+                        i = 51
+                        adjust = -1
+                    break
                 continue
             if 'postcode' in value['listingModel']['address']:
                 postcode = value['listingModel']['address']['postcode']
@@ -192,14 +197,12 @@ for webpage in webpages:
                 with open(file, 'w', newline='') as f:
                     w = csv.writer(f)
                     w.writerow(header)
-            ids.append(str(value['id']))
-            urls.append(value['listingModel']['url'])
+            ids[str(value['id'])] = value['listingModel']['url']
             row = value_to_row(value)
             with open(file, 'a', newline='') as f:
                 w = csv.writer(f)
                 w.writerow(row)
+        print('Dupes:', dupes)
         if ((i == 50) and (adjust == 1)) or ((i == 1) and (adjust == -1)):
-            with open('up_to_date.txt', 'a') as f:
-                f.write(webpage.split('?postcode=')[1][:4]+'-'+str(i)+'\n')
             break
         i += adjust

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018089132,listing,/18-fitzroy-street-warwick-qld-4370-2018089132,750000,is-sold,Sold by private treaty 28 Feb 2023,20230228,18 Fitzroy Street,WARWICK,QLD,4370,-28.2161255,152.044281,3,2,4,House,House,False,1136,m2,False

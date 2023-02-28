@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018245683,listing,/8-34-threadfin-loop-south-hedland-wa-6722-2018245683,355000,is-sold,Sold by private treaty 28 Feb 2023,20230228,8/34 Threadfin Loop,SOUTH HEDLAND,WA,6722,-20.3948612,118.600876,3,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,78,m2,False

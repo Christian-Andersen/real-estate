@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018320374,listing,/1-25-murray-street-yarrawonga-vic-3730-2018320374,331500,is-sold,Sold by private treaty 01 Mar 2023,20230301,1/25 Murray Street,YARRAWONGA,VIC,3730,-36.02483,146.00856,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,248,m2,False

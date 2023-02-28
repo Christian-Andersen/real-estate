@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2017550344,listing,/69-bowtell-road-halls-gap-vic-3381-2017550344,720000,is-sold,Sold by private treaty 01 Mar 2023,20230301,69 Bowtell Road,HALLS GAP,VIC,3381,-37.14318,142.556442,3,2,2,House,House,True,11.33,ha,False

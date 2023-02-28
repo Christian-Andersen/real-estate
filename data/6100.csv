@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018277189,listing,/6-27-kitchener-avenue-burswood-wa-6100-2018277189,505000,is-sold,Sold by private treaty 28 Feb 2023,20230228,6/27 Kitchener Avenue,BURSWOOD,WA,6100,-31.9670486,115.899605,3,1,3,Townhouse,Townhouse,False,0,m2,False
+2018313129,listing,/61-gresham-street-victoria-park-wa-6100-2018313129,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,61 Gresham Street,VICTORIA PARK,WA,6100,-31.9748859,115.904121,3,2,2,House,House,False,258,m2,False

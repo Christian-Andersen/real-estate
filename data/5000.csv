@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2017645214,listing,/201-185-morphett-street-adelaide-sa-5000-2017645214,416000,is-sold,Sold by private treaty 27 Feb 2023,20230227,201/185 Morphett Street,ADELAIDE,SA,5000,-34.92696,138.593246,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018319627,listing,/9b-188-carrington-street-adelaide-sa-5000-2018319627,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,9B/188 Carrington Street,ADELAIDE,SA,5000,-34.9309425,138.607346,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018320913,listing,/1707-96-north-terrace-adelaide-sa-5000-2018320913,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,1707/96 North Terrace,ADELAIDE,SA,5000,-34.92225,138.594711,3,2,2,House,House,False,0,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017076372,listing,/23-elizabeth-street-ryde-nsw-2112-2017076372,2100000,is-sold,Sold prior to auction 16 Jun 2021,20210616,23 Elizabeth Street,RYDE,NSW,2112,-33.8036346,151.118637,3,1,2,House,House,False,669,m2,False
 2017081344,listing,/3-31-wolger-road-ryde-nsw-2112-2017081344,1600000,is-sold,Sold by private treaty 11 Jun 2021,20210611,3/31 Wolger Road,RYDE,NSW,2112,-33.80625,151.107117,3,2,-,Villa,Villa,False,0,m2,False
 2017090484,listing,/15-providence-road-ryde-nsw-2112-2017090484,2400000,is-sold,Sold by private treaty 21 Jun 2021,20210621,15 Providence Road,RYDE,NSW,2112,-33.8162575,151.1165,4,2,3,House,House,False,656,m2,False
+2018247730,listing,/24-samuel-street-ryde-nsw-2112-2018247730,Price Withheld,is-sold,Sold at auction 01 Mar 2023,20230301,24 Samuel Street,RYDE,NSW,2112,-33.8092422,151.104614,5,3,2,SemiDetached,Semi-Detached,False,421,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018306113,listing,/1-arnold-rd-brighton-east-vic-3187-2018306113,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,1 Arnold Rd,BRIGHTON EAST,VIC,3187,-37.93092,145.02327,2,1,-,House,House,False,715,m2,False

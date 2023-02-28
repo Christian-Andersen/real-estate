@@ -1,0 +1,5 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018107774,listing,/unit-14-6-greenmount-rise-greenmount-wa-6056-2018107774,450000,is-sold,Sold by private treaty 28 Feb 2023,20230228,Unit 14/6 Greenmount Rise,GREENMOUNT,WA,6056,-31.9033985,116.049469,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,True
+2018313011,listing,/lot-7-43-ferguson-street-middle-swan-wa-6056-2018313011,427500,is-sold,Sold by private treaty 28 Feb 2023,20230228,Lot 7/43 Ferguson Street,MIDDLE SWAN,WA,6056,-31.86579,116.022751,4,2,1,House,House,False,792,m2,False
+2018221790,listing,/16-campolino-gardens-stratton-wa-6056-2018221790,431000,is-sold,Sold by private treaty 28 Feb 2023,20230228,16 Campolino Gardens,STRATTON,WA,6056,-31.8666058,116.04792,4,2,2,House,House,False,396,m2,False
+2018319241,listing,/4-35-myles-road-swan-view-wa-6056-2018319241,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/35 Myles Road,SWAN VIEW,WA,6056,-31.88146,116.041183,4,2,2,House,House,False,403,m2,False

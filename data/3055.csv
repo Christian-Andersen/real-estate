@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018286581,listing,/13-39-41-murray-street-brunswick-west-vic-3055-2018286581,235000,is-sold,Sold by private treaty 01 Mar 2023,20230301,13/39-41 Murray Street,BRUNSWICK WEST,VIC,3055,-37.7596,144.941483,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018321251,listing,/1g-12-14-powlett-street-heidelberg-vic-3084-2018321251,575000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1G/12-14 Powlett Street,HEIDELBERG,VIC,3084,-37.7542953,145.059052,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

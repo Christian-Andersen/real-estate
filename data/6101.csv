@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018142939,listing,/104-carnarvon-street-east-victoria-park-wa-6101-2018142939,1055000,is-sold,Sold by private treaty 27 Feb 2023,20230227,104 Carnarvon Street,EAST VICTORIA PARK,WA,6101,-31.9831772,115.909973,3,2,2,House,House,False,549,m2,False
+2018096836,listing,/13-weston-street-carlisle-wa-6101-2018096836,800000,is-sold,Sold by private treaty 28 Feb 2023,20230228,13 Weston Street,CARLISLE,WA,6101,-31.9722023,115.913742,4,2,2,House,House,False,466,m2,False

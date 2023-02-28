@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018196732,listing,/1755-julimar-road-julimar-wa-6567-2018196732,150000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1755 Julimar Road,JULIMAR,WA,6567,-31.5050678,116.30397,-,-,-,VacantLand,Vacant land,True,2.23,ha,False

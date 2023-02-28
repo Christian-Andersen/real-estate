@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018209590,listing,/64a-kirkwood-avenue-seaford-vic-3198-2018209590,765000,is-sold,Sold by private treaty 28 Feb 2023,20230228,64A Kirkwood Avenue,SEAFORD,VIC,3198,-38.12181,145.13028,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,308,m2,False

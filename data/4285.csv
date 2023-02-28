@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018213215,listing,/22-orchid-drive-beaudesert-qld-4285-2018213215,450000,is-sold,Sold by private treaty 27 Feb 2023,20230227,22 Orchid Drive,BEAUDESERT,QLD,4285,-27.9915581,152.990967,3,1,3,House,House,False,690,m2,False
 2018239643,listing,/67-randwick-drive-mundoolun-qld-4285-2018239643,1010000,is-sold,Sold by private treaty 27 Feb 2023,20230227,67 Randwick Drive,MUNDOOLUN,QLD,4285,-27.9059639,153.0664,6,3,4,House,House,True,3.8,ha,False
+2018308151,listing,/9-15-oak-tree-court-cedar-grove-qld-4285-2018308151,660000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9-15 Oak Tree Court,CEDAR GROVE,QLD,4285,-27.8560123,152.981461,3,1,3,House,House,False,5061,m2,False

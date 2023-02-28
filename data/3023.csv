@@ -1,0 +1,3 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018308234,listing,/4-1-5-the-close-caroline-springs-vic-3023-2018308234,580000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/1-5 The Close,CAROLINE SPRINGS,VIC,3023,-37.7469978,144.7352,3,2,2,Townhouse,Townhouse,False,0,m2,False
+2018363066,listing,/35-daly-circuit-caroline-springs-vic-3023-2018363066,645000,is-sold,Sold by private treaty 28 Feb 2023,20230228,35 Daly Circuit,CAROLINE SPRINGS,VIC,3023,-37.73221,144.7287,3,2,1,House,House,False,320,m2,False

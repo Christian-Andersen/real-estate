@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018032584,listing,/82-isabella-way-tarneit-vic-3029-2018032584,543000,is-sold,Sold by private treaty 28 Feb 2023,20230228,82 Isabella Way,TARNEIT,VIC,3029,-37.83876,144.660767,3,2,2,House,House,False,0,m2,False
+2018326666,listing,/42-roberts-avenue-hoppers-crossing-vic-3029-2018326666,530000,is-sold,Sold prior to auction 28 Feb 2023,20230228,42 Roberts Avenue,HOPPERS CROSSING,VIC,3029,-37.8700829,144.698364,3,1,7,House,House,False,671,m2,False
+2018359594,listing,/9-stilo-crescent-truganina-vic-3029-2018359594,680000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Stilo Crescent,TRUGANINA,VIC,3029,-37.74828,144.677185,4,2,2,House,House,False,375,m2,False

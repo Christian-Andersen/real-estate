@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018106061,listing,/36-martin-boulevard-plumpton-nsw-2761-2018106061,750000,is-sold,Sold by private treaty 28 Feb 2023,20230228,36 Martin Boulevard,PLUMPTON,NSW,2761,-33.75868,150.835968,3,1,1,House,House,False,508,m2,False

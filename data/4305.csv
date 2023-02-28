@@ -3,3 +3,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018384193,listing,/9-hirono-close-leichhardt-qld-4305-2018384193,470000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Hirono Close,LEICHHARDT,QLD,4305,-27.6297932,152.733841,4,2,2,House,House,False,400,m2,False
 2018349913,listing,/8-bostock-street-newtown-qld-4305-2018349913,858000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 Bostock Street,NEWTOWN,QLD,4305,-27.6156673,152.781876,4,2,3,House,House,False,708,m2,False
 2018150760,listing,/15-vineyard-street-one-mile-qld-4305-2018150760,540000,is-sold,Sold by private treaty 27 Feb 2023,20230227,15 Vineyard Street,ONE MILE,QLD,4305,-27.6332054,152.737442,3,1,4,House,House,False,2024,m2,False
+2018350725,listing,/11-nike-court-wulkuraka-qld-4305-2018350725,609000,is-sold,Sold by private treaty 28 Feb 2023,20230228,11 Nike Court,WULKURAKA,QLD,4305,-27.6109085,152.735153,5,3,2,Duplex,Duplex,False,509,m2,False

@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018315134,listing,/102-17-freeman-loop-north-fremantle-wa-6159-2018315134,755000,is-sold,Sold by private treaty 28 Feb 2023,20230228,102/17 Freeman Loop,NORTH FREMANTLE,WA,6159,-32.0293045,115.750916,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

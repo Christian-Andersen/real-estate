@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018226531,listing,/8a-bedford-street-nedlands-wa-6009-2018226531,2300000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8A Bedford Street,NEDLANDS,WA,6009,-31.9779987,115.801735,5,3,4,House,House,False,506,m2,False
+2018051504,listing,/26-hobbs-avenue-dalkeith-wa-6009-2018051504,8255000,is-sold,Sold by private treaty 28 Feb 2023,20230228,26 Hobbs Avenue,DALKEITH,WA,6009,-31.9958382,115.809425,6,6,7,House,House,False,0,m2,False

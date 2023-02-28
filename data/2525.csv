@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018340824,listing,/12-cranford-lane-figtree-nsw-2525-2018340824,1320000,is-sold,Sold at auction 28 Feb 2023,20230228,12 Cranford Lane,FIGTREE,NSW,2525,-34.4285545,150.857681,4,2,1,House,House,False,582,m2,False

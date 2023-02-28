@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018285859,listing,/1564-sandgate-road-virginia-qld-4014-2018285859,1010000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1564 Sandgate Road,VIRGINIA,QLD,4014,-27.3884182,153.059235,4,2,3,House,House,False,810,m2,False

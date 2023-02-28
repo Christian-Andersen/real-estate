@@ -3,3 +3,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018234666,listing,/23-strombus-way-heathridge-wa-6027-2018234666,585000,is-sold,Sold by private treaty 27 Feb 2023,20230227,23 Strombus Way,HEATHRIDGE,WA,6027,-31.7652187,115.762352,3,1,7,House,House,False,707,m2,False
 2018130327,listing,/9-sabot-place-ocean-reef-wa-6027-2018130327,850000,is-sold,Sold by private treaty 27 Feb 2023,20230227,9 Sabot Place,OCEAN REEF,WA,6027,-31.767004,115.739258,4,2,2,House,House,False,865,m2,False
 2018194372,listing,/64-bacchante-circle-ocean-reef-wa-6027-2018194372,1000000,is-sold,Sold by private treaty 27 Feb 2023,20230227,64 Bacchante Circle,OCEAN REEF,WA,6027,-31.7438011,115.729362,4,2,2,House,House,False,743,m2,False
+2018203723,listing,/3-fireball-way-ocean-reef-wa-6027-2018203723,1300000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Fireball Way,OCEAN REEF,WA,6027,-31.7663746,115.737869,5,3,2,House,House,False,781,m2,False

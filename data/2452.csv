@@ -1,0 +1,2 @@
+id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018205388,listing,/32-shelton-close-toormina-nsw-2452-2018205388,685000,is-sold,Sold by private treaty 28 Feb 2023,20230228,32 Shelton Close,TOORMINA,NSW,2452,-30.3643055,153.08194,3,1,2,House,House,False,732,m2,False
