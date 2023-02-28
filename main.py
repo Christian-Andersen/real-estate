@@ -68,7 +68,7 @@ header = [
 # Get information from the data folder
 ids = []
 urls = []
-postcodes_first = ['4550', '4551', '4553', '4554', '4556']
+postcodes_first = []
 postcodes_second = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
@@ -118,7 +118,7 @@ for webpage in webpages:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
-        print('Page:', i, '\t', 'Sites:', len(ids), '\t'+site)
+        print('Page:', i, '\t', 'Properties:', len(ids), '\t'+site)
         failed_get_site = False
         for _ in range(10):
             try:
@@ -133,8 +133,6 @@ for webpage in webpages:
         html_content = driver.page_source
         property_dictionary = html_to_dict(html_content)
         if not property_dictionary:
-            with open('failed_sites.txt', 'a') as f:
-                f.write(site+'\n')
             print("Assume no properties this page or later ones")
             break
         for value in property_dictionary.values():
