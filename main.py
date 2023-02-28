@@ -24,8 +24,6 @@ def html_to_dict(s):
     null = None
     search = '"listingsMap":'
     start_index = s.find(search)
-    if start_index == -1:
-        return {}
     start_index += len(search)
     end_index = start_index
     count = 0
@@ -38,6 +36,41 @@ def html_to_dict(s):
             break
         end_index += 1
     return eval(s[start_index:end_index+1])
+
+
+def value_to_row(value):
+    row = []
+    row.append(value['id'])
+    row.append(value['listingType'])
+    row.append(value['listingModel']['url'])
+    row.append(value['listingModel']['price'])
+    if row[-1].startswith('$'):
+        row[-1] = row[-1][1:].replace(',', '')
+    row.append(value['listingModel']['tags']['tagClassName'])
+    row.append(value['listingModel']['tags']['tagText'])
+    date = datetime.strptime(
+        ' '.join(row[-1].split()[-3:]), '%d %b %Y')
+    row.append(int(date.strftime('%Y%m%d')))
+    address = value['listingModel']['address']
+    row.append(add_column(address, 'street'))
+    row.append(add_column(address, 'suburb'))
+    row.append(add_column(address, 'state'))
+    row.append(add_column(address, 'postcode'))
+    row.append(add_column(address, 'lat'))
+    row.append(add_column(address, 'lng'))
+    features = value['listingModel']['features']
+    row.append(add_column(features, 'beds'))
+    row.append(add_column(features, 'baths'))
+    row.append(add_column(features, 'parking'))
+    row.append(add_column(features, 'propertyType'))
+    row.append(add_column(features, 'propertyTypeFormatted'))
+    row.append(add_column(features, 'isRural'))
+    row.append(add_column(features, 'landSize'))
+    row.append(add_column(features, 'landUnit'))
+    if row[-1] == 'm²':
+        row[-1] = 'm2'
+    row.append(add_column(features, 'isRetirement'))
+    return row
 
 
 header = [
@@ -74,7 +107,7 @@ for file in os.listdir('data'):
     path = os.path.join('data', file)
     os.path.getsize
     if 'unknown' not in file:
-        if ((time.time()-os.path.getmtime(path)) > 32*60*60) or (os.path.getsize(path) < 1000):
+        if os.path.getsize(path) < 10000:
             postcodes_first.append(file.split('.')[0])
         else:
             postcodes_second.append(file.split('.')[0])
@@ -113,7 +146,9 @@ atexit.register(driver.quit)
 # Scrape them
 for webpage in webpages:
     print('Webpage:', webpage)
-    for i in range(1, 50+1):
+    i = 1
+    adjust = 1
+    while True:
         if '?' in webpage:
             site = webpage+'&page='+str(i)
         else:
@@ -130,13 +165,23 @@ for webpage in webpages:
         if failed_get_site:
             continue
         html_content = driver.page_source
-        property_dictionary = html_to_dict(html_content)
-        if not property_dictionary:
-            print("Assume no properties this page or later ones")
-            break
+        if 'No exact matches' in html_content:
+            property_dictionary = {}
+            if adjust == 1:
+                i = 50
+        else:
+            property_dictionary = html_to_dict(html_content)
+        dupes = 0
         for value in property_dictionary.values():
             if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
                 print('Dupe found and skipped')
+                dupes += 1
+                if dupes == 20:
+                    if (i == 50) and (adjust == 1):
+                        break
+                    elif (adjust == -1):
+                        i = 1
+                        break
                 continue
             if 'postcode' in value['listingModel']['address']:
                 postcode = value['listingModel']['address']['postcode']
@@ -147,39 +192,14 @@ for webpage in webpages:
                 with open(file, 'w', newline='') as f:
                     w = csv.writer(f)
                     w.writerow(header)
-            row = []
-            row.append(value['id'])
-            row.append(value['listingType'])
-            row.append(value['listingModel']['url'])
-            row.append(value['listingModel']['price'])
-            if row[-1].startswith('$'):
-                row[-1] = row[-1][1:].replace(',', '')
-            row.append(value['listingModel']['tags']['tagClassName'])
-            row.append(value['listingModel']['tags']['tagText'])
-            date = datetime.strptime(
-                ' '.join(row[-1].split()[-3:]), '%d %b %Y')
-            row.append(int(date.strftime('%Y%m%d')))
-            address = value['listingModel']['address']
-            row.append(add_column(address, 'street'))
-            row.append(add_column(address, 'suburb'))
-            row.append(add_column(address, 'state'))
-            row.append(add_column(address, 'postcode'))
-            row.append(add_column(address, 'lat'))
-            row.append(add_column(address, 'lng'))
-            features = value['listingModel']['features']
-            row.append(add_column(features, 'beds'))
-            row.append(add_column(features, 'baths'))
-            row.append(add_column(features, 'parking'))
-            row.append(add_column(features, 'propertyType'))
-            row.append(add_column(features, 'propertyTypeFormatted'))
-            row.append(add_column(features, 'isRural'))
-            row.append(add_column(features, 'landSize'))
-            row.append(add_column(features, 'landUnit'))
-            if row[-1] == 'm²':
-                row[-1] = 'm2'
-            row.append(add_column(features, 'isRetirement'))
             ids.append(str(value['id']))
             urls.append(value['listingModel']['url'])
+            row = value_to_row(value)
             with open(file, 'a', newline='') as f:
                 w = csv.writer(f)
                 w.writerow(row)
+        if ((i == 50) and (adjust == 1)) or ((i == 1) and (adjust == -1)):
+            with open('up_to_date.txt', 'a') as f:
+                f.write(webpage.split('?postcode=')[:4]+'-'+str(i)+'\n')
+            break
+        i += adjust
