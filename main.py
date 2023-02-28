@@ -6,6 +6,7 @@ from selenium.webdriver.firefox.options import Options
 
 
 def add_column(group, header):
+    """Returns '-' if the key 'header' does not excist in dict 'group'"""
     if header in group:
         return group[header]
     else:
@@ -13,6 +14,7 @@ def add_column(group, header):
 
 
 def get_site(url):
+    """Grabs the site from url input"""
     # Configure headless Firefox options
     options = Options()
     options.add_argument('-headless')
@@ -34,6 +36,7 @@ def get_site(url):
 
 
 def html_to_dict(s):
+    """Converts a domain.com.au search to a list of property information"""
     true = True
     false = False
     null = None
@@ -76,18 +79,11 @@ header = [
     'landUnit',
     'isRetirement'
 ]
-file = 'data.csv'
-if not os.path.isfile(file):
-    with open(file, 'w', newline='') as f:
-        w = csv.writer(f)
-        w.writerow(header)
-
-
-for i in range(1, 50+1):
-    print(i)
-    ids = []
-    urls = []
-    with open(file, 'r', newline='') as f:
+ids = []
+urls = []
+for file in os.listdir('data'):
+    path = os.path.join('data', file)
+    with open(path, 'r', newline='') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
             if row[0] == 'id':
@@ -98,12 +94,24 @@ for i in range(1, 50+1):
                 print('Dupe url found: ', row[2])
             ids.append(row[0])
             urls.append(row[2])
-    url = 'https://www.domain.com.au/sold-listings/?state=qld&page='+str(i)
-    s = get_site(url)
+
+for i in range(1, 50+1):
+    print('Page:', i)
+    webpage = 'https://www.domain.com.au/sold-listings/?state=qld&page='+str(i)
+    s = get_site(webpage)
     d = html_to_dict(s)
-    with open(file, 'a', newline='') as f:
-        w = csv.writer(f)
-        for value in d.values():
+    for value in d.values():
+        if 'postcode' in value['listingModel']['address']:
+            postcode = value['listingModel']['address']['postcode']
+        else:
+            postcode = 'unknown'
+        file = os.path.join('data', postcode+'.csv')
+        if not os.path.isfile(file):
+            with open(file, 'w', newline='') as f:
+                w = csv.writer(f)
+                w.writerow(header)
+        with open(file, 'a', newline='') as f:
+            w = csv.writer(f)
             if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
                 print('Dupe found and skipped')
                 continue
@@ -138,4 +146,6 @@ for i in range(1, 50+1):
             if row[-1] == 'm²':
                 row[-1] = 'm2'
             row.append(add_column(features, 'isRetirement'))
+            ids.append(value['id'])
+            urls.append(value['listingModel']['url'])
             w.writerow(row)
