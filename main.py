@@ -110,9 +110,9 @@ for webpage in webpages:
     for i in range(1, 50+1):
         print('Page:', i)
         if '?' in webpage:
-            s = get_site(webpage)+'&page='+str(i)
+            s = get_site(webpage+'&page='+str(i))
         else:
-            s = get_site(webpage)+'?page='+str(i)
+            s = get_site(webpage+'?page='+str(i))
         d = html_to_dict(s)
         if not d:
             raise ValueError("Failed to find on url\n"+webpage)
