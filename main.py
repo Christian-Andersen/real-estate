@@ -41,7 +41,10 @@ def html_to_dict(s):
     false = False
     null = None
     search = '"listingsMap":'
-    start_index = s.find(search)+len(search)
+    start_index = s.find(search)
+    if start_index == -1:
+        return {}
+    start_index += len(search)
     end_index = start_index
     count = 0
     while end_index < len(s):
@@ -100,6 +103,8 @@ for i in range(1, 50+1):
     webpage = 'https://www.domain.com.au/sold-listings/?state=qld&page='+str(i)
     s = get_site(webpage)
     d = html_to_dict(s)
+    if not d:
+        raise ValueError("Failed to find on url\n"+webpage)
     for value in d.values():
         if 'postcode' in value['listingModel']['address']:
             postcode = value['listingModel']['address']['postcode']
