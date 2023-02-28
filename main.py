@@ -68,7 +68,7 @@ header = [
 # Get information from the data folder
 ids = []
 urls = []
-postcodes_first = ['4550', '4551', '4553', '4554', '4556']
+postcodes_first = []
 postcodes_second = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
@@ -118,7 +118,7 @@ for webpage in webpages:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
-        print('Page:', i, '\t', 'Sites:', len(ids), '\n'+site)
+        print('Page:', i, '\t', 'Sites:', len(ids), '\t'+site)
         driver.get(site)
         html_content = driver.page_source
         property_dictionary = html_to_dict(html_content)
