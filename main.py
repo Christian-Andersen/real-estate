@@ -126,7 +126,7 @@ for webpage in webpages:
                 break
             except Exception as e:
                 with open('failed_sites.txt', 'a') as f:
-                    f.write(site+'\n')
+                    f.write('Failed to grab:\t'+site+'\n')
                 print(e)
         if failed_get_site:
             continue
@@ -134,6 +134,9 @@ for webpage in webpages:
         property_dictionary = html_to_dict(html_content)
         if not property_dictionary:
             print("Assume no properties this page or later ones")
+            if 'No exact matches' not in html_content:
+                with open('failed_sites.txt', 'a') as f:
+                    f.write('Out of properties+\n'+site+'\n')
             break
         for value in property_dictionary.values():
             if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
