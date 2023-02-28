@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018326774,listing,/1401-39-coventry-street-southbank-vic-3006-2018326774,673000,is-sold,Sold at auction 28 Feb 2023,20230228,1401/39 Coventry Street,SOUTHBANK,VIC,3006,-37.82939,144.969147,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2017706211,listing,/1203-109-clarendon-street-southbank-vic-3006-2017706211,400000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1203/109 Clarendon Street,SOUTHBANK,VIC,3006,-37.82775,144.95842,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2018381314,listing,/2002-283-city-road-southbank-vic-3006-2018381314,420000,is-sold,Sold by private treaty 27 Feb 2023,20230227,2002/283 City Road,SOUTHBANK,VIC,3006,-37.82731,144.958878,2,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

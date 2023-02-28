@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018131180,listing,/307-74-price-street-subiaco-wa-6008-2018131180,1140000,is-sold,Sold by private treaty 27 Feb 2023,20230227,307/74 Price Street,SUBIACO,WA,6008,-31.9448681,115.818581,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,174,m2,False
-2018291774,listing,/19-3-brigid-road-subiaco-wa-6008-2018291774,520000,is-sold,Sold by private treaty 27 Feb 2023,20230227,19/3 Brigid Road,SUBIACO,WA,6008,-31.9439564,115.825035,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

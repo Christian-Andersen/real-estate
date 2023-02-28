@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018310037,listing,/180-churchill-avenue-braybrook-vic-3019-2018310037,786000,is-sold,Sold at auction 27 Feb 2023,20230227,180 Churchill Avenue,BRAYBROOK,VIC,3019,-37.7861557,144.852768,3,2,2,Townhouse,Townhouse,False,0,m2,False
-2018310833,listing,/3-moama-street-braybrook-vic-3019-2018310833,802000,is-sold,Sold at auction 27 Feb 2023,20230227,3 Moama Street,BRAYBROOK,VIC,3019,-37.7903252,144.848526,3,1,2,House,House,False,651,m2,False

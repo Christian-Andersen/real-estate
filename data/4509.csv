@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018245165,listing,/5-isla-close-mango-hill-qld-4509-2018245165,716000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Isla Close,MANGO HILL,QLD,4509,-27.22731,153.039841,4,2,2,House,House,False,369,m2,False
-2018276764,listing,/5-115-mango-hill-boulevard-mango-hill-qld-4509-2018276764,490000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5/115 Mango Hill Boulevard,MANGO HILL,QLD,4509,-27.2396374,153.032578,3,2,2,Townhouse,Townhouse,False,156,m2,False
-2018284945,listing,/93-park-vista-drive-mango-hill-qld-4509-2018284945,846000,is-sold,Sold by private treaty 27 Feb 2023,20230227,93 Park Vista Drive,MANGO HILL,QLD,4509,-27.2202549,153.034058,4,2,4,House,House,False,698,m2,False
-2018322538,listing,/26-gilbert-street-north-lakes-qld-4509-2018322538,715000,is-sold,Sold by private treaty 27 Feb 2023,20230227,26 Gilbert Street,NORTH LAKES,QLD,4509,-27.2256927,153.018921,4,2,2,House,House,False,586,m2,False

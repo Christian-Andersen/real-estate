@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018229064,listing,/1-115-terrace-street-new-farm-qld-4005-2018229064,1300000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/115 Terrace Street,NEW FARM,QLD,4005,-27.46109,153.042709,3,3,2,Townhouse,Townhouse,False,0,m2,False
-2018176725,listing,/20-145-moray-street-new-farm-qld-4005-2018176725,1100000,is-sold,Sold by private treaty 27 Feb 2023,20230227,20/145 Moray Street,NEW FARM,QLD,4005,-27.4696388,153.04216,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2018319159,listing,/120-annie-street-new-farm-qld-4005-2018319159,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,120 Annie Street,NEW FARM,QLD,4005,-27.4620781,153.044434,4,2,2,House,House,False,274,m2,False

@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018316879,listing,/60-coolgarra-avenue-bongaree-qld-4507-2018316879,670500,is-sold,Sold by private treaty 28 Feb 2023,20230228,60 Coolgarra Avenue,BONGAREE,QLD,4507,-27.0666046,153.1665,4,2,2,House,House,False,665,m2,False
-2018163950,listing,/25-the-peninsula-banksia-beach-qld-4507-2018163950,1250000,is-sold,Sold by private treaty 27 Feb 2023,20230227,25 The Peninsula,BANKSIA BEACH,QLD,4507,-27.055294,153.151962,4,2,2,House,House,False,682,m2,False
-2018199712,listing,/93-avon-ave-banksia-beach-qld-4507-2018199712,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,93 Avon Ave,BANKSIA BEACH,QLD,4507,-27.0373154,153.146835,4,3,3,House,House,False,720,m2,False
-2018381376,listing,/4-bibimulya-street-bellara-qld-4507-2018381376,810000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Bibimulya Street,BELLARA,QLD,4507,-27.0644245,153.146347,4,3,2,House,House,False,589,m2,False

@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017464236,listing,/90-4-dover-court-mosman-park-wa-6012-2017464236,240000,is-sold,Sold by private treaty 28 Feb 2023,20230228,90/4 Dover Court,MOSMAN PARK,WA,6012,-32.0098877,115.757568,1,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,46,m2,False
-2018042385,listing,/16-4-dover-court-mosman-park-wa-6012-2018042385,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,16/4 Dover Court,MOSMAN PARK,WA,6012,-32.0098877,115.757568,1,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,42,m2,False
-2018170514,listing,/mosman-park-wa-6012-2018170514,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,,MOSMAN PARK,WA,6012,-32.0135422,115.763435,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
-2018249285,listing,/1-44-wellington-street-mosman-park-wa-6012-2018249285,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,1/44 Wellington Street,MOSMAN PARK,WA,6012,-32.0154266,115.770973,2,1,1,Villa,Villa,False,0,m2,False

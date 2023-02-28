@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018333620,listing,/3-byrne-street-appin-nsw-2560-2018333620,626000,is-sold,Sold at auction 27 Feb 2023,20230227,3 Byrne Street,APPIN,NSW,2560,-34.20595,150.791351,-,-,-,VacantLand,Vacant land,False,980,m2,False
-2018345863,listing,/10a-541-pembroke-road-leumeah-nsw-2560-2018345863,420000,is-sold,Sold by private treaty 27 Feb 2023,20230227,10a/541 Pembroke Road,LEUMEAH,NSW,2560,-34.0520058,150.832382,2,2,1,House,House,False,0,m2,False

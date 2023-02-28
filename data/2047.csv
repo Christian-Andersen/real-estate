@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018336539,listing,/1-319-victoria-place-drummoyne-nsw-2047-2018336539,Price Withheld,is-sold,Sold at auction 28 Feb 2023,20230228,1/319 Victoria Place,DRUMMOYNE,NSW,2047,-33.8451,151.148346,2,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2018374823,listing,/101-thompson-street-drummoyne-nsw-2047-2018374823,1870000,is-sold,Sold prior to auction 28 Feb 2023,20230228,101 Thompson Street,DRUMMOYNE,NSW,2047,-33.8542938,151.15007,2,1,-,House,House,False,253,m2,False

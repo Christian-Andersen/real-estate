@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018350394,listing,/2884-clarence-way-smiths-creek-nsw-2460-2018350394,290000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2884 Clarence Way,SMITHS CREEK,NSW,2460,-29.5388126,152.716568,-,-,-,Rural,Rural,True,59.49,ha,False
-2018343083,listing,/740-clarence-way-whiteman-creek-nsw-2460-2018343083,350000,is-sold,Sold by private treaty 28 Feb 2023,20230228,740 Clarence Way,WHITEMAN CREEK,NSW,2460,-29.5756168,152.885834,-,-,4,Rural,Rural,True,231,ha,False
-2017980086,listing,/255-prince-street-grafton-nsw-2460-2017980086,375000,is-sold,Sold by private treaty 27 Feb 2023,20230227,255 Prince Street,GRAFTON,NSW,2460,-29.68053,152.941711,3,1,1,House,House,False,510,m2,False
-2018379603,listing,/39-bowtell-avenue-grafton-nsw-2460-2018379603,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,39 Bowtell Avenue,GRAFTON,NSW,2460,-29.6802082,152.936722,4,3,2,House,House,False,0,m2,False

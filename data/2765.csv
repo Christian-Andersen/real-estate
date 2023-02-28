@@ -1,6 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018276556,listing,/6-coe-place-riverstone-nsw-2765-2018276556,850000,is-sold,Sold by private treaty 28 Feb 2023,20230228,6 Coe Place,RIVERSTONE,NSW,2765,-33.6804924,150.870773,3,1,3,House,House,False,451,m2,False
-2018304057,listing,/23-foxall-street-grantham-farm-nsw-2765-2018304057,1085000,is-sold,Sold by private treaty 27 Feb 2023,20230227,23 Foxall Street,GRANTHAM FARM,NSW,2765,-33.66744,150.872742,4,3,1,House,House,False,300,m2,False
-2018247215,listing,/1-kamala-street-marsden-park-nsw-2765-2018247215,1085000,is-sold,Sold by private treaty 27 Feb 2023,20230227,1 Kamala Street,MARSDEN PARK,NSW,2765,-33.7039261,150.799,4,2,2,House,House,False,0,m2,False
-2018325112,listing,/12-gannel-street-marsden-park-nsw-2765-2018325112,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,12 Gannel Street,MARSDEN PARK,NSW,2765,-33.7025337,150.819031,4,2,2,House,House,False,330,m2,False
-2017886680,listing,/lot-507-garreffa-street-riverstone-nsw-2765-2017886680,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,Lot 507 Garreffa Street,RIVERSTONE,NSW,2765,-33.68159,150.880737,4,2,2,NewHouseLand,New House & Land,False,356,m2,False

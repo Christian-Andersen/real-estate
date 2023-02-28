@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018117456,listing,/200-green-valley-road-kangaroo-valley-nsw-2577-2018117456,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,200 Green Valley Road,KANGAROO VALLEY,NSW,2577,-34.7757568,150.576874,5,3,10,House,House,False,0,m2,False
-2018216107,listing,/165a-moss-vale-road-kangaroo-valley-nsw-2577-2018216107,834000,is-sold,Sold by private treaty 27 Feb 2023,20230227,165A Moss Vale Road,KANGAROO VALLEY,NSW,2577,-34.7358932,150.5343,-,-,-,VacantLand,Vacant land,False,671,m2,False
-2018057746,listing,/10-illawarra-highway-moss-vale-nsw-2577-2018057746,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,10 Illawarra Highway,MOSS VALE,NSW,2577,-34.5466957,150.380112,3,1,2,House,House,False,1714,m2,False

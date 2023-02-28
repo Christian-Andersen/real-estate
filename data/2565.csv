@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018333193,listing,/11-lovegrass-avenue-denham-court-nsw-2565-2018333193,1100000,is-sold,Sold at auction 27 Feb 2023,20230227,11 Lovegrass Avenue,DENHAM COURT,NSW,2565,-33.9882278,150.8143,4,2,2,House,House,False,312,m2,False
-2018342826,listing,/3-55-chester-road-ingleburn-nsw-2565-2018342826,557000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3/55 Chester Road,INGLEBURN,NSW,2565,-34.00781,150.866913,2,1,1,House,House,False,0,m2,False
-2018350966,listing,/10-34-kings-road-ingleburn-nsw-2565-2018350966,656000,is-sold,Sold by private treaty 27 Feb 2023,20230227,10/34 Kings Road,INGLEBURN,NSW,2565,-33.997715,150.877182,2,1,1,Townhouse,Townhouse,False,0,m2,False

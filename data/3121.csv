@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017870765,listing,/1-44-lord-street-richmond-vic-3121-2017870765,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,1/44 Lord Street,RICHMOND,VIC,3121,-37.8211861,145.0047,2,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2018188960,listing,/308-6-lord-street-richmond-vic-3121-2018188960,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,308/6 Lord Street,RICHMOND,VIC,3121,-37.81981,145.004822,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,72,m2,False

@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017988498,listing,/8-39-mornington-street-amaroo-act-2914-2017988498,790000,is-sold,Sold by private treaty 28 Feb 2023,20230228,8/39 Mornington Street,AMAROO,ACT,2914,-35.1662865,149.134064,3,2,2,Townhouse,Townhouse,False,0,m2,False
-2018327108,listing,/8-naas-close-amaroo-act-2914-2018327108,760000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 Naas Close,AMAROO,ACT,2914,-35.1728477,149.124771,3,1,2,House,House,False,421,m2,False

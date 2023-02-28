@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018210295,listing,/1-140-meadow-street-kooringal-nsw-2650-2018210295,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/140 Meadow Street,KOORINGAL,NSW,2650,-35.14527,147.370377,3,2,1,House,House,False,400,m2,False
-2018145937,listing,/22-bogong-crescent-tatton-nsw-2650-2018145937,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,22 Bogong Crescent,TATTON,NSW,2650,-35.162117,147.357635,3,2,4,House,House,False,1031,m2,False
-2018292011,listing,/6-jumbuck-drive-gobbagombalin-nsw-2650-2018292011,695000,is-sold,Sold by private treaty 27 Feb 2023,20230227,6 Jumbuck Drive,GOBBAGOMBALIN,NSW,2650,-35.0709038,147.33728,3,2,3,House,House,False,663,m2,False
-2018302149,listing,/15-nicholi-crescent-lake-albert-nsw-2650-2018302149,580000,is-sold,Sold by private treaty 27 Feb 2023,20230227,15 Nicholi Crescent,LAKE ALBERT,NSW,2650,-35.16129,147.386047,3,2,2,House,House,False,818,m2,False

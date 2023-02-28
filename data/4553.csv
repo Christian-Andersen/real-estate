@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018298520,listing,/63-glasswing-avenue-palmview-qld-4553-2018298520,1895000,is-sold,Sold by private treaty 28 Feb 2023,20230228,63 Glasswing Avenue,PALMVIEW,QLD,4553,-26.7451458,153.043884,5,2,4,House,House,False,3010,m2,False
-2018312450,listing,/4-weebill-street-palmview-qld-4553-2018312450,780000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Weebill Street,PALMVIEW,QLD,4553,-26.7327728,153.054245,4,2,2,House,House,False,453,m2,False

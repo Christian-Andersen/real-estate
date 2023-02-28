@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018227696,listing,/78-1a-stockton-street-morisset-nsw-2264-2018227696,305000,is-sold,Sold by private treaty 28 Feb 2023,20230228,78/1A Stockton Street,MORISSET,NSW,2264,-33.09941,151.4771,2,1,1,House,House,False,0,m2,True
-2018381898,listing,/3-egret-close-bonnells-bay-nsw-2264-2018381898,790000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Egret Close,BONNELLS BAY,NSW,2264,-33.1100578,151.5269,4,2,2,House,House,False,561,m2,False

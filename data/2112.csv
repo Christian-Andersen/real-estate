@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018334331,listing,/4-3-5-william-street-ryde-nsw-2112-2018334331,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/3-5 William Street,RYDE,NSW,2112,-33.81514,151.106812,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2018298045,listing,/29-john-miller-street-ryde-nsw-2112-2018298045,3580000,is-sold,Sold at auction 27 Feb 2023,20230227,29 John Miller Street,RYDE,NSW,2112,-33.8085251,151.126373,5,4,2,House,House,False,0,m2,False

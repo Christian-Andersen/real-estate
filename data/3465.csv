@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018320046,listing,/112-loch-street-maryborough-vic-3465-2018320046,350000,is-sold,Sold by private treaty 28 Feb 2023,20230228,112 Loch Street,MARYBOROUGH,VIC,3465,-37.0577126,143.745239,3,1,4,House,House,False,750,m2,False
-2018206267,listing,/110-inkerman-street-maryborough-vic-3465-2018206267,375000,is-sold,Sold by private treaty 27 Feb 2023,20230227,110 Inkerman Street,MARYBOROUGH,VIC,3465,-37.0430069,143.730362,4,1,1,House,House,False,0,m2,False

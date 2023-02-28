@@ -1,9 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018295917,listing,/81-greendale-boulevard-pakenham-vic-3810-2018295917,740000,is-sold,Sold by private treaty 28 Feb 2023,20230228,81 Greendale Boulevard,PAKENHAM,VIC,3810,-38.0906219,145.4802,4,2,2,House,House,False,0,m2,False
-2018220532,listing,/48-pakenham-road-pakenham-vic-3810-2018220532,600000,is-sold,Sold by private treaty 27 Feb 2023,20230227,48 Pakenham Road,PAKENHAM,VIC,3810,-38.0630264,145.471024,3,1,1,House,House,False,711,m2,False
-2018227984,listing,/40-leigh-drive-pakenham-vic-3810-2018227984,660000,is-sold,Sold by private treaty 27 Feb 2023,20230227,40 Leigh Drive,PAKENHAM,VIC,3810,-38.0611153,145.500854,4,2,2,House,House,False,758,m2,False
-2018327188,listing,/31-grevillea-place-pakenham-vic-3810-2018327188,700000,is-sold,Sold by private treaty 27 Feb 2023,20230227,31 Grevillea Place,PAKENHAM,VIC,3810,-38.0818672,145.480988,4,2,3,House,House,False,665,m2,False
-2018328208,listing,/5-mikkell-court-pakenham-vic-3810-2018328208,680000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Mikkell Court,PAKENHAM,VIC,3810,-38.0686531,145.486786,4,2,2,House,House,False,656,m2,False
-2018330260,listing,/13-serenity-street-pakenham-vic-3810-2018330260,616000,is-sold,Sold by private treaty 27 Feb 2023,20230227,13 Serenity Street,PAKENHAM,VIC,3810,-38.08012,145.451721,3,2,2,House,House,False,0,m2,False
-2018333436,listing,/5-delft-place-pakenham-vic-3810-2018333436,780000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Delft Place,PAKENHAM,VIC,3810,-38.08594,145.46373,5,2,2,House,House,False,649,m2,False
-2018346187,listing,/56-grandvue-boulevard-pakenham-vic-3810-2018346187,705000,is-sold,Sold by private treaty 27 Feb 2023,20230227,56 Grandvue Boulevard,PAKENHAM,VIC,3810,-38.0582924,145.438614,4,2,2,House,House,False,446,m2,False

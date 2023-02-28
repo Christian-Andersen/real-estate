@@ -1,7 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018347786,listing,/129-steerforth-drive-coodanup-wa-6210-2018347786,345000,is-sold,Sold by private treaty 27 Feb 2023,20230227,129 Steerforth Drive,COODANUP,WA,6210,-32.5431633,115.748856,3,1,1,House,House,False,701,m2,False
-2018286734,listing,/17-turnstone-crescent-erskine-wa-6210-2018286734,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,17 Turnstone Crescent,ERSKINE,WA,6210,-32.5539551,115.708168,3,2,2,House,House,False,495,m2,False
-2018275561,listing,/21-senecio-way-halls-head-wa-6210-2018275561,580000,is-sold,Sold by private treaty 27 Feb 2023,20230227,21 Senecio Way,HALLS HEAD,WA,6210,-32.56143,115.679359,4,2,2,House,House,False,644,m2,False
-2018347035,listing,/11-98-mandurah-terrace-mandurah-wa-6210-2018347035,144400,is-sold,Sold by private treaty 27 Feb 2023,20230227,11/98 Mandurah Terrace,MANDURAH,WA,6210,-32.5249443,115.723076,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
-2018349571,listing,/7-chilena-place-madora-bay-wa-6210-2018349571,420000,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Chilena Place,MADORA BAY,WA,6210,-32.4647942,115.753288,3,1,1,House,House,False,800,m2,False
-2018350994,listing,/7-crawford-street-mandurah-wa-6210-2018350994,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Crawford Street,MANDURAH,WA,6210,-32.525898,115.742493,3,1,2,House,House,False,809,m2,False

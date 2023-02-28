@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018329467,listing,/5-sampson-court-chuwar-qld-4306-2018329467,599000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Sampson Court,CHUWAR,QLD,4306,-27.566,152.798645,4,2,2,House,House,False,900,m2,False
-2018341935,listing,/35-atkinson-drive-karana-downs-qld-4306-2018341935,820000,is-sold,Sold by private treaty 27 Feb 2023,20230227,35 Atkinson Drive,KARANA DOWNS,QLD,4306,-27.5556545,152.81041,4,1,3,House,House,False,0,m2,False
-2018353410,listing,/52-joy-chambers-circuit-ripley-qld-4306-2018353410,680000,is-sold,Sold by private treaty 27 Feb 2023,20230227,52 Joy Chambers Circuit,RIPLEY,QLD,4306,-27.6776352,152.79837,4,2,2,House,House,False,375,m2,False

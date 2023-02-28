@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018342271,listing,/1-57-59-cedar-crescent-east-ballina-nsw-2478-2018342271,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/57-59 Cedar Crescent,EAST BALLINA,NSW,2478,-28.87177,153.587692,3,1,1,Townhouse,Townhouse,False,0,m2,False
-2018236475,listing,/77-1-riverbend-drive-west-ballina-nsw-2478-2018236475,610000,is-sold,Sold by private treaty 28 Feb 2023,20230228,77/1 Riverbend Drive,WEST BALLINA,NSW,2478,-28.8623276,153.528336,2,2,2,House,House,False,0,m2,True
-2018232010,listing,/7-1-lee-street-east-ballina-nsw-2478-2018232010,660000,is-sold,Sold by private treaty 27 Feb 2023,20230227,7/1 Lee Street,EAST BALLINA,NSW,2478,-28.85679,153.585709,2,1,1,Townhouse,Townhouse,False,0,m2,False

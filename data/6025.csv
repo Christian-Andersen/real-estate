@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018251895,listing,/4-cordova-court-craigie-wa-6025-2018251895,565000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Cordova Court,CRAIGIE,WA,6025,-31.7883949,115.768372,3,1,2,House,House,False,499,m2,False
-2017990095,listing,/59-ellison-drive-padbury-wa-6025-2017990095,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,59 Ellison Drive,PADBURY,WA,6025,-31.8157616,115.7653,-,-,-,VacantLand,Vacant land,False,241,m2,False

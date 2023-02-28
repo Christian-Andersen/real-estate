@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018214990,listing,/160-canambe-street-armidale-nsw-2350-2018214990,400000,is-sold,Sold by private treaty 28 Feb 2023,20230228,160 Canambe Street,ARMIDALE,NSW,2350,-30.5206585,151.678848,4,1,1,House,House,False,595,m2,False
-2018335063,listing,/364-long-swamp-road-armidale-nsw-2350-2018335063,Price Withheld,is-sold,Sold prior to auction 27 Feb 2023,20230227,364 Long Swamp Road,ARMIDALE,NSW,2350,-30.5573788,151.698883,-,-,-,Rural,Rural,True,40.09,ha,False

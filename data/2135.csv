@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018318031,listing,/214-albert-road-strathfield-nsw-2135-2018318031,4000000,is-sold,Sold at auction 27 Feb 2023,20230227,214 Albert Road,STRATHFIELD,NSW,2135,-33.8760262,151.078278,5,3,1,House,House,False,1088,m2,False
-2018355665,listing,/13-20-fitzgerald-crescent-strathfield-nsw-2135-2018355665,900000,is-sold,Sold by private treaty 27 Feb 2023,20230227,13/20 Fitzgerald Crescent,STRATHFIELD,NSW,2135,-33.88799,151.07547,3,3,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,178,m2,False

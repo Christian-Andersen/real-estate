@@ -1,7 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018280297,listing,/65-davenport-circuit-mindarie-wa-6030-2018280297,870000,is-sold,Sold by private treaty 28 Feb 2023,20230228,65 Davenport Circuit,MINDARIE,WA,6030,-31.6765385,115.702759,4,2,2,House,House,False,649,m2,False
-2018218391,listing,/8-san-remo-bend-clarkson-wa-6030-2018218391,670000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 San Remo Bend,CLARKSON,WA,6030,-31.6898842,115.723267,4,2,2,House,House,False,560,m2,False
-2018319734,listing,/98-liberty-drive-clarkson-wa-6030-2018319734,570000,is-sold,Sold by private treaty 27 Feb 2023,20230227,98 Liberty Drive,CLARKSON,WA,6030,-31.6812248,115.734055,4,2,2,House,House,False,510,m2,False
-2018274967,listing,/5-belize-way-mindarie-wa-6030-2018274967,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Belize Way,MINDARIE,WA,6030,-31.6782036,115.701973,4,2,2,House,House,False,850,m2,False
-2018289469,listing,/16-dunmore-circuit-merriwa-wa-6030-2018289469,430000,is-sold,Sold by private treaty 27 Feb 2023,20230227,16 Dunmore Circuit,MERRIWA,WA,6030,-31.6671162,115.709091,3,2,1,House,House,False,604,m2,False
-2018311811,listing,/33-mutiny-terrace-quinns-rocks-wa-6030-2018311811,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,33 Mutiny Terrace,QUINNS ROCKS,WA,6030,-31.6547318,115.69857,4,2,2,House,House,False,527,m2,False

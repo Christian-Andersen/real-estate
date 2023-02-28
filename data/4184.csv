@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017748825,listing,/7-toolona-avenue-russell-island-qld-4184-2017748825,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Toolona Avenue,RUSSELL ISLAND,QLD,4184,-27.6796989,153.381531,-,-,-,VacantLand,Vacant land,False,546,m2,False
-2017878403,listing,/3-jiwali-street-russell-island-qld-4184-2017878403,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Jiwali Street,RUSSELL ISLAND,QLD,4184,-27.6528816,153.3833,-,-,-,VacantLand,Vacant land,False,516,m2,False
-2018054430,listing,/1-taylor-street-russell-island-qld-4184-2018054430,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,1 Taylor Street,RUSSELL ISLAND,QLD,4184,-27.6537285,153.374939,-,-,-,VacantLand,Vacant land,False,506,m2,False
-2018273480,listing,/1-karri-st-russell-island-qld-4184-2018273480,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,1 Karri St,RUSSELL ISLAND,QLD,4184,-27.6948338,153.36937,3,1,-,House,House,False,536,m2,False

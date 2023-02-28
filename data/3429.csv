@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018344758,listing,/11-merlot-grove-sunbury-vic-3429-2018344758,1050000,is-sold,Sold by private treaty 28 Feb 2023,20230228,11 Merlot Grove,SUNBURY,VIC,3429,-37.5675735,144.747269,4,2,2,House,House,False,1232,m2,False
-2018240081,listing,/5-strathearn-dr-sunbury-vic-3429-2018240081,710000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5 Strathearn Dr,SUNBURY,VIC,3429,-37.5655479,144.716431,3,2,2,House,House,False,658,m2,False

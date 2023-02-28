@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018126384,listing,/189-brougham-street-woolloomooloo-nsw-2011-2018126384,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,189 Brougham Street,WOOLLOOMOOLOO,NSW,2011,-33.8743362,151.221451,7,4,-,House,House,False,0,m2,False
-2018314558,listing,/108-81-macleay-street-potts-point-nsw-2011-2018314558,2200000,is-sold,Sold by private treaty 27 Feb 2023,20230227,108/81 Macleay Street,POTTS POINT,NSW,2011,-33.8702621,151.224976,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018318137,listing,/11-elwin-street-peakhurst-nsw-2210-2018318137,1020000,is-sold,Sold at auction 27 Feb 2023,20230227,11 Elwin Street,PEAKHURST,NSW,2210,-33.9575462,151.043747,4,2,1,House,House,False,560,m2,False
-2018318704,listing,/2-ulster-street-peakhurst-nsw-2210-2018318704,1406000,is-sold,Sold at auction 27 Feb 2023,20230227,2 Ulster Street,PEAKHURST,NSW,2210,-33.9682655,151.048523,3,2,1,House,House,False,638,m2,False
-2018044953,listing,/320-5-vermont-crescent-riverwood-nsw-2210-2018044953,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,320/5 Vermont Crescent,RIVERWOOD,NSW,2210,-33.944416,151.05159,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
