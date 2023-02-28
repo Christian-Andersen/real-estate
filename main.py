@@ -171,38 +171,38 @@ for webpage in webpages:
                 i = 50
         else:
             property_dictionary = html_to_dict(html_content)
-        dupes = 0
-        for value in property_dictionary.values():
-            if str(value['id']) in ids:
-                if ids[str(value['id'])] != value['listingModel']['url']:
-                    print(str(value['id']))
-                    print(ids[str(value['id'])])
-                    print(value['listingModel']['url'])
-                    raise KeyError("url mismatch for same id")
-                dupes += 1
-                if dupes == 20:
-                    if (adjust == -1):
-                        i = 1
-                    elif i != 50:
-                        i = 51
-                        adjust = -1
-                    break
-                continue
-            if 'postcode' in value['listingModel']['address']:
-                postcode = value['listingModel']['address']['postcode']
-            else:
-                postcode = 'unknown'
-            file = os.path.join('data', postcode+'.csv')
-            if not os.path.isfile(file):
-                with open(file, 'w', newline='') as f:
+            dupes = 0
+            for value in property_dictionary.values():
+                if str(value['id']) in ids:
+                    if ids[str(value['id'])] != value['listingModel']['url']:
+                        print(str(value['id']))
+                        print(ids[str(value['id'])])
+                        print(value['listingModel']['url'])
+                        raise KeyError("url mismatch for same id")
+                    dupes += 1
+                    if dupes == 20:
+                        if (adjust == -1):
+                            i = 1
+                        elif i != 50:
+                            i = 51
+                            adjust = -1
+                        break
+                    continue
+                if 'postcode' in value['listingModel']['address']:
+                    postcode = value['listingModel']['address']['postcode']
+                else:
+                    postcode = 'unknown'
+                file = os.path.join('data', postcode+'.csv')
+                if not os.path.isfile(file):
+                    with open(file, 'w', newline='') as f:
+                        w = csv.writer(f)
+                        w.writerow(header)
+                ids[str(value['id'])] = value['listingModel']['url']
+                row = value_to_row(value)
+                with open(file, 'a', newline='') as f:
                     w = csv.writer(f)
-                    w.writerow(header)
-            ids[str(value['id'])] = value['listingModel']['url']
-            row = value_to_row(value)
-            with open(file, 'a', newline='') as f:
-                w = csv.writer(f)
-                w.writerow(row)
-        print('Dupes:', dupes)
+                    w.writerow(row)
+            print('Dupes:', dupes)
         if ((i == 50) and (adjust == 1)) or ((i == 1) and (adjust == -1)):
             break
         i += adjust
