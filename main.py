@@ -200,6 +200,6 @@ for webpage in webpages:
                 w.writerow(row)
         if ((i == 50) and (adjust == 1)) or ((i == 1) and (adjust == -1)):
             with open('up_to_date.txt', 'a') as f:
-                f.write(webpage.split('?postcode=')[:4]+'-'+str(i)+'\n')
+                f.write(webpage.split('?postcode=')[1][:4]+'-'+str(i)+'\n')
             break
         i += adjust
