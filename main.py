@@ -68,7 +68,7 @@ header = [
 # Get information from the data folder
 ids = []
 urls = []
-postcodes_first = []
+postcodes_first = ['4550', '4551', '4553', '4554', '4556']
 postcodes_second = []
 for file in os.listdir('data'):
     path = os.path.join('data', file)
@@ -92,7 +92,6 @@ for file in os.listdir('data'):
 print('Total Properties:', len(ids))
 print('Total Postcodes:', len(postcodes_first)+len(postcodes_second))
 
-
 # Use postcoes to create webpages to scrape
 webpages = ['https://www.domain.com.au/sold-listings/']
 webpages = []
@@ -102,7 +101,6 @@ for postcode in postcodes_first:
 for postcode in postcodes_second:
     webpages.append(
         'https://www.domain.com.au/sold-listings/?postcode='+postcode)
-webpages = list(set(webpages))
 print('Total Webpages:', len(webpages))
 
 # Create selenium driver
@@ -127,8 +125,8 @@ for webpage in webpages:
         if not property_dictionary:
             with open('failed_sites.txt', 'a') as f:
                 f.write(site+'\n')
+            print("FAILED TO FIND DICTIONARY FROM URL")
             continue
-        print("FAILED TO FIND DICTIONARY FROM URL\n"+site)
         for value in property_dictionary.values():
             if (str(value['id']) in ids) and (value['listingModel']['url'] in urls):
                 print('Dupe found and skipped')
