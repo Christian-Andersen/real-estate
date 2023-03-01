@@ -1,0 +1,12 @@
+import os
+import pandas as pd
+
+dfs = []
+for filename in os.listdir('data'):
+    path = os.path.join('data', filename)
+    if os.path.isfile(path):
+        with open(path, 'r') as f:
+            dfs.append(pd.read_csv(f))
+
+df = pd.concat(dfs, ignore_index=True)
+print(df.head())
