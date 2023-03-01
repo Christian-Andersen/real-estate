@@ -42,7 +42,7 @@ driver = webdriver.Firefox(options=options, service=service)
 atexit.register(driver.quit)
 
 # Scrape them
-for i in range(1300, 10_000):
+for i in range(0, 10_000):
     postcode = f'{i:0>4}'
     site = 'https://www.domain.com.au/sold-listings/?postcode='+postcode
     failed_get_site = True
@@ -58,7 +58,7 @@ for i in range(1300, 10_000):
     else:
         html_content = driver.page_source
         if 'No exact matches' in html_content:
-            print(postcode+' - no properties found'+40*' ', end='\r')
+            print(postcode+' - no properties found'+40*' ')
         else:
             file = os.path.join('data', str(postcode)+'.csv')
             if os.path.isfile(file):
