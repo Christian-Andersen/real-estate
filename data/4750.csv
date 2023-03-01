@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018218794,listing,/1-124-waverley-street-bucasia-qld-4750-2018218794,390000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/124 Waverley Street,BUCASIA,QLD,4750,-21.0292454,149.15889,3,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018275895,listing,/47-spinnaker-way-bucasia-qld-4750-2018275895,550000,is-sold,Sold by private treaty 01 Mar 2023,20230301,47 Spinnaker Way,BUCASIA,QLD,4750,-21.0217915,149.1508,4,2,2,House,House,False,711,m2,False
+2018303631,listing,/1-st-bees-avenue-bucasia-qld-4750-2018303631,405000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1 St Bees Avenue,BUCASIA,QLD,4750,-21.0300236,149.158386,4,2,2,House,House,False,1045,m2,False

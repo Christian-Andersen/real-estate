@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018282302,listing,/40-waitara-road-banksia-park-sa-5091-2018282302,691000,is-sold,Sold by private treaty 28 Feb 2023,20230228,40 Waitara Road,BANKSIA PARK,SA,5091,-34.80714,138.73085,3,2,2,House,House,False,770,m2,False
+2018066506,listing,/300-2a-carmel-avenue-vista-sa-5091-2018066506,317500,is-sold,Sold by private treaty 01 Mar 2023,20230301,300/2a Carmel Avenue,VISTA,SA,5091,-34.8346138,138.7212,-,-,-,VacantLand,Vacant land,False,490,m2,False

@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018277495,listing,/15-hunter-avenue-california-gully-vic-3556-2018277495,462000,is-sold,Sold by private treaty 28 Feb 2023,20230228,15 Hunter Avenue,CALIFORNIA GULLY,VIC,3556,-36.72476,144.267227,3,1,3,House,House,False,612,m2,False
+2018336673,listing,/111-upper-california-gully-road-california-gully-vic-3556-2018336673,430000,is-sold,Sold by private treaty 01 Mar 2023,20230301,111 Upper California Gully Road,CALIFORNIA GULLY,VIC,3556,-36.7359,144.253738,4,1,2,House,House,False,572,m2,False

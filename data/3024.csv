@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018240797,listing,/1-16-mermaid-crescent-wyndham-vale-vic-3024-2018240797,465000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/16 Mermaid Crescent,WYNDHAM VALE,VIC,3024,-37.8808327,144.6275,3,1,2,House,House,False,0,m2,False
 2018289296,listing,/18-finsbury-crescent-manor-lakes-vic-3024-2018289296,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,18 Finsbury Crescent,MANOR LAKES,VIC,3024,-37.8681221,144.59816,4,2,4,House,House,False,0,m2,False
+2018154722,listing,/5-akoona-way-wyndham-vale-vic-3024-2018154722,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Akoona Way,WYNDHAM VALE,VIC,3024,-37.88546,144.6087,4,2,2,House,House,False,421,m2,False
+2018346625,listing,/9-calico-court-wyndham-vale-vic-3024-2018346625,700000,is-sold,Sold by private treaty 01 Mar 2023,20230301,9 Calico Court,WYNDHAM VALE,VIC,3024,-37.8667679,144.6165,4,2,2,House,House,False,474,m2,False

@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018150793,listing,/17-barnsbury-grove-dulwich-hill-nsw-2203-2018150793,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,17 Barnsbury Grove,DULWICH HILL,NSW,2203,-33.90537,151.145615,3,1,1,House,House,False,0,m2,False
+2018366211,listing,/4-27-cobar-street-dulwich-hill-nsw-2203-2018366211,760000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/27 Cobar Street,DULWICH HILL,NSW,2203,-33.9037476,151.133011,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

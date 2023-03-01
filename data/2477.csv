@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018280158,listing,/14-parkland-drive-alstonville-nsw-2477-2018280158,945000,is-sold,Sold by private treaty 27 Feb 2023,20230227,14 Parkland Drive,ALSTONVILLE,NSW,2477,-28.8438988,153.446915,3,2,1,House,House,False,930,m2,False
+2018198088,listing,/20-elliott-avenue-alstonville-nsw-2477-2018198088,850000,is-sold,Sold by private treaty 01 Mar 2023,20230301,20 Elliott Avenue,ALSTONVILLE,NSW,2477,-28.83713,153.442932,6,2,2,House,House,False,790,m2,False

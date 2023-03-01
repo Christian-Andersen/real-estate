@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018323440,listing,/3-13-hedgeley-avenue-malvern-east-vic-3145-2018323440,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,3/13 Hedgeley Avenue,MALVERN EAST,VIC,3145,-37.86823,145.058,3,2,2,House,House,False,0,m2,False
+2018204949,listing,/2037-malvern-road-malvern-east-vic-3145-2018204949,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,2037 Malvern Road,MALVERN EAST,VIC,3145,-37.8742676,145.064987,3,1,2,House,House,False,596,m2,False
+2018324139,listing,/25-finch-street-malvern-east-vic-3145-2018324139,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,25 Finch Street,MALVERN EAST,VIC,3145,-37.8725243,145.042664,5,3,2,House,House,False,1268,m2,False

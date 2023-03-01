@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018321931,listing,/4-hughes-crescent-dandenong-north-vic-3175-2018321931,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,4 Hughes Crescent,DANDENONG NORTH,VIC,3175,-37.9683151,145.206009,3,1,2,House,House,False,759,m2,False
 2018325939,listing,/3-wondalga-avenue-dandenong-north-vic-3175-2018325939,Price Withheld,is-sold,Sold at auction 28 Feb 2023,20230228,3 Wondalga Avenue,DANDENONG NORTH,VIC,3175,-37.95999,145.2182,3,1,5,House,House,False,534,m2,False
+2018090225,listing,/10-efron-street-dandenong-north-vic-3175-2018090225,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Efron Street,DANDENONG NORTH,VIC,3175,-37.96209,145.208115,3,1,2,House,House,False,0,m2,False

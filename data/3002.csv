@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018128956,listing,/801v-162-albert-street-east-melbourne-vic-3002-2018128956,590000,is-sold,Sold by private treaty 28 Feb 2023,20230228,801V/162 Albert Street,EAST MELBOURNE,VIC,3002,-37.8100433,144.985535,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

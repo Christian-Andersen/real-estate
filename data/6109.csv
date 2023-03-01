@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2017764986,listing,/22-haffner-crt-maddington-wa-6109-2017764986,700000,is-sold,Sold by private treaty 27 Feb 2023,20230227,22 Haffner Crt,MADDINGTON,WA,6109,-32.0467262,115.993477,6,3,2,House,House,False,1000,m2,False
+2018343686,listing,/30-virginia-avenue-maddington-wa-6109-2018343686,340000,is-sold,Sold by private treaty 01 Mar 2023,20230301,30 Virginia Avenue,MADDINGTON,WA,6109,-32.061573,115.999664,3,1,1,House,House,False,770,m2,False
+2017843632,listing,/147-westfield-street-maddington-wa-6109-2017843632,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,147 Westfield Street,MADDINGTON,WA,6109,-32.0543861,116.000954,3,1,1,House,House,False,687,m2,False

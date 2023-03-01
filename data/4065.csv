@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018241012,listing,/21-osman-street-bardon-qld-4065-2018241012,1000000,is-sold,Sold by private treaty 28 Feb 2023,20230228,21 Osman Street,BARDON,QLD,4065,-27.4678326,152.988831,-,-,-,VacantLand,Vacant land,False,405,m2,False

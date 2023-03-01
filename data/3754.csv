@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018326583,listing,/2-etherington-drive-mernda-vic-3754-2018326583,560000,is-sold,Sold by private treaty 28 Feb 2023,20230228,2 Etherington Drive,MERNDA,VIC,3754,-37.59837,145.080246,3,2,2,Townhouse,Townhouse,False,145,m2,False
+2018238563,listing,/8-sligo-street-doreen-vic-3754-2018238563,706000,is-sold,Sold by private treaty 01 Mar 2023,20230301,8 Sligo Street,DOREEN,VIC,3754,-37.6109352,145.112045,4,2,2,House,House,False,448,m2,False
+2018383815,listing,/22-lockhart-street-mernda-vic-3754-2018383815,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,22 Lockhart Street,MERNDA,VIC,3754,-37.5853539,145.085312,4,2,2,House,House,False,0,m2,False

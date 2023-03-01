@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018330674,listing,/14-bailey-place-yarralumla-act-2600-2018330674,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,14 Bailey Place,YARRALUMLA,ACT,2600,-35.3011055,149.096848,4,3,2,House,House,False,668,m2,False
+2018303053,listing,/68-macgregor-street-deakin-act-2600-2018303053,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,68 Macgregor Street,DEAKIN,ACT,2600,-35.3165359,149.10643,-,-,-,VacantLand,Vacant land,False,718,m2,False
+2018303054,listing,/70-macgregor-street-deakin-act-2600-2018303054,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,70 Macgregor Street,DEAKIN,ACT,2600,-35.3164368,149.106537,-,-,-,VacantLand,Vacant land,False,547,m2,False

@@ -4,3 +4,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018246396,listing,/4-rondora-court-newnham-tas-7248-2018246396,475000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4 Rondora Court,NEWNHAM,TAS,7248,-41.3806877,147.12764,3,1,1,House,House,False,671,m2,False
 2018383273,listing,/82-holbrook-street-invermay-tas-7248-2018383273,320000,is-sold,Sold by private treaty 27 Feb 2023,20230227,82 Holbrook Street,INVERMAY,TAS,7248,-41.4233932,147.133667,3,1,2,House,House,False,0,m2,False
 2018358523,listing,/213-alanvale-road-newnham-tas-7248-2018358523,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,213 Alanvale Road,NEWNHAM,TAS,7248,-41.3834457,147.1107,4,2,2,House,House,False,712,m2,False
+2018291582,listing,/1-luck-street-mowbray-tas-7248-2018291582,480000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1 Luck Street,MOWBRAY,TAS,7248,-41.4070435,147.131882,4,1,1,House,House,False,696,m2,False

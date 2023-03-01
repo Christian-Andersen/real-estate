@@ -194,12 +194,12 @@ for webpage in webpages:
                     postcode = 'unknown'
                 file = os.path.join('data', postcode+'.csv')
                 if not os.path.isfile(file):
-                    with open(file, 'w', newline='') as f:
+                    with open(file, 'w', newline='', encoding="utf-8") as f:
                         w = csv.writer(f)
                         w.writerow(header)
                 ids[str(value['id'])] = value['listingModel']['url']
                 row = value_to_row(value)
-                with open(file, 'a', newline='') as f:
+                with open(file, 'a', newline='', encoding="utf-8") as f:
                     w = csv.writer(f)
                     w.writerow(row)
             print('Dupes:', dupes)

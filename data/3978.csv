@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018314117,listing,/27-ramlegh-boulevard-clyde-north-vic-3978-2018314117,777500,is-sold,Sold by private treaty 27 Feb 2023,20230227,27 Ramlegh Boulevard,CLYDE NORTH,VIC,3978,-38.1162033,145.340668,4,2,2,House,House,False,464,m2,False
 2018286375,listing,/23-nunkeri-court-clyde-north-vic-3978-2018286375,628000,is-sold,Sold by private treaty 28 Feb 2023,20230228,23 Nunkeri Court,CLYDE NORTH,VIC,3978,-38.10336,145.329346,3,2,2,House,House,False,350,m2,False
+2018287187,listing,/18-coolana-drive-clyde-north-vic-3978-2018287187,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,18 Coolana Drive,CLYDE NORTH,VIC,3978,-38.0794868,145.356125,6,3,2,House,House,False,475,m2,False

@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018041833,listing,/2-54-ralston-st-west-end-qld-4810-2018041833,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,2/54 Ralston St,WEST END,QLD,4810,-19.26203,146.786285,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018146534,listing,/id-21102545-2a-cleveland-terrace-north-ward-qld-4810-2018146534,Price Withheld,is-sold,Sold 28 Feb 2023,20230228,ID:21102545/2a Cleveland Terrace,NORTH WARD,QLD,4810,-19.2548923,146.8189,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018310323,listing,/63-86-124-ogden-street-townsville-city-qld-4810-2018310323,460000,is-sold,Sold by private treaty 01 Mar 2023,20230301,63/86-124 Ogden Street,TOWNSVILLE CITY,QLD,4810,-19.2607517,146.8173,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

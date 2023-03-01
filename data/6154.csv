@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018270717,listing,/102-4-colleran-way-booragoon-wa-6154-2018270717,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,102/4 Colleran Way,BOORAGOON,WA,6154,-32.0369225,115.836533,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018206888,listing,/alfred-cove-wa-6154-2018206888,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,,ALFRED COVE,WA,6154,-32.03354,115.815704,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018206962,listing,/alfred-cove-wa-6154-2018206962,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,,ALFRED COVE,WA,6154,-32.03354,115.815704,4,3,2,NewHouseLand,New House & Land,False,0,m2,False

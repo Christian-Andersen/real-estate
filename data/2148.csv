@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018210521,listing,/67-31-third-avenue-blacktown-nsw-2148-2018210521,390000,is-sold,Sold by private treaty 01 Mar 2023,20230301,67/31 Third Avenue,BLACKTOWN,NSW,2148,-33.7648125,150.9092,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

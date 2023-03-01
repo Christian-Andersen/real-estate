@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018229600,listing,/255-phoenix-mine-road-orange-nsw-2800-2018229600,1470000,is-sold,Sold by private treaty 27 Feb 2023,20230227,255 Phoenix Mine Road,ORANGE,NSW,2800,-33.3582039,149.143066,4,2,5,House,House,True,2,ha,False
 2018343454,listing,/18-endeavour-avenue-orange-nsw-2800-2018343454,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,18 Endeavour Avenue,ORANGE,NSW,2800,-33.29584,149.090027,4,2,1,House,House,False,639,m2,False
+2018056846,listing,/43-jonathon-road-orange-nsw-2800-2018056846,780000,is-sold,Sold by private treaty 01 Mar 2023,20230301,43 Jonathon Road,ORANGE,NSW,2800,-33.27055,149.064651,4,2,3,House,House,False,1047,m2,False
+2018194376,listing,/287-beaumah-road-orange-nsw-2800-2018194376,1750000,is-sold,Sold by private treaty 01 Mar 2023,20230301,287 Beaumah Road,ORANGE,NSW,2800,-33.3687057,149.165573,4,2,-,Farm,Farm,True,47,ha,False

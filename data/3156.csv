@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018339357,listing,/84-bryden-drive-ferntree-gully-vic-3156-2018339357,915000,is-sold,Sold by private treaty 27 Feb 2023,20230227,84 Bryden Drive,FERNTREE GULLY,VIC,3156,-37.898243,145.264572,3,2,7,House,House,False,627,m2,False
+2018206275,listing,/13-vaughan-road-ferntree-gully-vic-3156-2018206275,1220000,is-sold,Sold by private treaty 01 Mar 2023,20230301,13 Vaughan Road,FERNTREE GULLY,VIC,3156,-37.8696747,145.293121,4,2,4,House,House,False,4352,m2,False

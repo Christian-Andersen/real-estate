@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2017317738,listing,/23-tallarook-st-seymour-vic-3660-2017317738,240000,is-sold,Sold by private treaty 01 Mar 2023,20230301,23 Tallarook St,SEYMOUR,VIC,3660,-37.0238571,145.132584,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

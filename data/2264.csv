@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016094898,listing,/70-newport-road-dora-creek-nsw-2264-2016094898,470000,is-sold,Sold by private treaty 10 Mar 2020,20200310,70 Newport Road,DORA CREEK,NSW,2264,-33.0786743,151.492,2,1,1,House,House,False,0,m2,False
 2016095407,listing,/13-wilson-place-bonnells-bay-nsw-2264-2016095407,490000,is-sold,Sold by private treaty 11 Mar 2020,20200311,13 Wilson Place,BONNELLS BAY,NSW,2264,-33.10793,151.532,3,1,1,House,House,False,558,m2,False
 2016667933,listing,/25a-maipoona-road-mirrabooka-nsw-2264-2016667933,710000,is-sold,Sold prior to auction 28 Feb 2020,20200228,25A Maipoona Road,MIRRABOOKA,NSW,2264,-33.1134758,151.553772,3,2,5,House,House,False,2295,m2,False
+2018309420,listing,/317-4-gimberts-road-morisset-nsw-2264-2018309420,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,317/4 Gimberts Road,MORISSET,NSW,2264,-33.1030579,151.47403,2,1,1,House,House,False,0,m2,True

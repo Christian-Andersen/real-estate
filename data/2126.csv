@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018341694,listing,/14-ivy-place-cherrybrook-nsw-2126-2018341694,2780000,is-sold,Sold by private treaty 28 Feb 2023,20230228,14 Ivy Place,CHERRYBROOK,NSW,2126,-33.7244072,151.04538,6,3,2,House,House,False,695,m2,False
+2018351434,listing,/7-acer-court-cherrybrook-nsw-2126-2018351434,2025000,is-sold,Sold by private treaty 28 Feb 2023,20230228,7 Acer Court,CHERRYBROOK,NSW,2126,-33.71972,151.047836,3,2,2,House,House,False,790,m2,False

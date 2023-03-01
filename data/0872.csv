@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011200804,listing,/1998-woodforde-road-ti-tree-nt-0872-2011200804,60000,is-sold,Sold by private treaty 29 May 2015,20150529,1998 Woodforde Road,TI TREE,NT,0872,-22.1301556,133.416016,-,-,-,VacantLand,Vacant land,True,8.09,ha,False
+2017623794,listing,/5850-tanami-road-lake-mackay-nt-0872-2017623794,Price Withheld,is-sold,Sold by private treaty 30 Aug 2022,20220830,5850 Tanami Road,LAKE MACKAY,NT,0872,-22.405489,131.111755,-,-,-,Livestock,Livestock,True,200000,ha,False

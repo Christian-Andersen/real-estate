@@ -1,1 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018247659,listing,/10-melric-court-geham-qld-4352-2018247659,665000,is-sold,Sold by private treaty 01 Mar 2023,20230301,10 Melric Court,GEHAM,QLD,4352,-27.4158363,152.0013,5,2,7,House,House,False,6064,m2,False
+2018286884,listing,/9-mcaulay-avenue-highfields-qld-4352-2018286884,600000,is-sold,Sold by private treaty 01 Mar 2023,20230301,9 McAulay Avenue,HIGHFIELDS,QLD,4352,-27.4516029,151.966125,4,2,2,House,House,False,623,m2,False
+2018299147,listing,/18-parkway-drive-highfields-qld-4352-2018299147,1425000,is-sold,Sold by private treaty 01 Mar 2023,20230301,18 Parkway Drive,HIGHFIELDS,QLD,4352,-27.4549274,151.929016,5,2,4,House,House,False,2617,m2,False
+2018297383,listing,/7-klein-road-meringandan-qld-4352-2018297383,581000,is-sold,Sold by private treaty 01 Mar 2023,20230301,7 Klein Road,MERINGANDAN,QLD,4352,-27.4263878,151.9214,3,1,2,House,House,False,2568,m2,False
+2018297922,listing,/1-2-13-mia-street-wyreema-qld-4352-2018297922,455000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1 & 2/13 Mia Street,WYREEMA,QLD,4352,-27.6543541,151.871048,4,3,2,BlockOfUnits,Block of Units,False,1210,m2,False

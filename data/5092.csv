@@ -1,1 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018386758,listing,/18d-carty-avenue-modbury-sa-5092-2018386758,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,18D Carty Avenue,MODBURY,SA,5092,-34.8284874,138.699448,3,2,2,House,House,False,666,m2,False
+2018202932,listing,/11-churchill-drive-modbury-north-sa-5092-2018202932,527000,is-sold,Sold by private treaty 28 Feb 2023,20230228,11 Churchill Drive,MODBURY NORTH,SA,5092,-34.8261642,138.669632,3,1,1,House,House,False,0,m2,False
+2018386341,listing,/18a-carty-avenue-modbury-sa-5092-2018386341,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,18A Carty Avenue,MODBURY,SA,5092,-34.8284874,138.699448,3,2,2,House,House,False,666,m2,False

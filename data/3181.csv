@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018326688,listing,/403-270-high-street-prahran-vic-3181-2018326688,Price Withheld,is-sold,Sold at auction 28 Feb 2023,20230228,403/270 High Street,PRAHRAN,VIC,3181,-37.8525,144.996887,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018241220,listing,/412-42-porter-street-prahran-vic-3181-2018241220,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,412/42 Porter Street,PRAHRAN,VIC,3181,-37.8485,144.990311,1,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

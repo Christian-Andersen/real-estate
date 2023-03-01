@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018246359,listing,/60-churchill-street-maryborough-qld-4650-2018246359,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,60 Churchill Street,MARYBOROUGH,QLD,4650,-25.5279274,152.7027,4,2,2,House,House,False,890,m2,False
+2018306950,listing,/44-amity-st-maryborough-qld-4650-2018306950,327500,is-sold,Sold by private treaty 01 Mar 2023,20230301,44 Amity St,MARYBOROUGH,QLD,4650,-25.5245628,152.692734,2,1,1,House,House,False,1012,m2,False
+2018389165,listing,/339-lennox-street-maryborough-qld-4650-2018389165,220000,is-sold,Sold by private treaty 01 Mar 2023,20230301,339 Lennox Street,MARYBOROUGH,QLD,4650,-25.5270481,152.71106,2,1,-,House,House,False,1105,m2,False

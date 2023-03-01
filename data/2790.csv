@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018087370,listing,/14-sandford-avenue-lithgow-nsw-2790-2018087370,505000,is-sold,Sold by private treaty 01 Mar 2023,20230301,14 Sandford Avenue,LITHGOW,NSW,2790,-33.47919,150.153336,3,1,3,House,House,False,525,m2,False
+2018335404,listing,/55-bent-street-lithgow-nsw-2790-2018335404,515000,is-sold,Sold by private treaty 01 Mar 2023,20230301,55 Bent Street,LITHGOW,NSW,2790,-33.48477,150.156891,3,1,1,House,House,False,0,m2,False

@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018252076,listing,/30-second-avenue-burns-beach-wa-6028-2018252076,1680000,is-sold,Sold by private treaty 27 Feb 2023,20230227,30 Second Avenue,BURNS BEACH,WA,6028,-31.728075,115.721413,5,3,3,House,House,False,732,m2,False
 2018355602,listing,/141-grand-ocean-entrance-burns-beach-wa-6028-2018355602,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,141 Grand Ocean Entrance,BURNS BEACH,WA,6028,-31.7230663,115.729271,4,2,2,House,House,False,697,m2,False
+2018328195,listing,/63-caledonia-avenue-currambine-wa-6028-2018328195,645000,is-sold,Sold by private treaty 01 Mar 2023,20230301,63 Caledonia Avenue,CURRAMBINE,WA,6028,-31.7268353,115.741043,4,2,2,House,House,False,631,m2,False
+2018341861,listing,/17-doncaster-square-currambine-wa-6028-2018341861,630000,is-sold,Sold by private treaty 01 Mar 2023,20230301,17 Doncaster Square,CURRAMBINE,WA,6028,-31.7269325,115.747421,4,2,2,House,House,False,427,m2,False

@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018229066,listing,/28-legge-street-falmouth-tas-7215-2018229066,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,28 Legge Street,FALMOUTH,TAS,7215,-41.50566,148.271652,3,1,-,House,House,False,942,m2,False
+2018267595,listing,/38-cameron-street-st-marys-tas-7215-2018267595,120000,is-sold,Sold by private treaty 01 Mar 2023,20230301,38 Cameron Street,ST MARYS,TAS,7215,-41.5810471,148.183289,-,-,-,VacantLand,Vacant land,False,680,m2,False

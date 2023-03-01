@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018195506,listing,/lot-2-25-range-road-bannockburn-vic-3331-2018195506,715000,is-sold,Sold by private treaty 01 Mar 2023,20230301,"Lot 2, 25 Range Road",BANNOCKBURN,VIC,3331,-38.0478745,144.18483,-,-,-,VacantLand,Vacant land,False,5579,m2,False

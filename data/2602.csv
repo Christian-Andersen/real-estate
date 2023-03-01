@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018342886,listing,/4-gardiner-street-downer-act-2602-2018342886,Price Withheld,is-sold,Sold at auction 01 Mar 2023,20230301,4 Gardiner Street,DOWNER,ACT,2602,-35.24651,149.149826,3,1,1,House,House,False,735,m2,False
+2018330892,listing,/130-mackenzie-street-hackett-act-2602-2018330892,1281100,is-sold,Sold by private treaty 01 Mar 2023,20230301,130 MacKenzie Street,HACKETT,ACT,2602,-35.2534981,149.162521,3,1,2,House,House,False,0,m2,False

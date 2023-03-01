@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018285569,listing,/27-oak-avenue-lake-tabourie-nsw-2539-2018285569,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,27 Oak Avenue,LAKE TABOURIE,NSW,2539,-35.44126,150.4004,3,2,2,House,House,False,563,m2,False
 2017967078,listing,/14-turner-street-mollymook-nsw-2539-2017967078,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,14 Turner Street,MOLLYMOOK,NSW,2539,-35.3398552,150.4681,3,3,1,House,House,False,809,m2,False
+2018039487,listing,/13-islander-avenue-bawley-point-nsw-2539-2018039487,1725000,is-sold,Sold by private treaty 01 Mar 2023,20230301,13 Islander Avenue,BAWLEY POINT,NSW,2539,-35.51797,150.3982,5,1,2,House,House,False,721,m2,False
+2018307779,listing,/124-warden-street-ulladulla-nsw-2539-2018307779,750000,is-sold,Sold by private treaty 01 Mar 2023,20230301,124 Warden Street,ULLADULLA,NSW,2539,-35.35415,150.462112,4,2,1,House,House,False,697,m2,False

@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018291032,listing,/71-vantage-road-chatsworth-qld-4570-2018291032,950000,is-sold,Sold by private treaty 28 Feb 2023,20230228,71 Vantage Road,CHATSWORTH,QLD,4570,-26.1541424,152.622635,4,2,6,House,House,False,20500,m2,False
 2018301732,listing,/16-pandanus-street-gympie-qld-4570-2018301732,505000,is-sold,Sold by private treaty 27 Feb 2023,20230227,16 Pandanus Street,GYMPIE,QLD,4570,-26.17951,152.679047,3,2,2,House,House,False,596,m2,False
+2017844986,listing,/glenwood-qld-4570-2017844986,150000,is-sold,Sold by private treaty 28 Feb 2023,20230228,,GLENWOOD,QLD,4570,-25.9471245,152.643188,-,-,-,VacantLand,Vacant land,False,12300,m2,False
+2018158900,listing,/39-cartwright-road-gympie-qld-4570-2018158900,525000,is-sold,Sold by private treaty 28 Feb 2023,20230228,39 Cartwright Road,GYMPIE,QLD,4570,-26.1746674,152.66272,3,1,6,House,House,False,1821,m2,False

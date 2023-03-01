@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018192544,listing,/4-heron-place-grays-point-nsw-2232-2018192544,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,4 Heron Place,GRAYS POINT,NSW,2232,-34.05771,151.086823,4,2,2,House,House,False,689,m2,False
+2018343655,listing,/43-loftus-avenue-loftus-nsw-2232-2018343655,1825777,is-sold,Sold prior to auction 28 Feb 2023,20230228,43 Loftus Avenue,LOFTUS,NSW,2232,-34.04036,151.050644,5,2,3,House,House,False,708,m2,False

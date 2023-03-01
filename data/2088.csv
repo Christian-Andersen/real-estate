@@ -994,3 +994,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016896554,listing,/5-bardwell-road-mosman-nsw-2088-2016896554,3450000,is-sold,Sold prior to auction 30 Mar 2021,20210330,5 Bardwell Road,MOSMAN,NSW,2088,-33.8279266,151.235168,3,1,2,House,House,False,0,m2,False
 2016897435,listing,/21-congewoi-road-mosman-nsw-2088-2016897435,Price Withheld,is-sold,Sold by private treaty 27 Mar 2021,20210327,21 Congewoi Road,MOSMAN,NSW,2088,-33.81963,151.235336,4,3,1,House,House,False,0,m2,False
 2016924352,listing,/11-keston-avenue-mosman-nsw-2088-2016924352,4500000,is-sold,Sold by private treaty 26 Mar 2021,20210326,11 Keston Avenue,MOSMAN,NSW,2088,-33.83039,151.241089,4,1,1,House,House,False,0,m2,False
+2018290504,listing,/33-mandolong-road-mosman-nsw-2088-2018290504,11800000,is-sold,Sold by private treaty 01 Mar 2023,20230301,33 Mandolong Road,MOSMAN,NSW,2088,-33.82455,151.247833,5,4,2,House,House,False,701,m2,False
+2018358618,listing,/95-97-spit-road-mosman-nsw-2088-2018358618,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,95-97 Spit Road,MOSMAN,NSW,2088,-33.8200531,151.244019,6,2,-,House,House,False,505,m2,False

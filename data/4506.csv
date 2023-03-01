@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2017664807,listing,/30-lindsay-road-morayfield-qld-4506-2017664807,1650000,is-sold,Sold by private treaty 28 Feb 2023,20230228,30 Lindsay Road,MORAYFIELD,QLD,4506,-27.1248112,152.956711,4,2,4,House,House,False,13200,m2,False
+2018312049,listing,/10-treedale-street-morayfield-qld-4506-2018312049,640000,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Treedale Street,MORAYFIELD,QLD,4506,-27.1151733,152.9579,3,1,3,House,House,False,1012,m2,False

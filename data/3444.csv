@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018240716,listing,/5-amber-rise-kyneton-vic-3444-2018240716,400000,is-sold,Sold by private treaty 28 Feb 2023,20230228,5 Amber Rise,KYNETON,VIC,3444,-37.260067,144.45842,-,-,-,VacantLand,Vacant land,False,614,m2,False
 2018326733,listing,/56-dettmanns-lane-kyneton-vic-3444-2018326733,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,56 Dettmanns Lane,KYNETON,VIC,3444,-37.229805,144.4729,4,2,2,House,House,True,2.02,ha,False
+2018268690,listing,/13-mill-street-kyneton-vic-3444-2018268690,785000,is-sold,Sold by private treaty 28 Feb 2023,20230228,13 Mill Street,KYNETON,VIC,3444,-37.248394,144.44249,-,-,-,VacantLand,Vacant land,False,1062,m2,False

@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018062600,listing,/309-macquarie-street-south-windsor-nsw-2756-2018062600,770000,is-sold,Sold by private treaty 28 Feb 2023,20230228,309 Macquarie Street,SOUTH WINDSOR,NSW,2756,-33.62259,150.803085,3,1,4,House,House,False,822,m2,False
+2018278669,listing,/29a-havelock-street-mcgraths-hill-nsw-2756-2018278669,1490000,is-sold,Sold by private treaty 01 Mar 2023,20230301,29a Havelock Street,MCGRATHS HILL,NSW,2756,-33.6147575,150.844177,4,3,16,House,House,False,1177,m2,False
+2018074167,listing,/3-themeda-place-cattai-nsw-2756-2018074167,2100000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Themeda Place,CATTAI,NSW,2756,-33.5498276,150.9072,4,2,3,Rural,Rural,True,5962,m2,False

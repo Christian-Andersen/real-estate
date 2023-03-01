@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018350415,listing,/10-newark-place-officer-vic-3809-2018350415,918000,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Newark Place,OFFICER,VIC,3809,-38.05684,145.397034,4,2,2,House,House,False,0,m2,False
 2018298266,listing,/19-winnows-street-officer-vic-3809-2018298266,750000,is-sold,Sold by private treaty 27 Feb 2023,20230227,19 Winnows Street,OFFICER,VIC,3809,-38.05798,145.39566,4,2,2,House,House,False,0,m2,False
+2018311712,listing,/32-old-trafford-way-officer-vic-3809-2018311712,570000,is-sold,Sold by private treaty 01 Mar 2023,20230301,32 Old Trafford Way,OFFICER,VIC,3809,-38.06611,145.424118,3,2,2,House,House,False,184,m2,False

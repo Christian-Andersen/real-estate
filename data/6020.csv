@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018235244,listing,/11-14-lennard-street-marmion-wa-6020-2018235244,800000,is-sold,Sold by private treaty 28 Feb 2023,20230228,11/14 Lennard Street,MARMION,WA,6020,-31.8453751,115.753517,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018317826,listing,/4-kirkby-street-north-beach-wa-6020-2018317826,1600000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4 Kirkby Street,NORTH BEACH,WA,6020,-31.8675385,115.755585,3,2,4,House,House,False,506,m2,False
+2018144813,listing,/12a-cricklewood-way-carine-wa-6020-2018144813,720000,is-sold,Sold by private treaty 01 Mar 2023,20230301,12a Cricklewood Way,CARINE,WA,6020,-31.858778,115.7843,3,1,1,House,House,False,0,m2,False
+2018197881,listing,/26a-hale-street-north-beach-wa-6020-2018197881,910000,is-sold,Sold by private treaty 01 Mar 2023,20230301,26A Hale Street,NORTH BEACH,WA,6020,-31.8539848,115.755394,2,1,1,House,House,False,0,m2,False

@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2017491056,listing,/lot-205-swagmans-lane-hidden-valley-stage-2-preston-qld-4800-2017491056,285000,is-sold,Sold by private treaty 28 Feb 2023,20230228,Lot 205 Swagmans Lane (Hidden Valley - Stage 2),PRESTON,QLD,4800,-20.39801,148.661453,-,-,-,VacantLand,Vacant land,False,6580,m2,False
+2018217597,listing,/15-allan-road-conway-qld-4800-2018217597,620000,is-sold,Sold by private treaty 01 Mar 2023,20230301,15 Allan Road,CONWAY,QLD,4800,-20.4648647,148.736633,4,1,2,House,House,True,1.96,ha,False
+2018334422,listing,/42-holloway-drive-sugarloaf-qld-4800-2018334422,1390000,is-sold,Sold at auction 01 Mar 2023,20230301,42 Holloway Drive,SUGARLOAF,QLD,4800,-20.3060265,148.63562,3,2,6,House,House,True,2,ha,False
