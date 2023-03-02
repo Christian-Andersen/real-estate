@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018282040,listing,/9-lode-street-edmonton-qld-4869-2018282040,490000,is-sold,Sold by private treaty 27 Feb 2023,20230227,9 Lode Street,EDMONTON,QLD,4869,-17.0333271,145.747787,4,2,2,House,House,False,600,m2,False
 2018322148,listing,/21-tryal-street-bentley-park-qld-4869-2018322148,495000,is-sold,Sold by private treaty 01 Mar 2023,20230301,21 Tryal Street,BENTLEY PARK,QLD,4869,-17.0069218,145.739044,4,2,2,House,House,False,755,m2,False
+2018276081,listing,/5-powlett-close-bentley-park-qld-4869-2018276081,520000,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Powlett Close,BENTLEY PARK,QLD,4869,-17.0129852,145.7227,4,2,2,House,House,False,706,m2,False

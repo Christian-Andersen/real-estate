@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018202968,listing,/28-mccallum-drive-eastwood-vic-3875-2018202968,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,28 McCallum Drive,EASTWOOD,VIC,3875,-37.8143349,147.643066,3,2,2,House,House,False,809,m2,False
 2018074615,listing,/14-colony-club-drive-newlands-arm-vic-3875-2018074615,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,14 Colony Club Drive,NEWLANDS ARM,VIC,3875,-37.92153,147.697357,4,2,3,House,House,False,1259,m2,False
+2018265054,listing,/6-harnham-drive-bairnsdale-vic-3875-2018265054,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,6 Harnham Drive,BAIRNSDALE,VIC,3875,-37.8376465,147.5928,4,2,2,House,House,False,993,m2,False

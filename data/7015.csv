@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018331635,listing,/3-koluri-court-lindisfarne-tas-7015-2018331635,2500000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Koluri Court,LINDISFARNE,TAS,7015,-42.85084,147.346985,3,3,2,House,House,False,1585,m2,False
+2018117774,listing,/1-3-lowlynn-court-geilston-bay-tas-7015-2018117774,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,1/3 Lowlynn Court,GEILSTON BAY,TAS,7015,-42.8282356,147.3431,3,2,1,House,House,False,402,m2,False

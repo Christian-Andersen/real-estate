@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018311699,listing,/713-reedy-lake-road-whroo-vic-3612-2018311699,360000,is-sold,Sold by private treaty 02 Mar 2023,20230302,713 Reedy Lake Road,WHROO,VIC,3612,-36.69314,145.085342,2,-,2,Rural,Rural,True,22.26,ha,False

@@ -48,9 +48,12 @@ def value_to_row(value):
         row[-1] = row[-1][1:].replace(',', '')
     row.append(value['listingModel']['tags']['tagClassName'])
     row.append(value['listingModel']['tags']['tagText'])
-    date = datetime.strptime(
-        ' '.join(row[-1].split()[-3:]), '%d %b %Y')
-    row.append(int(date.strftime('%Y%m%d')))
+    try:
+        date = datetime.strptime(
+            ' '.join(row[-1].split()[-3:]), '%d %b %Y')
+        row.append(date.strftime('%Y%m%d'))
+    except:
+        row.append('-')
     address = value['listingModel']['address']
     row.append(add_column(address, 'street'))
     row.append(add_column(address, 'suburb'))
@@ -100,15 +103,10 @@ header = [
 
 # Get information from the data folder
 ids = {}
-postcodes_first = []
-postcodes_second = []
+postcodes = {}
 for file in os.listdir('data'):
     path = os.path.join('data', file)
-    if 'unknown' not in file:
-        if os.path.getsize(path) < 200_000:
-            postcodes_first.append(file.split('.')[0])
-        else:
-            postcodes_second.append(file.split('.')[0])
+    oldest = datetime.now().strftime('%Y%m%d')
     with open(path, 'r', newline='') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
@@ -123,17 +121,22 @@ for file in os.listdir('data'):
                     raise KeyError("url mismatch for same id")
             else:
                 ids[row[0]] = row[2]
+            date = row[6]
+            if date < oldest:
+                oldest = date
+    postcodes[file.split('.')[0]] = int(oldest)
 print('Total Properties:', len(ids))
-print('Total Postcodes:', len(postcodes_first)+len(postcodes_second))
+print('Total Postcodes:', len(postcodes))
 
 # Use postcoes to create webpages to scrape
-webpages = ['https://www.domain.com.au/sold-listings/']
-for postcode in postcodes_first:
-    webpages.append(
-        'https://www.domain.com.au/sold-listings/?postcode='+postcode)
-for postcode in postcodes_second:
-    webpages.append(
-        'https://www.domain.com.au/sold-listings/?postcode='+postcode)
+mainpage = 'https://www.domain.com.au/sold-listings/'
+webpages = [mainpage]
+while True:
+    postcode = max(postcodes, key=postcodes.get) # type: ignore
+    webpages.append(mainpage+'?postcode='+postcode)
+    postcodes.pop(postcode)
+    if len(postcodes) == 0:
+        break
 print('Total Webpages:', len(webpages))
 
 # Create selenium driver
@@ -188,10 +191,7 @@ for webpage in webpages:
                             adjust = -1
                         break
                     continue
-                if 'postcode' in value['listingModel']['address']:
-                    postcode = value['listingModel']['address']['postcode']
-                else:
-                    postcode = 'unknown'
+                postcode = value['listingModel']['address']['postcode']
                 file = os.path.join('data', postcode+'.csv')
                 if not os.path.isfile(file):
                     with open(file, 'w', newline='', encoding="utf-8") as f:

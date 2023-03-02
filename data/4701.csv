@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018314554,listing,/53-angela-road-rockyview-qld-4701-2018314554,664300,is-sold,Sold by private treaty 28 Feb 2023,20230228,53 Angela Road,ROCKYVIEW,QLD,4701,-23.2625332,150.509033,4,2,6,House,House,False,4818,m2,False
 2018303989,listing,/235-richardson-road-kawana-qld-4701-2018303989,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,235 Richardson Road,KAWANA,QLD,4701,-23.3469334,150.5116,3,1,2,House,House,False,0,m2,False
+2018339233,listing,/246-diplock-street-berserker-qld-4701-2018339233,323500,is-sold,Sold by private treaty 02 Mar 2023,20230302,246 Diplock Street,BERSERKER,QLD,4701,-23.3593788,150.536835,3,1,1,House,House,False,688,m2,False

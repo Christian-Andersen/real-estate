@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2017878405,listing,/7-rosslare-court-portarlington-vic-3223-2017878405,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Rosslare Court,PORTARLINGTON,VIC,3223,-38.12276,144.629776,4,2,4,House,House,False,656,m2,False
+2018342892,listing,/5-monaco-avenue-st-leonards-vic-3223-2018342892,1210000,is-sold,Sold by private treaty 02 Mar 2023,20230302,5 Monaco Avenue,ST LEONARDS,VIC,3223,-38.1945,144.7054,3,2,2,House,House,False,639,m2,False

@@ -139,3 +139,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016927870,listing,/5-dalmura-avenue-merbein-vic-3505-2016927870,195000,is-sold,Sold by private treaty 08 Apr 2021,20210408,5 Dalmura Avenue,MERBEIN,VIC,3505,-34.1538277,142.045944,-,-,-,Rural,Rural,True,2,ha,False
 2016941812,listing,/11-first-street-merbein-vic-3505-2016941812,373500,is-sold,Sold by private treaty 18 May 2021,20210518,11 First Street,MERBEIN,VIC,3505,-34.1481972,142.029419,3,2,2,House,House,False,800,m2,False
 2016985667,listing,/merbein-south-vic-3505-2016985667,450000,is-sold,Sold by private treaty 06 May 2021,20210506,,MERBEIN SOUTH,VIC,3505,-34.2188,142.030151,3,1,1,House,House,False,3119,m2,False
+2018330250,listing,/23-channel-road-merbein-vic-3505-2018330250,370000,is-sold,Sold by private treaty 02 Mar 2023,20230302,23 Channel Road,MERBEIN,VIC,3505,-34.1714134,142.075836,3,2,2,House,House,False,813,m2,False

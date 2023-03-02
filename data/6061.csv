@@ -8,3 +8,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018202309,listing,/17a-hailsham-road-nollamara-wa-6061-2018202309,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,17A Hailsham Road,NOLLAMARA,WA,6061,-31.8746071,115.850479,3,1,1,House,House,False,305,m2,False
 2018252133,listing,/65a-carcoola-street-nollamara-wa-6061-2018252133,477000,is-sold,Sold by private treaty 01 Mar 2023,20230301,65A Carcoola Street,NOLLAMARA,WA,6061,-31.874588,115.840393,4,2,1,House,House,False,353,m2,False
 2018354605,listing,/3a-monterey-street-nollamara-wa-6061-2018354605,515000,is-sold,Sold by private treaty 01 Mar 2023,20230301,3A Monterey Street,NOLLAMARA,WA,6061,-31.8758335,115.833618,3,2,2,House,House,False,0,m2,False
+2018244944,listing,/7c-fitzroy-pl-balga-wa-6061-2018244944,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,7C Fitzroy Pl,BALGA,WA,6061,-31.858181,115.827049,3,2,1,Villa,Villa,False,0,m2,False

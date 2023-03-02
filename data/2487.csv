@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2017645021,listing,/39-habitat-drive-casuarina-nsw-2487-2017645021,1300000,is-sold,Sold by private treaty 27 Feb 2023,20230227,39 Habitat Drive,CASUARINA,NSW,2487,-28.2981949,153.572449,-,-,-,VacantLand,Vacant land,False,384,m2,False
 2018314174,listing,/7-knox-court-kingscliff-nsw-2487-2018314174,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,7 Knox Court,KINGSCLIFF,NSW,2487,-28.26125,153.573074,4,3,4,House,House,False,765,m2,False
+2018389566,listing,/1-14-shore-place-kingscliff-nsw-2487-2018389566,920000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1/14 Shore Place,KINGSCLIFF,NSW,2487,-28.2522564,153.566544,3,2,2,Duplex,Duplex,False,0,m2,False

@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018280354,listing,/201-21-25-head-street-forster-nsw-2428-2018280354,935000,is-sold,Sold by private treaty 01 Mar 2023,20230301,201/21-25 Head Street,FORSTER,NSW,2428,-32.1795769,152.51384,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,151,m2,False
 2017893809,listing,/13-capri-avenue-forster-nsw-2428-2017893809,570000,is-sold,Sold by private treaty 28 Feb 2023,20230228,13 Capri Avenue,FORSTER,NSW,2428,-32.2187767,152.527451,3,1,1,House,House,False,556,m2,False
+2018268881,listing,/21-helen-street-forster-nsw-2428-2018268881,968888,is-sold,Sold by private treaty 01 Mar 2023,20230301,21 Helen Street,FORSTER,NSW,2428,-32.1850929,152.514374,9,4,-,House,House,False,537,m2,False

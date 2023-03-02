@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018301719,listing,/30-coonanga-avenue-budgewoi-nsw-2262-2018301719,686000,is-sold,Sold by private treaty 28 Feb 2023,20230228,30 Coonanga Avenue,BUDGEWOI,NSW,2262,-33.2295723,151.547974,3,1,2,House,House,False,0,m2,False
+2018275818,listing,/9-lady-laurel-drive-blue-haven-nsw-2262-2018275818,865000,is-sold,Sold by private treaty 01 Mar 2023,20230301,9 Lady Laurel Drive,BLUE HAVEN,NSW,2262,-33.21173,151.498779,4,2,4,House,House,False,654,m2,False

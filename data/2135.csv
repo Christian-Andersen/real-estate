@@ -1,1 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018345882,listing,/107-8-parramatta-road-strathfield-nsw-2135-2018345882,670000,is-sold,Sold by private treaty 02 Mar 2023,20230302,107/8 Parramatta Road,STRATHFIELD,NSW,2135,-33.86649,151.093216,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,111,m2,False

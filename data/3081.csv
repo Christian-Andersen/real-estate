@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018381692,listing,/359-waterdale-road-bellfield-vic-3081-2018381692,1008000,is-sold,Sold by private treaty 28 Feb 2023,20230228,359 Waterdale Road,BELLFIELD,VIC,3081,-37.7528877,145.0454,3,1,1,House,House,False,0,m2,False
 2018295568,listing,/87a-altona-street-heidelberg-heights-vic-3081-2018295568,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,87A Altona Street,HEIDELBERG HEIGHTS,VIC,3081,-37.7466927,145.04837,2,2,1,Townhouse,Townhouse,False,0,m2,False
+2018339019,listing,/29-marie-avenue-heidelberg-heights-vic-3081-2018339019,770000,is-sold,Sold prior to auction 01 Mar 2023,20230301,29 Marie Avenue,HEIDELBERG HEIGHTS,VIC,3081,-37.73673,145.049484,3,1,2,House,House,False,589,m2,False

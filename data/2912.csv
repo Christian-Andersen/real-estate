@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018286163,listing,/131-1-anthony-rolfe-avenue-gungahlin-act-2912-2018286163,360000,is-sold,Sold by private treaty 27 Feb 2023,20230227,131/1 Anthony Rolfe Avenue,GUNGAHLIN,ACT,2912,-35.1819954,149.129913,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018300940,listing,/31-6-gribble-street-gungahlin-act-2912-2018300940,430000,is-sold,Sold by private treaty 01 Mar 2023,20230301,31/6 Gribble Street,GUNGAHLIN,ACT,2912,-35.1818123,149.131165,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018357557,listing,/46-43-hibberson-street-gungahlin-act-2912-2018357557,450000,is-sold,Sold by private treaty 02 Mar 2023,20230302,46/43 Hibberson Street,GUNGAHLIN,ACT,2912,-35.1854134,149.135773,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

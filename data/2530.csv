@@ -3,3 +3,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018234405,listing,/32-habeda-avenue-horsley-nsw-2530-2018234405,775000,is-sold,Sold by private treaty 27 Feb 2023,20230227,32 Habeda Avenue,HORSLEY,NSW,2530,-34.48847,150.7768,4,2,2,House,House,False,748,m2,False
 2018197397,listing,/44-coronet-place-dapto-nsw-2530-2018197397,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,44 Coronet Place,DAPTO,NSW,2530,-34.5178947,150.797043,4,3,4,House,House,False,2332,m2,False
 2018214620,listing,/29-burke-road-dapto-nsw-2530-2018214620,705000,is-sold,Sold by private treaty 28 Feb 2023,20230228,29 Burke Road,DAPTO,NSW,2530,-34.5059128,150.788559,3,1,1,House,House,False,547,m2,False
+2018257971,listing,/4-21-kent-road-dapto-nsw-2530-2018257971,450000,is-sold,Sold by private treaty 01 Mar 2023,20230301,4/21 Kent Road,DAPTO,NSW,2530,-34.50082,150.792419,2,1,1,Villa,Villa,False,0,m2,False

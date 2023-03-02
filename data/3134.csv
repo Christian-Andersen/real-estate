@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018150624,listing,/2-87-wantirna-road-ringwood-vic-3134-2018150624,1165000,is-sold,Sold by private treaty 02 Mar 2023,20230302,2/87 Wantirna Road,RINGWOOD,VIC,3134,-37.824585,145.2278,3,3,2,Townhouse,Townhouse,False,0,m2,False
+2018344429,listing,/1-greenhill-rise-ringwood-north-vic-3134-2018344429,1402000,is-sold,Sold prior to auction 02 Mar 2023,20230302,1 Greenhill Rise,RINGWOOD NORTH,VIC,3134,-37.79457,145.217331,5,4,2,House,House,False,816,m2,False

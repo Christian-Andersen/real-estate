@@ -2,3 +2,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018279208,listing,/4-prince-street-bellbird-nsw-2325-2018279208,655000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Prince Street,BELLBIRD,NSW,2325,-32.8534622,151.3205,2,1,2,House,House,False,809,m2,False
 2018183539,listing,/49-hall-street-cessnock-nsw-2325-2018183539,576250,is-sold,Sold by private treaty 27 Feb 2023,20230227,49 Hall Street,CESSNOCK,NSW,2325,-32.83856,151.362381,3,2,1,House,House,False,487,m2,False
 2018334948,listing,/65-lee-ann-crescent-cessnock-nsw-2325-2018334948,530000,is-sold,Sold by private treaty 01 Mar 2023,20230301,65 Lee-Ann Crescent,CESSNOCK,NSW,2325,-32.8234673,151.357773,3,1,1,House,House,False,801,m2,False
+2018325625,listing,/23-brown-street-cessnock-nsw-2325-2018325625,600000,is-sold,Sold by private treaty 01 Mar 2023,20230301,23 Brown Street,CESSNOCK,NSW,2325,-32.82626,151.344223,4,2,3,House,House,False,613,m2,False
+2018356348,listing,/2-condon-avenue-cessnock-nsw-2325-2018356348,620000,is-sold,Sold by private treaty 01 Mar 2023,20230301,2 Condon Avenue,CESSNOCK,NSW,2325,-32.8318634,151.345062,4,1,2,House,House,False,613,m2,False
