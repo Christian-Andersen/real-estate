@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018356420,listing,/22-150-wigram-road-forest-lodge-nsw-2037-2018356420,1045301,is-sold,Sold by private treaty 01 Mar 2023,20230301,22/150 Wigram Road,FOREST LODGE,NSW,2037,-33.88161,151.176468,2,1,1,Townhouse,Townhouse,False,0,m2,False
 2018344781,listing,/218-hereford-street-forest-lodge-nsw-2037-2018344781,1400000,is-sold,Sold prior to auction 03 Mar 2023,20230303,218 Hereford Street,FOREST LODGE,NSW,2037,-33.8825378,151.178543,2,1,-,House,House,False,0,m2,False
 2018368597,listing,/38-darling-street-glebe-nsw-2037-2018368597,3838000,is-sold,Sold prior to auction 03 Mar 2023,20230303,38 Darling Street,GLEBE,NSW,2037,-33.87853,151.189651,4,3,1,House,House,False,197,m2,False
+2018344629,listing,/6-alexandra-road-glebe-nsw-2037-2018344629,2888000,is-sold,Sold at auction 03 Mar 2023,20230303,6 Alexandra Road,GLEBE,NSW,2037,-33.874794,151.179779,3,1,1,House,House,False,285,m2,False

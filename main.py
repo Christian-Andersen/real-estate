@@ -5,6 +5,7 @@ from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
+os.chdir('/home/christian/c/real_estate')
 
 def add_column(group, header):
     """Returns '-' if the key 'header' does not excist in dict 'group'"""
@@ -139,16 +140,32 @@ options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 atexit.register(driver.quit)
 
+# Load in finished postcodes
+skip = []
+with open('done.txt', 'r') as f:
+    for row in f:
+        skip.append(row[row.find('postcode=')+9:].rstrip())
+skip = list(set(skip))
+
 # Scrape them
 for webpage in webpages:
     print('Webpage:', webpage)
+    pc = webpage[webpage.find('postcode=')+9:]
+    if pc in skip:
+        print('SKIPPED WEBPAGE')
+        continue
     for i in range(1, 51):
         if '?' in webpage:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
         print('Page:', i, '\t', 'Properties:', len(ids), '\t'+site)
-        driver.get(site)
+        while True:
+            try:
+                driver.get(site)
+                break
+            except:
+                print('--------FAILED TO GET SITE--------')
         html_content = driver.page_source
         if 'No exact matches' in html_content:
             break
@@ -168,4 +185,5 @@ for webpage in webpages:
                 w = csv.writer(f)
                 w.writerow(row)
     with open('done.txt', 'a') as f:
-        f.write(webpage+'\n')
+        if 'postcode=' in webpage:
+            f.write(pc+'\n')

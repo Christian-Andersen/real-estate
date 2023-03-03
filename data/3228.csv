@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018391311,listing,/59-great-ocean-road-jan-juc-vic-3228-2018391311,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,59 Great Ocean Road,JAN JUC,VIC,3228,-38.3388557,144.302475,4,2,2,House,House,False,595,m2,False
 2017740640,listing,/6-cowrie-road-torquay-vic-3228-2017740640,2200000,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Cowrie Road,TORQUAY,VIC,3228,-38.324913,144.326553,-,-,-,VacantLand,Vacant land,False,609,m2,False
 2018118370,listing,/6-lincoln-avenue-torquay-vic-3228-2018118370,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Lincoln Avenue,TORQUAY,VIC,3228,-38.3142281,144.277435,5,3,6,House,House,False,2761,m2,False
+2018211827,listing,/29-st-georges-way-torquay-vic-3228-2018211827,Price Withheld,is-sold,Sold 03 Mar 2023,20230303,29 ST GEORGES WAY,TORQUAY,VIC,3228,-38.3057938,144.350937,4,3,5,House,House,False,657,m2,False
