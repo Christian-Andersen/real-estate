@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2013029941,listing,/156-sunset-lane-kapooka-nsw-2661-2013029941,510000,is-sold,Sold by private treaty 29 Sep 2016,20160929,156 Sunset Lane,KAPOOKA,NSW,2661,-35.1615219,147.303741,3,2,2,House,House,False,0,m2,False
+2017406125,listing,/mossgiel-187-old-olympic-highway-kapooka-nsw-2661-2017406125,Price Withheld,is-sold,Sold by private treaty 29 Nov 2021,20211129,Mossgiel/187 Old Olympic Highway,KAPOOKA,NSW,2661,-34.86504,147.499527,4,2,2,House,House,True,33.18,ha,False

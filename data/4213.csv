@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018120009,listing,/4-37-hersden-court-bonogin-qld-4213-2018120009,800000,is-sold,Sold by private treaty 27 Feb 2023,20230227,4/37 Hersden Court,BONOGIN,QLD,4213,-28.1376362,153.333939,-,-,-,VacantLand,Vacant land,False,9981,m2,False
 2018295743,listing,/21-wallaby-drive-mudgeeraba-qld-4213-2018295743,1055000,is-sold,Sold by private treaty 01 Mar 2023,20230301,21 Wallaby Drive,MUDGEERABA,QLD,4213,-28.0982475,153.3528,3,2,-,House,House,False,4008,m2,False
+2018143789,listing,/21-glastonbury-drive-mudgeeraba-qld-4213-2018143789,1030000,is-sold,Sold by private treaty 03 Mar 2023,20230303,21 Glastonbury Drive,MUDGEERABA,QLD,4213,-28.0926762,153.386719,5,2,4,House,House,False,764,m2,False
+2018273311,listing,/60-quambone-street-worongary-qld-4213-2018273311,1390000,is-sold,Sold by private treaty 03 Mar 2023,20230303,60 Quambone Street,WORONGARY,QLD,4213,-28.0444,153.352844,4,3,3,House,House,False,5011,m2,False

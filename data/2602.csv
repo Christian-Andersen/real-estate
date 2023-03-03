@@ -1,3 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018342886,listing,/4-gardiner-street-downer-act-2602-2018342886,Price Withheld,is-sold,Sold at auction 01 Mar 2023,20230301,4 Gardiner Street,DOWNER,ACT,2602,-35.24651,149.149826,3,1,1,House,House,False,735,m2,False
 2018330892,listing,/130-mackenzie-street-hackett-act-2602-2018330892,1281100,is-sold,Sold by private treaty 01 Mar 2023,20230301,130 MacKenzie Street,HACKETT,ACT,2602,-35.2534981,149.162521,3,1,2,House,House,False,0,m2,False
+2018174653,listing,/12-duffy-street-ainslie-act-2602-2018174653,1700000,is-sold,Sold by private treaty 03 Mar 2023,20230303,12 Duffy Street,AINSLIE,ACT,2602,-35.2694664,149.148788,4,2,2,House,House,False,780,m2,False
+2018357778,listing,/18-grayson-street-hackett-act-2602-2018357778,885000,is-sold,Sold by private treaty 03 Mar 2023,20230303,18 Grayson Street,HACKETT,ACT,2602,-35.25073,149.167358,2,1,2,Townhouse,Townhouse,False,0,m2,False
+2018326609,listing,/8-26-de-burgh-street-lyneham-act-2602-2018326609,565550,is-sold,Sold by private treaty 03 Mar 2023,20230303,8/26 De Burgh Street,LYNEHAM,ACT,2602,-35.2567635,149.131775,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018222576,listing,/75-20-federal-highway-watson-act-2602-2018222576,470000,is-sold,Sold by private treaty 03 Mar 2023,20230303,75/20 Federal Highway,WATSON,ACT,2602,-35.2283325,149.156616,2,2,2,Townhouse,Townhouse,False,0,m2,False

@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018280800,listing,/800-service-road-bridge-road-salisbury-east-sa-5109-2018280800,517500,is-sold,Sold by private treaty 28 Feb 2023,20230228,800  (Service Road) Bridge Road,SALISBURY EAST,SA,5109,-34.7783928,138.674133,4,2,3,House,House,False,590,m2,False
+2018337596,listing,/15-marbury-place-salisbury-heights-sa-5109-2018337596,406000,is-sold,Sold by private treaty 03 Mar 2023,20230303,15 Marbury Place,SALISBURY HEIGHTS,SA,5109,-34.7625465,138.679657,2,1,1,House,House,False,360,m2,False

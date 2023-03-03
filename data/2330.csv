@@ -2,3 +2,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018207500,listing,/8-dargin-close-singleton-nsw-2330-2018207500,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,8 Dargin Close,SINGLETON,NSW,2330,-32.537693,151.1643,5,2,2,House,House,False,800,m2,False
 2018086245,listing,/12-pioneer-road-singleton-nsw-2330-2018086245,740000,is-sold,Sold by private treaty 01 Mar 2023,20230301,12 Pioneer Road,SINGLETON,NSW,2330,-32.5378227,151.176056,4,2,2,House,House,False,800,m2,False
 2018333166,listing,/4-mcmahon-way-singleton-nsw-2330-2018333166,750000,is-sold,Sold by private treaty 01 Mar 2023,20230301,4 McMahon Way,SINGLETON,NSW,2330,-32.5345573,151.15921,4,2,2,House,House,False,0,m2,False
+2018350264,listing,/22-the-glade-singleton-nsw-2330-2018350264,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 The Glade,SINGLETON,NSW,2330,-32.5574875,151.145615,4,2,6,House,House,False,7782,m2,False

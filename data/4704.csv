@@ -1,1 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011741213,listing,/64871-bruce-highway-yaamba-qld-4704-2011741213,525000,is-sold,Sold by private treaty 12 May 2015,20150512,64871 Bruce Highway,YAAMBA,QLD,4704,-23.1360741,150.3617,7,2,6,House,House,True,4,ha,False
+2013449386,listing,/35-iris-street-yaamba-qld-4704-2013449386,200000,is-sold,Sold by private treaty 17 May 2017,20170517,35 Iris Street,YAAMBA,QLD,4704,-23.1356049,150.369049,3,1,4,House,House,False,4046,m2,False
+2016155828,listing,/lot-105-augustus-street-yaamba-qld-4704-2016155828,Price Withheld,is-sold,Sold by private treaty 08 May 2020,20200508,LOT 105 AUGUSTUS STREET,YAAMBA,QLD,4704,-23.14343,150.37175,-,-,-,VacantLand,Vacant land,False,2023,m2,False
+2016155950,listing,/lot-105-augustus-street-yaamba-qld-4704-2016155950,Price Withheld,is-sold,Sold by private treaty 08 May 2020,20200508,LOT 105 AUGUSTUS STREET,YAAMBA,QLD,4704,-23.1426983,150.373215,-,-,-,Rural,Rural,True,2023,m2,False
+2016220646,listing,/19-yaamba-siding-road-yaamba-qld-4704-2016220646,155000,is-sold,Sold by private treaty 30 Jul 2020,20200730,19 Yaamba Siding Road,YAAMBA,QLD,4704,-23.1322613,150.3689,3,1,2,House,House,False,998,m2,False
+2017592290,listing,/2-auckland-street-yaamba-qld-4704-2017592290,430000,is-sold,Sold by private treaty 04 Apr 2022,20220404,2 Auckland Street,YAAMBA,QLD,4704,-23.14299,150.36882,5,2,8,House,House,True,1.43,ha,False

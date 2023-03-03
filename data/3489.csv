@@ -1,1 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011460639,listing,/185-tarrant-road-tempy-vic-3489-2011460639,292635,is-sold,Sold at auction 30 Oct 2014,20141030,185 Tarrant Road,TEMPY,VIC,3489,-35.367794,142.366333,-,-,-,Rural,Rural,False,0,m2,False
+2012288400,listing,/c-a-20-parish-of-tyenna-tempy-vic-3489-2012288400,Price Withheld,is-sold,Sold at auction 14 Dec 2015,20151214,C/A 20 Parish of Tyenna,TEMPY,VIC,3489,-35.3443451,142.424561,-,-,-,Rural,Rural,True,240.38,ha,False
+2012924560,listing,/19-collins-road-tempy-vic-3489-2012924560,508810,is-sold,Sold at auction 26 Aug 2016,20160826,19 Collins Road,TEMPY,VIC,3489,-35.3035736,142.413239,3,2,-,Rural,Rural,True,250.91,ha,False
+2017823519,listing,/6-8-station-street-tempy-vic-3489-2017823519,100000,is-sold,Sold by private treaty 02 Jun 2022,20220602,6-8 Station Street,TEMPY,VIC,3489,-35.3454361,142.424942,3,1,2,House,House,False,1904,m2,False

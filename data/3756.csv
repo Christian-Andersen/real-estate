@@ -1,1 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2018197708,listing,/370-south-mountain-road-upper-plenty-vic-3756-2018197708,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,370 South Mountain Road,UPPER PLENTY,VIC,3756,-37.3878479,145.061874,3,2,6,House,House,True,1.98,ha,False
+2018056740,listing,/5-maidenhair-drive-wallan-vic-3756-2018056740,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Maidenhair Drive,WALLAN,VIC,3756,-37.4209862,144.965469,4,2,2,House,House,False,400,m2,False

@@ -1,3 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018246466,listing,/25-webber-street-carey-park-wa-6230-2018246466,382000,is-sold,Sold by private treaty 27 Feb 2023,20230227,25 Webber Street,CAREY PARK,WA,6230,-33.361557,115.65818,3,1,2,House,House,False,680,m2,False
 2018067645,listing,/25-cantwell-ct-east-bunbury-wa-6230-2018067645,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,25 Cantwell Ct,EAST BUNBURY,WA,6230,-33.3341827,115.665955,4,1,2,House,House,False,802,m2,False
+2018282948,listing,/119-norton-promenade-dalyellup-wa-6230-2018282948,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,119 Norton Promenade,DALYELLUP,WA,6230,-33.3993721,115.629738,3,2,2,House,House,False,248,m2,False
+2018086179,listing,/12a-whitley-place-withers-wa-6230-2018086179,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,12A Whitley Place,WITHERS,WA,6230,-33.3648872,115.632133,2,1,1,House,House,False,334,m2,False
+2018014186,listing,/13c-absolon-street-carey-park-wa-6230-2018014186,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,13C Absolon Street,CAREY PARK,WA,6230,-33.35304,115.661087,3,2,2,House,House,False,257,m2,False

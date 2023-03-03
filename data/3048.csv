@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018090105,listing,/22-golden-ash-court-meadow-heights-vic-3048-2018090105,540000,is-sold,Sold by private treaty 28 Feb 2023,20230228,22 Golden Ash Court,MEADOW HEIGHTS,VIC,3048,-37.6493034,144.925415,3,2,1,House,House,False,0,m2,False
 2018295795,listing,/11-yarto-court-meadow-heights-vic-3048-2018295795,589500,is-sold,Sold by private treaty 28 Feb 2023,20230228,11 Yarto Court,MEADOW HEIGHTS,VIC,3048,-37.6510429,144.92366,3,1,2,House,House,False,685,m2,False
+2018296701,listing,/1-24-milford-court-meadow-heights-vic-3048-2018296701,405000,is-sold,Sold by private treaty 03 Mar 2023,20230303,1/24 Milford Court,MEADOW HEIGHTS,VIC,3048,-37.6536064,144.916565,3,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,351,m2,False

@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018223341,listing,/1-62-island-street-cleveland-qld-4163-2018223341,688888,is-sold,Sold by private treaty 01 Mar 2023,20230301,1/62 Island Street,CLEVELAND,QLD,4163,-27.5317345,153.273849,4,2,2,Townhouse,Townhouse,False,0,m2,False
 2018354054,listing,/51-6-harbour-view-court-raby-bay-qld-4163-2018354054,1505000,is-sold,Sold by private treaty 01 Mar 2023,20230301,51/6 Harbour View Court,RABY BAY,QLD,4163,-27.5234013,153.264328,3,2,2,Townhouse,Townhouse,False,0,m2,False
+2018290540,listing,/342-bloomfield-street-cleveland-qld-4163-2018290540,1160000,is-sold,Sold by private treaty 03 Mar 2023,20230303,342 Bloomfield Street,CLEVELAND,QLD,4163,-27.546032,153.266052,5,2,2,House,House,False,783,m2,False

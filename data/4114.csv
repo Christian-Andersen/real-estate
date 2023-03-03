@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018322651,listing,/12-31-nyanza-street-woodridge-qld-4114-2018322651,250000,is-sold,Sold by private treaty 28 Feb 2023,20230228,12/31 Nyanza Street,WOODRIDGE,QLD,4114,-27.6220036,153.101227,3,1,1,House,House,False,1,m2,False
+2017758737,listing,/8-39-43-garfield-road-woodridge-qld-4114-2017758737,230000,is-sold,Sold by private treaty 03 Mar 2023,20230303,8/39-43 Garfield Road,WOODRIDGE,QLD,4114,-27.6390781,153.0984,2,1,1,House,House,False,0,m2,False
+2018394295,listing,/2-lawrence-st-woodridge-qld-4114-2018394295,520000,is-sold,Sold by private treaty 03 Mar 2023,20230303,2 Lawrence St,WOODRIDGE,QLD,4114,-27.6254539,153.110825,3,1,5,House,House,False,1012,m2,False

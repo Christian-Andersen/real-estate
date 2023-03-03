@@ -1,1 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2009462020,listing,/0-mount-william-road-tatyoon-vic-3378-2009462020,Price Withheld,is-sold,Sold at auction 29 Feb 2012,20120229,0 Mount William Road,TATYOON,VIC,3378,-37.5013161,143.039261,-,-,-,Rural,Rural,True,300,ha,False
+2010490146,listing,/900-helendoite-road-tatyoon-vic-3378-2010490146,Price Withheld,is-sold,Sold by private treaty 09 Sep 2013,20130909,900 Helendoite Road,TATYOON,VIC,3378,-37.4523926,142.95929,3,1,3,Rural,Rural,True,339.53,ha,False
+2016734634,listing,/lot-3-st-marnocks-road-yalla-y-poora-vic-3378-2016734634,4228740,is-sold,Sold at auction 15 Mar 2021,20210315,Lot 3 St Marnocks Road,YALLA-Y-POORA,VIC,3378,-,-,-,-,-,Rural,Rural,True,178.87,ha,False
+2016877925,listing,/3565-mount-william-road-tatyoon-vic-3378-2016877925,712000,is-sold,Sold by private treaty 23 Apr 2021,20210423,3565 Mount William Road,TATYOON,VIC,3378,-37.5112,143.03537,4,2,4,Rural,Rural,True,20.23,ha,False
+2017345940,listing,/yalla-y-poora-vic-3378-2017345940,Price Withheld,is-sold,Sold by private treaty 04 Mar 2022,20220304,,YALLA-Y-POORA,VIC,3378,-37.5305443,143.126541,-,-,-,Farm,Farm,True,389,ha,False

@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018319110,listing,/9-kanmore-crescent-hillside-vic-3037-2018319110,700000,is-sold,Sold by private treaty 28 Feb 2023,20230228,9 Kanmore Crescent,HILLSIDE,VIC,3037,-37.6853447,144.755157,4,2,2,House,House,False,605,m2,False
 2018333484,listing,/16-kelland-avenue-hillside-vic-3037-2018333484,758000,is-sold,Sold at auction 28 Feb 2023,20230228,16 Kelland Avenue,HILLSIDE,VIC,3037,-37.68697,144.750519,4,2,2,House,House,False,578,m2,False
+2018347743,listing,/6-pirie-way-taylors-hill-vic-3037-2018347743,722000,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Pirie Way,TAYLORS HILL,VIC,3037,-37.71973,144.743713,-,-,-,VacantLand,Vacant land,False,680,m2,False

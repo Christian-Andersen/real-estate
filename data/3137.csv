@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018246027,listing,/6-lucinley-close-kilsyth-vic-3137-2018246027,599999,is-sold,Sold by private treaty 28 Feb 2023,20230228,6 Lucinley Close,KILSYTH,VIC,3137,-37.8049355,145.311752,2,1,1,Townhouse,Townhouse,False,0,m2,False
 2018341452,listing,/7-cradley-ct-kilsyth-vic-3137-2018341452,760000,is-sold,Sold by private treaty 02 Mar 2023,20230302,7 Cradley Ct,KILSYTH,VIC,3137,-37.79593,145.31636,4,2,2,House,House,False,0,m2,False
+2018282591,listing,/1a-lockhart-court-kilsyth-vic-3137-2018282591,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,1A Lockhart Court,KILSYTH,VIC,3137,-37.8101921,145.321243,3,1,1,House,House,False,312,m2,False

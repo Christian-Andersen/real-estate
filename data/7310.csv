@@ -3,3 +3,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018197218,listing,/7-dana-drive-devonport-tas-7310-2018197218,500000,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 Dana Drive,DEVONPORT,TAS,7310,-41.1911469,146.3493,3,2,-,House,House,False,792,m2,False
 2018256615,listing,/37-percy-street-devonport-tas-7310-2018256615,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,37 Percy Street,DEVONPORT,TAS,7310,-41.1753769,146.34317,3,1,-,House,House,False,669,m2,False
 2018306182,listing,/45-gunn-street-devonport-tas-7310-2018306182,440000,is-sold,Sold by private treaty 01 Mar 2023,20230301,45 Gunn Street,DEVONPORT,TAS,7310,-41.17968,146.352844,3,1,1,House,House,False,544,m2,False
+2018251723,listing,/9-bellevue-court-ambleside-tas-7310-2018251723,458000,is-sold,Sold by private treaty 02 Mar 2023,20230302,9 Bellevue Court,AMBLESIDE,TAS,7310,-41.20489,146.379242,3,1,-,House,House,False,1596,m2,False

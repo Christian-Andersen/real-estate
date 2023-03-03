@@ -1,2 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018205388,listing,/32-shelton-close-toormina-nsw-2452-2018205388,685000,is-sold,Sold by private treaty 28 Feb 2023,20230228,32 Shelton Close,TOORMINA,NSW,2452,-30.3643055,153.08194,3,1,2,House,House,False,732,m2,False
+2018288264,listing,/6-soren-larsen-cres-boambee-east-nsw-2452-2018288264,667500,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Soren Larsen Cres,BOAMBEE EAST,NSW,2452,-30.35773,153.071625,3,1,1,House,House,False,710,m2,False
+2018327259,listing,/3-scenic-place-boambee-east-nsw-2452-2018327259,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,3 Scenic Place,BOAMBEE EAST,NSW,2452,-30.350172,153.076279,4,2,2,House,House,False,1006,m2,False

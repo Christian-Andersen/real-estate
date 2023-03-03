@@ -1,1 +1,10 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011998801,listing,/29-richardson-street-walpeup-vic-3507-2011998801,132500,is-sold,Sold by private treaty 17 Mar 2017,20170317,29 Richardson Street,WALPEUP,VIC,3507,-35.13973,142.0215,3,1,2,House,House,False,2000,m2,False
+2012002446,listing,/29-richardson-street-walpeup-vic-3507-2012002446,132500,is-sold,Sold by private treaty 17 Mar 2017,20170317,29 Richardson Street,WALPEUP,VIC,3507,-35.13973,142.0215,3,1,2,Rural,Rural,False,2000,m2,False
+2017134940,listing,/26-murphy-s-road-walpeup-vic-3507-2017134940,216500,is-sold,Sold by private treaty 07 Sep 2021,20210907,26 Murphy's Road,WALPEUP,VIC,3507,-35.1387749,142.0276,3,1,2,House,House,False,0,m2,False
+2017471857,listing,/17-cregan-street-walpeup-vic-3507-2017471857,40000,is-sold,Sold by private treaty 24 Jan 2022,20220124,17 Cregan Street,WALPEUP,VIC,3507,-35.1365547,142.023376,3,1,2,House,House,False,1005,m2,False
+2017510097,listing,/26-glen-street-walpeup-vic-3507-2017510097,155000,is-sold,Sold by private treaty 27 Jan 2022,20220127,26 Glen Street,WALPEUP,VIC,3507,-35.14079,142.024734,3,1,1,House,House,False,2015,m2,False
+2018036173,listing,/23-glen-street-walpeup-vic-3507-2018036173,135000,is-sold,Sold by private treaty 19 Sep 2022,20220919,23 Glen Street,WALPEUP,VIC,3507,-35.14016,142.025574,3,1,2,House,House,False,0,m2,False
+2018069392,listing,/33-cregan-street-walpeup-vic-3507-2018069392,200000,is-sold,Sold by private treaty 07 Oct 2022,20221007,33 Cregan Street,WALPEUP,VIC,3507,-35.1376839,142.021439,3,1,1,House,House,False,2024,m2,False
+2018069393,listing,/7-kenyon-street-walpeup-vic-3507-2018069393,70000,is-sold,Sold by private treaty 28 Sep 2022,20220928,7 Kenyon Street,WALPEUP,VIC,3507,-35.1395149,142.026,2,1,-,House,House,False,3095,m2,False
+2018159736,listing,/10-12-murphys-road-walpeup-vic-3507-2018159736,245000,is-sold,Sold by private treaty 29 Nov 2022,20221129,10-12 Murphys Road,WALPEUP,VIC,3507,-35.13713,142.026276,4,2,-,House,House,False,0,m2,False

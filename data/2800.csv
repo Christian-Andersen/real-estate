@@ -3,3 +3,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018343454,listing,/18-endeavour-avenue-orange-nsw-2800-2018343454,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,18 Endeavour Avenue,ORANGE,NSW,2800,-33.29584,149.090027,4,2,1,House,House,False,639,m2,False
 2018056846,listing,/43-jonathon-road-orange-nsw-2800-2018056846,780000,is-sold,Sold by private treaty 01 Mar 2023,20230301,43 Jonathon Road,ORANGE,NSW,2800,-33.27055,149.064651,4,2,3,House,House,False,1047,m2,False
 2018194376,listing,/287-beaumah-road-orange-nsw-2800-2018194376,1750000,is-sold,Sold by private treaty 01 Mar 2023,20230301,287 Beaumah Road,ORANGE,NSW,2800,-33.3687057,149.165573,4,2,-,Farm,Farm,True,47,ha,False
+2018337327,listing,/68-gardiner-road-orange-nsw-2800-2018337327,652000,is-sold,Sold by private treaty 03 Mar 2023,20230303,68 Gardiner Road,ORANGE,NSW,2800,-33.2937279,149.091934,4,1,2,House,House,False,834,m2,False
+2018209452,listing,/143-sampson-street-orange-nsw-2800-2018209452,600000,is-sold,Sold by private treaty 03 Mar 2023,20230303,143 Sampson Street,ORANGE,NSW,2800,-33.2728767,149.0905,4,1,2,House,House,False,639,m2,False

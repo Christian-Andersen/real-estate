@@ -1,3 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018308234,listing,/4-1-5-the-close-caroline-springs-vic-3023-2018308234,580000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/1-5 The Close,CAROLINE SPRINGS,VIC,3023,-37.7469978,144.7352,3,2,2,Townhouse,Townhouse,False,0,m2,False
 2018363066,listing,/35-daly-circuit-caroline-springs-vic-3023-2018363066,645000,is-sold,Sold by private treaty 28 Feb 2023,20230228,35 Daly Circuit,CAROLINE SPRINGS,VIC,3023,-37.73221,144.7287,3,2,1,House,House,False,320,m2,False
+2018177925,listing,/11-lancefield-drive-caroline-springs-vic-3023-2018177925,800000,is-sold,Sold by private treaty 03 Mar 2023,20230303,11 Lancefield Drive,CAROLINE SPRINGS,VIC,3023,-37.7142334,144.738525,4,2,2,House,House,False,0,m2,False
+2018350463,listing,/5-elsum-avenue-deer-park-vic-3023-2018350463,615000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Elsum Avenue,DEER PARK,VIC,3023,-37.7524757,144.773026,3,1,1,House,House,False,527,m2,False
+2018163734,listing,/21-meadowview-way-cairnlea-vic-3023-2018163734,725000,is-sold,Sold by private treaty 02 Mar 2023,20230302,21 Meadowview Way,CAIRNLEA,VIC,3023,-37.7550774,144.787369,4,2,2,House,House,False,412,m2,False
+2018330451,listing,/53-jonah-parade-deer-park-vic-3023-2018330451,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,53 Jonah Parade,DEER PARK,VIC,3023,-37.774456,144.756165,3,2,2,House,House,False,417,m2,False

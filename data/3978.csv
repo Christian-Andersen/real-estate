@@ -4,3 +4,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018287187,listing,/18-coolana-drive-clyde-north-vic-3978-2018287187,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,18 Coolana Drive,CLYDE NORTH,VIC,3978,-38.0794868,145.356125,6,3,2,House,House,False,475,m2,False
 2017905130,listing,/lot-907-hardys-road-clyde-north-vic-3978-2017905130,342000,is-sold,Sold by private treaty 01 Mar 2023,20230301,Lot 907 Hardys Road,CLYDE NORTH,VIC,3978,-38.10576,145.349075,-,-,-,VacantLand,Vacant land,False,267,m2,False
 2017945133,listing,/85-10-skylark-bvd-clyde-north-vic-3978-2017945133,Price Withheld,is-sold,Sold 01 Mar 2023,20230301,85/10 Skylark Bvd,CLYDE NORTH,VIC,3978,-38.08215,145.36348,2,1,1,House,House,False,0,m2,True
+2018341351,listing,/clyde-north-vic-3978-2018341351,441000,is-sold,Sold by private treaty 03 Mar 2023,20230303,,CLYDE NORTH,VIC,3978,-38.11081,145.3288,-,-,-,VacantLand,Vacant land,False,0,m2,False

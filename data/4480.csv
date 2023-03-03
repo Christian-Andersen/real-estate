@@ -1,1 +1,10 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2012498697,listing,/quilpie-qld-4480-2012498697,Price Withheld,is-sold,Sold by private treaty 09 Apr 2016,20160409,,QUILPIE,QLD,4480,-26.6135578,144.268768,4,1,-,Rural,Rural,True,16147,ha,False
+2013972218,listing,/quilpie-qld-4480-2013972218,Price Withheld,is-sold,Sold by private treaty 17 Jun 2018,20180617,,QUILPIE,QLD,4480,-26.6166668,144.266663,-,-,-,Rural,Rural,True,49316.8,ha,False
+2015673742,listing,/0-gooyea-station-quilpie-qld-4480-2015673742,Price Withheld,is-sold,Sold by private treaty 31 Jan 2020,20200131,0 Gooyea Station,QUILPIE,QLD,4480,-26.6166668,144.266663,5,1,2,Rural,Rural,True,133700,ha,False
+2017093340,listing,/53-jabiru-street-quilpie-qld-4480-2017093340,151000,is-sold,Sold by private treaty 23 Sep 2022,20220923,53 JABIRU STREET,QUILPIE,QLD,4480,-26.6170387,144.267822,3,1,-,House,House,False,0,m2,False
+2017251086,listing,/51-winchu-quilpie-qld-4480-2017251086,176000,is-sold,Sold by private treaty 03 Dec 2021,20211203,51 winchu,QUILPIE,QLD,4480,-26.6181183,144.26825,2,1,3,House,House,False,0,m2,False
+2017277636,listing,/47-jabiru-st-quilpie-qld-4480-2017277636,140000,is-sold,Sold by private treaty 12 Nov 2021,20211112,47 Jabiru St,QUILPIE,QLD,4480,-26.61693,144.268417,3,1,1,House,House,False,0,m2,False
+2017303061,listing,/quilpie-qld-4480-2017303061,80000,is-sold,Sold by private treaty 27 Sep 2021,20210927,,QUILPIE,QLD,4480,-26.61441,144.267868,3,1,-,House,House,False,2024,m2,False
+2017439652,listing,/quilpie-qld-4480-2017439652,80000,is-sold,Sold by private treaty 03 Nov 2021,20211103,,QUILPIE,QLD,4480,-26.6136074,144.26741,4,1,-,House,House,False,233,m2,False
+2018233052,listing,/76-boonkai-street-quilpie-qld-4480-2018233052,140000,is-sold,Sold by private treaty 21 Sep 2022,20220921,76 Boonkai Street,QUILPIE,QLD,4480,-26.615509,144.265,2,1,4,House,House,False,0,m2,False

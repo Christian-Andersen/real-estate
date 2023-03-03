@@ -1,1 +1,9 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2007858612,listing,/weengallon-qld-4497-2007858612,Price Withheld,is-sold,Sold by private treaty 09 Jun 2010,20100609,,WEENGALLON,QLD,4497,-28.3689575,149.087692,2,1,3,House,House,False,0,m2,False
+2009231660,listing,/38-pine-st-thallon-qld-4497-2009231660,81500,is-sold,Sold by private treaty 11 Nov 2011,20111111,38 Pine St,THALLON,QLD,4497,-28.6386185,148.865234,3,1,2,House,House,False,1012,m2,False
+2012231656,listing,/0-north-weengallon-rd-weengallon-qld-4497-2012231656,Price Withheld,is-sold,Sold by private treaty 29 Jul 2015,20150729,0 NORTH WEENGALLON RD,WEENGALLON,QLD,4497,-28.25249,149.068542,-,-,-,Rural,Rural,True,6020.1,ha,False
+2013870927,listing,/39-garah-street-thallon-qld-4497-2013870927,Price Withheld,is-sold,Sold by private treaty 31 Aug 2017,20170831,39 Garah Street,THALLON,QLD,4497,-28.6383629,148.8657,3,1,-,House,House,False,1012,m2,False
+2016229064,listing,/378-weengallon-daymar-road-weengallon-qld-4497-2016229064,Price Withheld,is-sold,Sold by private treaty 22 Jun 2021,20210622,378 WEENGALLON - DAYMAR ROAD,WEENGALLON,QLD,4497,-28.3740139,149.0423,-,-,-,Rural,Rural,True,0,m2,False
+2017732309,listing,/l20-rockview-weengallon-qld-4497-2017732309,975000,is-sold,Sold by private treaty 20 May 2022,20220520,L20 'Rockview',WEENGALLON,QLD,4497,-28.3567677,149.05452,-,-,-,Rural,Rural,True,0,m2,False
+2017796746,listing,/35-garah-street-thallon-qld-4497-2017796746,92000,is-sold,Sold by private treaty 31 May 2022,20220531,35 Garah Street,THALLON,QLD,4497,-28.6382675,148.866119,2,1,-,House,House,False,1012,m2,False
+2017809866,listing,/lot-517-brosnan-street-daymar-qld-4497-2017809866,5000,is-sold,Sold by private treaty 17 Jun 2022,20220617,Lot 517 Brosnan Street,DAYMAR,QLD,4497,-28.6061554,148.987411,-,-,-,VacantLand,Vacant land,False,1012,m2,False

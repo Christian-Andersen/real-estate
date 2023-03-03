@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018318942,listing,/50-crescent-road-waratah-nsw-2298-2018318942,920000,is-sold,Sold by private treaty 28 Feb 2023,20230228,50 Crescent Road,WARATAH,NSW,2298,-32.91206,151.722321,4,1,2,House,House,False,474,m2,False
 2018361899,listing,/140-edith-street-waratah-nsw-2298-2018361899,785000,is-sold,Sold by private treaty 01 Mar 2023,20230301,140 Edith Street,WARATAH,NSW,2298,-32.90664,151.719086,3,1,2,House,House,False,443,m2,False
+2018265962,listing,/22-schroder-avenue-waratah-nsw-2298-2018265962,870500,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Schroder Avenue,WARATAH,NSW,2298,-32.9069481,151.717712,3,1,1,House,House,False,499,m2,False

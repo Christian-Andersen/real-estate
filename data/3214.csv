@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018318499,listing,/34-buffalo-avenue-corio-vic-3214-2018318499,570000,is-sold,Sold by private treaty 27 Feb 2023,20230227,34 Buffalo Avenue,CORIO,VIC,3214,-38.07408,144.3669,3,1,4,House,House,False,613,m2,False
 2018210718,listing,/2-50-camellia-crescent-norlane-vic-3214-2018210718,450000,is-sold,Sold by private treaty 02 Mar 2023,20230302,2/50 Camellia Crescent,NORLANE,VIC,3214,-38.0866241,144.364456,3,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,215,m2,False
+2018155764,listing,/77-79-station-street-norlane-vic-3214-2018155764,850000,is-sold,Sold by private treaty 03 Mar 2023,20230303,77-79 Station Street,NORLANE,VIC,3214,-38.0923538,144.365753,6,2,4,House,House,False,1238,m2,False
+2018370605,listing,/39-camellia-crescent-norlane-vic-3214-2018370605,410000,is-sold,Sold by private treaty 03 Mar 2023,20230303,39 Camellia Crescent,NORLANE,VIC,3214,-38.0855179,144.363556,2,1,2,House,House,False,792,m2,False

@@ -1,1 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2013232446,listing,/-jarley-street-jundah-qld-4736-2013232446,Price Withheld,is-sold,Sold by private treaty 31 Jan 2017,20170131,. Jarley Street,JUNDAH,QLD,4736,-24.8824844,144.078217,1,1,-,House,House,False,0,m2,False
+2015183241,listing,/2326-jundah-longreach-road-jundah-qld-4736-2015183241,800000,is-sold,Sold by private treaty 09 Sep 2019,20190909,2326 Jundah-Longreach Road,JUNDAH,QLD,4736,-24.3185463,143.461655,1,1,-,Rural,Rural,True,17000,ha,False
+2015267651,listing,/romula-jundah-qld-4736-2015267651,Price Withheld,is-sold,Sold by private treaty 05 May 2021,20210505,Romula,JUNDAH,QLD,4736,-25.1189175,143.218048,-,-,-,Rural,Rural,True,3344.29,ha,False
+2015480544,listing,/jundah-qld-4736-2015480544,Price Withheld,is-sold,Sold by private treaty 13 Oct 2019,20191013,,JUNDAH,QLD,4736,-25.1189175,143.218048,-,-,-,Rural,Rural,True,27700,ha,False
+2017496200,listing,/7-morehead-street-jundah-qld-4736-2017496200,6000,is-sold,Sold at auction 05 Sep 2021,20210905,7 Morehead Street,JUNDAH,QLD,4736,-24.8312569,143.063568,-,-,-,VacantLand,Vacant land,False,2023,m2,False

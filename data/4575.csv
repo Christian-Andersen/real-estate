@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018166025,listing,/1-111-pacific-boulevard-buddina-qld-4575-2018166025,1600000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1/111 Pacific Boulevard,BUDDINA,QLD,4575,-26.7050056,153.134842,4,3,1,House,House,False,751,m2,False
 2018299470,listing,/7-alkira-street-buddina-qld-4575-2018299470,1130000,is-sold,Sold by private treaty 01 Mar 2023,20230301,7 Alkira Street,BUDDINA,QLD,4575,-26.6901531,153.133377,4,2,2,House,House,False,506,m2,False
+2018182307,listing,/28-prime-parade-birtinya-qld-4575-2018182307,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,28 Prime Parade,BIRTINYA,QLD,4575,-26.7499065,153.11676,4,2,2,House,House,False,313,m2,False

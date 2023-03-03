@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018045072,listing,/13-gum-tree-close-clarence-town-nsw-2321-2018045072,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,13 Gum Tree Close,CLARENCE TOWN,NSW,2321,-32.5841942,151.777313,-,-,-,Rural,Rural,True,9712,m2,False
+2018195399,listing,/22-young-street-heddon-greta-nsw-2321-2018195399,410000,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Young Street,HEDDON GRETA,NSW,2321,-32.80236,151.507736,-,-,-,VacantLand,Vacant land,False,800,m2,False

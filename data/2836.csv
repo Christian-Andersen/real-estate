@@ -1,1 +1,8 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011995208,listing,/83-reid-street-wilcannia-nsw-2836-2011995208,85000,is-sold,Sold by private treaty 23 Jun 2015,20150623,83 Reid Street,WILCANNIA,NSW,2836,-31.5625572,143.375961,2,1,-,House,House,False,0,m2,False
+2013401018,listing,/-mount-kew-wilcannia-nsw-2836-2013401018,4500000,is-sold,Sold at auction 28 Mar 2017,20170328,* Mount Kew,WILCANNIA,NSW,2836,-31.5586,143.378,-,-,-,Farm,Farm,False,0,m2,False
+2014662477,listing,/rosewood-station-wilcannia-nsw-2836-2014662477,3056630,is-sold,Sold at auction 20 Nov 2018,20181120,Rosewood Station,WILCANNIA,NSW,2836,-31.6535473,144.268417,4,1,-,Rural,Rural,True,27348.41,ha,False
+2015220971,listing,/riverside-station-wilcannia-nsw-2836-2015220971,1300000,is-sold,Sold at auction 18 Jun 2019,20190618,Riverside Station,WILCANNIA,NSW,2836,-31.55876,143.377975,5,1,-,Rural,Rural,True,7689.03,ha,False
+2015432196,listing,/-moorabin-wilcannia-nsw-2836-2015432196,455000,is-sold,Sold at auction 24 Aug 2019,20190824,* Moorabin,WILCANNIA,NSW,2836,-31.556181,143.3786,-,-,-,Farm,Farm,True,0,m2,False
+2015917344,listing,/58-hood-street-wilcannia-nsw-2836-2015917344,75000,is-sold,Sold 23 Aug 2021,20210823,58 Hood Street,WILCANNIA,NSW,2836,-31.55584,143.377518,3,1,2,House,House,False,1012,m2,False
+2017729185,listing,/-atley-wilcannia-nsw-2836-2017729185,615000,is-sold,Sold at auction 28 Sep 2022,20220928,* ATLEY,WILCANNIA,NSW,2836,-31.5589886,143.378448,-,-,-,Farm,Farm,True,258,ha,False

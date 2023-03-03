@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012706922,listing,/10a-dean-crescent-ermington-nsw-2115-2012706922,1059000,is-sold,Sold by private treaty 22 Apr 2016,20160422,10A Dean Crescent,ERMINGTON,NSW,2115,-33.8064,151.068222,4,2,3,House,House,False,552,m2,False
 2012710155,listing,/2-64-spurway-street-ermington-nsw-2115-2012710155,Price Withheld,is-sold,Sold at auction 27 Apr 2016,20160427,2/64 Spurway Street,ERMINGTON,NSW,2115,-33.8149948,151.056519,3,2,2,Villa,Villa,False,0,m2,False
 2012710540,listing,/7a-vignes-street-ermington-nsw-2115-2012710540,1385000,is-sold,Sold by private treaty 21 Apr 2016,20160421,7A Vignes Street,ERMINGTON,NSW,2115,-33.8067322,151.057083,4,2,1,SemiDetached,Semi-Detached,False,0,m2,False
+2018311397,listing,/8b-ulm-street-ermington-nsw-2115-2018311397,1275000,is-sold,Sold at auction 01 Mar 2023,20230301,8B Ulm Street,ERMINGTON,NSW,2115,-33.8094254,151.05217,3,2,4,Duplex,Duplex,False,0,m2,False

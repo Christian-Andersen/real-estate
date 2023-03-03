@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018314826,listing,/226-180-alexandra-parade-alexandra-headland-qld-4572-2018314826,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,226/180 Alexandra Parade,ALEXANDRA HEADLAND,QLD,4572,-26.67046,153.107468,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018046410,listing,/49-24-wirraway-street-alexandra-headland-qld-4572-2018046410,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,49/24 Wirraway Street,ALEXANDRA HEADLAND,QLD,4572,-26.66443,153.102982,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

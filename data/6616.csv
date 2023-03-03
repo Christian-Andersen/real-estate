@@ -1,1 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2012837281,listing,/15-richards-street-latham-wa-6616-2012837281,Price Withheld,is-sold,Sold by private treaty 06 Jun 2016,20160606,15 Richards Street,LATHAM,WA,6616,-29.7589645,116.443581,3,1,-,House,House,False,0,m2,False
+2013373282,listing,/17-chapple-st-latham-wa-6616-2013373282,57730,is-sold,Sold by private treaty 21 Nov 2017,20171121,17 Chapple St,LATHAM,WA,6616,-29.7567368,116.441826,1,1,-,House,House,True,1.69,ha,False
+2013685272,listing,/latham-wa-6616-2013685272,Price Withheld,is-sold,Sold by private treaty 14 Feb 2018,20180214,,LATHAM,WA,6616,-29.757513,116.443443,-,-,-,Rural,Rural,False,0,m2,False
+2013999902,listing,/20-chapple-street-latham-wa-6616-2013999902,Price Withheld,is-sold,Sold by private treaty 21 Jan 2018,20180121,20 Chapple Street,LATHAM,WA,6616,-29.75664,116.442978,4,1,1,House,House,False,0,m2,False
+2015431683,listing,/lot-7112-wubin-mullewa-road-latham-wa-6616-2015431683,Price Withheld,is-sold,Sold by private treaty 16 Aug 2019,20190816,Lot 7112 Wubin Mullewa Road,LATHAM,WA,6616,-29.7522182,116.442604,-,-,-,Rural,Rural,True,1017.78,ha,False

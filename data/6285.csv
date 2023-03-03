@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018237295,listing,/22-stoneman-street-margaret-river-wa-6285-2018237295,630000,is-sold,Sold by private treaty 01 Mar 2023,20230301,22 Stoneman Street,MARGARET RIVER,WA,6285,-33.9627953,115.085571,3,2,2,House,House,False,612,m2,False
+2018051392,listing,/11-le-souef-street-margaret-river-wa-6285-2018051392,780000,is-sold,Sold by private treaty 03 Mar 2023,20230303,11 Le Souef Street,MARGARET RIVER,WA,6285,-33.9495163,115.0772,4,1,2,House,House,False,1012,m2,False

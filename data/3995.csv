@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018310751,listing,/194-graham-street-wonthaggi-vic-3995-2018310751,690000,is-sold,Sold by private treaty 28 Feb 2023,20230228,194 GRAHAM Street,WONTHAGGI,VIC,3995,-38.6062965,145.586517,2,2,2,Townhouse,Townhouse,False,303,m2,False
 2017715804,listing,/76-whalebone-boulevard-wonthaggi-vic-3995-2017715804,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,76 Whalebone Boulevard,WONTHAGGI,VIC,3995,-38.6051331,145.590759,-,-,-,VacantLand,Vacant land,False,460,m2,False
+2018272438,listing,/66-watt-street-wonthaggi-vic-3995-2018272438,575000,is-sold,Sold by private treaty 03 Mar 2023,20230303,66 Watt Street,WONTHAGGI,VIC,3995,-38.6067734,145.593216,3,1,1,House,House,False,772,m2,False

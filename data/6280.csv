@@ -1,3 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018277387,listing,/pl-2-103-adelaide-street-busselton-wa-6280-2018277387,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,"PL 2, 103 Adelaide Street",BUSSELTON,WA,6280,-33.6456757,115.352669,-,-,-,VacantLand,Vacant land,False,371,m2,False
 2018165832,listing,/4-homestead-promenade-west-busselton-wa-6280-2018165832,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,4 Homestead Promenade,WEST BUSSELTON,WA,6280,-33.66954,115.308434,4,2,2,House,House,False,0,m2,False
+2018302323,listing,/8-black-duck-court-broadwater-wa-6280-2018302323,635000,is-sold,Sold by private treaty 03 Mar 2023,20230303,8 Black Duck Court,BROADWATER,WA,6280,-33.66251,115.295959,4,2,2,House,House,False,771,m2,False
+2018287083,listing,/10-henry-willmott-drive-geographe-wa-6280-2018287083,270000,is-sold,Sold by private treaty 03 Mar 2023,20230303,10 Henry Willmott Drive,GEOGRAPHE,WA,6280,-33.642952,115.367989,-,-,-,VacantLand,Vacant land,False,648,m2,False
+2018315574,listing,/37-silver-gull-court-geographe-wa-6280-2018315574,480000,is-sold,Sold by private treaty 03 Mar 2023,20230303,37 Silver Gull Court,GEOGRAPHE,WA,6280,-33.64146,115.369522,4,2,1,House,House,False,470,m2,False

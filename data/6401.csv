@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2016343386,listing,/1a-cody-street-northam-wa-6401-2016343386,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,1A Cody Street,NORTHAM,WA,6401,-31.6596184,116.678436,-,-,-,VacantLand,Vacant land,False,430,m2,False
 2018238380,listing,/5-cody-street-northam-wa-6401-2018238380,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Cody Street,NORTHAM,WA,6401,-31.6598873,116.678154,4,2,3,House,House,False,837,m2,False
+2018107986,listing,/29-burnside-avenue-northam-wa-6401-2018107986,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,29 Burnside Avenue,NORTHAM,WA,6401,-31.6596127,116.672615,3,1,-,House,House,False,906,m2,False
+2018266104,listing,/1-cody-street-northam-wa-6401-2018266104,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,1 Cody Street,NORTHAM,WA,6401,-31.6596184,116.678436,3,1,1,House,House,False,838,m2,False

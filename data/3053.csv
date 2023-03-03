@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2017179531,listing,/carlton-vic-3053-2017179531,920000,is-sold,Sold by private treaty 01 Mar 2023,20230301,,CARLTON,VIC,3053,-37.8001,144.9671,3,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2017220248,listing,/carlton-vic-3053-2017220248,640000,is-sold,Sold by private treaty 28 Feb 2023,20230228,,CARLTON,VIC,3053,-37.8001,144.9671,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018329645,listing,/968-488-swanston-street-carlton-vic-3053-2018329645,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,968/488 Swanston Street,CARLTON,VIC,3053,-37.8055649,144.963379,2,1,-,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

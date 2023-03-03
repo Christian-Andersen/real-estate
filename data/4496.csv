@@ -1,1 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2007483143,listing,/talwood-qld-4496-2007483143,Price Withheld,is-sold,Sold by private treaty 09 Sep 2009,20090909,,TALWOOD,QLD,4496,-28.4855461,149.464737,3,1,4,House,House,False,1004,m2,False
+2008729096,listing,/60-recreation-st-talwood-qld-4496-2008729096,165000,is-sold,Sold by private treaty 18 Mar 2011,20110318,60 Recreation St,TALWOOD,QLD,4496,-28.4859619,149.4652,4,1,2,House,House,False,0,m2,False
+2009223307,listing,/35-main-st-talwood-qld-4496-2009223307,90000,is-sold,Sold by private treaty 14 Oct 2011,20111014,35 Main St,TALWOOD,QLD,4496,-28.4852467,149.468,3,1,1,House,House,False,2023,m2,False
+2012950342,listing,/8-rae-street-talwood-qld-4496-2012950342,Price Withheld,is-sold,Sold by private treaty 07 Jun 2017,20170607,8 Rae Street,TALWOOD,QLD,4496,-28.4872379,149.4715,-,-,-,VacantLand,Vacant land,False,1012,m2,False
+2013391287,listing,/clifford-park-talwood-qld-4496-2013391287,Price Withheld,is-sold,Sold by private treaty 03 Nov 2017,20171103,Clifford Park,TALWOOD,QLD,4496,-28.4923248,149.481369,-,-,-,Rural,Rural,False,0,m2,False

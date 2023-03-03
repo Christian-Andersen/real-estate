@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018346532,listing,/1735-point-nepean-road-capel-sound-vic-3940-2018346532,1370000,is-sold,Sold by private treaty 28 Feb 2023,20230228,1735 Point Nepean Road,CAPEL SOUND,VIC,3940,-38.365963,144.868027,4,1,4,House,House,False,929,m2,False
 2018337301,listing,/6-whimbrel-court-capel-sound-vic-3940-2018337301,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,6 Whimbrel Court,CAPEL SOUND,VIC,3940,-38.3780441,144.880066,3,2,4,House,House,False,866,m2,False
+2018138543,listing,/1-38-florence-avenue-capel-sound-vic-3940-2018138543,605000,is-sold,Sold by private treaty 02 Mar 2023,20230302,1/38 Florence Avenue,CAPEL SOUND,VIC,3940,-38.36954,144.865234,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,127,m2,False

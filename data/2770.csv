@@ -5,3 +5,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018322094,listing,/45-tasman-avenue-lethbridge-park-nsw-2770-2018322094,570000,is-sold,Sold at auction 01 Mar 2023,20230301,45 Tasman Avenue,LETHBRIDGE PARK,NSW,2770,-33.73574,150.804764,3,1,-,House,House,False,575,m2,False
 2018351446,listing,/30-sedgman-crescent-shalvey-nsw-2770-2018351446,710000,is-sold,Sold by private treaty 01 Mar 2023,20230301,30 Sedgman Crescent,SHALVEY,NSW,2770,-33.7250175,150.815674,3,1,2,House,House,False,592,m2,False
 2018321791,listing,/36-kurama-crescent-whalan-nsw-2770-2018321791,555000,is-sold,Sold at auction 01 Mar 2023,20230301,36 Kurama Crescent,WHALAN,NSW,2770,-33.75437,150.8134,3,1,-,House,House,False,562,m2,False
+2018360818,listing,/8-27-ropes-creek-road-mount-druitt-nsw-2770-2018360818,652000,is-sold,Sold by private treaty 03 Mar 2023,20230303,8/27 Ropes Creek Road,MOUNT DRUITT,NSW,2770,-33.7740135,150.80983,3,2,2,Villa,Villa,False,205,m2,False

@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018290491,listing,/39-balmerino-drive-carina-qld-4152-2018290491,1120000,is-sold,Sold by private treaty 27 Feb 2023,20230227,39 Balmerino Drive,CARINA,QLD,4152,-27.4768677,153.0887,3,2,2,House,House,False,653,m2,False
+2018352575,listing,/20-quebec-avenue-camp-hill-qld-4152-2018352575,Price Withheld,is-sold,Sold prior to auction 03 Mar 2023,20230303,20 Quebec Avenue,CAMP HILL,QLD,4152,-27.4834633,153.085754,4,2,4,House,House,False,971,m2,False

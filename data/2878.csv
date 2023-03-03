@@ -1,1 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2013708420,listing,/2529-teryawynia-road-ivanhoe-nsw-2878-2013708420,Price Withheld,is-sold,Sold at auction 23 Aug 2017,20170823,2529 Teryawynia Road,IVANHOE,NSW,2878,-32.10901,143.388229,-,-,-,Rural,Rural,True,16213.3,ha,False
+2014641794,listing,/-eurella-ivanhoe-nsw-2878-2014641794,4400000,is-sold,Sold by private treaty 01 Aug 2019,20190801,. Eurella,IVANHOE,NSW,2878,-32.6241035,144.281158,-,-,-,Farm,Farm,True,0,m2,False
+2015634991,listing,/17599-cobar-ivanhoe-road-ivanhoe-nsw-2878-2015634991,Price Withheld,is-sold,Sold by private treaty 05 Oct 2020,20201005,17599 Cobar Ivanhoe Road,IVANHOE,NSW,2878,-32.71419,144.817032,-,-,-,Farm,Farm,True,27058,ha,False
+2016312421,listing,/-kiama-ivanhoe-nsw-2878-2016312421,1400000,is-sold,Sold by private treaty 15 Oct 2020,20201015,* Kiama,IVANHOE,NSW,2878,-32.90315,144.3029,-,-,-,Farm,Farm,True,0,m2,False
+2016503631,listing,/40-leichhardt-street-ivanhoe-nsw-2878-2016503631,22000,is-sold,Sold by private treaty 14 Oct 2020,20201014,40 Leichhardt Street,IVANHOE,NSW,2878,-32.8969154,144.302917,2,1,-,House,House,False,2000,m2,False
+2016851732,listing,/lot-1826-teryawynia-coolaminyah-road-ivanhoe-nsw-2878-2016851732,1168272,is-sold,Sold at auction 13 May 2021,20210513,Lot 1826 Teryawynia Coolaminyah Road,IVANHOE,NSW,2878,-32.5258179,143.656,-,-,-,Rural,Rural,True,2954.89,ha,False

@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018370737,listing,/41-sussex-street-yarraville-vic-3013-2018370737,497500,is-sold,Sold by private treaty 28 Feb 2023,20230228,41 Sussex Street,YARRAVILLE,VIC,3013,-37.8198929,144.890976,2,1,-,House,House,False,0,m2,False
 2018046235,listing,/6-cecil-street-yarraville-vic-3013-2018046235,1145000,is-sold,Sold by private treaty 01 Mar 2023,20230301,6 Cecil Street,YARRAVILLE,VIC,3013,-37.8141556,144.8826,3,1,-,House,House,False,0,m2,False
+2018326204,listing,/72-benbow-street-yarraville-vic-3013-2018326204,1270000,is-sold,Sold prior to auction 03 Mar 2023,20230303,72 Benbow Street,YARRAVILLE,VIC,3013,-37.8218422,144.874649,4,3,2,Townhouse,Townhouse,False,0,m2,False

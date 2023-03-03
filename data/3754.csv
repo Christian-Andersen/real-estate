@@ -3,3 +3,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018238563,listing,/8-sligo-street-doreen-vic-3754-2018238563,706000,is-sold,Sold by private treaty 01 Mar 2023,20230301,8 Sligo Street,DOREEN,VIC,3754,-37.6109352,145.112045,4,2,2,House,House,False,448,m2,False
 2018383815,listing,/22-lockhart-street-mernda-vic-3754-2018383815,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,22 Lockhart Street,MERNDA,VIC,3754,-37.5853539,145.085312,4,2,2,House,House,False,0,m2,False
 2018356951,listing,/35-stourhead-avenue-mernda-vic-3754-2018356951,617000,is-sold,Sold by private treaty 01 Mar 2023,20230301,35 Stourhead Avenue,MERNDA,VIC,3754,-37.5971642,145.093216,3,2,2,House,House,False,300,m2,False
+2018314439,listing,/7-ragusa-terrace-mernda-vic-3754-2018314439,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,7 Ragusa Terrace,MERNDA,VIC,3754,-37.60385,145.072311,4,2,2,House,House,False,375,m2,False
+2018350079,listing,/4-hodgson-rise-mernda-vic-3754-2018350079,906000,is-sold,Sold by private treaty 03 Mar 2023,20230303,4 Hodgson Rise,MERNDA,VIC,3754,-37.5904045,145.087463,4,2,4,House,House,False,662,m2,False

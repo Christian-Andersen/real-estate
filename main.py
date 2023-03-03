@@ -1,12 +1,9 @@
-import time
 import os
 import csv
 import atexit
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.firefox.service import Service
-from webdriver_manager.firefox import GeckoDriverManager
 
 
 def add_column(group, header):
@@ -55,7 +52,7 @@ def value_to_row(value):
     except:
         row.append('-')
     address = value['listingModel']['address']
-    row.append(add_column(address, 'street'))
+    row.append(add_column(address, 'street').replace('\n', ' '))
     row.append(add_column(address, 'suburb'))
     row.append(add_column(address, 'state'))
     row.append(add_column(address, 'postcode'))
@@ -101,30 +98,27 @@ header = [
     'isRetirement'
 ]
 
+# File Check
+for filename in os.listdir('data'):
+    path = os.path.join('data', filename)
+    for line in open(path, 'r', encoding='utf-8'):
+        if not line.startswith('id'):
+            int(line[:10])
 # Get information from the data folder
 ids = {}
 postcodes = {}
 for file in os.listdir('data'):
     path = os.path.join('data', file)
-    oldest = datetime.now().strftime('%Y%m%d')
-    with open(path, 'r', newline='') as f:
+    with open(path, 'r', newline='', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
-            if row[0] == 'id':
-                continue
-            elif row[0] in ids:
-                print('Dupe id found: ', row[0])
-                if ids[row[0]] != row[2]:
-                    print(row[0])
-                    print(ids[row[0]])
-                    print(row[2])
-                    raise KeyError("url mismatch for same id")
-            else:
-                ids[row[0]] = row[2]
+            if row[0] != 'id':
+                if row[0] in ids:
+                    print('Dupe ID found')
+                else:
+                    ids[row[0]] = row[2]
             date = row[6]
-            if date < oldest:
-                oldest = date
-    postcodes[file.split('.')[0]] = int(oldest)
+    postcodes[file.split('.')[0]] = os.path.getsize(path)
 print('Total Properties:', len(ids))
 print('Total Postcodes:', len(postcodes))
 
@@ -132,7 +126,7 @@ print('Total Postcodes:', len(postcodes))
 mainpage = 'https://www.domain.com.au/sold-listings/'
 webpages = [mainpage]
 while True:
-    postcode = max(postcodes, key=postcodes.get) # type: ignore
+    postcode = min(postcodes, key=postcodes.get) # type: ignore
     webpages.append(mainpage+'?postcode='+postcode)
     postcodes.pop(postcode)
     if len(postcodes) == 0:
@@ -142,67 +136,36 @@ print('Total Webpages:', len(webpages))
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
-service = Service(GeckoDriverManager().install())
-driver = webdriver.Firefox(options=options, service=service)
+driver = webdriver.Firefox(options=options)
 atexit.register(driver.quit)
 
 # Scrape them
 for webpage in webpages:
     print('Webpage:', webpage)
-    i = 1
-    adjust = 1
-    while True:
+    for i in range(1, 51):
         if '?' in webpage:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
         print('Page:', i, '\t', 'Properties:', len(ids), '\t'+site)
-        failed_get_site = True
-        for _ in range(10):
-            try:
-                driver.get(site)
-                failed_get_site = False
-                break
-            except Exception as e:
-                print(e)
-        if failed_get_site:
-            continue
+        driver.get(site)
         html_content = driver.page_source
         if 'No exact matches' in html_content:
-            property_dictionary = {}
-            if adjust == 1:
-                i = 50
-        else:
-            property_dictionary = html_to_dict(html_content)
-            dupes = 0
-            for value in property_dictionary.values():
-                if str(value['id']) in ids:
-                    if ids[str(value['id'])] != value['listingModel']['url']:
-                        print(str(value['id']))
-                        print(ids[str(value['id'])])
-                        print(value['listingModel']['url'])
-                        raise KeyError("url mismatch for same id")
-                    dupes += 1
-                    if dupes == 20:
-                        if (adjust == -1):
-                            i = 1
-                        elif i != 50:
-                            i = 51
-                            adjust = -1
-                        break
-                    continue
-                postcode = value['listingModel']['address']['postcode']
-                file = os.path.join('data', postcode+'.csv')
-                if not os.path.isfile(file):
-                    with open(file, 'w', newline='', encoding="utf-8") as f:
-                        w = csv.writer(f)
-                        w.writerow(header)
-                ids[str(value['id'])] = value['listingModel']['url']
-                row = value_to_row(value)
-                with open(file, 'a', newline='', encoding="utf-8") as f:
-                    w = csv.writer(f)
-                    w.writerow(row)
-            print('Dupes:', dupes)
-        if ((i == 50) and (adjust == 1)) or ((i == 1) and (adjust == -1)):
             break
-        i += adjust
+        property_dictionary = html_to_dict(html_content)
+        for value in property_dictionary.values():
+            if str(value['id']) in ids:
+                continue
+            postcode = value['listingModel']['address']['postcode']
+            file = os.path.join('data', postcode+'.csv')
+            if not os.path.isfile(file):
+                with open(file, 'w', newline='', encoding="utf-8") as f:
+                    w = csv.writer(f)
+                    w.writerow(header)
+            ids[str(value['id'])] = value['listingModel']['url']
+            row = value_to_row(value)
+            with open(file, 'a', newline='', encoding="utf-8") as f:
+                w = csv.writer(f)
+                w.writerow(row)
+    with open('done.txt', 'a') as f:
+        f.write(webpage+'\n')

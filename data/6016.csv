@@ -1,2 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018291040,listing,/8-dunedin-street-mount-hawthorn-wa-6016-2018291040,842000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8 Dunedin street,MOUNT HAWTHORN,WA,6016,-31.92273,115.845123,3,1,1,House,House,False,271,m2,False
+2018130373,listing,/26-fairfield-street-mount-hawthorn-wa-6016-2018130373,1100000,is-sold,Sold by private treaty 03 Mar 2023,20230303,26 Fairfield Street,MOUNT HAWTHORN,WA,6016,-31.9233246,115.840233,2,1,2,House,House,False,582,m2,False
+2018298233,listing,/79-lynton-street-mount-hawthorn-wa-6016-2018298233,1555000,is-sold,Sold by private treaty 03 Mar 2023,20230303,79 Lynton Street,MOUNT HAWTHORN,WA,6016,-31.91967,115.828445,4,3,2,House,House,False,395,m2,False
+2018302227,listing,/119-shakespeare-street-mount-hawthorn-wa-6016-2018302227,1300000,is-sold,Sold by private treaty 03 Mar 2023,20230303,119 Shakespeare Street,MOUNT HAWTHORN,WA,6016,-31.916832,115.841896,3,2,2,House,House,False,445,m2,False

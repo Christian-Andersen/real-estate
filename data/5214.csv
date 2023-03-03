@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018358681,listing,/12-golding-street-goolwa-beach-sa-5214-2018358681,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,12 Golding Street,GOOLWA BEACH,SA,5214,-35.5157623,138.771973,4,2,2,House,House,False,710,m2,False
+2018366932,listing,/2-philip-court-goolwa-north-sa-5214-2018366932,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,2 Philip Court,GOOLWA NORTH,SA,5214,-35.4931641,138.805023,4,2,4,House,House,False,1390,m2,False

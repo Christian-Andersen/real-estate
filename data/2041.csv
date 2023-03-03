@@ -998,3 +998,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016050024,listing,/8-booth-street-balmain-nsw-2041-2016050024,1900000,is-sold,Sold by private treaty 12 Dec 2019,20191212,8 Booth Street,BALMAIN,NSW,2041,-33.86018,151.182129,3,1,-,House,House,False,0,m2,False
 2016265642,listing,/balmain-nsw-2041-2016265642,6025000,is-sold,Sold by private treaty 08 Jan 2020,20200108,,BALMAIN,NSW,2041,-33.85895,151.179062,5,3,3,House,House,False,887,m2,False
 2018296400,listing,/p205-22-colgate-avenue-balmain-nsw-2041-2018296400,775000,is-sold,Sold by private treaty 28 Feb 2023,20230228,P205/22 Colgate Avenue,BALMAIN,NSW,2041,-33.85675,151.1876,-,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018372178,listing,/1-thames-street-balmain-nsw-2041-2018372178,1700000,is-sold,Sold prior to auction 03 Mar 2023,20230303,1 Thames Street,BALMAIN,NSW,2041,-33.8568726,151.183548,2,1,-,House,House,False,76,m2,False
+2018338278,listing,/63-birchgrove-road-balmain-nsw-2041-2018338278,Price Withheld,is-sold,Sold prior to auction 02 Mar 2023,20230302,63 Birchgrove Road,BALMAIN,NSW,2041,-33.8542328,151.176483,4,2,1,House,House,False,0,m2,False

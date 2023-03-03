@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011009833,listing,/gordon-nsw-2072-2011009833,Price Withheld,is-sold,Sold by private treaty 21 Feb 2014,20140221,,GORDON,NSW,2072,-33.7555161,151.15213,3,3,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018113692,listing,/1-highlands-avenue-gordon-nsw-2072-2018113692,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,1 Highlands Avenue,GORDON,NSW,2072,-33.74955,151.154114,4,3,2,House,House,False,0,m2,False
 2018298642,listing,/42-mcintosh-street-gordon-nsw-2072-2018298642,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,42 McIntosh Street,GORDON,NSW,2072,-33.7562752,151.160187,6,4,4,House,House,False,1600,m2,False
+2018359482,listing,/17-nelson-street-gordon-nsw-2072-2018359482,Price Withheld,is-sold,Sold prior to auction 03 Mar 2023,20230303,17 Nelson Street,GORDON,NSW,2072,-33.75552,151.159027,4,3,2,House,House,False,1424,m2,False

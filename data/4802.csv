@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018361006,listing,/13-159-shingley-drive-cannonvale-qld-4802-2018361006,550000,is-sold,Sold by private treaty 01 Mar 2023,20230301,13/159 Shingley Drive,CANNONVALE,QLD,4802,-20.2695351,148.707062,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018186277,listing,/17-warruga-street-cannonvale-qld-4802-2018186277,550000,is-sold,Sold by private treaty 01 Mar 2023,20230301,17 Warruga Street,CANNONVALE,QLD,4802,-20.2818661,148.69429,3,2,2,House,House,False,1126,m2,False
+2018291028,listing,/13-macona-crescent-cannonvale-qld-4802-2018291028,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,13 Macona Crescent,CANNONVALE,QLD,4802,-20.2807,148.7031,5,3,3,House,House,False,848,m2,False

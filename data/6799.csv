@@ -1,1 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2013473507,listing,/1-123-nelson-mandela-walk-cocos-keeling-islands-wa-6799-2013473507,Price Withheld,is-sold,Sold by private treaty 23 Mar 2022,20220323,1/123 Nelson Mandela Walk,COCOS KEELING ISLANDS,WA,6799,-12.1887007,96.82939,2,1,-,Villa,Villa,False,0,m2,False
+2014572793,listing,/315-buffet-close-cocos-keeling-islands-wa-6799-2014572793,510000,is-sold,Sold by private treaty 17 Feb 2021,20210217,315 Buffet Close,COCOS KEELING ISLANDS,WA,6799,-12.1887131,96.8294,2,1,-,House,House,False,0,m2,False
+2015941506,listing,/1-qantas-close-cocos-keeling-islands-wa-6799-2015941506,1400000,is-sold,Sold by private treaty 25 Feb 2021,20210225,1 Qantas Close,COCOS KEELING ISLANDS,WA,6799,-12.1887007,96.82939,3,2,-,House,House,False,0,m2,False
+2017034909,listing,/23-buffett-close-cocos-keeling-islands-wa-6799-2017034909,200000,is-sold,Sold by private treaty 31 May 2021,20210531,23 Buffett Close,COCOS KEELING ISLANDS,WA,6799,-12.1887007,96.82939,-,-,-,VacantLand,Vacant land,False,981,m2,False

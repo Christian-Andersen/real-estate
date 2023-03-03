@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018320305,listing,/751-diddillibah-road-diddillibah-qld-4559-2018320305,1201000,is-sold,Sold at auction 27 Feb 2023,20230227,751 Diddillibah Road,DIDDILLIBAH,QLD,4559,-26.6467648,153.03299,4,2,3,House,House,False,4167,m2,False
 2018229504,listing,/1-28-campbell-street-woombye-qld-4559-2018229504,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,1/28 Campbell Street,WOOMBYE,QLD,4559,-26.65953,152.966248,3,1,1,Duplex,Duplex,False,0,m2,False
+2017889587,listing,/26-38-david-low-way-diddillibah-qld-4559-2017889587,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,26/38 David Low Way,DIDDILLIBAH,QLD,4559,-26.6446457,153.052124,2,1,1,BlockOfUnits,Block of Units,False,70,m2,False

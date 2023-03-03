@@ -1,3 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018249350,listing,/9-235-ferndale-crescent-ferndale-wa-6148-2018249350,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,9/235 Ferndale Crescent,FERNDALE,WA,6148,-32.0327225,115.927155,4,2,2,House,House,False,0,m2,False
 2018164084,listing,/5-briar-place-ferndale-wa-6148-2018164084,508000,is-sold,Sold by private treaty 28 Feb 2023,20230228,5 Briar Place,FERNDALE,WA,6148,-32.0293961,115.936058,3,1,1,House,House,False,887,m2,False
+2018205617,listing,/7-liseron-way-ferndale-wa-6148-2018205617,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,7 Liseron Way,FERNDALE,WA,6148,-32.0276871,115.925529,4,2,3,House,House,False,684,m2,False

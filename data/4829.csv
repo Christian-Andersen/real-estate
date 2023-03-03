@@ -1,1 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011133584,listing,/21-pituri-and-burke-street-boulia-qld-4829-2011133584,25000,is-sold,Sold by private treaty 19 Aug 2014,20140819,21 Pituri and Burke Street,BOULIA,QLD,4829,-22.9125729,139.911819,-,-,-,VacantLand,Vacant land,False,2023,m2,False
+2011138241,listing,/59-moonah-hamilton-street-boulia-qld-4829-2011138241,15000,is-sold,Sold by private treaty 03 Jul 2014,20140703,59 Moonah & Hamilton Street,BOULIA,QLD,4829,-22.9089165,139.902481,-,-,-,VacantLand,Vacant land,False,2023,m2,False
+2012750450,listing,/-westward-ho-boulia-qld-4829-2012750450,Price Withheld,is-sold,Sold at auction 03 Jun 2016,20160603,. Westward Ho,BOULIA,QLD,4829,-22.9112854,139.909531,-,-,-,Rural,Rural,False,0,m2,False
+2013457920,listing,/19-templeton-street-boulia-qld-4829-2013457920,10000,is-sold,Sold by private treaty 08 May 2017,20170508,19 Templeton Street,BOULIA,QLD,4829,-22.9089432,139.912,-,-,-,VacantLand,Vacant land,False,2023,m2,False
+2017797808,listing,/capewell-road-boulia-qld-4829-2017797808,275000,is-sold,Sold by private treaty 20 Jan 2023,20230120,Capewell Road,BOULIA,QLD,4829,-22.9033871,139.91893,2,2,10,House,House,True,3.59,ha,False

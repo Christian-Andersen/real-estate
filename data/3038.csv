@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018335529,listing,/28-akma-court-taylors-lakes-vic-3038-2018335529,907000,is-sold,Sold by private treaty 28 Feb 2023,20230228,28 Akma Court,TAYLORS LAKES,VIC,3038,-37.70741,144.795654,4,2,2,House,House,False,854,m2,False
+2018282062,listing,/13-nordic-avenue-taylors-lakes-vic-3038-2018282062,980000,is-sold,Sold by private treaty 03 Mar 2023,20230303,13 Nordic Avenue,TAYLORS LAKES,VIC,3038,-37.69799,144.7996,4,2,2,House,House,False,720,m2,False

@@ -1,1 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2010943159,listing,/36-willoughby-st-yaninee-sa-5653-2010943159,65000,is-sold,Sold by private treaty 26 Nov 2015,20151126,36 Willoughby St,YANINEE,SA,5653,-32.9469833,135.274551,3,1,2,House,House,False,1000,m2,False
+2013245317,listing,/48-mitchell-road-yaninee-sa-5653-2013245317,180000,is-sold,Sold by private treaty 09 Apr 2019,20190409,48 Mitchell Road,YANINEE,SA,5653,-32.95331,135.276276,-,3,-,Rural,Rural,True,16,ha,False
+2013691573,listing,/27691-eyre-highway-yaninee-sa-5653-2013691573,Price Withheld,is-sold,Sold by private treaty 25 Sep 2017,20170925,27691 Eyre Highway,YANINEE,SA,5653,-32.94881,135.273071,3,1,-,AcreageSemiRural,Acreage / Semi-Rural,False,0,m2,False
+2017506369,listing,/2517-port-kenny-road-yaninee-sa-5653-2017506369,302500,is-sold,Sold by private treaty 27 Apr 2022,20220427,2517 Port Kenny Road,YANINEE,SA,5653,-33.01286,135.18309,-,-,-,NewLand,New land,True,965.98,ha,False

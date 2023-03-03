@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018029047,listing,/lot-216-warrah-drive-tamworth-nsw-2340-2018029047,185000,is-sold,Sold by private treaty 28 Feb 2023,20230228,Lot 216 Warrah Drive,TAMWORTH,NSW,2340,-31.0900383,150.929337,-,-,-,VacantLand,Vacant land,False,700,m2,False
 2018358462,listing,/20-woodbry-crescent-tamworth-nsw-2340-2018358462,620000,is-sold,Sold by private treaty 28 Feb 2023,20230228,20 Woodbry Crescent,TAMWORTH,NSW,2340,-31.0597038,150.8993,5,3,2,House,House,False,645,m2,False
+2018226628,listing,/23-edward-street-tamworth-nsw-2340-2018226628,420000,is-sold,Sold by private treaty 03 Mar 2023,20230303,23 Edward Street,TAMWORTH,NSW,2340,-31.1140823,150.91716,3,1,1,House,House,False,651,m2,False
+2018328843,listing,/6-horseshoe-place-tamworth-nsw-2340-2018328843,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Horseshoe Place,TAMWORTH,NSW,2340,-31.0133457,150.917313,6,3,4,House,House,True,2,ha,False

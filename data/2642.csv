@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018341405,listing,/106-huon-street-jindera-nsw-2642-2018341405,480000,is-sold,Sold at auction 01 Mar 2023,20230301,106 Huon Street,JINDERA,NSW,2642,-35.9551048,146.890045,4,2,4,House,House,False,916,m2,False
+2018357731,listing,/14-recreation-street-brocklesby-nsw-2642-2018357731,159000,is-sold,Sold by private treaty 02 Mar 2023,20230302,14 Recreation Street,BROCKLESBY,NSW,2642,-35.82571,146.67601,2,1,1,House,House,False,2057,m2,False

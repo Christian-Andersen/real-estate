@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010955766,listing,/67-mary-street-st-peters-nsw-2044-2010955766,830000,is-sold,Sold at auction 22 Feb 2014,20140222,67 Mary Street,ST PETERS,NSW,2044,-33.913723,151.173309,3,2,-,House,House,False,0,m2,False
 2010956191,listing,/82-grove-street-st-peters-nsw-2044-2010956191,895000,is-sold,Sold at auction 28 Feb 2014,20140228,82 Grove Street,ST PETERS,NSW,2044,-33.9144173,151.1712,2,2,1,House,House,False,0,m2,False
 2010956192,listing,/404-unwins-bridge-road-tempe-nsw-2044-2010956192,811000,is-sold,Sold at auction 28 Feb 2014,20140228,404 Unwins Bridge Road,TEMPE,NSW,2044,-33.9224052,151.158478,2,1,1,House,House,False,0,m2,False
+2018324316,listing,/50-barden-street-tempe-nsw-2044-2018324316,1289999,is-sold,Sold at auction 01 Mar 2023,20230301,50 Barden Street,TEMPE,NSW,2044,-33.9245872,151.162445,2,1,1,House,House,False,285,m2,False

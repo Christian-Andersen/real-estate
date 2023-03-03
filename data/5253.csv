@@ -1,2 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018265707,listing,/25-slade-street-murray-bridge-sa-5253-2018265707,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,25 Slade street,MURRAY BRIDGE,SA,5253,-35.1262321,139.269287,3,1,2,House,House,False,938,m2,False
+2018185208,listing,/7-verdun-road-murray-bridge-sa-5253-2018185208,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,7 Verdun Road,MURRAY BRIDGE,SA,5253,-35.12276,139.272476,4,1,5,House,House,False,0,m2,False
+2018336277,listing,/21-frances-street-murray-bridge-sa-5253-2018336277,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,21 Frances Street,MURRAY BRIDGE,SA,5253,-35.13732,139.283554,3,1,-,House,House,False,0,m2,False
+2018336278,listing,/4-clifford-street-murray-bridge-sa-5253-2018336278,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,4 Clifford Street,MURRAY BRIDGE,SA,5253,-35.14139,139.275818,3,1,1,Duplex,Duplex,False,651,m2,False

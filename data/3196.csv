@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018339239,listing,/5-village-crescent-chelsea-vic-3196-2018339239,718000,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Village Crescent,CHELSEA,VIC,3196,-38.04373,145.122314,3,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,398,m2,False
 2018343555,listing,/2-106-elsie-grove-edithvale-vic-3196-2018343555,1017500,is-sold,Sold by private treaty 01 Mar 2023,20230301,2/106 Elsie Grove,EDITHVALE,VIC,3196,-38.04204,145.12265,3,2,4,ApartmentUnitFlat,Apartment / Unit / Flat,False,271,m2,False
+2018359769,listing,/19-drinan-road-chelsea-vic-3196-2018359769,735000,is-sold,Sold at auction 03 Mar 2023,20230303,19 Drinan Road,CHELSEA,VIC,3196,-38.0507927,145.12027,2,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,259,m2,False
+2018394613,listing,/3-10-sherwood-avenue-chelsea-vic-3196-2018394613,750000,is-sold,Sold by private treaty 03 Mar 2023,20230303,3/10 Sherwood Avenue,CHELSEA,VIC,3196,-38.05401,145.119247,2,1,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

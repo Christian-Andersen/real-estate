@@ -1,1 +1,9 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2012853803,listing,/3098-gunyidi-wubin-road-gunyidi-wa-6513-2012853803,Price Withheld,is-sold,Sold by private treaty 22 Nov 2016,20161122,3098 Gunyidi Wubin Road,GUNYIDI,WA,6513,-30.1479034,116.348022,-,-,-,Rural,Rural,True,4816,ha,False
+2013161397,listing,/watheroo-wa-6513-2013161397,Price Withheld,is-sold,Sold by private treaty 20 Nov 2016,20161120,,WATHEROO,WA,6513,-30.37228,116.185791,-,-,-,VacantLand,Vacant land,False,3036,m2,False
+2014628561,listing,/3-george-street-watheroo-wa-6513-2014628561,Price Withheld,is-sold,Sold by private treaty 06 Aug 2019,20190806,3 George Street,WATHEROO,WA,6513,-30.2971573,116.058868,1,1,-,House,House,False,1012,m2,False
+2014768754,listing,/watheroo-wa-6513-2014768754,Price Withheld,is-sold,Sold by private treaty 21 Mar 2019,20190321,,WATHEROO,WA,6513,-30.37228,116.185791,-,-,-,Farm,Farm,True,718,ha,False
+2014931591,listing,/watheroo-wa-6513-2014931591,Price Withheld,is-sold,Sold by private treaty 20 May 2020,20200520,,WATHEROO,WA,6513,-30.2612972,116.068237,8,4,-,Farm,Farm,True,4331,ha,False
+2015625839,listing,/83-george-street-watheroo-wa-6513-2015625839,20000,is-sold,Sold by private treaty 17 Oct 2019,20191017,83 George Street,WATHEROO,WA,6513,-30.2971573,116.058868,3,2,-,House,House,False,3018,m2,False
+2015690342,listing,/watheroo-wa-6513-2015690342,Price Withheld,is-sold,Sold by private treaty 30 Oct 2019,20191030,,WATHEROO,WA,6513,-30.2612972,116.068237,-,-,-,Rural,Rural,True,0,m2,False
+2015979241,listing,/24-25-york-street-watheroo-wa-6513-2015979241,80000,is-sold,Sold by private treaty 17 Aug 2020,20200817,24-25 YORK Street,WATHEROO,WA,6513,-30.2988644,116.059845,4,2,6,House,House,False,2631,m2,False

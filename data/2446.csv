@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018077141,listing,/10-fenton-drive-king-creek-nsw-2446-2018077141,1200000,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Fenton Drive,KING CREEK,NSW,2446,-31.5060921,152.744843,5,3,5,AcreageSemiRural,Acreage / Semi-Rural,True,1.43,ha,False
+2018330688,listing,/15-princess-avenue-wauchope-nsw-2446-2018330688,605000,is-sold,Sold by private treaty 03 Mar 2023,20230303,15 Princess Avenue,WAUCHOPE,NSW,2446,-31.4532986,152.742,3,2,2,House,House,False,697,m2,False

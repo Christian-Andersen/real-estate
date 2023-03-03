@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018311225,listing,/8-wilson-street-hamilton-nsw-2303-2018311225,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,8 Wilson Street,HAMILTON,NSW,2303,-32.9207649,151.750549,3,2,2,House,House,False,250,m2,False
+2018376667,listing,/190-lindsay-street-hamilton-nsw-2303-2018376667,735000,is-sold,Sold by private treaty 03 Mar 2023,20230303,190 Lindsay Street,HAMILTON,NSW,2303,-32.92053,151.738815,2,1,1,House,House,False,213,m2,False

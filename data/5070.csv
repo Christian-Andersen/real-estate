@@ -1,2 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018219357,listing,/3-16-18-ryan-avenue-firle-sa-5070-2018219357,580000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3/16-18 Ryan Avenue,FIRLE,SA,5070,-34.90554,138.653046,3,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018360387,listing,/35-glenbrook-close-marden-sa-5070-2018360387,821000,is-sold,Sold by private treaty 03 Mar 2023,20230303,35 Glenbrook Close,MARDEN,SA,5070,-34.8905869,138.628738,3,2,2,House,House,False,0,m2,False

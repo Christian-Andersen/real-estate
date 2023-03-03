@@ -1,1 +1,8 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
+2011670688,listing,/3240-cleary-gabbin-rd-gabbin-wa-6476-2011670688,Price Withheld,is-sold,Sold at auction 18 Feb 2015,20150218,3240 Cleary-Gabbin Rd,GABBIN,WA,6476,-30.5347614,117.691437,-,-,-,Rural,Rural,True,18611.49,ha,False
+2011884616,listing,/lot-501-mandiga-marshall-rd-gabbin-wa-6476-2011884616,Price Withheld,is-sold,Sold by private treaty 13 May 2015,20150513,Lot 501 Mandiga-Marshall Rd,GABBIN,WA,6476,-30.8011589,117.674171,-,-,-,Rural,Rural,True,3277.95,ha,False
+2012169267,listing,/loc-1169-hiscox-rd-gabbin-wa-6476-2012169267,Price Withheld,is-sold,Sold by private treaty 03 Aug 2015,20150803,Loc 1169 Hiscox Rd,GABBIN,WA,6476,-30.627779,117.703995,-,-,-,Rural,Rural,True,2022.21,ha,False
+2012435812,listing,/gabbin-wa-6476-2012435812,340000,is-sold,Sold by private treaty 02 Jan 2017,20170102,,GABBIN,WA,6476,-30.8,117.683,-,-,-,Farm,Farm,True,792,ha,False
+2013819750,listing,/gabbin-wa-6476-2013819750,Price Withheld,is-sold,Sold by private treaty 10 Oct 2017,20171010,,GABBIN,WA,6476,-30.8,117.683,-,-,-,Farm,Farm,True,2826,ha,False
+2014508558,listing,/crnr-bencubbin-gabbin-rd-hiscox-rd-gabbin-wa-6476-2014508558,Price Withheld,is-sold,Sold by private treaty 25 Aug 2018,20180825,Crnr Bencubbin-Gabbin Rd & Hiscox Rd,GABBIN,WA,6476,-30.79655,117.731087,-,-,-,Farm,Farm,True,1203,ha,False
+2017185854,listing,/-south-block-gabbin-wa-6476-2017185854,Price Withheld,is-sold,Sold by private treaty 01 Mar 2022,20220301,". ""South Block""",GABBIN,WA,6476,-30.697279,117.690414,-,-,-,Rural,Rural,True,810.48,ha,False
