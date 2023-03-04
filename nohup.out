@@ -14397,3 +14397,18 @@ Traceback (most recent call last):
     <
     ^
 SyntaxError: invalid syntax
+Total Properties: 715597
+Total Postcodes: 2602
+Total Webpages: 2603
+Webpage: https://www.domain.com.au/sold-listings/
+Page: 1 	 Properties: 715597 	https://www.domain.com.au/sold-listings/?page=1
+Page: 2 	 Properties: 715617 	https://www.domain.com.au/sold-listings/?page=2
+Traceback (most recent call last):
+  File "/home/christian/c/real_estate/main.py", line 172, in <module>
+    property_dictionary = html_to_dict(html_content)
+  File "/home/christian/c/real_estate/main.py", line 36, in html_to_dict
+    return eval(s[start_index:end_index+1])
+  File "<string>", line 1
+    <
+    ^
+SyntaxError: invalid syntax

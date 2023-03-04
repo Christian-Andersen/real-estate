@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018297029,listing,/93-raeside-drive-landsdale-wa-6065-2018297029,640000,is-sold,Sold by private treaty 03 Mar 2023,20230303,93 Raeside Drive,LANDSDALE,WA,6065,-31.7973251,115.866852,3,2,2,House,House,False,420,m2,False
 2018263111,listing,/3-15-belcastro-way-madeley-wa-6065-2018263111,405000,is-sold,Sold by private treaty 03 Mar 2023,20230303,3/15 Belcastro Way,MADELEY,WA,6065,-31.8030663,115.819221,3,2,2,House,House,False,0,m2,False
 2018290810,listing,/5-carosa-road-tapping-wa-6065-2018290810,600000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Carosa Road,TAPPING,WA,6065,-31.7256241,115.799728,4,2,2,House,House,False,608,m2,False
+2018273040,listing,/105-carosa-road-ashby-wa-6065-2018273040,Price Withheld,is-sold,Sold by private treaty 04 Mar 2023,20230304,105 Carosa Road,ASHBY,WA,6065,-31.7345219,115.799507,4,2,4,House,House,False,607,m2,False

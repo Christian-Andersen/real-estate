@@ -997,3 +997,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013751949,listing,/73-dent-street-ashburton-vic-3147-2013751949,1815000,is-sold,Sold at auction 26 Aug 2017,20170826,73 Dent Street,ASHBURTON,VIC,3147,-37.86704,145.078033,3,2,2,House,House,False,748,m2,False
 2013760781,listing,/ashwood-vic-3147-2013760781,2460000,is-sold,Sold by private treaty 18 Aug 2017,20170818,,ASHWOOD,VIC,3147,-37.867,145.103,-,-,-,DevelopmentSite,Development Site,False,1185,m2,False
 2013776046,listing,/595-warrigal-road-ashwood-vic-3147-2013776046,1100000,is-sold,Sold by private treaty 18 Aug 2017,20170818,595 Warrigal Road,ASHWOOD,VIC,3147,-37.8705864,145.092316,3,1,1,House,House,False,733,m2,False
+2018334803,listing,/23-karnak-road-ashburton-vic-3147-2018334803,1768000,is-sold,Sold at auction 04 Mar 2023,20230304,23 Karnak Road,ASHBURTON,VIC,3147,-37.8722267,145.075027,3,1,2,House,House,False,696,m2,False
+2018353006,listing,/7-meaden-street-ashburton-vic-3147-2018353006,Price Withheld,is-sold,Sold at auction 04 Mar 2023,20230304,7 Meaden Street,ASHBURTON,VIC,3147,-37.86747,145.077911,3,1,2,House,House,False,602,m2,False
