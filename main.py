@@ -4,8 +4,7 @@ import atexit
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-
-os.chdir('/home/christian/c/real_estate')
+from selenium.webdriver.common.window import WindowTypes
 
 def add_column(group, header):
     """Returns '-' if the key 'header' does not excist in dict 'group'"""
@@ -125,7 +124,7 @@ print('Total Postcodes:', len(postcodes))
 
 # Use postcoes to create webpages to scrape
 mainpage = 'https://www.domain.com.au/sold-listings/'
-webpages = [mainpage]
+webpages = []
 while True:
     postcode = min(postcodes, key=postcodes.get) # type: ignore
     webpages.append(mainpage+'?postcode='+postcode)
@@ -143,7 +142,7 @@ options.add_argument('-headless')
 skip = []
 with open('done.txt', 'r') as f:
     for row in f:
-        skip.append(row[row.find('postcode=')+9:].rstrip())
+        skip.append(row.rstrip())
 skip = list(set(skip))
 
 # Scrape them
@@ -153,23 +152,39 @@ for webpage in webpages:
     if pc in skip:
         print('SKIPPED WEBPAGE')
         continue
-    for i in range(1, 51):
-        driver = webdriver.Firefox(options=options)
+    # Get the first webpage
+    driver = webdriver.Firefox(options=options)
+    driver.get(webpage)
+    atexit.register(driver.quit)
+    sites = [driver.page_source]
+    start_index = len('<strong>')+sites[0].find('<strong>')
+    end_index = sites[0].find('</strong>')
+    info = sites[0][start_index:end_index].split()
+    if info[1] in ['Property', 'Properties']:
+        number_of_properties = int(info[0])
+        number_of_pages = 1+(number_of_properties//20)
+        print('Number of pages:', number_of_pages)
+    else:
+        print('Failed to find number of properties')
+        raise KeyError
+    for i in range(2, min(51, number_of_pages+2)):
         if '?' in webpage:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
-        print('Page:', i, '\t', 'Properties:', len(ids), '\t'+site)
+        driver.switch_to.new_window(WindowTypes.TAB)
+        driver.execute_script(f"window.location.href = '{site}';")
+    for window_handle in driver.window_handles:
+        driver.switch_to.window(window_handle)
+        print(driver.current_url)
         while True:
-            try:
-                driver.get(site)
+            if 'No exact matches' in driver.page_source:
                 break
-            except:
-                print('--------FAILED TO GET SITE--------')
-        html_content = driver.page_source
-        if 'No exact matches' in html_content:
-            break
-        property_dictionary = html_to_dict(html_content)
+            if '"listingsMap":' in driver.page_source:
+                sites.append(driver.page_source)
+                break
+    for site in sites:
+        property_dictionary = html_to_dict(site)
         for value in property_dictionary.values():
             if str(value['id']) in ids:
                 continue
@@ -184,7 +199,7 @@ for webpage in webpages:
             with open(file, 'a', newline='', encoding="utf-8") as f:
                 w = csv.writer(f)
                 w.writerow(row)
-        driver.quit()
+    driver.quit()
     with open('done.txt', 'a') as f:
         if 'postcode=' in webpage:
             f.write(pc+'\n')
