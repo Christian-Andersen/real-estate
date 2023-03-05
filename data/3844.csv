@@ -5,3 +5,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018324717,listing,/29-murphy-crescent-traralgon-vic-3844-2018324717,303000,is-sold,Sold by private treaty 03 Mar 2023,20230303,29 Murphy Crescent,TRARALGON,VIC,3844,-38.2054443,146.557953,3,1,1,House,House,False,666,m2,False
 2018206010,listing,/11a-webb-street-traralgon-vic-3844-2018206010,449000,is-sold,Sold by private treaty 03 Mar 2023,20230303,11A Webb Street,TRARALGON,VIC,3844,-38.19773,146.518631,3,2,1,Townhouse,Townhouse,False,384,m2,False
 2018375648,listing,/4-allen-crescent-traralgon-vic-3844-2018375648,510000,is-sold,Sold by private treaty 03 Mar 2023,20230303,4 Allen Crescent,TRARALGON,VIC,3844,-38.2004471,146.552917,4,2,2,House,House,False,616,m2,False
+2018246063,listing,/9-whittakers-road-traralgon-vic-3844-2018246063,335000,is-sold,Sold by private treaty 03 Mar 2023,20230303,9 Whittakers Road,TRARALGON,VIC,3844,-38.1986732,146.54364,2,1,1,House,House,False,768,m2,False

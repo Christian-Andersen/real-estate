@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018327761,listing,/38-crown-street-sebastopol-vic-3356-2018327761,460000,is-sold,Sold by private treaty 14 Feb 2023,20230214,38 Crown Street,SEBASTOPOL,VIC,3356,-37.6006966,143.827667,3,2,2,House,House,False,380,m2,False
 2018331204,listing,/26-darling-street-sebastopol-vic-3356-2018331204,612000,is-sold,Sold by private treaty 17 Feb 2023,20230217,26 Darling Street,SEBASTOPOL,VIC,3356,-37.6057777,143.845581,4,2,2,House,House,False,650,m2,False
 2018277574,listing,/44-smythes-road-delacombe-vic-3356-2018277574,600000,is-sold,Sold by private treaty 03 Mar 2023,20230303,44 Smythes Road,DELACOMBE,VIC,3356,-37.58794,143.819534,3,1,4,House,House,False,749,m2,False
+2018172340,listing,/21-grana-drive-delacombe-vic-3356-2018172340,530000,is-sold,Sold by private treaty 03 Mar 2023,20230303,21 Grana Drive,DELACOMBE,VIC,3356,-37.5874825,143.820953,3,1,7,House,House,False,646,m2,False

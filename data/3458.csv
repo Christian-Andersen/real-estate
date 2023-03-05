@@ -936,3 +936,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007616070,listing,/20-bluemount-rd-trentham-vic-3458-2007616070,265000,is-sold,Sold by private treaty 27 Apr 2009,20090427,20 Bluemount Rd,TRENTHAM,VIC,3458,-37.3893623,144.326,3,1,-,House,House,False,0,m2,False
 2007677505,listing,/9-lelant-st-trentham-vic-3458-2007677505,430000,is-sold,Sold by private treaty 17 Mar 2009,20090317,9 Lelant St,TRENTHAM,VIC,3458,-37.3864136,144.319244,2,2,2,House,House,False,0,m2,False
 2007723967,listing,/20-groves-st-trentham-vic-3458-2007723967,Price Withheld,is-sold,Sold by private treaty 15 Apr 2009,20090415,20 Groves St,TRENTHAM,VIC,3458,-37.395134,144.323242,3,2,2,House,House,False,1100,m2,False
+2018324099,listing,/2-matheson-street-trentham-vic-3458-2018324099,1975000,is-sold,Sold at auction 04 Mar 2023,20230304,2 Matheson Street,TRENTHAM,VIC,3458,-37.3925323,144.328827,2,1,2,House,House,False,17000,m2,False

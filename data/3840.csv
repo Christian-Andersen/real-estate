@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018283335,listing,/1-donald-street-morwell-vic-3840-2018283335,370000,is-sold,Sold by private treaty 14 Feb 2023,20230214,1 Donald Street,MORWELL,VIC,3840,-38.23183,146.409592,3,2,-,House,House,False,638,m2,False
 2018287397,listing,/7-alamein-street-morwell-vic-3840-2018287397,Price Withheld,is-sold,Sold by private treaty 10 Feb 2023,20230210,7 Alamein Street,MORWELL,VIC,3840,-38.2326164,146.4176,3,1,2,House,House,False,735,m2,False
 2018295952,listing,/14-buna-street-morwell-vic-3840-2018295952,268000,is-sold,Sold by private treaty 10 Feb 2023,20230210,14 Buna Street,MORWELL,VIC,3840,-38.2348061,146.42131,2,1,2,House,House,False,663,m2,False
+2018097468,listing,/120-vary-street-morwell-vic-3840-2018097468,Price Withheld,is-sold,Sold by private treaty 04 Mar 2023,20230304,120 vary Street,MORWELL,VIC,3840,-38.2240028,146.426041,3,1,1,House,House,False,0,m2,False

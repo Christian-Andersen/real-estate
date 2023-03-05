@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014824618,listing,/3-3a-meru-place-st-clair-nsw-2759-2014824618,750000,is-sold,Sold by private treaty 21 Dec 2018,20181221,3 & 3a Meru Place,ST CLAIR,NSW,2759,-33.8057251,150.79303,5,2,2,House,House,False,634,m2,False
 2014840291,listing,/18-cook-parade-st-clair-nsw-2759-2014840291,694500,is-sold,Sold by private treaty 07 Jan 2019,20190107,18 Cook Parade,ST CLAIR,NSW,2759,-33.799366,150.777664,3,2,2,House,House,False,636,m2,False
 2018030588,listing,/14-sunndal-close-st-clair-nsw-2759-2018030588,950000,is-sold,Sold by private treaty 03 Mar 2023,20230303,14 Sunndal Close,ST CLAIR,NSW,2759,-33.8029556,150.774887,4,2,6,House,House,False,626,m2,False
+2018349519,listing,/12-como-close-st-clair-nsw-2759-2018349519,910000,is-sold,Sold by private treaty 03 Mar 2023,20230303,12 Como Close,ST CLAIR,NSW,2759,-33.79978,150.773254,3,2,1,House,House,False,677,m2,False

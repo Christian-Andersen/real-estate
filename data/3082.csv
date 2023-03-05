@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015875967,listing,/39-cunningham-drive-mill-park-vic-3082-2015875967,625000,is-sold,Sold at auction 07 Dec 2019,20191207,39 Cunningham Drive,MILL PARK,VIC,3082,-37.66195,145.064743,3,1,2,House,House,False,595,m2,False
 2015880702,listing,/87-prince-of-wales-avenue-mill-park-vic-3082-2015880702,585000,is-sold,Sold at auction 07 Dec 2019,20191207,87 Prince Of Wales Avenue,MILL PARK,VIC,3082,-37.6540222,145.046951,3,1,2,House,House,False,557,m2,False
 2015904137,listing,/56-woolnough-drive-mill-park-vic-3082-2015904137,510500,is-sold,Sold at auction 03 Dec 2019,20191203,56 Woolnough Drive,MILL PARK,VIC,3082,-37.65759,145.041519,2,1,1,House,House,False,0,m2,False
+2018320514,listing,/18-centenary-drive-mill-park-vic-3082-2018320514,750000,is-sold,Sold at auction 04 Mar 2023,20230304,18 Centenary Drive,MILL PARK,VIC,3082,-37.6558266,145.062988,6,5,2,House,House,False,605,m2,False

@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014839975,listing,/6-3-orient-avenue-mitcham-vic-3132-2014839975,450000,is-sold,Sold by private treaty 23 Jan 2019,20190123,6/3 Orient Avenue,MITCHAM,VIC,3132,-37.82668,145.195709,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2015839687,listing,/5-the-glade-mitcham-vic-3132-2015839687,840000,is-sold,Sold by private treaty 11 Jan 2019,20190111,5 The Glade,MITCHAM,VIC,3132,-37.8089638,145.20047,4,2,2,House,House,False,656,m2,False
 2018345103,listing,/22-peel-st-mitcham-vic-3132-2018345103,1360000,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Peel St,MITCHAM,VIC,3132,-37.81592,145.18924,3,2,2,House,House,False,647,m2,False
+2018334929,listing,/13-glen-road-mitcham-vic-3132-2018334929,1330000,is-sold,Sold at auction 04 Mar 2023,20230304,13 Glen Road,MITCHAM,VIC,3132,-37.8106842,145.196518,4,2,2,House,House,False,644,m2,False

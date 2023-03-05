@@ -1,3 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018200382,listing,/g12-373-377-burwood-highway-burwood-vic-3125-2018200382,420000,is-sold,Sold by private treaty 27 Feb 2023,20230227,G12/373-377 Burwood Highway,BURWOOD,VIC,3125,-37.851368,145.129532,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018343069,listing,/3-7-mccubbin-street-burwood-vic-3125-2018343069,870000,is-sold,Sold at auction 03 Mar 2023,20230303,3/7 Mccubbin Street,BURWOOD,VIC,3125,-37.85456,145.130432,3,1,2,Townhouse,Townhouse,False,246,m2,False
+2018218096,listing,/1a-inverness-avenue-burwood-vic-3125-2018218096,Price Withheld,is-sold,Sold at auction 04 Mar 2023,20230304,1A Inverness Avenue,BURWOOD,VIC,3125,-37.84578,145.1203,3,2,2,House,House,False,291,m2,False
+2018346632,listing,/1-18-carmody-street-burwood-vic-3125-2018346632,993000,is-sold,Sold at auction 04 Mar 2023,20230304,1/18 Carmody Street,BURWOOD,VIC,3125,-37.85727,145.1101,3,2,2,House,House,False,0,m2,False

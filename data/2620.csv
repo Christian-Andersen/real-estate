@@ -5,3 +5,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018022971,listing,/85-valley-drive-royalla-nsw-2620-2018022971,2000000,is-sold,Sold by private treaty 01 Mar 2023,20230301,85 Valley Drive,ROYALLA,NSW,2620,-35.53058,149.172974,2,2,4,House,House,False,0,m2,False
 2018310748,listing,/14-warner-street-googong-nsw-2620-2018310748,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,14 Warner Street,GOOGONG,NSW,2620,-35.4312973,149.225388,4,2,2,VacantLand,Vacant land,False,443,m2,False
 2018296544,listing,/47-hellmund-street-queanbeyan-nsw-2620-2018296544,710000,is-sold,Sold by private treaty 03 Mar 2023,20230303,47 Hellmund Street,QUEANBEYAN,NSW,2620,-35.3590927,149.207016,3,1,2,House,House,False,665,m2,False
+2018325433,listing,/1-mason-street-googong-nsw-2620-2018325433,Price Withheld,is-sold,Sold at auction 04 Mar 2023,20230304,1 Mason Street,GOOGONG,NSW,2620,-35.42842,149.236115,4,2,2,House,House,False,400,m2,False

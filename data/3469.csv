@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017732195,listing,/lot-1-high-street-elmhurst-vic-3469-2017732195,135000,is-sold,Sold by private treaty 21 Oct 2022,20221021,Lot 1 High Street,ELMHURST,VIC,3469,-37.1793976,143.249161,-,-,-,VacantLand,Vacant land,False,4046,m2,False
 2018069145,listing,/glenpatrick-vic-3469-2018069145,Price Withheld,is-sold,Sold by private treaty 11 Nov 2022,20221111,,GLENPATRICK,VIC,3469,-37.13333,143.316666,-,-,-,VacantLand,Vacant land,True,8.09,ha,False
 2018216236,listing,/12-emery-track-glenpatrick-vic-3469-2018216236,Price Withheld,is-sold,Sold by private treaty 01 Feb 2023,20230201,12 Emery Track,GLENPATRICK,VIC,3469,-37.1262665,143.3472,5,2,-,Rural,Rural,True,7.14,ha,False
+2018096472,listing,/5-high-street-elmhurst-vic-3469-2018096472,80000,is-sold,Sold by private treaty 04 Mar 2023,20230304,5 High Street,ELMHURST,VIC,3469,-37.1814346,143.252045,-,-,-,VacantLand,Vacant land,False,2043,m2,False

@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014298772,listing,/3-253-the-river-road-revesby-nsw-2212-2014298772,767000,is-sold,Sold at auction 05 May 2018,20180505,3/253 The River Road,REVESBY,NSW,2212,-33.96157,151.0167,3,1,1,Villa,Villa,False,0,m2,False
 2014300069,listing,/18-simmons-street-revesby-nsw-2212-2014300069,1230000,is-sold,Sold by private treaty 01 May 2018,20180501,18 Simmons Street,REVESBY,NSW,2212,-33.949604,151.015182,3,2,3,House,House,False,0,m2,False
 2014303922,listing,/101-hydrae-street-revesby-nsw-2212-2014303922,1180000,is-sold,Sold at auction 05 May 2018,20180505,101 Hydrae Street,REVESBY,NSW,2212,-33.962986,151.019714,3,1,1,House,House,False,1021,m2,False
+2018345672,listing,/3-11-tompson-road-revesby-nsw-2212-2018345672,855000,is-sold,Sold by private treaty 03 Mar 2023,20230303,3 / 11 Tompson Road,REVESBY,NSW,2212,-33.9606133,151.015228,3,2,2,House,House,False,0,m2,False

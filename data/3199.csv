@@ -9,3 +9,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018279375,listing,/7-ronald-avenue-frankston-south-vic-3199-2018279375,1400000,is-sold,Sold by private treaty 01 Mar 2023,20230301,7 Ronald Avenue,FRANKSTON SOUTH,VIC,3199,-38.16323,145.1061,4,2,2,House,House,False,480,m2,False
 2018333390,listing,/1-saltbush-glade-frankston-vic-3199-2018333390,645000,is-sold,Sold by private treaty 03 Mar 2023,20230303,1 Saltbush Glade,FRANKSTON,VIC,3199,-38.1366119,145.149933,3,1,2,House,House,False,409,m2,False
 2018349665,listing,/9-lefevre-court-frankston-vic-3199-2018349665,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,9 Lefevre Court,FRANKSTON,VIC,3199,-38.1718979,145.153824,3,2,2,House,House,False,681,m2,False
+2018345892,listing,/20-jacana-avenue-frankston-vic-3199-2018345892,644000,is-sold,Sold at auction 04 Mar 2023,20230304,20 Jacana Avenue,FRANKSTON,VIC,3199,-38.1417274,145.1435,4,1,4,House,House,False,603,m2,False

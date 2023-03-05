@@ -899,3 +899,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007783674,listing,/bulli-nsw-2516-2007783674,511000,is-sold,Sold by private treaty 15 Jul 2009,20090715,,BULLI,NSW,2516,-34.3253021,150.905548,4,2,2,House,House,False,0,m2,False
 2007845662,listing,/bulli-nsw-2516-2007845662,495000,is-sold,Sold by private treaty 12 Jun 2009,20090612,,BULLI,NSW,2516,-34.3318253,150.902557,3,2,2,House,House,False,0,m2,False
 2007847100,listing,/bulli-nsw-2516-2007847100,555000,is-sold,Sold by private treaty 09 Jul 2009,20090709,,BULLI,NSW,2516,-34.3263741,150.907776,4,2,2,House,House,False,0,m2,False
+2018351418,listing,/27-organs-road-bulli-nsw-2516-2018351418,1775000,is-sold,Sold by private treaty 03 Mar 2023,20230303,27 Organs Road,BULLI,NSW,2516,-34.33526,150.909256,3,2,1,House,House,False,826,m2,False

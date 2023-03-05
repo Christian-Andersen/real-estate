@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011112858,listing,/30-lae-rd-holsworthy-nsw-2173-2011112858,535000,is-sold,Sold at auction 03 May 2014,20140503,30 Lae Rd,HOLSWORTHY,NSW,2173,-33.96041,150.946823,3,1,1,House,House,False,575,m2,False
 2011117360,listing,/16-morton-court-wattle-grove-nsw-2173-2011117360,590000,is-sold,Sold 07 May 2014,20140507,16 Morton Court,WATTLE GROVE,NSW,2173,-33.9595566,150.944672,3,1,2,House,House,False,0,m2,False
 2011145324,listing,/37-mubo-crescent-holsworthy-nsw-2173-2011145324,550000,is-sold,Sold at auction 06 May 2014,20140506,37 Mubo Crescent,HOLSWORTHY,NSW,2173,-33.95986,150.949142,3,1,1,House,House,False,581,m2,False
+2018203453,listing,/3-21-margate-avenue-holsworthy-nsw-2173-2018203453,800000,is-sold,Sold by private treaty 03 Mar 2023,20230303,3/21 Margate Avenue,HOLSWORTHY,NSW,2173,-33.96063,150.958389,3,2,2,Townhouse,Townhouse,False,0,m2,False

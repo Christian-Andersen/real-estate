@@ -5,3 +5,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018279146,listing,/39-cressbrook-circuit-deebing-heights-qld-4306-2018279146,693000,is-sold,Sold by private treaty 03 Mar 2023,20230303,39 Cressbrook Circuit,DEEBING HEIGHTS,QLD,4306,-27.66662,152.7575,4,2,2,House,House,False,453,m2,False
 2018279137,listing,/7-ebony-close-ripley-qld-4306-2018279137,705000,is-sold,Sold by private treaty 03 Mar 2023,20230303,7 Ebony Close,RIPLEY,QLD,4306,-27.67193,152.788864,4,2,2,House,House,False,574,m2,False
 2018322232,listing,/8-silky-oak-street-ripley-qld-4306-2018322232,697500,is-sold,Sold by private treaty 03 Mar 2023,20230303,8 Silky Oak Street,RIPLEY,QLD,4306,-27.67301,152.7907,4,2,2,House,House,False,495,m2,False
+2018248050,listing,/new-road-ripley-qld-4306-2018248050,293451,is-sold,Sold at auction 04 Mar 2023,20230304,New Road,RIPLEY,QLD,4306,-27.6678524,152.783478,3,2,1,NewHouseLand,New House & Land,False,315,m2,False

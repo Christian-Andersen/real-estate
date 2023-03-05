@@ -1,15 +1,553 @@
-Total Properties: 715617
+Total Properties: 715618
 Total Postcodes: 2602
 Total Webpages: 2603
 Webpage: https://www.domain.com.au/sold-listings/
-Page: 1 	 Properties: 715617 	https://www.domain.com.au/sold-listings/?page=1
-Page: 2 	 Properties: 715618 	https://www.domain.com.au/sold-listings/?page=2
-Traceback (most recent call last):
-  File "/home/christian/c/real_estate/main.py", line 172, in <module>
-    property_dictionary = html_to_dict(html_content)
-  File "/home/christian/c/real_estate/main.py", line 36, in html_to_dict
-    return eval(s[start_index:end_index+1])
-  File "<string>", line 1
-    <
-    ^
-SyntaxError: invalid syntax
+Page: 1 	 Properties: 715618 	https://www.domain.com.au/sold-listings/?page=1
+Page: 2 	 Properties: 715619 	https://www.domain.com.au/sold-listings/?page=2
+Page: 3 	 Properties: 715637 	https://www.domain.com.au/sold-listings/?page=3
+Page: 4 	 Properties: 715656 	https://www.domain.com.au/sold-listings/?page=4
+Page: 5 	 Properties: 715676 	https://www.domain.com.au/sold-listings/?page=5
+Page: 6 	 Properties: 715695 	https://www.domain.com.au/sold-listings/?page=6
+Page: 7 	 Properties: 715715 	https://www.domain.com.au/sold-listings/?page=7
+Page: 8 	 Properties: 715735 	https://www.domain.com.au/sold-listings/?page=8
+Page: 9 	 Properties: 715754 	https://www.domain.com.au/sold-listings/?page=9
+Page: 10 	 Properties: 715774 	https://www.domain.com.au/sold-listings/?page=10
+Page: 11 	 Properties: 715794 	https://www.domain.com.au/sold-listings/?page=11
+Page: 12 	 Properties: 715814 	https://www.domain.com.au/sold-listings/?page=12
+Page: 13 	 Properties: 715834 	https://www.domain.com.au/sold-listings/?page=13
+Page: 14 	 Properties: 715852 	https://www.domain.com.au/sold-listings/?page=14
+Page: 15 	 Properties: 715853 	https://www.domain.com.au/sold-listings/?page=15
+Page: 16 	 Properties: 715855 	https://www.domain.com.au/sold-listings/?page=16
+Page: 17 	 Properties: 715855 	https://www.domain.com.au/sold-listings/?page=17
+Page: 18 	 Properties: 715857 	https://www.domain.com.au/sold-listings/?page=18
+Page: 19 	 Properties: 715859 	https://www.domain.com.au/sold-listings/?page=19
+Page: 20 	 Properties: 715861 	https://www.domain.com.au/sold-listings/?page=20
+Page: 21 	 Properties: 715861 	https://www.domain.com.au/sold-listings/?page=21
+Page: 22 	 Properties: 715863 	https://www.domain.com.au/sold-listings/?page=22
+Page: 23 	 Properties: 715863 	https://www.domain.com.au/sold-listings/?page=23
+Page: 24 	 Properties: 715864 	https://www.domain.com.au/sold-listings/?page=24
+Page: 25 	 Properties: 715866 	https://www.domain.com.au/sold-listings/?page=25
+Page: 26 	 Properties: 715867 	https://www.domain.com.au/sold-listings/?page=26
+Page: 27 	 Properties: 715869 	https://www.domain.com.au/sold-listings/?page=27
+Page: 28 	 Properties: 715870 	https://www.domain.com.au/sold-listings/?page=28
+Page: 29 	 Properties: 715872 	https://www.domain.com.au/sold-listings/?page=29
+Page: 30 	 Properties: 715872 	https://www.domain.com.au/sold-listings/?page=30
+Page: 31 	 Properties: 715873 	https://www.domain.com.au/sold-listings/?page=31
+Page: 32 	 Properties: 715874 	https://www.domain.com.au/sold-listings/?page=32
+Page: 33 	 Properties: 715874 	https://www.domain.com.au/sold-listings/?page=33
+Page: 34 	 Properties: 715875 	https://www.domain.com.au/sold-listings/?page=34
+Page: 35 	 Properties: 715875 	https://www.domain.com.au/sold-listings/?page=35
+Page: 36 	 Properties: 715876 	https://www.domain.com.au/sold-listings/?page=36
+Page: 37 	 Properties: 715878 	https://www.domain.com.au/sold-listings/?page=37
+Page: 38 	 Properties: 715878 	https://www.domain.com.au/sold-listings/?page=38
+Page: 39 	 Properties: 715878 	https://www.domain.com.au/sold-listings/?page=39
+Page: 40 	 Properties: 715879 	https://www.domain.com.au/sold-listings/?page=40
+Page: 41 	 Properties: 715879 	https://www.domain.com.au/sold-listings/?page=41
+Page: 42 	 Properties: 715881 	https://www.domain.com.au/sold-listings/?page=42
+Page: 43 	 Properties: 715882 	https://www.domain.com.au/sold-listings/?page=43
+Page: 44 	 Properties: 715882 	https://www.domain.com.au/sold-listings/?page=44
+Page: 45 	 Properties: 715886 	https://www.domain.com.au/sold-listings/?page=45
+Page: 46 	 Properties: 715886 	https://www.domain.com.au/sold-listings/?page=46
+Page: 47 	 Properties: 715887 	https://www.domain.com.au/sold-listings/?page=47
+Page: 48 	 Properties: 715887 	https://www.domain.com.au/sold-listings/?page=48
+Page: 49 	 Properties: 715888 	https://www.domain.com.au/sold-listings/?page=49
+Page: 50 	 Properties: 715888 	https://www.domain.com.au/sold-listings/?page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6632
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6632&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6632&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6470
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6470&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6470&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6466
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6466&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6466&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=0862
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=0862&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=0862&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=3852
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=3852&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=3852&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6351
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6351&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6351&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5720
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5720&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5720&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4482
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4482&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4482&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6079
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6079&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6079&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6628
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6628&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6628&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6428
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6428&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6428&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6613
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6613&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6613&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6716
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6716&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6716&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5724
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5724&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5724&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5111
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5111&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5111&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4384
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4384&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4384&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2411
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2411&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2411&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6373
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6373&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6373&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5734
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5734&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5734&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6487
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6487&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6487&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6106
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6106&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6106&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6625
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6625&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6625&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6431
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6431&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6431&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2898
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2898&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2898&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6368
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6368&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6368&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4474
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4474&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4474&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6422
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6422&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6422&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6572
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6572&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6572&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4489
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4489&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4489&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=3596
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=3596&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=3596&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4733
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4733&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4733&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2387
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2387&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2387&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2398
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2398&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2398&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4481
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4481&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4481&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5160
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5160&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5160&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4724
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4724&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4724&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5732
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5732&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5732&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=3415
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=3415&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=3415&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4219
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4219&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=4219&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6635
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6635&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6635&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6447
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6447&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6447&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5733
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5733&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=5733&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2661
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2661&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2661&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=0872
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=0872&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=0872&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=6465
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6465&page=1
+Page: 2 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=6465&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2612
+Page: 1 	 Properties: 715892 	https://www.domain.com.au/sold-listings/?postcode=2612&page=1
+Page: 2 	 Properties: 715909 	https://www.domain.com.au/sold-listings/?postcode=2612&page=2
+Page: 3 	 Properties: 715929 	https://www.domain.com.au/sold-listings/?postcode=2612&page=3
+Page: 4 	 Properties: 715949 	https://www.domain.com.au/sold-listings/?postcode=2612&page=4
+Page: 5 	 Properties: 715969 	https://www.domain.com.au/sold-listings/?postcode=2612&page=5
+Page: 6 	 Properties: 715989 	https://www.domain.com.au/sold-listings/?postcode=2612&page=6
+Page: 7 	 Properties: 716009 	https://www.domain.com.au/sold-listings/?postcode=2612&page=7
+Page: 8 	 Properties: 716029 	https://www.domain.com.au/sold-listings/?postcode=2612&page=8
+Page: 9 	 Properties: 716049 	https://www.domain.com.au/sold-listings/?postcode=2612&page=9
+Page: 10 	 Properties: 716069 	https://www.domain.com.au/sold-listings/?postcode=2612&page=10
+Page: 11 	 Properties: 716089 	https://www.domain.com.au/sold-listings/?postcode=2612&page=11
+Page: 12 	 Properties: 716109 	https://www.domain.com.au/sold-listings/?postcode=2612&page=12
+Page: 13 	 Properties: 716129 	https://www.domain.com.au/sold-listings/?postcode=2612&page=13
+Page: 14 	 Properties: 716149 	https://www.domain.com.au/sold-listings/?postcode=2612&page=14
+Page: 15 	 Properties: 716169 	https://www.domain.com.au/sold-listings/?postcode=2612&page=15
+Page: 16 	 Properties: 716189 	https://www.domain.com.au/sold-listings/?postcode=2612&page=16
+Page: 17 	 Properties: 716209 	https://www.domain.com.au/sold-listings/?postcode=2612&page=17
+Page: 18 	 Properties: 716229 	https://www.domain.com.au/sold-listings/?postcode=2612&page=18
+Page: 19 	 Properties: 716249 	https://www.domain.com.au/sold-listings/?postcode=2612&page=19
+Page: 20 	 Properties: 716269 	https://www.domain.com.au/sold-listings/?postcode=2612&page=20
+Page: 21 	 Properties: 716289 	https://www.domain.com.au/sold-listings/?postcode=2612&page=21
+Page: 22 	 Properties: 716309 	https://www.domain.com.au/sold-listings/?postcode=2612&page=22
+Page: 23 	 Properties: 716329 	https://www.domain.com.au/sold-listings/?postcode=2612&page=23
+Page: 24 	 Properties: 716349 	https://www.domain.com.au/sold-listings/?postcode=2612&page=24
+Page: 25 	 Properties: 716369 	https://www.domain.com.au/sold-listings/?postcode=2612&page=25
+Page: 26 	 Properties: 716389 	https://www.domain.com.au/sold-listings/?postcode=2612&page=26
+Page: 27 	 Properties: 716409 	https://www.domain.com.au/sold-listings/?postcode=2612&page=27
+Page: 28 	 Properties: 716429 	https://www.domain.com.au/sold-listings/?postcode=2612&page=28
+Page: 29 	 Properties: 716449 	https://www.domain.com.au/sold-listings/?postcode=2612&page=29
+Page: 30 	 Properties: 716469 	https://www.domain.com.au/sold-listings/?postcode=2612&page=30
+Page: 31 	 Properties: 716489 	https://www.domain.com.au/sold-listings/?postcode=2612&page=31
+Page: 32 	 Properties: 716509 	https://www.domain.com.au/sold-listings/?postcode=2612&page=32
+Page: 33 	 Properties: 716529 	https://www.domain.com.au/sold-listings/?postcode=2612&page=33
+Page: 34 	 Properties: 716549 	https://www.domain.com.au/sold-listings/?postcode=2612&page=34
+Page: 35 	 Properties: 716569 	https://www.domain.com.au/sold-listings/?postcode=2612&page=35
+Page: 36 	 Properties: 716589 	https://www.domain.com.au/sold-listings/?postcode=2612&page=36
+Page: 37 	 Properties: 716609 	https://www.domain.com.au/sold-listings/?postcode=2612&page=37
+Page: 38 	 Properties: 716629 	https://www.domain.com.au/sold-listings/?postcode=2612&page=38
+Page: 39 	 Properties: 716648 	https://www.domain.com.au/sold-listings/?postcode=2612&page=39
+Page: 40 	 Properties: 716668 	https://www.domain.com.au/sold-listings/?postcode=2612&page=40
+Page: 41 	 Properties: 716688 	https://www.domain.com.au/sold-listings/?postcode=2612&page=41
+Page: 42 	 Properties: 716708 	https://www.domain.com.au/sold-listings/?postcode=2612&page=42
+Page: 43 	 Properties: 716728 	https://www.domain.com.au/sold-listings/?postcode=2612&page=43
+Page: 44 	 Properties: 716748 	https://www.domain.com.au/sold-listings/?postcode=2612&page=44
+Page: 45 	 Properties: 716768 	https://www.domain.com.au/sold-listings/?postcode=2612&page=45
+Page: 46 	 Properties: 716788 	https://www.domain.com.au/sold-listings/?postcode=2612&page=46
+Page: 47 	 Properties: 716808 	https://www.domain.com.au/sold-listings/?postcode=2612&page=47
+Page: 48 	 Properties: 716828 	https://www.domain.com.au/sold-listings/?postcode=2612&page=48
+Page: 49 	 Properties: 716848 	https://www.domain.com.au/sold-listings/?postcode=2612&page=49
+Page: 50 	 Properties: 716868 	https://www.domain.com.au/sold-listings/?postcode=2612&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2321
+Page: 1 	 Properties: 716888 	https://www.domain.com.au/sold-listings/?postcode=2321&page=1
+Page: 2 	 Properties: 716906 	https://www.domain.com.au/sold-listings/?postcode=2321&page=2
+Page: 3 	 Properties: 716926 	https://www.domain.com.au/sold-listings/?postcode=2321&page=3
+Page: 4 	 Properties: 716946 	https://www.domain.com.au/sold-listings/?postcode=2321&page=4
+Page: 5 	 Properties: 716966 	https://www.domain.com.au/sold-listings/?postcode=2321&page=5
+Page: 6 	 Properties: 716986 	https://www.domain.com.au/sold-listings/?postcode=2321&page=6
+Page: 7 	 Properties: 717006 	https://www.domain.com.au/sold-listings/?postcode=2321&page=7
+Page: 8 	 Properties: 717026 	https://www.domain.com.au/sold-listings/?postcode=2321&page=8
+Page: 9 	 Properties: 717046 	https://www.domain.com.au/sold-listings/?postcode=2321&page=9
+Page: 10 	 Properties: 717066 	https://www.domain.com.au/sold-listings/?postcode=2321&page=10
+Page: 11 	 Properties: 717086 	https://www.domain.com.au/sold-listings/?postcode=2321&page=11
+Page: 12 	 Properties: 717106 	https://www.domain.com.au/sold-listings/?postcode=2321&page=12
+Page: 13 	 Properties: 717126 	https://www.domain.com.au/sold-listings/?postcode=2321&page=13
+Page: 14 	 Properties: 717146 	https://www.domain.com.au/sold-listings/?postcode=2321&page=14
+Page: 15 	 Properties: 717166 	https://www.domain.com.au/sold-listings/?postcode=2321&page=15
+Page: 16 	 Properties: 717186 	https://www.domain.com.au/sold-listings/?postcode=2321&page=16
+Page: 17 	 Properties: 717206 	https://www.domain.com.au/sold-listings/?postcode=2321&page=17
+Page: 18 	 Properties: 717226 	https://www.domain.com.au/sold-listings/?postcode=2321&page=18
+Page: 19 	 Properties: 717246 	https://www.domain.com.au/sold-listings/?postcode=2321&page=19
+Page: 20 	 Properties: 717266 	https://www.domain.com.au/sold-listings/?postcode=2321&page=20
+Page: 21 	 Properties: 717286 	https://www.domain.com.au/sold-listings/?postcode=2321&page=21
+Page: 22 	 Properties: 717306 	https://www.domain.com.au/sold-listings/?postcode=2321&page=22
+Page: 23 	 Properties: 717326 	https://www.domain.com.au/sold-listings/?postcode=2321&page=23
+Page: 24 	 Properties: 717346 	https://www.domain.com.au/sold-listings/?postcode=2321&page=24
+Page: 25 	 Properties: 717366 	https://www.domain.com.au/sold-listings/?postcode=2321&page=25
+Page: 26 	 Properties: 717386 	https://www.domain.com.au/sold-listings/?postcode=2321&page=26
+Page: 27 	 Properties: 717406 	https://www.domain.com.au/sold-listings/?postcode=2321&page=27
+Page: 28 	 Properties: 717425 	https://www.domain.com.au/sold-listings/?postcode=2321&page=28
+Page: 29 	 Properties: 717445 	https://www.domain.com.au/sold-listings/?postcode=2321&page=29
+Page: 30 	 Properties: 717465 	https://www.domain.com.au/sold-listings/?postcode=2321&page=30
+Page: 31 	 Properties: 717485 	https://www.domain.com.au/sold-listings/?postcode=2321&page=31
+Page: 32 	 Properties: 717505 	https://www.domain.com.au/sold-listings/?postcode=2321&page=32
+Page: 33 	 Properties: 717525 	https://www.domain.com.au/sold-listings/?postcode=2321&page=33
+Page: 34 	 Properties: 717545 	https://www.domain.com.au/sold-listings/?postcode=2321&page=34
+Page: 35 	 Properties: 717565 	https://www.domain.com.au/sold-listings/?postcode=2321&page=35
+Page: 36 	 Properties: 717585 	https://www.domain.com.au/sold-listings/?postcode=2321&page=36
+Page: 37 	 Properties: 717605 	https://www.domain.com.au/sold-listings/?postcode=2321&page=37
+Page: 38 	 Properties: 717625 	https://www.domain.com.au/sold-listings/?postcode=2321&page=38
+Page: 39 	 Properties: 717645 	https://www.domain.com.au/sold-listings/?postcode=2321&page=39
+Page: 40 	 Properties: 717665 	https://www.domain.com.au/sold-listings/?postcode=2321&page=40
+Page: 41 	 Properties: 717685 	https://www.domain.com.au/sold-listings/?postcode=2321&page=41
+Page: 42 	 Properties: 717705 	https://www.domain.com.au/sold-listings/?postcode=2321&page=42
+Page: 43 	 Properties: 717725 	https://www.domain.com.au/sold-listings/?postcode=2321&page=43
+Page: 44 	 Properties: 717745 	https://www.domain.com.au/sold-listings/?postcode=2321&page=44
+Page: 45 	 Properties: 717765 	https://www.domain.com.au/sold-listings/?postcode=2321&page=45
+Page: 46 	 Properties: 717785 	https://www.domain.com.au/sold-listings/?postcode=2321&page=46
+Page: 47 	 Properties: 717805 	https://www.domain.com.au/sold-listings/?postcode=2321&page=47
+Page: 48 	 Properties: 717824 	https://www.domain.com.au/sold-listings/?postcode=2321&page=48
+Page: 49 	 Properties: 717844 	https://www.domain.com.au/sold-listings/?postcode=2321&page=49
+Page: 50 	 Properties: 717864 	https://www.domain.com.au/sold-listings/?postcode=2321&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=5107
+Page: 1 	 Properties: 717884 	https://www.domain.com.au/sold-listings/?postcode=5107&page=1
+Page: 2 	 Properties: 717902 	https://www.domain.com.au/sold-listings/?postcode=5107&page=2
+Page: 3 	 Properties: 717922 	https://www.domain.com.au/sold-listings/?postcode=5107&page=3
+Page: 4 	 Properties: 717942 	https://www.domain.com.au/sold-listings/?postcode=5107&page=4
+Page: 5 	 Properties: 717962 	https://www.domain.com.au/sold-listings/?postcode=5107&page=5
+Page: 6 	 Properties: 717982 	https://www.domain.com.au/sold-listings/?postcode=5107&page=6
+Page: 7 	 Properties: 718002 	https://www.domain.com.au/sold-listings/?postcode=5107&page=7
+Page: 8 	 Properties: 718022 	https://www.domain.com.au/sold-listings/?postcode=5107&page=8
+Page: 9 	 Properties: 718042 	https://www.domain.com.au/sold-listings/?postcode=5107&page=9
+Page: 10 	 Properties: 718062 	https://www.domain.com.au/sold-listings/?postcode=5107&page=10
+Page: 11 	 Properties: 718082 	https://www.domain.com.au/sold-listings/?postcode=5107&page=11
+Page: 12 	 Properties: 718102 	https://www.domain.com.au/sold-listings/?postcode=5107&page=12
+Page: 13 	 Properties: 718122 	https://www.domain.com.au/sold-listings/?postcode=5107&page=13
+Page: 14 	 Properties: 718142 	https://www.domain.com.au/sold-listings/?postcode=5107&page=14
+Page: 15 	 Properties: 718162 	https://www.domain.com.au/sold-listings/?postcode=5107&page=15
+Page: 16 	 Properties: 718182 	https://www.domain.com.au/sold-listings/?postcode=5107&page=16
+Page: 17 	 Properties: 718202 	https://www.domain.com.au/sold-listings/?postcode=5107&page=17
+Page: 18 	 Properties: 718222 	https://www.domain.com.au/sold-listings/?postcode=5107&page=18
+Page: 19 	 Properties: 718242 	https://www.domain.com.au/sold-listings/?postcode=5107&page=19
+Page: 20 	 Properties: 718262 	https://www.domain.com.au/sold-listings/?postcode=5107&page=20
+Page: 21 	 Properties: 718282 	https://www.domain.com.au/sold-listings/?postcode=5107&page=21
+Page: 22 	 Properties: 718302 	https://www.domain.com.au/sold-listings/?postcode=5107&page=22
+Page: 23 	 Properties: 718322 	https://www.domain.com.au/sold-listings/?postcode=5107&page=23
+Page: 24 	 Properties: 718342 	https://www.domain.com.au/sold-listings/?postcode=5107&page=24
+Page: 25 	 Properties: 718362 	https://www.domain.com.au/sold-listings/?postcode=5107&page=25
+Page: 26 	 Properties: 718382 	https://www.domain.com.au/sold-listings/?postcode=5107&page=26
+Page: 27 	 Properties: 718402 	https://www.domain.com.au/sold-listings/?postcode=5107&page=27
+Page: 28 	 Properties: 718422 	https://www.domain.com.au/sold-listings/?postcode=5107&page=28
+Page: 29 	 Properties: 718442 	https://www.domain.com.au/sold-listings/?postcode=5107&page=29
+Page: 30 	 Properties: 718462 	https://www.domain.com.au/sold-listings/?postcode=5107&page=30
+Page: 31 	 Properties: 718482 	https://www.domain.com.au/sold-listings/?postcode=5107&page=31
+Page: 32 	 Properties: 718502 	https://www.domain.com.au/sold-listings/?postcode=5107&page=32
+Page: 33 	 Properties: 718522 	https://www.domain.com.au/sold-listings/?postcode=5107&page=33
+Page: 34 	 Properties: 718542 	https://www.domain.com.au/sold-listings/?postcode=5107&page=34
+Page: 35 	 Properties: 718562 	https://www.domain.com.au/sold-listings/?postcode=5107&page=35
+Page: 36 	 Properties: 718582 	https://www.domain.com.au/sold-listings/?postcode=5107&page=36
+Page: 37 	 Properties: 718602 	https://www.domain.com.au/sold-listings/?postcode=5107&page=37
+Page: 38 	 Properties: 718622 	https://www.domain.com.au/sold-listings/?postcode=5107&page=38
+Page: 39 	 Properties: 718642 	https://www.domain.com.au/sold-listings/?postcode=5107&page=39
+Page: 40 	 Properties: 718662 	https://www.domain.com.au/sold-listings/?postcode=5107&page=40
+Page: 41 	 Properties: 718682 	https://www.domain.com.au/sold-listings/?postcode=5107&page=41
+Page: 42 	 Properties: 718702 	https://www.domain.com.au/sold-listings/?postcode=5107&page=42
+Page: 43 	 Properties: 718722 	https://www.domain.com.au/sold-listings/?postcode=5107&page=43
+Page: 44 	 Properties: 718742 	https://www.domain.com.au/sold-listings/?postcode=5107&page=44
+Page: 45 	 Properties: 718762 	https://www.domain.com.au/sold-listings/?postcode=5107&page=45
+Page: 46 	 Properties: 718782 	https://www.domain.com.au/sold-listings/?postcode=5107&page=46
+Page: 47 	 Properties: 718802 	https://www.domain.com.au/sold-listings/?postcode=5107&page=47
+Page: 48 	 Properties: 718822 	https://www.domain.com.au/sold-listings/?postcode=5107&page=48
+Page: 49 	 Properties: 718842 	https://www.domain.com.au/sold-listings/?postcode=5107&page=49
+Page: 50 	 Properties: 718862 	https://www.domain.com.au/sold-listings/?postcode=5107&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2315
+Page: 1 	 Properties: 718882 	https://www.domain.com.au/sold-listings/?postcode=2315&page=1
+Page: 2 	 Properties: 718900 	https://www.domain.com.au/sold-listings/?postcode=2315&page=2
+Page: 3 	 Properties: 718920 	https://www.domain.com.au/sold-listings/?postcode=2315&page=3
+Page: 4 	 Properties: 718940 	https://www.domain.com.au/sold-listings/?postcode=2315&page=4
+Page: 5 	 Properties: 718960 	https://www.domain.com.au/sold-listings/?postcode=2315&page=5
+Page: 6 	 Properties: 718980 	https://www.domain.com.au/sold-listings/?postcode=2315&page=6
+Page: 7 	 Properties: 719000 	https://www.domain.com.au/sold-listings/?postcode=2315&page=7
+Page: 8 	 Properties: 719020 	https://www.domain.com.au/sold-listings/?postcode=2315&page=8
+Page: 9 	 Properties: 719040 	https://www.domain.com.au/sold-listings/?postcode=2315&page=9
+Page: 10 	 Properties: 719060 	https://www.domain.com.au/sold-listings/?postcode=2315&page=10
+Page: 11 	 Properties: 719080 	https://www.domain.com.au/sold-listings/?postcode=2315&page=11
+Page: 12 	 Properties: 719100 	https://www.domain.com.au/sold-listings/?postcode=2315&page=12
+Page: 13 	 Properties: 719120 	https://www.domain.com.au/sold-listings/?postcode=2315&page=13
+Page: 14 	 Properties: 719140 	https://www.domain.com.au/sold-listings/?postcode=2315&page=14
+Page: 15 	 Properties: 719160 	https://www.domain.com.au/sold-listings/?postcode=2315&page=15
+Page: 16 	 Properties: 719180 	https://www.domain.com.au/sold-listings/?postcode=2315&page=16
+Page: 17 	 Properties: 719200 	https://www.domain.com.au/sold-listings/?postcode=2315&page=17
+Page: 18 	 Properties: 719220 	https://www.domain.com.au/sold-listings/?postcode=2315&page=18
+Page: 19 	 Properties: 719240 	https://www.domain.com.au/sold-listings/?postcode=2315&page=19
+Page: 20 	 Properties: 719260 	https://www.domain.com.au/sold-listings/?postcode=2315&page=20
+Page: 21 	 Properties: 719280 	https://www.domain.com.au/sold-listings/?postcode=2315&page=21
+Page: 22 	 Properties: 719300 	https://www.domain.com.au/sold-listings/?postcode=2315&page=22
+Page: 23 	 Properties: 719320 	https://www.domain.com.au/sold-listings/?postcode=2315&page=23
+Page: 24 	 Properties: 719340 	https://www.domain.com.au/sold-listings/?postcode=2315&page=24
+Page: 25 	 Properties: 719359 	https://www.domain.com.au/sold-listings/?postcode=2315&page=25
+Page: 26 	 Properties: 719379 	https://www.domain.com.au/sold-listings/?postcode=2315&page=26
+Page: 27 	 Properties: 719399 	https://www.domain.com.au/sold-listings/?postcode=2315&page=27
+Page: 28 	 Properties: 719418 	https://www.domain.com.au/sold-listings/?postcode=2315&page=28
+Page: 29 	 Properties: 719438 	https://www.domain.com.au/sold-listings/?postcode=2315&page=29
+Page: 30 	 Properties: 719458 	https://www.domain.com.au/sold-listings/?postcode=2315&page=30
+Page: 31 	 Properties: 719478 	https://www.domain.com.au/sold-listings/?postcode=2315&page=31
+Page: 32 	 Properties: 719498 	https://www.domain.com.au/sold-listings/?postcode=2315&page=32
+Page: 33 	 Properties: 719518 	https://www.domain.com.au/sold-listings/?postcode=2315&page=33
+Page: 34 	 Properties: 719538 	https://www.domain.com.au/sold-listings/?postcode=2315&page=34
+Page: 35 	 Properties: 719558 	https://www.domain.com.au/sold-listings/?postcode=2315&page=35
+Page: 36 	 Properties: 719578 	https://www.domain.com.au/sold-listings/?postcode=2315&page=36
+Page: 37 	 Properties: 719598 	https://www.domain.com.au/sold-listings/?postcode=2315&page=37
+Page: 38 	 Properties: 719618 	https://www.domain.com.au/sold-listings/?postcode=2315&page=38
+Page: 39 	 Properties: 719638 	https://www.domain.com.au/sold-listings/?postcode=2315&page=39
+Page: 40 	 Properties: 719658 	https://www.domain.com.au/sold-listings/?postcode=2315&page=40
+Page: 41 	 Properties: 719678 	https://www.domain.com.au/sold-listings/?postcode=2315&page=41
+Page: 42 	 Properties: 719698 	https://www.domain.com.au/sold-listings/?postcode=2315&page=42
+Page: 43 	 Properties: 719718 	https://www.domain.com.au/sold-listings/?postcode=2315&page=43
+Page: 44 	 Properties: 719738 	https://www.domain.com.au/sold-listings/?postcode=2315&page=44
+Page: 45 	 Properties: 719758 	https://www.domain.com.au/sold-listings/?postcode=2315&page=45
+Page: 46 	 Properties: 719778 	https://www.domain.com.au/sold-listings/?postcode=2315&page=46
+Page: 47 	 Properties: 719798 	https://www.domain.com.au/sold-listings/?postcode=2315&page=47
+Page: 48 	 Properties: 719818 	https://www.domain.com.au/sold-listings/?postcode=2315&page=48
+Page: 49 	 Properties: 719838 	https://www.domain.com.au/sold-listings/?postcode=2315&page=49
+Page: 50 	 Properties: 719858 	https://www.domain.com.au/sold-listings/?postcode=2315&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=4078
+Page: 1 	 Properties: 719878 	https://www.domain.com.au/sold-listings/?postcode=4078&page=1
+Page: 2 	 Properties: 719896 	https://www.domain.com.au/sold-listings/?postcode=4078&page=2
+Page: 3 	 Properties: 719916 	https://www.domain.com.au/sold-listings/?postcode=4078&page=3
+Page: 4 	 Properties: 719936 	https://www.domain.com.au/sold-listings/?postcode=4078&page=4
+Page: 5 	 Properties: 719956 	https://www.domain.com.au/sold-listings/?postcode=4078&page=5
+Page: 6 	 Properties: 719976 	https://www.domain.com.au/sold-listings/?postcode=4078&page=6
+Page: 7 	 Properties: 719996 	https://www.domain.com.au/sold-listings/?postcode=4078&page=7
+Page: 8 	 Properties: 720016 	https://www.domain.com.au/sold-listings/?postcode=4078&page=8
+Page: 9 	 Properties: 720036 	https://www.domain.com.au/sold-listings/?postcode=4078&page=9
+Page: 10 	 Properties: 720056 	https://www.domain.com.au/sold-listings/?postcode=4078&page=10
+Page: 11 	 Properties: 720076 	https://www.domain.com.au/sold-listings/?postcode=4078&page=11
+Page: 12 	 Properties: 720096 	https://www.domain.com.au/sold-listings/?postcode=4078&page=12
+Page: 13 	 Properties: 720116 	https://www.domain.com.au/sold-listings/?postcode=4078&page=13
+Page: 14 	 Properties: 720136 	https://www.domain.com.au/sold-listings/?postcode=4078&page=14
+Page: 15 	 Properties: 720156 	https://www.domain.com.au/sold-listings/?postcode=4078&page=15
+Page: 16 	 Properties: 720176 	https://www.domain.com.au/sold-listings/?postcode=4078&page=16
+Page: 17 	 Properties: 720196 	https://www.domain.com.au/sold-listings/?postcode=4078&page=17
+Page: 18 	 Properties: 720216 	https://www.domain.com.au/sold-listings/?postcode=4078&page=18
+Page: 19 	 Properties: 720236 	https://www.domain.com.au/sold-listings/?postcode=4078&page=19
+Page: 20 	 Properties: 720256 	https://www.domain.com.au/sold-listings/?postcode=4078&page=20
+Page: 21 	 Properties: 720276 	https://www.domain.com.au/sold-listings/?postcode=4078&page=21
+Page: 22 	 Properties: 720296 	https://www.domain.com.au/sold-listings/?postcode=4078&page=22
+Page: 23 	 Properties: 720316 	https://www.domain.com.au/sold-listings/?postcode=4078&page=23
+Page: 24 	 Properties: 720336 	https://www.domain.com.au/sold-listings/?postcode=4078&page=24
+Page: 25 	 Properties: 720356 	https://www.domain.com.au/sold-listings/?postcode=4078&page=25
+Page: 26 	 Properties: 720376 	https://www.domain.com.au/sold-listings/?postcode=4078&page=26
+Page: 27 	 Properties: 720396 	https://www.domain.com.au/sold-listings/?postcode=4078&page=27
+Page: 28 	 Properties: 720416 	https://www.domain.com.au/sold-listings/?postcode=4078&page=28
+Page: 29 	 Properties: 720436 	https://www.domain.com.au/sold-listings/?postcode=4078&page=29
+Page: 30 	 Properties: 720456 	https://www.domain.com.au/sold-listings/?postcode=4078&page=30
+Page: 31 	 Properties: 720476 	https://www.domain.com.au/sold-listings/?postcode=4078&page=31
+Page: 32 	 Properties: 720496 	https://www.domain.com.au/sold-listings/?postcode=4078&page=32
+Page: 33 	 Properties: 720516 	https://www.domain.com.au/sold-listings/?postcode=4078&page=33
+Page: 34 	 Properties: 720536 	https://www.domain.com.au/sold-listings/?postcode=4078&page=34
+Page: 35 	 Properties: 720555 	https://www.domain.com.au/sold-listings/?postcode=4078&page=35
+Page: 36 	 Properties: 720575 	https://www.domain.com.au/sold-listings/?postcode=4078&page=36
+Page: 37 	 Properties: 720595 	https://www.domain.com.au/sold-listings/?postcode=4078&page=37
+Page: 38 	 Properties: 720615 	https://www.domain.com.au/sold-listings/?postcode=4078&page=38
+Page: 39 	 Properties: 720635 	https://www.domain.com.au/sold-listings/?postcode=4078&page=39
+Page: 40 	 Properties: 720655 	https://www.domain.com.au/sold-listings/?postcode=4078&page=40
+Page: 41 	 Properties: 720675 	https://www.domain.com.au/sold-listings/?postcode=4078&page=41
+Page: 42 	 Properties: 720694 	https://www.domain.com.au/sold-listings/?postcode=4078&page=42
+Page: 43 	 Properties: 720714 	https://www.domain.com.au/sold-listings/?postcode=4078&page=43
+Page: 44 	 Properties: 720734 	https://www.domain.com.au/sold-listings/?postcode=4078&page=44
+Page: 45 	 Properties: 720754 	https://www.domain.com.au/sold-listings/?postcode=4078&page=45
+Page: 46 	 Properties: 720774 	https://www.domain.com.au/sold-listings/?postcode=4078&page=46
+Page: 47 	 Properties: 720794 	https://www.domain.com.au/sold-listings/?postcode=4078&page=47
+Page: 48 	 Properties: 720814 	https://www.domain.com.au/sold-listings/?postcode=4078&page=48
+Page: 49 	 Properties: 720834 	https://www.domain.com.au/sold-listings/?postcode=4078&page=49
+Page: 50 	 Properties: 720854 	https://www.domain.com.au/sold-listings/?postcode=4078&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=3192
+Page: 1 	 Properties: 720874 	https://www.domain.com.au/sold-listings/?postcode=3192&page=1
+Page: 2 	 Properties: 720892 	https://www.domain.com.au/sold-listings/?postcode=3192&page=2
+Page: 3 	 Properties: 720912 	https://www.domain.com.au/sold-listings/?postcode=3192&page=3
+Page: 4 	 Properties: 720932 	https://www.domain.com.au/sold-listings/?postcode=3192&page=4
+Page: 5 	 Properties: 720952 	https://www.domain.com.au/sold-listings/?postcode=3192&page=5
+Page: 6 	 Properties: 720972 	https://www.domain.com.au/sold-listings/?postcode=3192&page=6
+Page: 7 	 Properties: 720992 	https://www.domain.com.au/sold-listings/?postcode=3192&page=7
+Page: 8 	 Properties: 721012 	https://www.domain.com.au/sold-listings/?postcode=3192&page=8
+Page: 9 	 Properties: 721032 	https://www.domain.com.au/sold-listings/?postcode=3192&page=9
+Page: 10 	 Properties: 721052 	https://www.domain.com.au/sold-listings/?postcode=3192&page=10
+Page: 11 	 Properties: 721072 	https://www.domain.com.au/sold-listings/?postcode=3192&page=11
+Page: 12 	 Properties: 721092 	https://www.domain.com.au/sold-listings/?postcode=3192&page=12
+Page: 13 	 Properties: 721112 	https://www.domain.com.au/sold-listings/?postcode=3192&page=13
+Page: 14 	 Properties: 721132 	https://www.domain.com.au/sold-listings/?postcode=3192&page=14
+Page: 15 	 Properties: 721152 	https://www.domain.com.au/sold-listings/?postcode=3192&page=15
+Page: 16 	 Properties: 721172 	https://www.domain.com.au/sold-listings/?postcode=3192&page=16
+Page: 17 	 Properties: 721192 	https://www.domain.com.au/sold-listings/?postcode=3192&page=17
+Page: 18 	 Properties: 721212 	https://www.domain.com.au/sold-listings/?postcode=3192&page=18
+Page: 19 	 Properties: 721232 	https://www.domain.com.au/sold-listings/?postcode=3192&page=19
+Page: 20 	 Properties: 721252 	https://www.domain.com.au/sold-listings/?postcode=3192&page=20
+Page: 21 	 Properties: 721272 	https://www.domain.com.au/sold-listings/?postcode=3192&page=21
+Page: 22 	 Properties: 721292 	https://www.domain.com.au/sold-listings/?postcode=3192&page=22
+Page: 23 	 Properties: 721312 	https://www.domain.com.au/sold-listings/?postcode=3192&page=23
+Page: 24 	 Properties: 721332 	https://www.domain.com.au/sold-listings/?postcode=3192&page=24
+Page: 25 	 Properties: 721352 	https://www.domain.com.au/sold-listings/?postcode=3192&page=25
+Page: 26 	 Properties: 721372 	https://www.domain.com.au/sold-listings/?postcode=3192&page=26
+Page: 27 	 Properties: 721392 	https://www.domain.com.au/sold-listings/?postcode=3192&page=27
+Page: 28 	 Properties: 721412 	https://www.domain.com.au/sold-listings/?postcode=3192&page=28
+Page: 29 	 Properties: 721432 	https://www.domain.com.au/sold-listings/?postcode=3192&page=29
+Page: 30 	 Properties: 721452 	https://www.domain.com.au/sold-listings/?postcode=3192&page=30
+Page: 31 	 Properties: 721472 	https://www.domain.com.au/sold-listings/?postcode=3192&page=31
+Page: 32 	 Properties: 721492 	https://www.domain.com.au/sold-listings/?postcode=3192&page=32
+Page: 33 	 Properties: 721512 	https://www.domain.com.au/sold-listings/?postcode=3192&page=33
+Page: 34 	 Properties: 721532 	https://www.domain.com.au/sold-listings/?postcode=3192&page=34
+Page: 35 	 Properties: 721552 	https://www.domain.com.au/sold-listings/?postcode=3192&page=35
+Page: 36 	 Properties: 721571 	https://www.domain.com.au/sold-listings/?postcode=3192&page=36
+Page: 37 	 Properties: 721591 	https://www.domain.com.au/sold-listings/?postcode=3192&page=37
+Page: 38 	 Properties: 721611 	https://www.domain.com.au/sold-listings/?postcode=3192&page=38
+Page: 39 	 Properties: 721631 	https://www.domain.com.au/sold-listings/?postcode=3192&page=39
+Page: 40 	 Properties: 721651 	https://www.domain.com.au/sold-listings/?postcode=3192&page=40
+Page: 41 	 Properties: 721671 	https://www.domain.com.au/sold-listings/?postcode=3192&page=41
+Page: 42 	 Properties: 721691 	https://www.domain.com.au/sold-listings/?postcode=3192&page=42
+Page: 43 	 Properties: 721711 	https://www.domain.com.au/sold-listings/?postcode=3192&page=43
+Page: 44 	 Properties: 721731 	https://www.domain.com.au/sold-listings/?postcode=3192&page=44
+Page: 45 	 Properties: 721751 	https://www.domain.com.au/sold-listings/?postcode=3192&page=45
+Page: 46 	 Properties: 721771 	https://www.domain.com.au/sold-listings/?postcode=3192&page=46
+Page: 47 	 Properties: 721791 	https://www.domain.com.au/sold-listings/?postcode=3192&page=47
+Page: 48 	 Properties: 721811 	https://www.domain.com.au/sold-listings/?postcode=3192&page=48
+Page: 49 	 Properties: 721831 	https://www.domain.com.au/sold-listings/?postcode=3192&page=49
+Page: 50 	 Properties: 721851 	https://www.domain.com.au/sold-listings/?postcode=3192&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=3893
+Page: 1 	 Properties: 721871 	https://www.domain.com.au/sold-listings/?postcode=3893&page=1
+Page: 2 	 Properties: 721871 	https://www.domain.com.au/sold-listings/?postcode=3893&page=2
+Webpage: https://www.domain.com.au/sold-listings/?postcode=2450
+Page: 1 	 Properties: 721871 	https://www.domain.com.au/sold-listings/?postcode=2450&page=1
+Page: 2 	 Properties: 721889 	https://www.domain.com.au/sold-listings/?postcode=2450&page=2
+Page: 3 	 Properties: 721909 	https://www.domain.com.au/sold-listings/?postcode=2450&page=3
+Page: 4 	 Properties: 721929 	https://www.domain.com.au/sold-listings/?postcode=2450&page=4
+Page: 5 	 Properties: 721948 	https://www.domain.com.au/sold-listings/?postcode=2450&page=5
+Page: 6 	 Properties: 721968 	https://www.domain.com.au/sold-listings/?postcode=2450&page=6
+Page: 7 	 Properties: 721988 	https://www.domain.com.au/sold-listings/?postcode=2450&page=7
+Page: 8 	 Properties: 722008 	https://www.domain.com.au/sold-listings/?postcode=2450&page=8
+Page: 9 	 Properties: 722028 	https://www.domain.com.au/sold-listings/?postcode=2450&page=9
+Page: 10 	 Properties: 722048 	https://www.domain.com.au/sold-listings/?postcode=2450&page=10
+Page: 11 	 Properties: 722068 	https://www.domain.com.au/sold-listings/?postcode=2450&page=11
+Page: 12 	 Properties: 722088 	https://www.domain.com.au/sold-listings/?postcode=2450&page=12
+Page: 13 	 Properties: 722108 	https://www.domain.com.au/sold-listings/?postcode=2450&page=13
+Page: 14 	 Properties: 722128 	https://www.domain.com.au/sold-listings/?postcode=2450&page=14
+Page: 15 	 Properties: 722148 	https://www.domain.com.au/sold-listings/?postcode=2450&page=15
+Page: 16 	 Properties: 722168 	https://www.domain.com.au/sold-listings/?postcode=2450&page=16
+Page: 17 	 Properties: 722188 	https://www.domain.com.au/sold-listings/?postcode=2450&page=17
+Page: 18 	 Properties: 722208 	https://www.domain.com.au/sold-listings/?postcode=2450&page=18
+Page: 19 	 Properties: 722228 	https://www.domain.com.au/sold-listings/?postcode=2450&page=19
+Page: 20 	 Properties: 722248 	https://www.domain.com.au/sold-listings/?postcode=2450&page=20
+Page: 21 	 Properties: 722268 	https://www.domain.com.au/sold-listings/?postcode=2450&page=21
+Page: 22 	 Properties: 722288 	https://www.domain.com.au/sold-listings/?postcode=2450&page=22
+Page: 23 	 Properties: 722308 	https://www.domain.com.au/sold-listings/?postcode=2450&page=23
+Page: 24 	 Properties: 722328 	https://www.domain.com.au/sold-listings/?postcode=2450&page=24
+Page: 25 	 Properties: 722348 	https://www.domain.com.au/sold-listings/?postcode=2450&page=25
+Page: 26 	 Properties: 722368 	https://www.domain.com.au/sold-listings/?postcode=2450&page=26
+Page: 27 	 Properties: 722388 	https://www.domain.com.au/sold-listings/?postcode=2450&page=27
+Page: 28 	 Properties: 722408 	https://www.domain.com.au/sold-listings/?postcode=2450&page=28
+Page: 29 	 Properties: 722428 	https://www.domain.com.au/sold-listings/?postcode=2450&page=29
+Page: 30 	 Properties: 722448 	https://www.domain.com.au/sold-listings/?postcode=2450&page=30
+Page: 31 	 Properties: 722468 	https://www.domain.com.au/sold-listings/?postcode=2450&page=31
+Page: 32 	 Properties: 722488 	https://www.domain.com.au/sold-listings/?postcode=2450&page=32
+Page: 33 	 Properties: 722508 	https://www.domain.com.au/sold-listings/?postcode=2450&page=33
+Page: 34 	 Properties: 722528 	https://www.domain.com.au/sold-listings/?postcode=2450&page=34
+Page: 35 	 Properties: 722548 	https://www.domain.com.au/sold-listings/?postcode=2450&page=35
+Page: 36 	 Properties: 722568 	https://www.domain.com.au/sold-listings/?postcode=2450&page=36
+Page: 37 	 Properties: 722588 	https://www.domain.com.au/sold-listings/?postcode=2450&page=37
+Page: 38 	 Properties: 722608 	https://www.domain.com.au/sold-listings/?postcode=2450&page=38
+Page: 39 	 Properties: 722628 	https://www.domain.com.au/sold-listings/?postcode=2450&page=39
+Page: 40 	 Properties: 722648 	https://www.domain.com.au/sold-listings/?postcode=2450&page=40
+Page: 41 	 Properties: 722668 	https://www.domain.com.au/sold-listings/?postcode=2450&page=41
+Page: 42 	 Properties: 722688 	https://www.domain.com.au/sold-listings/?postcode=2450&page=42
+Page: 43 	 Properties: 722708 	https://www.domain.com.au/sold-listings/?postcode=2450&page=43
+Page: 44 	 Properties: 722728 	https://www.domain.com.au/sold-listings/?postcode=2450&page=44
+Page: 45 	 Properties: 722747 	https://www.domain.com.au/sold-listings/?postcode=2450&page=45
+Page: 46 	 Properties: 722767 	https://www.domain.com.au/sold-listings/?postcode=2450&page=46
+Page: 47 	 Properties: 722786 	https://www.domain.com.au/sold-listings/?postcode=2450&page=47
+Page: 48 	 Properties: 722806 	https://www.domain.com.au/sold-listings/?postcode=2450&page=48
+Page: 49 	 Properties: 722826 	https://www.domain.com.au/sold-listings/?postcode=2450&page=49
+Page: 50 	 Properties: 722846 	https://www.domain.com.au/sold-listings/?postcode=2450&page=50
+Webpage: https://www.domain.com.au/sold-listings/?postcode=3083
+Page: 1 	 Properties: 722866 	https://www.domain.com.au/sold-listings/?postcode=3083&page=1
+Page: 2 	 Properties: 722884 	https://www.domain.com.au/sold-listings/?postcode=3083&page=2
+Page: 3 	 Properties: 722904 

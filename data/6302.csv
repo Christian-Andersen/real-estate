@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018346253,listing,/39-macartney-street-york-wa-6302-2018346253,Price Withheld,is-sold,Sold by private treaty 10 Feb 2023,20230210,39 Macartney Street,YORK,WA,6302,-31.8882866,116.763412,3,2,10,House,House,False,6475,m2,False
 2018383064,listing,/142-greenhills-road-york-wa-6302-2018383064,245000,is-sold,Sold by private treaty 16 Dec 2022,20221216,142 Greenhills Road,YORK,WA,6302,-31.92735,116.9556,4,2,4,House,House,False,3758,m2,False
 2018383070,listing,/40-tenth-road-york-wa-6302-2018383070,Price Withheld,is-sold,Sold by private treaty 29 Dec 2022,20221229,40 Tenth Road,YORK,WA,6302,-31.8750286,116.7638,4,1,-,House,House,False,5241,m2,False
+2018383068,listing,/15-maud-street-york-wa-6302-2018383068,Price Withheld,is-sold,Sold by private treaty 04 Mar 2023,20230304,15 Maud Street,YORK,WA,6302,-31.8834476,116.761475,4,1,2,House,House,False,0,m2,False
+2018390556,listing,/6-cardwell-street-york-wa-6302-2018390556,Price Withheld,is-sold,Sold by private treaty 04 Mar 2023,20230304,6 Cardwell Street,YORK,WA,6302,-31.8796158,116.776321,-,-,-,VacantLand,Vacant land,False,4000,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009941652,listing,/7-18-liverpool-road-croydon-nsw-2132-2009941652,Price Withheld,is-sold,Sold by private treaty 03 Sep 2012,20120903,7/18 Liverpool Road,CROYDON,NSW,2132,-33.88679,151.111771,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2009947109,listing,/15-college-street-croydon-nsw-2132-2009947109,850000,is-sold,Sold at auction 15 Sep 2012,20120915,15 College Street,CROYDON,NSW,2132,-33.8826523,151.116653,3,2,1,House,House,False,0,m2,False
 2009976343,listing,/28-royce-avenue-croydon-nsw-2132-2009976343,900000,is-sold,Sold at auction 29 Sep 2012,20120929,28 Royce Avenue,CROYDON,NSW,2132,-33.87336,151.1127,3,1,1,House,House,False,411,m2,False
+2018319071,listing,/26-the-strand-croydon-nsw-2132-2018319071,Price Withheld,is-sold,Sold at auction 04 Mar 2023,20230304,26 The Strand,CROYDON,NSW,2132,-33.8839264,151.114487,4,3,2,House,House,False,243,m2,False
