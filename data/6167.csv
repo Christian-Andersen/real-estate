@@ -5,3 +5,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018375486,listing,/3-prescott-place-orelia-wa-6167-2018375486,373000,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Prescott Place,ORELIA,WA,6167,-32.23662,115.819252,3,1,4,House,House,False,855,m2,False
 2018381675,listing,/31-leghorn-road-orelia-wa-6167-2018381675,478000,is-sold,Sold by private treaty 28 Feb 2023,20230228,31 Leghorn Road,ORELIA,WA,6167,-32.23473,115.833206,4,2,2,House,House,False,569,m2,False
 2018301393,listing,/105-warner-road-parmelia-wa-6167-2018301393,461000,is-sold,Sold by private treaty 01 Mar 2023,20230301,105 Warner Road,PARMELIA,WA,6167,-32.2480469,115.833527,4,2,2,House,House,False,621,m2,False
+2018375490,listing,/18-colchester-avenue-orelia-wa-6167-2018375490,420000,is-sold,Sold by private treaty 03 Mar 2023,20230303,18 Colchester Avenue,ORELIA,WA,6167,-32.2299423,115.828262,4,2,2,House,House,False,680,m2,False
