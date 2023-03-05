@@ -137,8 +137,7 @@ print('Total Webpages:', len(webpages))
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
-driver = webdriver.Firefox(options=options)
-atexit.register(driver.quit)
+# driver = webdriver.Firefox(options=options)
 
 # Load in finished postcodes
 skip = []
@@ -155,6 +154,7 @@ for webpage in webpages:
         print('SKIPPED WEBPAGE')
         continue
     for i in range(1, 51):
+        driver = webdriver.Firefox(options=options)
         if '?' in webpage:
             site = webpage+'&page='+str(i)
         else:
@@ -184,6 +184,7 @@ for webpage in webpages:
             with open(file, 'a', newline='', encoding="utf-8") as f:
                 w = csv.writer(f)
                 w.writerow(row)
+        driver.quit()
     with open('done.txt', 'a') as f:
         if 'postcode=' in webpage:
             f.write(pc+'\n')
