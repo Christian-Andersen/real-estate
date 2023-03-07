@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018314592,listing,/58-anelida-street-rye-vic-3941-2018314592,750000,is-sold,Sold at auction 28 Feb 2023,20230228,58 Anelida Street,RYE,VIC,3941,-38.3783646,144.787964,3,1,2,House,House,False,698,m2,False
-2018214811,listing,/17-carramar-street-rye-vic-3941-2018214811,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,17 Carramar Street,RYE,VIC,3941,-38.3803024,144.806778,4,2,4,House,House,False,604,m2,False
-2018304939,listing,/22-magnolia-court-rye-vic-3941-2018304939,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Magnolia Court,RYE,VIC,3941,-38.3694649,144.79248,5,3,2,House,House,False,870,m2,False
+2018314592,listing,/58-anelida-street-rye-vic-3941-2018314592,750000,is-sold,Sold at auction 28 Feb 2023,20230228,58 Anelida Street,RYE,VIC,3941,-38.3783646,144.787964,3,3,3,House,House,False,698,m2,False
+2018214811,listing,/17-carramar-street-rye-vic-3941-2018214811,Price Withheld,is-sold,Sold by private treaty 02 Mar 2023,20230302,17 Carramar Street,RYE,VIC,3941,-38.3803024,144.806778,4,4,4,House,House,False,604,m2,False
+2018304939,listing,/22-magnolia-court-rye-vic-3941-2018304939,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Magnolia Court,RYE,VIC,3941,-38.3694649,144.79248,5,5,5,House,House,False,870,m2,False

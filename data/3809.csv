@@ -1,5 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018350415,listing,/10-newark-place-officer-vic-3809-2018350415,918000,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Newark Place,OFFICER,VIC,3809,-38.05684,145.397034,4,2,2,House,House,False,0,m2,False
-2018298266,listing,/19-winnows-street-officer-vic-3809-2018298266,750000,is-sold,Sold by private treaty 27 Feb 2023,20230227,19 Winnows Street,OFFICER,VIC,3809,-38.05798,145.39566,4,2,2,House,House,False,0,m2,False
-2018311712,listing,/32-old-trafford-way-officer-vic-3809-2018311712,570000,is-sold,Sold by private treaty 01 Mar 2023,20230301,32 Old Trafford Way,OFFICER,VIC,3809,-38.06611,145.424118,3,2,2,House,House,False,184,m2,False
-2018291169,listing,/9-sable-circuit-officer-vic-3809-2018291169,476000,is-sold,Sold by private treaty 03 Mar 2023,20230303,9 Sable Circuit,OFFICER,VIC,3809,-38.0734367,145.427673,3,2,1,Townhouse,Townhouse,False,0,m2,False
+2018350415,listing,/10-newark-place-officer-vic-3809-2018350415,918000,is-sold,Sold by private treaty 28 Feb 2023,20230228,10 Newark Place,OFFICER,VIC,3809,-38.05684,145.397034,4,4,4,House,House,False,0,m2,False
+2018298266,listing,/19-winnows-street-officer-vic-3809-2018298266,750000,is-sold,Sold by private treaty 27 Feb 2023,20230227,19 Winnows Street,OFFICER,VIC,3809,-38.05798,145.39566,4,4,4,House,House,False,0,m2,False
+2018311712,listing,/32-old-trafford-way-officer-vic-3809-2018311712,570000,is-sold,Sold by private treaty 01 Mar 2023,20230301,32 Old Trafford Way,OFFICER,VIC,3809,-38.06611,145.424118,3,3,3,House,House,False,184,m2,False
+2018291169,listing,/9-sable-circuit-officer-vic-3809-2018291169,476000,is-sold,Sold by private treaty 03 Mar 2023,20230303,9 Sable Circuit,OFFICER,VIC,3809,-38.0734367,145.427673,3,3,3,Townhouse,Townhouse,False,0,m2,False
+2018307935,listing,/9-heathcote-grove-officer-vic-3809-2018307935,632500,is-sold,Sold by private treaty 06 Mar 2023,20230306,9 Heathcote Grove,OFFICER,VIC,3809,-38.063118,145.400253,4,2,2,House,House,False,325,m2,False

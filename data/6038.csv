@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018299448,listing,/18-needletail-avenue-alkimos-wa-6038-2018299448,410000,is-sold,Sold by private treaty 27 Feb 2023,20230227,18 Needletail Avenue,ALKIMOS,WA,6038,-31.6231976,115.683525,3,2,2,House,House,False,240,m2,False
-2018266399,listing,/26-fairy-parade-alkimos-wa-6038-2018266399,535000,is-sold,Sold by private treaty 28 Feb 2023,20230228,26 Fairy Parade,ALKIMOS,WA,6038,-31.624155,115.678978,3,2,2,House,House,False,375,m2,False
-2018373608,listing,/8-shy-lane-alkimos-wa-6038-2018373608,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,8 Shy Lane,ALKIMOS,WA,6038,-31.6231346,115.679131,2,1,1,House,House,False,160,m2,False
+2018299448,listing,/18-needletail-avenue-alkimos-wa-6038-2018299448,410000,is-sold,Sold by private treaty 27 Feb 2023,20230227,18 Needletail Avenue,ALKIMOS,WA,6038,-31.6231976,115.683525,3,3,3,House,House,False,240,m2,False
+2018266399,listing,/26-fairy-parade-alkimos-wa-6038-2018266399,535000,is-sold,Sold by private treaty 28 Feb 2023,20230228,26 Fairy Parade,ALKIMOS,WA,6038,-31.624155,115.678978,3,3,3,House,House,False,375,m2,False
+2018373608,listing,/8-shy-lane-alkimos-wa-6038-2018373608,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,8 Shy Lane,ALKIMOS,WA,6038,-31.6231346,115.679131,2,2,2,House,House,False,160,m2,False

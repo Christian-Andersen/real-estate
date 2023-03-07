@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017445083,listing,/cadoux-wa-6466-2017445083,Price Withheld,is-sold,Sold by private treaty 01 Mar 2022,20220301,,CADOUX,WA,6466,-30.7408085,117.126472,-,-,-,Rural,Rural,True,4930.3,ha,False
+2017445083,listing,/cadoux-wa-6466-2017445083,Price Withheld,is-sold,Sold by private treaty 01 Mar 2022,20220301,NaN,CADOUX,WA,6466,-30.7408085,117.126472,NaN,NaN,NaN,Rural,Rural,True,4930.3,ha,False

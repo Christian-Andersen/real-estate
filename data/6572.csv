@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013478261,listing,/1064-waddington-wongan-hills-rd-piawaning-wa-6572-2013478261,Price Withheld,is-sold,Sold by private treaty 11 May 2017,20170511,1064 Waddington - Wongan Hills Rd,PIAWANING,WA,6572,-30.8399887,116.377235,3,1,-,AcreageSemiRural,Acreage / Semi-Rural,True,4.04,ha,False
+2013478261,listing,/1064-waddington-wongan-hills-rd-piawaning-wa-6572-2013478261,Price Withheld,is-sold,Sold by private treaty 11 May 2017,20170511,1064 Waddington - Wongan Hills Rd,PIAWANING,WA,6572,-30.8399887,116.377235,3,3,3,AcreageSemiRural,Acreage / Semi-Rural,True,4.04,ha,False

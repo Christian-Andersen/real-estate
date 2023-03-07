@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012095800,listing,/lot-13-kulin-dudinin-dudinin-wa-6363-2012095800,Price Withheld,is-sold,Sold by private treaty 01 Apr 2017,20170401,Lot 13 Kulin-Dudinin,DUDININ,WA,6363,-32.8882446,117.956009,-,-,-,VacantLand,Vacant land,True,103.19,ha,False
-2014896640,listing,/lot-13-kulin-dudinin-road-dudinin-wa-6363-2014896640,106000,is-sold,Sold by private treaty 07 May 2019,20190507,Lot 13 Kulin-Dudinin Road,DUDININ,WA,6363,-32.84525,118.048065,-,-,-,VacantLand,Vacant land,True,103.19,ha,False
-2015827614,listing,/dudinin-wa-6363-2015827614,Price Withheld,is-sold,Sold by private treaty 15 Jan 2020,20200115,,DUDININ,WA,6363,-32.9524422,118.004326,-,-,-,Rural,Rural,True,871.82,ha,False
+2012095800,listing,/lot-13-kulin-dudinin-dudinin-wa-6363-2012095800,Price Withheld,is-sold,Sold by private treaty 01 Apr 2017,20170401,Lot 13 Kulin-Dudinin,DUDININ,WA,6363,-32.8882446,117.956009,NaN,NaN,NaN,VacantLand,Vacant land,True,103.19,ha,False
+2014896640,listing,/lot-13-kulin-dudinin-road-dudinin-wa-6363-2014896640,106000,is-sold,Sold by private treaty 07 May 2019,20190507,Lot 13 Kulin-Dudinin Road,DUDININ,WA,6363,-32.84525,118.048065,NaN,NaN,NaN,VacantLand,Vacant land,True,103.19,ha,False
+2015827614,listing,/dudinin-wa-6363-2015827614,Price Withheld,is-sold,Sold by private treaty 15 Jan 2020,20200115,NaN,DUDININ,WA,6363,-32.9524422,118.004326,NaN,NaN,NaN,Rural,Rural,True,871.82,ha,False

@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017797837,listing,/kulja-wa-6470-2017797837,Price Withheld,is-sold,Sold by private treaty 11 May 2022,20220511,,KULJA,WA,6470,-30.4790611,117.291374,-,-,-,Rural,Rural,True,4930.3,ha,False
+2017797837,listing,/kulja-wa-6470-2017797837,Price Withheld,is-sold,Sold by private treaty 11 May 2022,20220511,NaN,KULJA,WA,6470,-30.4790611,117.291374,NaN,NaN,NaN,Rural,Rural,True,4930.3,ha,False

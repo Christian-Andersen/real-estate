@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2016786839,listing,/lot-1-bamblings-road-limevale-qld-4384-2016786839,355000,is-sold,Sold by private treaty 29 Jun 2021,20210629,Lot 1 Bamblings Road,LIMEVALE,QLD,4384,-28.7406235,151.175568,-,-,-,Farm,Farm,True,874.5,ha,False
+2016786839,listing,/lot-1-bamblings-road-limevale-qld-4384-2016786839,355000,is-sold,Sold by private treaty 29 Jun 2021,20210629,Lot 1 Bamblings Road,LIMEVALE,QLD,4384,-28.7406235,151.175568,NaN,NaN,NaN,Farm,Farm,True,874.5,ha,False

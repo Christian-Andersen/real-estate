@@ -1,5 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018343102,listing,/28-twiggs-lane-newbridge-vic-3551-2018343102,575000,is-sold,Sold by private treaty 28 Feb 2023,20230228,28 Twiggs Lane,NEWBRIDGE,VIC,3551,-36.73749,143.9095,3,1,7,House,House,False,3237,m2,False
+2018343102,listing,/28-twiggs-lane-newbridge-vic-3551-2018343102,575000,is-sold,Sold by private treaty 28 Feb 2023,20230228,28 Twiggs Lane,NEWBRIDGE,VIC,3551,-36.73749,143.9095,3,3,3,House,House,False,3237,m2,False
 2018357996,listing,/29-monsants-road-maiden-gully-vic-3551-2018357996,910000,is-sold,Sold by private treaty 01 Mar 2023,20230301,29 Monsants Road,MAIDEN GULLY,VIC,3551,-36.7483826,144.199615,4,4,4,House,House,False,4183,m2,False
-2018200928,listing,/7-blay-street-epsom-vic-3551-2018200928,438000,is-sold,Sold by private treaty 03 Mar 2023,20230303,7 Blay Street,EPSOM,VIC,3551,-36.6901932,144.322769,3,2,1,House,House,False,309,m2,False
-2018363603,listing,/146-taylor-street-ascot-vic-3551-2018363603,825000,is-sold,Sold by private treaty 02 Mar 2023,20230302,146 Taylor Street,ASCOT,VIC,3551,-36.70392,144.332611,3,2,4,House,House,False,2055,m2,False
+2018200928,listing,/7-blay-street-epsom-vic-3551-2018200928,438000,is-sold,Sold by private treaty 03 Mar 2023,20230303,7 Blay Street,EPSOM,VIC,3551,-36.6901932,144.322769,3,3,3,House,House,False,309,m2,False
+2018363603,listing,/146-taylor-street-ascot-vic-3551-2018363603,825000,is-sold,Sold by private treaty 02 Mar 2023,20230302,146 Taylor Street,ASCOT,VIC,3551,-36.70392,144.332611,3,3,3,House,House,False,2055,m2,False
+2018212540,listing,/9-creekview-place-ascot-vic-3551-2018212540,510000,is-sold,Sold by private treaty 06 Mar 2023,20230306,9 Creekview Place,ASCOT,VIC,3551,-36.6979256,144.327881,4,2,2,House,House,False,400,m2,False
+2018320398,listing,/49-howard-street-ascot-vic-3551-2018320398,710000,is-sold,Sold by private treaty 07 Mar 2023,20230307,49 Howard Street,ASCOT,VIC,3551,-36.7061462,144.322266,5,2,2,House,House,False,720,m2,False

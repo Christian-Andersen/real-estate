@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2016557652,listing,/30-adelaide-st-birdsville-qld-4482-2016557652,58000,is-sold,Sold at auction 19 Apr 2021,20210419,30 Adelaide St,BIRDSVILLE,QLD,4482,-25.897,139.355011,4,1,1,House,House,False,2023,m2,False
+2016557652,listing,/30-adelaide-st-birdsville-qld-4482-2016557652,58000,is-sold,Sold at auction 19 Apr 2021,20210419,30 Adelaide St,BIRDSVILLE,QLD,4482,-25.897,139.355011,4,4,4,House,House,False,2023,m2,False

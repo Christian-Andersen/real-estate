@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018305981,listing,/9-hillrise-street-aspley-qld-4034-2018305981,875000,is-sold,Sold by private treaty 27 Feb 2023,20230227,9 Hillrise Street,ASPLEY,QLD,4034,-27.3659039,153.0244,3,2,2,House,House,False,607,m2,False
-2018212731,listing,/23-agnew-st-aspley-qld-4034-2018212731,880000,is-sold,Sold by private treaty 01 Mar 2023,20230301,23 Agnew St,ASPLEY,QLD,4034,-27.3702774,153.031082,4,2,2,House,House,False,688,m2,False
-2018274639,listing,/235-lyndhurst-road-boondall-qld-4034-2018274639,620500,is-sold,Sold by private treaty 01 Mar 2023,20230301,235 Lyndhurst Road,BOONDALL,QLD,4034,-27.3516045,153.061325,3,1,1,House,House,False,607,m2,False
-2018206025,listing,/40-moyston-street-carseldine-qld-4034-2018206025,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,40 Moyston Street,CARSELDINE,QLD,4034,-27.3487625,153.0123,4,3,2,House,House,False,731,m2,False
+2018305981,listing,/9-hillrise-street-aspley-qld-4034-2018305981,875000,is-sold,Sold by private treaty 27 Feb 2023,20230227,9 Hillrise Street,ASPLEY,QLD,4034,-27.3659039,153.0244,3,3,3,House,House,False,607,m2,False
+2018212731,listing,/23-agnew-st-aspley-qld-4034-2018212731,880000,is-sold,Sold by private treaty 01 Mar 2023,20230301,23 Agnew St,ASPLEY,QLD,4034,-27.3702774,153.031082,4,4,4,House,House,False,688,m2,False
+2018274639,listing,/235-lyndhurst-road-boondall-qld-4034-2018274639,620500,is-sold,Sold by private treaty 01 Mar 2023,20230301,235 Lyndhurst Road,BOONDALL,QLD,4034,-27.3516045,153.061325,3,3,3,House,House,False,607,m2,False
+2018206025,listing,/40-moyston-street-carseldine-qld-4034-2018206025,Price Withheld,is-sold,Sold by private treaty 28 Feb 2023,20230228,40 Moyston Street,CARSELDINE,QLD,4034,-27.3487625,153.0123,4,4,4,House,House,False,731,m2,False

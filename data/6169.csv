@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018371609,listing,/11-4-bristol-street-warnbro-wa-6169-2018371609,315000,is-sold,Sold by private treaty 28 Feb 2023,20230228,11/4 Bristol Street,WARNBRO,WA,6169,-32.3288078,115.759117,3,1,2,Villa,Villa,False,225,m2,False
-2017802467,listing,/9a-hull-court-waikiki-wa-6169-2017802467,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,9A Hull Court,WAIKIKI,WA,6169,-32.32107,115.745682,3,1,2,House,House,False,465,m2,False
-2018355904,listing,/22-eva-lynch-way-warnbro-wa-6169-2018355904,465000,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Eva Lynch Way,WARNBRO,WA,6169,-32.3513031,115.765587,4,2,2,House,House,False,525,m2,False
-2018393982,listing,/37-knowle-way-warnbro-wa-6169-2018393982,445000,is-sold,Sold by private treaty 03 Mar 2023,20230303,37 Knowle Way,WARNBRO,WA,6169,-32.33346,115.75708,4,2,1,House,House,False,728,m2,False
+2018371609,listing,/11-4-bristol-street-warnbro-wa-6169-2018371609,315000,is-sold,Sold by private treaty 28 Feb 2023,20230228,11/4 Bristol Street,WARNBRO,WA,6169,-32.3288078,115.759117,3,3,3,Villa,Villa,False,225,m2,False
+2017802467,listing,/9a-hull-court-waikiki-wa-6169-2017802467,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,9A Hull Court,WAIKIKI,WA,6169,-32.32107,115.745682,3,3,3,House,House,False,465,m2,False
+2018355904,listing,/22-eva-lynch-way-warnbro-wa-6169-2018355904,465000,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Eva Lynch Way,WARNBRO,WA,6169,-32.3513031,115.765587,4,4,4,House,House,False,525,m2,False
+2018393982,listing,/37-knowle-way-warnbro-wa-6169-2018393982,445000,is-sold,Sold by private treaty 03 Mar 2023,20230303,37 Knowle Way,WARNBRO,WA,6169,-32.33346,115.75708,4,4,4,House,House,False,728,m2,False

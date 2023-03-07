@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018284918,listing,/22-elinand-street-wendouree-vic-3355-2018284918,400000,is-sold,Sold by private treaty 28 Feb 2023,20230228,22 Elinand Street,WENDOUREE,VIC,3355,-37.5221443,143.831223,3,1,1,House,House,False,584,m2,False
-2018284371,listing,/43-cambridge-street-wendouree-vic-3355-2018284371,545000,is-sold,Sold by private treaty 28 Feb 2023,20230228,43 Cambridge Street,WENDOUREE,VIC,3355,-37.5298653,143.836823,3,1,1,House,House,False,700,m2,False
-2018287479,listing,/59-marie-crescent-wendouree-vic-3355-2018287479,465000,is-sold,Sold by private treaty 01 Mar 2023,20230301,59 Marie Crescent,WENDOUREE,VIC,3355,-37.5228767,143.8372,4,1,2,House,House,False,776,m2,False
-2018371951,listing,/21-yvonne-street-wendouree-vic-3355-2018371951,460000,is-sold,Sold by private treaty 03 Mar 2023,20230303,21 Yvonne Street,WENDOUREE,VIC,3355,-37.52437,143.838135,3,1,3,House,House,False,643,m2,False
+2018284918,listing,/22-elinand-street-wendouree-vic-3355-2018284918,400000,is-sold,Sold by private treaty 28 Feb 2023,20230228,22 Elinand Street,WENDOUREE,VIC,3355,-37.5221443,143.831223,3,3,3,House,House,False,584,m2,False
+2018284371,listing,/43-cambridge-street-wendouree-vic-3355-2018284371,545000,is-sold,Sold by private treaty 28 Feb 2023,20230228,43 Cambridge Street,WENDOUREE,VIC,3355,-37.5298653,143.836823,3,3,3,House,House,False,700,m2,False
+2018287479,listing,/59-marie-crescent-wendouree-vic-3355-2018287479,465000,is-sold,Sold by private treaty 01 Mar 2023,20230301,59 Marie Crescent,WENDOUREE,VIC,3355,-37.5228767,143.8372,4,4,4,House,House,False,776,m2,False
+2018371951,listing,/21-yvonne-street-wendouree-vic-3355-2018371951,460000,is-sold,Sold by private treaty 03 Mar 2023,20230303,21 Yvonne Street,WENDOUREE,VIC,3355,-37.52437,143.838135,3,3,3,House,House,False,643,m2,False

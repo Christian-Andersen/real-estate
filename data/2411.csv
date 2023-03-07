@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2014919254,listing,/-strathdoon-croppa-creek-nsw-2411-2014919254,Price Withheld,is-sold,Sold by private treaty 19 Jun 2019,20190619,"""Strathdoon""",CROPPA CREEK,NSW,2411,-29.1620655,150.299667,-,-,-,Rural,Rural,True,0,m2,False
+2014919254,listing,/-strathdoon-croppa-creek-nsw-2411-2014919254,Price Withheld,is-sold,Sold by private treaty 19 Jun 2019,20190619,"""Strathdoon""",CROPPA CREEK,NSW,2411,-29.1620655,150.299667,NaN,NaN,NaN,Rural,Rural,True,0,m2,False

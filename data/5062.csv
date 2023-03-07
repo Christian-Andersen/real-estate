@@ -1,5 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018292843,listing,/4-5-arnold-street-kingswood-sa-5062-2018292843,500000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/5 Arnold Street,KINGSWOOD,SA,5062,-34.9766655,138.614624,2,1,1,House,House,False,140,m2,False
-2018369100,listing,/35a-hill-street-mitcham-sa-5062-2018369100,802000,is-sold,Sold by private treaty 28 Feb 2023,20230228,35A Hill Street,MITCHAM,SA,5062,-34.9753265,138.61937,2,1,1,House,House,False,350,m2,False
-2018354739,listing,/7-gort-avenue-clapham-sa-5062-2018354739,Price Withheld,is-sold,Sold prior to auction 01 Mar 2023,20230301,7 Gort Avenue,CLAPHAM,SA,5062,-34.9889946,138.607483,3,1,2,House,House,False,699,m2,False
-2018355754,listing,/14a-john-fisher-drive-torrens-park-sa-5062-2018355754,833000,is-sold,Sold at auction 04 Mar 2023,20230304,14a John Fisher Drive,TORRENS PARK,SA,5062,-34.9937744,138.614014,3,2,1,House,House,False,696,m2,False
+2018292843,listing,/4-5-arnold-street-kingswood-sa-5062-2018292843,500000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4/5 Arnold Street,KINGSWOOD,SA,5062,-34.9766655,138.614624,2,2,2,House,House,False,140,m2,False
+2018369100,listing,/35a-hill-street-mitcham-sa-5062-2018369100,802000,is-sold,Sold by private treaty 28 Feb 2023,20230228,35A Hill Street,MITCHAM,SA,5062,-34.9753265,138.61937,2,2,2,House,House,False,350,m2,False
+2018354739,listing,/7-gort-avenue-clapham-sa-5062-2018354739,Price Withheld,is-sold,Sold prior to auction 01 Mar 2023,20230301,7 Gort Avenue,CLAPHAM,SA,5062,-34.9889946,138.607483,3,3,3,House,House,False,699,m2,False
+2018355754,listing,/14a-john-fisher-drive-torrens-park-sa-5062-2018355754,833000,is-sold,Sold at auction 04 Mar 2023,20230304,14a John Fisher Drive,TORRENS PARK,SA,5062,-34.9937744,138.614014,3,3,3,House,House,False,696,m2,False
+2018343986,listing,/42-the-grove-lower-mitcham-sa-5062-2018343986,987000,is-sold,Sold by private treaty 07 Mar 2023,20230307,42 The Grove,LOWER MITCHAM,SA,5062,-34.98249,138.604492,3,1,4,House,House,False,668,m2,False

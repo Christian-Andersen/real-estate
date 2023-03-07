@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018365337,listing,/68789-bruce-highway-deeral-qld-4871-2018365337,Price Withheld,is-sold,Sold 28 Feb 2023,20230228,68789 BRUCE HIGHWAY,DEERAL,QLD,4871,-17.233469,145.920654,6,2,7,RuralLifestyle,Rural Lifestyle,True,6,m2,False
-2010864542,listing,/kurrimine-beach-qld-4871-2010864542,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,,KURRIMINE BEACH,QLD,4871,-17.7400455,146.136551,4,2,6,House,House,False,1050,m2,False
-2018339775,listing,/5-dawson-street-bramston-beach-qld-4871-2018339775,380000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Dawson Street,BRAMSTON BEACH,QLD,4871,-17.3516312,146.020325,3,1,1,House,House,False,700,m2,False
+2018365337,listing,/68789-bruce-highway-deeral-qld-4871-2018365337,Price Withheld,is-sold,Sold 28 Feb 2023,20230228,68789 BRUCE HIGHWAY,DEERAL,QLD,4871,-17.233469,145.920654,6,6,6,RuralLifestyle,Rural Lifestyle,True,6,m2,False
+2010864542,listing,/kurrimine-beach-qld-4871-2010864542,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,NaN,KURRIMINE BEACH,QLD,4871,-17.7400455,146.136551,4,4,4,House,House,False,1050,m2,False
+2018339775,listing,/5-dawson-street-bramston-beach-qld-4871-2018339775,380000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Dawson Street,BRAMSTON BEACH,QLD,4871,-17.3516312,146.020325,3,3,3,House,House,False,700,m2,False
