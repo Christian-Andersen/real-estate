@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017573574,listing,/2-forrest-street-pittsworth-qld-4356-2017573574,169000,is-sold,Sold by private treaty 12 Dec 2022,20221212,2 Forrest Street,PITTSWORTH,QLD,4356,-27.71307,151.633148,NaN,NaN,NaN,VacantLand,Vacant land,False,813.0,m2,False
+2017573574,listing,/2-forrest-street-pittsworth-qld-4356-2017573574,169000,is-sold,Sold by private treaty 12 Dec 2022,20221212,2 Forrest Street,PITTSWORTH,QLD,4356,-27.71307,151.633148,,,,VacantLand,Vacant land,False,813.0,m2,False
 2017710264,listing,/4a-hume-street-pittsworth-qld-4356-2017710264,324500,is-sold,Sold by private treaty 08 Feb 2023,20230208,4A Hume Street,PITTSWORTH,QLD,4356,-27.7179585,151.640823,3,3,3,House,House,False,779.0,m2,False
 2018050540,listing,/30-short-street-pittsworth-qld-4356-2018050540,335000,is-sold,Sold by private treaty 12 Nov 2022,20221112,30 Short Street,PITTSWORTH,QLD,4356,-27.71251,151.634247,2,2,2,House,House,False,1290.0,m2,False
 2018079658,listing,/19-mclean-street-pittsworth-qld-4356-2018079658,320000,is-sold,Sold by private treaty 29 Oct 2022,20221029,19 Mclean Street,PITTSWORTH,QLD,4356,-27.7216511,151.629684,3,3,3,House,House,False,864.0,m2,False
@@ -19,4 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018246473,listing,/68-schick-road-pittsworth-qld-4356-2018246473,2300000,is-sold,Sold by private treaty 02 Nov 2022,20221102,68 Schick Road,PITTSWORTH,QLD,4356,-27.7503548,151.582458,3,3,3,Farm,Farm,True,136.4,ha,False
 2018249983,listing,/43-hadley-street-pittsworth-qld-4356-2018249983,355000,is-sold,Sold by private treaty 11 Jan 2023,20230111,43 Hadley Street,PITTSWORTH,QLD,4356,-27.7148628,151.631042,2,2,2,House,House,False,802.0,m2,False
 2018297699,listing,/26-murray-street-pittsworth-qld-4356-2018297699,380000,is-sold,Sold by private treaty 20 Feb 2023,20230220,26 Murray Street,PITTSWORTH,QLD,4356,-27.7202225,151.636841,4,4,4,House,House,False,2023.0,m2,False
-2018041029,listing,/8-allom-street-pittsworth-qld-4356-2018041029,370000,is-sold,Sold by private treaty 06 Mar 2023,20230306,8 Allom Street,PITTSWORTH,QLD,4356,-27.7189789,151.6405,3,1,NaN,House,House,False,779,m2,False
+2018041029,listing,/8-allom-street-pittsworth-qld-4356-2018041029,370000,is-sold,Sold by private treaty 06 Mar 2023,20230306,8 Allom Street,PITTSWORTH,QLD,4356,-27.7189789,151.6405,3,1,,House,House,False,779,m2,False

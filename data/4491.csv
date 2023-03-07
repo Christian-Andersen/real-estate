@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013968603,listing,/eulo-qld-4491-2013968603,200000,is-sold,Sold by private treaty 27 Feb 2019,20190227,NaN,EULO,QLD,4491,-28.1790962,145.049332,3,3,3,House,House,False,4046,m2,False
-2013972167,listing,/-penaroo-eulo-qld-4491-2013972167,2000000,is-sold,Sold by private treaty 23 Mar 2017,20170323,"'' PENAROO""",EULO,QLD,4491,-28.0307579,145.053467,NaN,NaN,NaN,Rural,Rural,True,29450,ha,False
-2016998901,listing,/39-leo-street-eulo-qld-4491-2016998901,Price Withheld,is-sold,Sold by private treaty 28 May 2021,20210528,39 Leo Street,EULO,QLD,4491,-28.1592121,145.048721,NaN,NaN,NaN,VacantLand,Vacant land,False,4047,m2,False
+2013968603,listing,/eulo-qld-4491-2013968603,200000,is-sold,Sold by private treaty 27 Feb 2019,20190227,,EULO,QLD,4491,-28.1790962,145.049332,3,3,3,House,House,False,4046,m2,False
+2013972167,listing,/-penaroo-eulo-qld-4491-2013972167,2000000,is-sold,Sold by private treaty 23 Mar 2017,20170323,"'' PENAROO""",EULO,QLD,4491,-28.0307579,145.053467,,,,Rural,Rural,True,29450,ha,False
+2016998901,listing,/39-leo-street-eulo-qld-4491-2016998901,,is-sold,Sold by private treaty 28 May 2021,20210528,39 Leo Street,EULO,QLD,4491,-28.1592121,145.048721,,,,VacantLand,Vacant land,False,4047,m2,False

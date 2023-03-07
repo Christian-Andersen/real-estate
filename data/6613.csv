@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012632595,listing,/9-douglas-street-buntine-wa-6613-2012632595,Price Withheld,is-sold,Sold by private treaty 12 Apr 2016,20160412,9 Douglas Street,BUNTINE,WA,6613,-29.9857979,116.568848,3,3,3,House,House,False,0,m2,False
+2012632595,listing,/9-douglas-street-buntine-wa-6613-2012632595,,is-sold,Sold by private treaty 12 Apr 2016,20160412,9 Douglas Street,BUNTINE,WA,6613,-29.9857979,116.568848,3,3,3,House,House,False,0,m2,False

@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2011884887,listing,/gwabegar-nsw-2356-2011884887,Price Withheld,is-sold,Sold by private treaty 18 Jun 2015,20150618,NaN,GWABEGAR,NSW,2356,-30.6088238,148.968185,4,4,4,Rural,Rural,True,1788.71,ha,False
-2013664720,listing,/-cullenya-gwabegar-nsw-2356-2013664720,Price Withheld,is-sold,Sold by private treaty 20 Mar 2018,20180320,' CULLENYA',GWABEGAR,NSW,2356,-30.5791245,148.960251,4,4,4,Rural,Rural,False,0.0,m2,False
+2011884887,listing,/gwabegar-nsw-2356-2011884887,,is-sold,Sold by private treaty 18 Jun 2015,20150618,,GWABEGAR,NSW,2356,-30.6088238,148.968185,4,4,4,Rural,Rural,True,1788.71,ha,False
+2013664720,listing,/-cullenya-gwabegar-nsw-2356-2013664720,,is-sold,Sold by private treaty 20 Mar 2018,20180320,' CULLENYA',GWABEGAR,NSW,2356,-30.5791245,148.960251,4,4,4,Rural,Rural,False,0.0,m2,False
 2013958503,listing,/2193-gwabegar-rd-gwabegar-nsw-2356-2013958503,175000,is-sold,Sold by private treaty 08 Aug 2018,20180808,2193 Gwabegar Rd,GWABEGAR,NSW,2356,-30.5229683,149.125275,4,4,4,AcreageSemiRural,Acreage / Semi-Rural,False,0.0,m2,False
 2016188379,listing,/-werona-4316-cypress-way-gwabegar-nsw-2356-2016188379,681830,is-sold,Sold by private treaty 22 Jan 2021,20210122,"""Werona"" 4316 Cypress Way",GWABEGAR,NSW,2356,-30.5711117,148.972229,3,3,3,Rural,Rural,True,672.99,ha,False

@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012402871,listing,/quorn-sa-5433-2012402871,Price Withheld,is-sold,Sold by private treaty 24 Nov 2022,20221124,NaN,QUORN,SA,5433,-32.3402863,138.0386,3,3,3,House,House,False,3936.0,m2,False
+2012402871,listing,/quorn-sa-5433-2012402871,,is-sold,Sold by private treaty 24 Nov 2022,20221124,,QUORN,SA,5433,-32.3402863,138.0386,3,3,3,House,House,False,3936.0,m2,False
 2015665923,listing,/15-west-terrace-quorn-sa-5433-2015665923,180000,is-sold,Sold by private treaty 01 Jun 2022,20220601,15 West Terrace,QUORN,SA,5433,-32.3512573,138.040176,3,3,3,House,House,False,1012.0,m2,False
 2017209455,listing,/2-norman-street-quorn-sa-5433-2017209455,110000,is-sold,Sold by private treaty 05 Sep 2022,20220905,2 Norman Street,QUORN,SA,5433,-32.3480263,138.027054,2,2,2,House,House,False,1023.0,m2,False
 2017609032,listing,/29-sixth-street-quorn-sa-5433-2017609032,90000,is-sold,Sold by private treaty 21 Jun 2022,20220621,29 Sixth Street,QUORN,SA,5433,-32.34964,138.042664,1,1,1,House,House,False,809.0,m2,False

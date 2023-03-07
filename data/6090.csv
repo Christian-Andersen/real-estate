@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2008519341,listing,/3-8-agett-road-malaga-wa-6090-2008519341,Price Withheld,is-sold,Sold by private treaty 20 Aug 2010,20100820,3/8 Agett Road,MALAGA,WA,6090,-31.86513,115.8838,1,1,1,House,House,False,0,m2,False
-2008890365,listing,/6-5-townsend-street-malaga-wa-6090-2008890365,Price Withheld,is-sold,Sold by private treaty 12 May 2011,20110512,6/5 Townsend Street,MALAGA,WA,6090,-31.8463249,115.890411,2,2,2,Unknown,Unknown,False,195,m2,False
-2012078500,listing,/1-27-enterprise-crescent-malaga-wa-6090-2012078500,Price Withheld,is-sold,Sold by private treaty 17 Dec 2015,20151217,1/27 Enterprise Crescent,MALAGA,WA,6090,-31.84794,115.880455,1,1,1,House,House,False,208,m2,False
+2008519341,listing,/3-8-agett-road-malaga-wa-6090-2008519341,,is-sold,Sold by private treaty 20 Aug 2010,20100820,3/8 Agett Road,MALAGA,WA,6090,-31.86513,115.8838,1,1,1,House,House,False,0,m2,False
+2008890365,listing,/6-5-townsend-street-malaga-wa-6090-2008890365,,is-sold,Sold by private treaty 12 May 2011,20110512,6/5 Townsend Street,MALAGA,WA,6090,-31.8463249,115.890411,2,2,2,Unknown,Unknown,False,195,m2,False
+2012078500,listing,/1-27-enterprise-crescent-malaga-wa-6090-2012078500,,is-sold,Sold by private treaty 17 Dec 2015,20151217,1/27 Enterprise Crescent,MALAGA,WA,6090,-31.84794,115.880455,1,1,1,House,House,False,208,m2,False

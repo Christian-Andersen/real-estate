@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2011364231,listing,/-stonor-road-stonor-tas-7119-2011364231,Price Withheld,is-sold,Sold at auction 07 Nov 2014,20141107,. Stonor Road,STONOR,TAS,7119,-42.40191,147.390335,NaN,NaN,NaN,Rural,Rural,True,173,ha,False
+2011364231,listing,/-stonor-road-stonor-tas-7119-2011364231,,is-sold,Sold at auction 07 Nov 2014,20141107,. Stonor Road,STONOR,TAS,7119,-42.40191,147.390335,,,,Rural,Rural,True,173,ha,False
 2016657722,listing,/599-stonor-road-stonor-tas-7119-2016657722,390000,is-sold,Sold by private treaty 04 Jan 2021,20210104,599 Stonor Road,STONOR,TAS,7119,-42.39847,147.380875,3,3,3,AcreageSemiRural,Acreage / Semi-Rural,True,0,m2,False
-2017970513,listing,/1016-rhyndaston-road-stonor-tas-7119-2017970513,Price Withheld,is-sold,Sold by private treaty 24 Aug 2022,20220824,1016 Rhyndaston Road,STONOR,TAS,7119,-42.4350471,147.386017,NaN,NaN,NaN,Farm,Farm,True,484,ha,False
+2017970513,listing,/1016-rhyndaston-road-stonor-tas-7119-2017970513,,is-sold,Sold by private treaty 24 Aug 2022,20220824,1016 Rhyndaston Road,STONOR,TAS,7119,-42.4350471,147.386017,,,,Farm,Farm,True,484,ha,False

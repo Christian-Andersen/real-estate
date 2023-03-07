@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2010202189,listing,/95-postans-road-hope-valley-wa-6165-2010202189,Price Withheld,is-sold,Sold by private treaty 25 Apr 2013,20130425,95 Postans Road,HOPE VALLEY,WA,6165,-32.19399,115.812012,4,4,4,House,House,False,0.0,m2,False
+2010202189,listing,/95-postans-road-hope-valley-wa-6165-2010202189,,is-sold,Sold by private treaty 25 Apr 2013,20130425,95 Postans Road,HOPE VALLEY,WA,6165,-32.19399,115.812012,4,4,4,House,House,False,0.0,m2,False
 2010431226,listing,/2-31-sayer-road-hope-valley-wa-6165-2010431226,630000,is-sold,Sold by private treaty 07 Feb 2014,20140207,2/31 Sayer Road,HOPE VALLEY,WA,6165,-32.18421,115.82019,3,3,3,AcreageSemiRural,Acreage / Semi-Rural,False,0.0,m2,False
-2014610214,listing,/12-sayer-road-hope-valley-wa-6165-2014610214,Price Withheld,is-sold,Sold by private treaty 22 Aug 2019,20190822,12 Sayer Road,HOPE VALLEY,WA,6165,-32.18237,115.821838,3,3,3,House,House,True,1.65,ha,False
+2014610214,listing,/12-sayer-road-hope-valley-wa-6165-2014610214,,is-sold,Sold by private treaty 22 Aug 2019,20190822,12 Sayer Road,HOPE VALLEY,WA,6165,-32.18237,115.821838,3,3,3,House,House,True,1.65,ha,False

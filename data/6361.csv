@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2011155220,listing,/tincurrin-wa-6361-2011155220,Price Withheld,is-sold,Sold by private treaty 13 Jan 2016,20160113,NaN,TINCURRIN,WA,6361,-32.9767723,117.770996,NaN,NaN,NaN,Rural,Rural,False,0,m2,False
-2012543423,listing,/2-mcdougall-street-tincurrin-wa-6361-2012543423,Price Withheld,is-sold,Sold by private treaty 01 Feb 2016,20160201,2 McDougall Street,TINCURRIN,WA,6361,-32.9751167,117.7725,3,3,3,House,House,False,990,m2,False
-2013463753,listing,/lot-17-tincurrin-south-road-tincurrin-wa-6361-2013463753,Price Withheld,is-sold,Sold by private treaty 24 May 2017,20170524,Lot 17 Tincurrin South Road,TINCURRIN,WA,6361,-33.02625,117.7619,NaN,NaN,8.0,Rural,Rural,True,2,ha,False
+2011155220,listing,/tincurrin-wa-6361-2011155220,,is-sold,Sold by private treaty 13 Jan 2016,20160113,,TINCURRIN,WA,6361,-32.9767723,117.770996,,,,Rural,Rural,False,0,m2,False
+2012543423,listing,/2-mcdougall-street-tincurrin-wa-6361-2012543423,,is-sold,Sold by private treaty 01 Feb 2016,20160201,2 McDougall Street,TINCURRIN,WA,6361,-32.9751167,117.7725,3,3,3,House,House,False,990,m2,False
+2013463753,listing,/lot-17-tincurrin-south-road-tincurrin-wa-6361-2013463753,,is-sold,Sold by private treaty 24 May 2017,20170524,Lot 17 Tincurrin South Road,TINCURRIN,WA,6361,-33.02625,117.7619,,,8.0,Rural,Rural,True,2,ha,False

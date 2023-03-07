@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018242008,listing,/522-mckenzie-street-lavington-nsw-2641-2018242008,535000,is-sold,Sold by private treaty 27 Feb 2023,20230227,522 McKenzie Street,LAVINGTON,NSW,2641,-36.03778,146.9383,3,3,3,House,House,False,834,m2,False
 2018345088,listing,/397-english-avenue-lavington-nsw-2641-2018345088,480000,is-sold,Sold by private treaty 28 Feb 2023,20230228,397 English Avenue,LAVINGTON,NSW,2641,-36.0458069,146.932327,3,3,3,House,House,False,841,m2,False
-2018305666,listing,/534-douglas-road-lavington-nsw-2641-2018305666,Price Withheld,is-sold,Sold by private treaty 03 Mar 2023,20230303,534 Douglas Road,LAVINGTON,NSW,2641,-36.03798,146.932571,3,3,3,House,House,False,670,m2,False
+2018305666,listing,/534-douglas-road-lavington-nsw-2641-2018305666,,is-sold,Sold by private treaty 03 Mar 2023,20230303,534 Douglas Road,LAVINGTON,NSW,2641,-36.03798,146.932571,3,3,3,House,House,False,670,m2,False

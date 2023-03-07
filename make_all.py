@@ -1,8 +1,7 @@
 import os
 import csv
 
-# Remove all without date
-# Remove all without price
+# dateFormatted = Date(Left([date],4),Right(left([date],6),2),right([date],2))
 written_header = False
 with open('all.csv', 'w', newline='', encoding='utf-8') as out_file:
     w = csv.writer(out_file)
@@ -16,8 +15,4 @@ with open('all.csv', 'w', newline='', encoding='utf-8') as out_file:
                         w.writerow(row)
                         written_header = True
                 else:
-                    if row[6]=='NaN':
-                        continue
-                    if row[3]=='Price Withheld':
-                        continue
                     w.writerow(row)

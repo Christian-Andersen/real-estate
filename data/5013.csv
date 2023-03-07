@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017916904,listing,/10-neptune-terrace-gillman-sa-5013-2017916904,280000,is-sold,Sold by private treaty 12 Jan 2023,20230112,10 Neptune Terrace,GILLMAN,SA,5013,-34.8492546,138.524261,NaN,NaN,NaN,VacantLand,Vacant land,False,300,m2,False
+2017916904,listing,/10-neptune-terrace-gillman-sa-5013-2017916904,280000,is-sold,Sold by private treaty 12 Jan 2023,20230112,10 Neptune Terrace,GILLMAN,SA,5013,-34.8492546,138.524261,,,,VacantLand,Vacant land,False,300,m2,False
 2018066637,listing,/8-beatrice-street-ottoway-sa-5013-2018066637,440000,is-sold,Sold at auction 30 Nov 2022,20221130,8 Beatrice Street,OTTOWAY,SA,5013,-34.848156,138.540192,3,3,3,House,House,False,598,m2,False
 2018086638,listing,/18-edward-street-ottoway-sa-5013-2018086638,528000,is-sold,Sold by private treaty 14 Dec 2022,20221214,18 Edward Street,OTTOWAY,SA,5013,-34.848175,138.528183,4,4,4,House,House,False,850,m2,False
 2018121226,listing,/14-mary-street-pennington-sa-5013-2018121226,860000,is-sold,Sold by private treaty 23 Jan 2023,20230123,14 Mary Street,PENNINGTON,SA,5013,-34.8625336,138.5309,4,4,4,House,House,False,425,m2,False
@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018351621,listing,/8-15-evans-street-rosewater-sa-5013-2018351621,240000,is-sold,Sold by private treaty 27 Feb 2023,20230227,8/15 Evans Street,ROSEWATER,SA,5013,-34.85102,138.52359,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,58,m2,False
 2018364484,listing,/10-shell-street-rosewater-sa-5013-2018364484,444000,is-sold,Sold by private treaty 21 Jan 2023,20230121,10 Shell Street,ROSEWATER,SA,5013,-34.8479576,138.523071,3,3,3,House,House,False,533,m2,False
 2018324279,listing,/5-derby-street-gillman-sa-5013-2018324279,475000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Derby Street,GILLMAN,SA,5013,-34.8471527,138.520432,2,2,2,House,House,False,0,m2,False
+2017955549,listing,/lot-102-rosetta-street-rosewater-sa-5013-2017955549,320000,is-sold,Sold by private treaty 07 Mar 2023,20230307,Lot 102 Rosetta Street,ROSEWATER,SA,5013,-34.850174,138.5161,,,,VacantLand,Vacant land,False,251,m2,False

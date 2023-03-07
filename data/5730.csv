@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013846824,listing,/33-mine-road-blinman-sa-5730-2013846824,Price Withheld,is-sold,Sold at auction 10 Oct 2017,20171010,33 Mine Road,BLINMAN,SA,5730,-31.0940247,138.6781,2,2,2,House,House,False,0,m2,False
+2013846824,listing,/33-mine-road-blinman-sa-5730-2013846824,,is-sold,Sold at auction 10 Oct 2017,20171010,33 Mine Road,BLINMAN,SA,5730,-31.0940247,138.6781,2,2,2,House,House,False,0,m2,False
 2017181036,listing,/lot-201-hancock-street-blinman-sa-5730-2017181036,195000,is-sold,Sold by private treaty 07 Sep 2021,20210907,Lot 201 Hancock Street,BLINMAN,SA,5730,-31.0907955,138.67984,3,3,3,House,House,False,2022,m2,False
-2018297836,listing,/lot-67-first-street-beltana-sa-5730-2018297836,35000,is-sold,Sold by private treaty 21 Feb 2023,20230221,Lot 67 First Street,BELTANA,SA,5730,-30.8127079,138.412781,NaN,NaN,NaN,VacantLand,Vacant land,False,6069,m2,False
+2018297836,listing,/lot-67-first-street-beltana-sa-5730-2018297836,35000,is-sold,Sold by private treaty 21 Feb 2023,20230221,Lot 67 First Street,BELTANA,SA,5730,-30.8127079,138.412781,,,,VacantLand,Vacant land,False,6069,m2,False

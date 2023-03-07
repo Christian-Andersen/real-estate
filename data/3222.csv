@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2018323090,listing,/24-sundial-drive-clifton-springs-vic-3222-2018323090,1285000,is-sold,Sold by private treaty 28 Feb 2023,20230228,24 Sundial Drive,CLIFTON SPRINGS,VIC,3222,-38.16383,144.57045,3,3,3,House,House,False,500,m2,False
-2018319263,listing,/23-kawana-court-clifton-springs-vic-3222-2018319263,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,23 Kawana Court,CLIFTON SPRINGS,VIC,3222,-38.1612167,144.557861,3,3,3,House,House,False,628,m2,False
+2018319263,listing,/23-kawana-court-clifton-springs-vic-3222-2018319263,,is-sold,Sold by private treaty 27 Feb 2023,20230227,23 Kawana Court,CLIFTON SPRINGS,VIC,3222,-38.1612167,144.557861,3,3,3,House,House,False,628,m2,False
 2018103684,listing,/17-takanna-avenue-clifton-springs-vic-3222-2018103684,810000,is-sold,Sold by private treaty 02 Mar 2023,20230302,17 Takanna Avenue,CLIFTON SPRINGS,VIC,3222,-38.1521759,144.578552,4,4,4,House,House,False,585,m2,False

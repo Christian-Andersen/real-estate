@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2016283698,listing,/32-attwood-street-bullaring-wa-6373-2016283698,Price Withheld,is-sold,Sold by private treaty 25 Aug 2020,20200825,32 Attwood Street,BULLARING,WA,6373,-32.4969635,117.742477,3,3,3,House,House,False,1012,m2,False
+2016283698,listing,/32-attwood-street-bullaring-wa-6373-2016283698,,is-sold,Sold by private treaty 25 Aug 2020,20200825,32 Attwood Street,BULLARING,WA,6373,-32.4969635,117.742477,3,3,3,House,House,False,1012,m2,False

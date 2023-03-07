@@ -1,6 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012415642,listing,/jackson-qld-4426-2012415642,Price Withheld,is-sold,Sold by private treaty 20 Jun 2017,20170620,NaN,JACKSON,QLD,4426,-26.6440945,149.624847,2,2,2,Rural,Rural,True,293.06,ha,False
-2013173681,listing,/0-westgriff-jackson-qld-4426-2013173681,Price Withheld,is-sold,Sold by private treaty 20 Apr 2017,20170420,0 WESTGRIFF,JACKSON,QLD,4426,-26.6440945,149.624847,2,2,2,Rural,Rural,False,0.0,m2,False
+2012415642,listing,/jackson-qld-4426-2012415642,,is-sold,Sold by private treaty 20 Jun 2017,20170620,,JACKSON,QLD,4426,-26.6440945,149.624847,2,2,2,Rural,Rural,True,293.06,ha,False
+2013173681,listing,/0-westgriff-jackson-qld-4426-2013173681,,is-sold,Sold by private treaty 20 Apr 2017,20170420,0 WESTGRIFF,JACKSON,QLD,4426,-26.6440945,149.624847,2,2,2,Rural,Rural,False,0.0,m2,False
 2014560942,listing,/58-railway-street-jackson-qld-4426-2014560942,34000,is-sold,Sold by private treaty 22 Aug 2018,20180822,58 Railway Street,JACKSON,QLD,4426,-26.64367,149.623016,3,3,3,House,House,False,0.0,m2,False
-2016198893,listing,/42-70-edward-street-jackson-qld-4426-2016198893,Price Withheld,is-sold,Sold by private treaty 05 May 2020,20200505,42 & 70 Edward Street,JACKSON,QLD,4426,-26.6447468,149.623871,NaN,NaN,NaN,House,House,False,3035.0,m2,False
-2017949400,listing,/pinora-west-500-lambing-flat-road-jackson-qld-4426-2017949400,8400000,is-sold,Sold at auction 01 Sep 2022,20220901,Pinora West 500 Lambing Flat Road,JACKSON,QLD,4426,-26.6446838,149.624725,NaN,NaN,NaN,Farm,Farm,True,1746.0,ha,False
+2016198893,listing,/42-70-edward-street-jackson-qld-4426-2016198893,,is-sold,Sold by private treaty 05 May 2020,20200505,42 & 70 Edward Street,JACKSON,QLD,4426,-26.6447468,149.623871,,,,House,House,False,3035.0,m2,False
+2017949400,listing,/pinora-west-500-lambing-flat-road-jackson-qld-4426-2017949400,8400000,is-sold,Sold at auction 01 Sep 2022,20220901,Pinora West 500 Lambing Flat Road,JACKSON,QLD,4426,-26.6446838,149.624725,,,,Farm,Farm,True,1746.0,ha,False

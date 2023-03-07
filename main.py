@@ -12,7 +12,7 @@ def add_column(group, header):
     if header in group:
         return group[header]
     else:
-        return 'NaN'
+        return ''
 
 
 def html_to_dict(s):
@@ -42,7 +42,9 @@ def value_to_row(value):
     row.append(value['listingType'])
     row.append(value['listingModel']['url'])
     row.append(value['listingModel']['price'])
-    if row[-1].startswith('$'):
+    if row[-1] == 'Price Withheld':
+        row[-1] = ''
+    elif row[-1].startswith('$'):
         row[-1] = row[-1][1:].replace(',', '')
     row.append(value['listingModel']['tags']['tagClassName'])
     row.append(value['listingModel']['tags']['tagText'])
@@ -118,7 +120,7 @@ for file in os.listdir('data'):
                 if row[0] in ids:
                     print('Dupe ID found')
                 else:
-                    if row[6] != 'NaN':
+                    if row[6] != '':
                         if int(row[6]) < oldest:
                             oldest = int(row[6])
                     ids[row[0]] = row[2]

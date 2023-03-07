@@ -1,7 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
 2011547260,listing,/373-becker-road-brandon-qld-4808-2011547260,925,is-sold,Sold by private treaty 17 May 2022,20220517,373 Becker Road,BRANDON,QLD,4808,-19.49608,147.372116,1,1,1,Rural,Rural,True,0.0,m2,False
 2015380829,listing,/209-klondyke-road-brandon-qld-4808-2015380829,520000,is-sold,Sold by private treaty 08 Apr 2022,20220408,209 Klondyke Road,BRANDON,QLD,4808,-19.5888882,147.378632,3,3,3,House,House,True,2.53,ha,False
-2015882207,listing,/69-drysdale-street-brandon-qld-4808-2015882207,Price Withheld,is-sold,Sold 28 Jul 2022,20220728,69 Drysdale Street,BRANDON,QLD,4808,-19.5547371,147.3553,1,1,1,House,House,False,2200.0,m2,False
+2015882207,listing,/69-drysdale-street-brandon-qld-4808-2015882207,,is-sold,Sold 28 Jul 2022,20220728,69 Drysdale Street,BRANDON,QLD,4808,-19.5547371,147.3553,1,1,1,House,House,False,2200.0,m2,False
 2016762179,listing,/82-drysdale-street-brandon-qld-4808-2016762179,460000,is-sold,Sold by private treaty 16 Sep 2022,20220916,82 Drysdale Street,BRANDON,QLD,4808,-19.554388,147.35704,5,5,5,House,House,False,1012.0,m2,False
 2017236186,listing,/56-bowling-green-street-brandon-qld-4808-2017236186,345000,is-sold,Sold by private treaty 04 Feb 2022,20220204,56 Bowling Green Street,BRANDON,QLD,4808,-19.55632,147.360153,4,4,4,House,House,False,680.0,m2,False
 2017267679,listing,/258-drynie-road-brandon-qld-4808-2017267679,770000,is-sold,Sold by private treaty 23 Jun 2022,20220623,258 Drynie Road,BRANDON,QLD,4808,-19.5409775,147.33638,4,4,4,House,House,True,1.4,ha,False

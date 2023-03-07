@@ -7,3 +7,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018263879,listing,/63-ludwig-street-leichhardt-qld-4305-2018263879,575000,is-sold,Sold by private treaty 03 Mar 2023,20230303,63 Ludwig Street,LEICHHARDT,QLD,4305,-27.6162167,152.730423,4,4,4,Duplex,Duplex,False,450,m2,False
 2018280034,listing,/30-reif-street-flinders-view-qld-4305-2018280034,492000,is-sold,Sold by private treaty 06 Mar 2023,20230306,30 Reif Street,FLINDERS VIEW,QLD,4305,-27.6518745,152.770538,3,1,1,House,House,False,729,m2,False
 2018358943,listing,/8-randall-street-newtown-qld-4305-2018358943,432500,is-sold,Sold by private treaty 06 Mar 2023,20230306,8 Randall Street,NEWTOWN,QLD,4305,-27.6173439,152.774216,2,1,1,House,House,False,472,m2,False
+2018257089,listing,/201-warwick-road-churchill-qld-4305-2018257089,,is-sold,Sold by private treaty 07 Mar 2023,20230307,201 Warwick Road,CHURCHILL,QLD,4305,-27.6362324,152.752762,5,2,4,House,House,False,1176,m2,False

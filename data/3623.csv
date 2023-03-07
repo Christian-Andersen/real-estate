@@ -1,6 +1,6 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2015187717,listing,/1-midland-highway-carag-carag-vic-3623-2015187717,260000,is-sold,Sold by private treaty 01 Nov 2022,20221101,1 Midland Highway,CARAG CARAG,VIC,3623,-36.44746,144.982742,NaN,NaN,NaN,Rural,Rural,True,46.13,ha,False
-2016286230,listing,/2-rohan-road-carag-carag-vic-3623-2016286230,240000,is-sold,Sold by private treaty 01 Nov 2022,20221101,2 Rohan Road,CARAG CARAG,VIC,3623,-36.45417,144.904465,NaN,NaN,NaN,Rural,Rural,True,40.06,ha,False
+2015187717,listing,/1-midland-highway-carag-carag-vic-3623-2015187717,260000,is-sold,Sold by private treaty 01 Nov 2022,20221101,1 Midland Highway,CARAG CARAG,VIC,3623,-36.44746,144.982742,,,,Rural,Rural,True,46.13,ha,False
+2016286230,listing,/2-rohan-road-carag-carag-vic-3623-2016286230,240000,is-sold,Sold by private treaty 01 Nov 2022,20221101,2 Rohan Road,CARAG CARAG,VIC,3623,-36.45417,144.904465,,,,Rural,Rural,True,40.06,ha,False
 2017727006,listing,/10-birdwood-avenue-stanhope-vic-3623-2017727006,195000,is-sold,Sold by private treaty 27 Jul 2022,20220727,10 Birdwood Avenue,STANHOPE,VIC,3623,-36.4461555,144.983231,2,2,2,House,House,False,389.0,m2,False
 2017833650,listing,/514-mcgrath-road-stanhope-vic-3623-2017833650,80000,is-sold,Sold by private treaty 15 Aug 2022,20220815,514 McGrath Road,STANHOPE,VIC,3623,-36.4552956,144.975082,3,3,3,Rural,Rural,True,25.09,ha,False
 2017853827,listing,/9-ross-court-stanhope-vic-3623-2017853827,230000,is-sold,Sold by private treaty 30 Aug 2022,20220830,9 Ross Court,STANHOPE,VIC,3623,-36.44298,144.983185,3,3,3,House,House,False,817.0,m2,False

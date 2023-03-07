@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018302509,listing,/5-suzanne-close-berowra-heights-nsw-2082-2018302509,Price Withheld,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Suzanne Close,BEROWRA HEIGHTS,NSW,2082,-33.6069527,151.1373,3,3,3,House,House,False,739,m2,False
+2018302509,listing,/5-suzanne-close-berowra-heights-nsw-2082-2018302509,,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Suzanne Close,BEROWRA HEIGHTS,NSW,2082,-33.6069527,151.1373,3,3,3,House,House,False,739,m2,False
 2017946549,listing,/34-clinton-close-berowra-heights-nsw-2082-2017946549,1465000,is-sold,Sold by private treaty 11 Nov 2022,20221111,34 Clinton Close,BEROWRA HEIGHTS,NSW,2082,-33.6136322,151.134109,4,4,4,House,House,False,867,m2,False
 2017950456,listing,/3-calabash-point-berowra-waters-nsw-2082-2017950456,965000,is-sold,Sold by private treaty 21 Oct 2022,20221021,3 Calabash Point,BEROWRA WATERS,NSW,2082,-33.5877151,151.115021,3,3,3,House,House,False,529,m2,False
 2017997272,listing,/14-6-12-kita-road-berowra-heights-nsw-2082-2017997272,800000,is-sold,Sold by private treaty 04 Oct 2022,20221004,14/6-12 Kita Road,BEROWRA HEIGHTS,NSW,2082,-33.6127167,151.13707,2,2,2,Townhouse,Townhouse,False,0,m2,False

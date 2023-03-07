@@ -1,3 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017112779,listing,/lot-9-baker-street-scaddan-wa-6447-2017112779,5000,is-sold,Sold by private treaty 09 Jul 2021,20210709,Lot 9 Baker Street,SCADDAN,WA,6447,-33.4437256,121.725533,NaN,NaN,NaN,VacantLand,Vacant land,False,1010,m2,False
-2017531943,listing,/3636-rollond-road-lort-river-wa-6447-2017531943,Price Withheld,is-sold,Sold by private treaty 01 Mar 2022,20220301,3636 ROLLOND ROAD,LORT RIVER,WA,6447,-33.1774254,121.345329,3,3,3,Rural,Rural,True,1900,ha,False
+2017112779,listing,/lot-9-baker-street-scaddan-wa-6447-2017112779,5000,is-sold,Sold by private treaty 09 Jul 2021,20210709,Lot 9 Baker Street,SCADDAN,WA,6447,-33.4437256,121.725533,,,,VacantLand,Vacant land,False,1010,m2,False
+2017531943,listing,/3636-rollond-road-lort-river-wa-6447-2017531943,,is-sold,Sold by private treaty 01 Mar 2022,20220301,3636 ROLLOND ROAD,LORT RIVER,WA,6447,-33.1774254,121.345329,3,3,3,Rural,Rural,True,1900,ha,False

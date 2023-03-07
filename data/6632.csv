@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012508801,listing,/tenindewa-wa-6632-2012508801,2000000,is-sold,Sold by private treaty 26 Jan 2016,20160126,NaN,TENINDEWA,WA,6632,-28.6242218,115.363441,NaN,NaN,NaN,Rural,Rural,True,1292,ha,False
+2012508801,listing,/tenindewa-wa-6632-2012508801,2000000,is-sold,Sold by private treaty 26 Jan 2016,20160126,,TENINDEWA,WA,6632,-28.6242218,115.363441,,,,Rural,Rural,True,1292,ha,False

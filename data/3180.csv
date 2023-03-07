@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018078532,listing,/5-12-david-street-knoxfield-vic-3180-2018078532,Price Withheld,is-sold,Sold by private treaty 11 Nov 2022,20221111,5/12 David Street,KNOXFIELD,VIC,3180,-37.8926773,145.2515,3,3,3,Townhouse,Townhouse,False,290,m2,False
+2018078532,listing,/5-12-david-street-knoxfield-vic-3180-2018078532,,is-sold,Sold by private treaty 11 Nov 2022,20221111,5/12 David Street,KNOXFIELD,VIC,3180,-37.8926773,145.2515,3,3,3,Townhouse,Townhouse,False,290,m2,False
 2018079201,listing,/31-latona-avenue-knoxfield-vic-3180-2018079201,880000,is-sold,Sold by private treaty 24 Nov 2022,20221124,31 Latona Avenue,KNOXFIELD,VIC,3180,-37.8902855,145.242218,3,3,3,House,House,False,732,m2,False
 2018130281,listing,/55-rodney-drive-knoxfield-vic-3180-2018130281,785000,is-sold,Sold at auction 12 Nov 2022,20221112,55 Rodney Drive,KNOXFIELD,VIC,3180,-37.8852348,145.240662,4,4,4,House,House,False,337,m2,False
 2018134881,listing,/34-kent-street-knoxfield-vic-3180-2018134881,821500,is-sold,Sold at auction 12 Nov 2022,20221112,34 Kent Street,KNOXFIELD,VIC,3180,-37.88392,145.252609,4,4,4,House,House,False,796,m2,False

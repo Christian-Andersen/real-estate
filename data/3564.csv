@@ -1,6 +1,7 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2018241959,listing,/4-fawkner-court-echuca-vic-3564-2018241959,Price Withheld,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Fawkner Court,ECHUCA,VIC,3564,-36.15699,144.737885,5,5,5,House,House,False,4136,m2,False
+2018241959,listing,/4-fawkner-court-echuca-vic-3564-2018241959,,is-sold,Sold by private treaty 27 Feb 2023,20230227,4 Fawkner Court,ECHUCA,VIC,3564,-36.15699,144.737885,5,5,5,House,House,False,4136,m2,False
 2018266310,listing,/3-willicent-terrace-echuca-vic-3564-2018266310,638000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Willicent Terrace,ECHUCA,VIC,3564,-36.1392136,144.736847,4,4,4,House,House,False,0,m2,False
 2018302836,listing,/104-crossen-street-echuca-vic-3564-2018302836,660000,is-sold,Sold by private treaty 27 Feb 2023,20230227,104 Crossen Street,ECHUCA,VIC,3564,-36.1357,144.735291,3,3,3,House,House,False,878,m2,False
 2018224659,listing,/8-birch-street-echuca-vic-3564-2018224659,600000,is-sold,Sold by private treaty 02 Mar 2023,20230302,8 Birch Street,ECHUCA,VIC,3564,-36.13543,144.722382,4,4,4,House,House,False,750,m2,False
 2018305725,listing,/15-5-elizabeth-street-echuca-vic-3564-2018305725,317000,is-sold,Sold by private treaty 07 Mar 2023,20230307,15/5 Elizabeth Street,ECHUCA,VIC,3564,-36.13729,144.737167,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,140,m2,False
+2018331597,listing,/8-alfred-avenue-echuca-vic-3564-2018331597,375000,is-sold,Sold by private treaty 07 Mar 2023,20230307,8 Alfred Avenue,ECHUCA,VIC,3564,-36.1368,144.7658,3,1,2,House,House,False,385,m2,False

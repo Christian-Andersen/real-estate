@@ -1,3 +1,3 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013540949,listing,/21-millie-street-gurley-nsw-2398-2013540949,58000,is-sold,Sold by private treaty 29 Sep 2017,20170929,21 MILLIE STREET,GURLEY,NSW,2398,-29.7352962,149.793365,NaN,NaN,NaN,VacantLand,Vacant land,True,9.18,ha,False
-2013933601,listing,/-allora-gurley-nsw-2398-2013933601,Price Withheld,is-sold,Sold at auction 07 Dec 2017,20171207,""" Allora""",GURLEY,NSW,2398,-29.67701,149.8133,NaN,NaN,NaN,Rural,Rural,True,790.35,ha,False
+2013540949,listing,/21-millie-street-gurley-nsw-2398-2013540949,58000,is-sold,Sold by private treaty 29 Sep 2017,20170929,21 MILLIE STREET,GURLEY,NSW,2398,-29.7352962,149.793365,,,,VacantLand,Vacant land,True,9.18,ha,False
+2013933601,listing,/-allora-gurley-nsw-2398-2013933601,,is-sold,Sold at auction 07 Dec 2017,20171207,""" Allora""",GURLEY,NSW,2398,-29.67701,149.8133,,,,Rural,Rural,True,790.35,ha,False

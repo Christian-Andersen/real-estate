@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2017549863,listing,/dernancourt-sa-5075-2017549863,Price Withheld,is-sold,Sold 27 Feb 2023,20230227,NaN,DERNANCOURT,SA,5075,-34.86129,138.683151,4,4,4,House,House,False,320,m2,False
-2018334761,listing,/6a-lorraine-ave-paradise-sa-5075-2018334761,Price Withheld,is-sold,Sold at auction 27 Feb 2023,20230227,6A Lorraine Ave,PARADISE,SA,5075,-34.86771,138.659,4,4,4,House,House,False,346,m2,False
+2017549863,listing,/dernancourt-sa-5075-2017549863,,is-sold,Sold 27 Feb 2023,20230227,,DERNANCOURT,SA,5075,-34.86129,138.683151,4,4,4,House,House,False,320,m2,False
+2018334761,listing,/6a-lorraine-ave-paradise-sa-5075-2018334761,,is-sold,Sold at auction 27 Feb 2023,20230227,6A Lorraine Ave,PARADISE,SA,5075,-34.86771,138.659,4,4,4,House,House,False,346,m2,False
 2018351199,listing,/9-willow-drive-paradise-sa-5075-2018351199,930000,is-sold,Sold by private treaty 02 Mar 2023,20230302,9 Willow Drive,PARADISE,SA,5075,-34.86816,138.682037,5,5,5,House,House,False,700,m2,False

@@ -1,2 +1,2 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013314570,listing,/16-peachey-road-edinburgh-sa-5111-2013314570,Price Withheld,is-sold,Sold by private treaty 01 May 2017,20170501,16 Peachey Road,EDINBURGH,SA,5111,-34.6995468,138.666016,1,1,1,House,House,False,0,m2,False
+2013314570,listing,/16-peachey-road-edinburgh-sa-5111-2013314570,,is-sold,Sold by private treaty 01 May 2017,20170501,16 Peachey Road,EDINBURGH,SA,5111,-34.6995468,138.666016,1,1,1,House,House,False,0,m2,False

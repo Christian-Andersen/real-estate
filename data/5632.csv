@@ -1,4 +1,4 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2007876290,listing,/section-77-hundred-of-mitchell-kapinnie-sa-5632-2007876290,Price Withheld,is-sold,Sold by private treaty 26 Oct 2009,20091026,Section 77 Hundred of Mitchell,KAPINNIE,SA,5632,-34.1387062,135.497574,NaN,NaN,NaN,Rural,Rural,False,0,m2,False
-2012241150,listing,/yeelanna-sa-5632-2012241150,Price Withheld,is-sold,Sold by private treaty 12 Oct 2015,20151012,NaN,YEELANNA,SA,5632,-34.1379051,135.726242,NaN,NaN,NaN,Farm,Farm,True,269,ha,False
-2017114878,listing,/553-robins-road-yeelanna-sa-5632-2017114878,13700000,is-sold,Sold at auction 15 Oct 2021,20211015,553 Robins Road,YEELANNA,SA,5632,-34.14371,135.667053,NaN,NaN,NaN,SpecialistFarm,Specialist Farm,True,794,ha,False
+2007876290,listing,/section-77-hundred-of-mitchell-kapinnie-sa-5632-2007876290,,is-sold,Sold by private treaty 26 Oct 2009,20091026,Section 77 Hundred of Mitchell,KAPINNIE,SA,5632,-34.1387062,135.497574,,,,Rural,Rural,False,0,m2,False
+2012241150,listing,/yeelanna-sa-5632-2012241150,,is-sold,Sold by private treaty 12 Oct 2015,20151012,,YEELANNA,SA,5632,-34.1379051,135.726242,,,,Farm,Farm,True,269,ha,False
+2017114878,listing,/553-robins-road-yeelanna-sa-5632-2017114878,13700000,is-sold,Sold at auction 15 Oct 2021,20211015,553 Robins Road,YEELANNA,SA,5632,-34.14371,135.667053,,,,SpecialistFarm,Specialist Farm,True,794,ha,False

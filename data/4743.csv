@@ -1,5 +1,5 @@
 id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013749334,listing,/43-dinang-crescent-glenden-qld-4743-2013749334,30000,is-sold,Sold by private treaty 22 Jun 2020,20200622,43 Dinang Crescent,GLENDEN,QLD,4743,-21.360178,148.111938,NaN,NaN,NaN,VacantLand,Vacant land,False,729,m2,False
+2013749334,listing,/43-dinang-crescent-glenden-qld-4743-2013749334,30000,is-sold,Sold by private treaty 22 Jun 2020,20200622,43 Dinang Crescent,GLENDEN,QLD,4743,-21.360178,148.111938,,,,VacantLand,Vacant land,False,729,m2,False
 2015515209,listing,/29-gilbert-avenue-glenden-qld-4743-2015515209,65000,is-sold,Sold at auction 23 Sep 2019,20190923,29 Gilbert Avenue,GLENDEN,QLD,4743,-21.3477,148.113983,3,3,3,House,House,False,913,m2,False
 2015525288,listing,/4-mclaughlin-crescent-glenden-qld-4743-2015525288,270000,is-sold,Sold by private treaty 01 Oct 2019,20191001,4 McLaughlin Crescent,GLENDEN,QLD,4743,-21.35072,148.110886,4,4,4,House,House,False,776,m2,False
 2015525292,listing,/33-gillham-street-glenden-qld-4743-2015525292,270000,is-sold,Sold by private treaty 01 Oct 2019,20191001,33 Gillham Street,GLENDEN,QLD,4743,-21.3510513,148.1134,2,2,2,Duplex,Duplex,False,844,m2,False
