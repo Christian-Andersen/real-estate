@@ -9,3 +9,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018264705,listing,/6-2a-eastwell-road-australind-wa-6233-2018264705,,is-sold,Sold by private treaty 08 Mar 2023,20230308,6/2A Eastwell Road,AUSTRALIND,WA,6233,-33.29212,115.711319,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,315,m2,False
 2018353103,listing,/3-euro-brace-australind-wa-6233-2018353103,480000,is-sold,Sold by private treaty 08 Mar 2023,20230308,3 Euro Brace,AUSTRALIND,WA,6233,-33.27676,115.724907,4,2,2,House,House,False,617,m2,False
 2018304773,listing,/24-gannett-lane-australind-wa-6233-2018304773,520000,is-sold,Sold by private treaty 10 Mar 2023,20230310,24 Gannett Lane,AUSTRALIND,WA,6233,-33.2833176,115.72567,4,2,2,House,House,False,806,m2,False
+2018264786,listing,/8-pluto-drive-australind-wa-6233-2018264786,445000,is-sold,Sold by private treaty 01 Mar 2023,20230301,8 Pluto Drive,AUSTRALIND,WA,6233,-33.2865067,115.742607,4,2,2,House,House,False,525,m2,False

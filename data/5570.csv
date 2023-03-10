@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018116024,listing,/19-devon-street-clinton-sa-5570-2018116024,265000,is-sold,Sold by private treaty 20 Oct 2022,20221020,19 Devon Street,CLINTON,SA,5570,-34.22512,138.016647,3,3,3,House,House,False,936.0,m2,False
 2018153404,listing,/20-22-kulpara-street-clinton-sa-5570-2018153404,,is-sold,Sold by private treaty 06 Dec 2022,20221206,20-22 Kulpara Street,CLINTON,SA,5570,-34.2192726,138.024078,5,5,5,House,House,False,1775.0,m2,False
 2018327948,listing,/12-clemintina-street-price-sa-5570-2018327948,,is-sold,Sold by private treaty 22 Feb 2023,20230222,12 Clemintina Street,PRICE,SA,5570,-34.286705,137.993439,3,3,3,House,House,False,1010.0,m2,False
+2018362507,listing,/42-kulpara-street-clinton-sa-5570-2018362507,,is-sold,Sold by private treaty 02 Mar 2023,20230302,42 Kulpara Street,CLINTON,SA,5570,-34.2237549,138.023651,2,1,4,House,House,False,480,m2,False

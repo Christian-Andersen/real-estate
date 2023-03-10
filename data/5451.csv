@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018035125,listing,/4-bleechmore-street-auburn-sa-5451-2018035125,645000,is-sold,Sold by private treaty 09 Sep 2022,20220909,4 Bleechmore Street,AUBURN,SA,5451,-34.025856,138.681152,4,4,4,House,House,False,1800.0,m2,False
 2018049648,listing,/30-globe-street-auburn-sa-5451-2018049648,,is-sold,Sold by private treaty 10 Feb 2023,20230210,30 Globe Street,AUBURN,SA,5451,-34.0340652,138.701324,,,,VacantLand,Vacant land,False,4000.0,m2,False
 2018165043,listing,/23-main-north-road-auburn-sa-5451-2018165043,485000,is-sold,Sold by private treaty 20 Jan 2023,20230120,23 Main North Road,AUBURN,SA,5451,-34.02533,138.685242,4,4,4,House,House,False,1700.0,m2,False
+2018277015,listing,/10-archer-street-auburn-sa-5451-2018277015,,is-sold,Sold by private treaty 03 Mar 2023,20230303,10 Archer Street,AUBURN,SA,5451,-34.0231056,138.687332,4,1,10,House,House,False,16187,m2,False

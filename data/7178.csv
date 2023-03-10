@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018151890,listing,/20-paul-court-murdunna-tas-7178-2018151890,250000,is-sold,Sold by private treaty 04 Jan 2023,20230104,20 Paul Court,MURDUNNA,TAS,7178,-42.9779854,147.840134,,,,VacantLand,Vacant land,False,1515.0,m2,False
 2018333830,listing,/48-reef-view-road-murdunna-tas-7178-2018333830,,is-sold,Sold by private treaty 10 Feb 2023,20230210,48 Reef View Road,MURDUNNA,TAS,7178,-42.9724922,147.83812,,,,VacantLand,Vacant land,False,2824.0,m2,False
 2018333831,listing,/48-reef-view-road-murdunna-tas-7178-2018333831,,is-sold,Sold by private treaty 10 Feb 2023,20230210,48 Reef View Road,MURDUNNA,TAS,7178,-42.9724922,147.83812,,,,VacantLand,Vacant land,False,2824.0,m2,False
+2018301404,listing,/6-bond-court-murdunna-tas-7178-2018301404,442500,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Bond Court,MURDUNNA,TAS,7178,-42.94753,147.866516,3,1,4,House,House,False,1270,m2,False

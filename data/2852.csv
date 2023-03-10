@@ -613,3 +613,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007908805,listing,/gulgong-nsw-2852-2007908805,185000,is-sold,Sold by private treaty 30 Sep 2009,20090930,,GULGONG,NSW,2852,-32.3640022,149.538239,3,3,3,House,House,False,0.0,m2,False
 2008000836,listing,/castlereagh-highway-gulgong-nsw-2852-2008000836,600000,is-sold,Sold at auction 31 Oct 2009,20091031,Castlereagh Highway,GULGONG,NSW,2852,-32.38114,149.530075,4,4,4,Rural,Rural,False,0.0,m2,False
 2008013509,listing,/gulgong-nsw-2852-2008013509,235000,is-sold,Sold by private treaty 27 Nov 2009,20091127,,GULGONG,NSW,2852,-32.36727,149.526581,3,3,3,House,House,False,888.0,m2,False
+2018330974,listing,/75-medley-street-gulgong-nsw-2852-2018330974,490000,is-sold,Sold by private treaty 10 Mar 2023,20230310,75 Medley Street,GULGONG,NSW,2852,-32.3663826,149.532349,2,1,3,House,House,False,1005,m2,False
+2018355844,listing,/2-wattle-lane-gulgong-nsw-2852-2018355844,705000,is-sold,Sold by private treaty 10 Mar 2023,20230310,2 Wattle Lane,GULGONG,NSW,2852,-32.36292,149.540619,3,1,2,House,House,False,2023,m2,False

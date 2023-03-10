@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012451851,listing,/7-stephensen-avenue-halifax-qld-4850-2012451851,200000,is-sold,Sold by private treaty 12 Jan 2016,20160112,7 Stephensen Avenue,HALIFAX,QLD,4850,-18.5863762,146.285049,3,3,3,House,House,False,1012.0,m2,False
 2012454952,listing,/1-mona-road-halifax-qld-4850-2012454952,165000,is-sold,Sold by private treaty 02 Mar 2016,20160302,1 Mona Road,HALIFAX,QLD,4850,-18.5758648,146.284851,2,2,2,House,House,False,1081.0,m2,False
 2012599890,listing,/13-blamey-street-ingham-qld-4850-2012599890,86000,is-sold,Sold by private treaty 17 Feb 2016,20160217,13 Blamey Street,INGHAM,QLD,4850,-18.644,146.164673,,,,VacantLand,Vacant land,False,0.0,m2,False
+2018396818,listing,/10-covell-street-ingham-qld-4850-2018396818,,is-sold,Sold at auction 03 Mar 2023,20230303,10 Covell Street,INGHAM,QLD,4850,-18.648304,146.175079,3,1,1,House,House,False,1069,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015166975,listing,/5-oast-street-new-norfolk-tas-7140-2015166975,375000,is-sold,Sold by private treaty 08 May 2019,20190508,5 Oast Street,NEW NORFOLK,TAS,7140,-42.77608,147.0576,3,3,3,House,House,False,968.0,m2,False
 2015173329,listing,/14-fairfax-terrace-new-norfolk-tas-7140-2015173329,320000,is-sold,Sold by private treaty 29 Apr 2019,20190429,14 Fairfax Terrace,NEW NORFOLK,TAS,7140,-42.77032,147.045578,3,3,3,House,House,False,668.0,m2,False
 2018301873,listing,/3-link-road-new-norfolk-tas-7140-2018301873,,is-sold,Sold by private treaty 06 Mar 2023,20230306,3 Link Road,NEW NORFOLK,TAS,7140,-42.7812347,147.0729,3,1,3,House,House,False,997,m2,False
+2018174593,listing,/lot-2-74-daniels-road-magra-tas-7140-2018174593,341000,is-sold,Sold by private treaty 14 Feb 2023,20230214,Lot 2/74 Daniels Road,MAGRA,TAS,7140,-42.7463379,147.054123,,,,VacantLand,Vacant land,True,1.11,ha,False

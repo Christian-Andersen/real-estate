@@ -999,3 +999,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016786402,listing,/8-briar-court-latrobe-tas-7307-2016786402,285000,is-sold,Sold by private treaty 20 May 2019,20190520,8 Briar Court,LATROBE,TAS,7307,-41.2448959,146.418686,2,1,1,House,House,False,733,m2,False
 2017647643,listing,/20-palmers-road-latrobe-tas-7307-2017647643,260000,is-sold,Sold by private treaty 24 May 2019,20190524,20 Palmers Road,LATROBE,TAS,7307,-41.2276764,146.424438,4,1,,House,House,False,771,m2,False
 2018321098,listing,/68-cotton-street-latrobe-tas-7307-2018321098,468000,is-sold,Sold by private treaty 08 Mar 2023,20230308,68 Cotton Street,LATROBE,TAS,7307,-41.23912,146.4206,3,1,1,House,House,False,936,m2,False
+2018304016,listing,/11-mason-place-shearwater-tas-7307-2018304016,,is-sold,Sold by private treaty 10 Mar 2023,20230310,11 Mason Place,SHEARWATER,TAS,7307,-41.1611824,146.533737,4,2,2,House,House,False,688,m2,False
+2018343503,listing,/35a-palmers-road-latrobe-tas-7307-2018343503,610000,is-sold,Sold at auction 04 Mar 2023,20230304,35a Palmers Road,LATROBE,TAS,7307,-41.22611,146.4261,2,1,2,House,House,False,8428,m2,False

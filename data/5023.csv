@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018354819,listing,/1-edith-street-findon-sa-5023-2018354819,575000,is-sold,Sold at auction 04 Mar 2023,20230304,1 Edith Street,FINDON,SA,5023,-34.9028053,138.535492,2,2,2,House,House,False,0,m2,False
 2018336530,listing,/32-alma-terrace-seaton-sa-5023-2018336530,,is-sold,Sold by private treaty 06 Mar 2023,20230306,32 Alma Terrace,SEATON,SA,5023,-34.88787,138.51796,2,1,3,House,House,False,737,m2,False
 2018346605,listing,/2-strathbogie-avenue-findon-sa-5023-2018346605,865000,is-sold,Sold at auction 06 Mar 2023,20230306,2 Strathbogie Avenue,FINDON,SA,5023,-34.8991165,138.530319,3,1,3,House,House,False,899,m2,False
+2018335933,listing,/12-winser-avenue-seaton-sa-5023-2018335933,,is-sold,Sold at auction 27 Feb 2023,20230227,12 Winser Avenue,SEATON,SA,5023,-34.8991776,138.516968,3,2,2,House,House,False,417,m2,False

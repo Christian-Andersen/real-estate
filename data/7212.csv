@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018256157,listing,/6-16-logan-road-evandale-tas-7212-2018256157,390000,is-sold,Sold by private treaty 18 Jan 2023,20230118,6/16 Logan Road,EVANDALE,TAS,7212,-41.57151,147.25531,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,207.0,m2,False
 2018303629,listing,/12-russell-street-evandale-tas-7212-2018303629,,is-sold,Sold by private treaty 20 Jan 2023,20230120,12 Russell Street,EVANDALE,TAS,7212,-41.5711823,147.2495,3,3,3,House,House,False,0.0,m2,False
 2018304066,listing,/6-collins-street-evandale-tas-7212-2018304066,,is-sold,Sold by private treaty 12 Jan 2023,20230112,6 Collins Street,EVANDALE,TAS,7212,-41.57158,147.249161,2,2,2,House,House,False,0.0,m2,False
+2018340861,listing,/5-collins-street-evandale-tas-7212-2018340861,585000,is-sold,Sold by private treaty 10 Mar 2023,20230310,5 Collins Street,EVANDALE,TAS,7212,-41.57188,147.24913,3,2,1,House,House,False,905,m2,False

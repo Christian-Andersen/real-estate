@@ -1001,3 +1001,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014700865,listing,/50a-beatrice-street-prospect-sa-5082-2014700865,,is-sold,Sold by private treaty 16 Oct 2018,20181016,50A Beatrice Street,PROSPECT,SA,5082,-34.88124,138.5888,,,,VacantLand,Vacant land,False,384,m2,False
 2018352929,listing,/8-audley-avenue-prospect-sa-5082-2018352929,1310000,is-sold,Sold at auction 03 Mar 2023,20230303,8 Audley Avenue,PROSPECT,SA,5082,-34.89399,138.5932,4,4,4,House,House,False,588,m2,False
 2018375435,listing,/32-boyle-street-prospect-sa-5082-2018375435,,is-sold,Sold by private treaty 08 Mar 2023,20230308,32 Boyle Street,PROSPECT,SA,5082,-34.8845978,138.587448,2,1,1,House,House,False,217,m2,False
+2018349583,listing,/7-azalea-street-prospect-sa-5082-2018349583,2525000,is-sold,Sold at auction 06 Mar 2023,20230306,7 Azalea Street,PROSPECT,SA,5082,-34.88947,138.59285,4,3,3,House,House,False,981,m2,False
+2018140791,listing,/67b-devonport-terrace-prospect-sa-5082-2018140791,810000,is-sold,Sold by private treaty 25 Feb 2023,20230225,67B Devonport Terrace,PROSPECT,SA,5082,-34.8916664,138.5843,3,2,2,House,House,False,306,m2,False

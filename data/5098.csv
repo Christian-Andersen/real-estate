@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018312336,listing,/2b-peaton-avenue-ingle-farm-sa-5098-2018312336,630000,is-sold,Sold at auction 13 Feb 2023,20230213,2b Peaton Avenue,INGLE FARM,SA,5098,-34.8310623,138.643753,3,3,3,House,House,False,300,m2,False
 2018319784,listing,/2-eton-common-ingle-farm-sa-5098-2018319784,707000,is-sold,Sold by private treaty 24 Feb 2023,20230224,2 Eton Common,INGLE FARM,SA,5098,-34.8329849,138.630844,4,4,4,House,House,False,578,m2,False
 2018336253,listing,/18a-lydia-avenue-ingle-farm-sa-5098-2018336253,630000,is-sold,Sold at auction 25 Feb 2023,20230225,18A Lydia Avenue,INGLE FARM,SA,5098,-34.8285065,138.660233,3,3,3,House,House,False,367,m2,False
+2018334597,listing,/14a-baron-avenue-ingle-farm-sa-5098-2018334597,545000,is-sold,Sold by private treaty 02 Mar 2023,20230302,14A Baron Avenue,INGLE FARM,SA,5098,-34.82543,138.6547,3,1,2,House,House,False,357,m2,False
+2018284675,listing,/13-pineview-court-walkley-heights-sa-5098-2018284675,630000,is-sold,Sold by private treaty 01 Mar 2023,20230301,13 Pineview Court,WALKLEY HEIGHTS,SA,5098,-34.8411865,138.642349,3,2,2,House,House,False,0,m2,False

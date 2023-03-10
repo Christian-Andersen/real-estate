@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018284218,listing,/15-main-street-port-vincent-sa-5581-2018284218,,is-sold,Sold at auction 09 Feb 2023,20230209,15 Main Street,PORT VINCENT,SA,5581,-34.7787781,137.860214,2,2,2,House,House,False,704.0,m2,False
 2018309853,listing,/port-vincent-sa-5581-2018309853,,is-sold,Sold by private treaty 07 Feb 2023,20230207,,PORT VINCENT,SA,5581,-34.7811546,137.857559,3,3,3,House,House,False,476.0,m2,False
 2018320330,listing,/11-adonis-road-port-vincent-sa-5581-2018320330,,is-sold,Sold at auction 22 Feb 2023,20230222,11 Adonis Road,PORT VINCENT,SA,5581,-34.77865,137.856064,4,4,4,House,House,False,653.0,m2,False
+2017766095,listing,/13-talbot-street-port-vincent-sa-5581-2017766095,,is-sold,Sold by private treaty 03 Mar 2023,20230303,13 Talbot Street,PORT VINCENT,SA,5581,-34.7789764,137.85704,,,,VacantLand,Vacant land,False,672,m2,False

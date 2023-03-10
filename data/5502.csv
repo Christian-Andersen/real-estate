@@ -184,3 +184,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008186063,listing,/40-dublin-road-mallala-sa-5502-2008186063,240000,is-sold,Sold by private treaty 13 Jan 2011,20110113,40 Dublin Road,MALLALA,SA,5502,-34.43791,138.499283,3,3,3,House,House,False,0.0,m2,False
 2008189334,listing,/3-adelaide-road-mallala-sa-5502-2008189334,442000,is-sold,Sold by private treaty 17 Mar 2010,20100317,3 Adelaide Road,MALLALA,SA,5502,-34.4391823,138.51033,3,3,3,Unknown,Unknown,False,0.0,m2,False
 2008530597,listing,/46-aerodrome-road-mallala-sa-5502-2008530597,325000,is-sold,Sold by private treaty 18 Nov 2010,20101118,46 Aerodrome Road,MALLALA,SA,5502,-34.4341736,138.509857,5,5,5,House,House,False,0.0,m2,False
+2017902429,listing,/11-wasleys-road-mallala-sa-5502-2017902429,,is-sold,Sold by private treaty 10 Mar 2023,20230310,11 Wasleys Road,MALLALA,SA,5502,-34.4371643,138.511414,4,1,4,House,House,False,1030,m2,False

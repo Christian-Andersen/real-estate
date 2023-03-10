@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018279495,listing,/32-albert-street-mannum-sa-5238-2018279495,,is-sold,Sold at auction 06 Feb 2023,20230206,32 Albert Street,MANNUM,SA,5238,-34.9095345,139.313248,3,3,3,House,House,False,1858.0,m2,False
 2018279814,listing,/65-crawford-crescent-mannum-sa-5238-2018279814,320000,is-sold,Sold by private treaty 01 Feb 2023,20230201,65 Crawford Crescent,MANNUM,SA,5238,-34.90655,139.313721,2,2,2,House,House,False,870.0,m2,False
 2018154243,listing,/lot-21-galleon-way-mannum-sa-5238-2018154243,,is-sold,Sold by private treaty 03 Mar 2023,20230303,Lot 21 Galleon Way,MANNUM,SA,5238,-34.91091,139.3068,,,,VacantLand,Vacant land,False,10000.0,m2,False
+2018371658,listing,/lot-408-rosella-rise-mannum-sa-5238-2018371658,,is-sold,Sold by private treaty 27 Feb 2023,20230227,Lot 408 Rosella Rise,MANNUM,SA,5238,-34.9360046,139.293213,,,,VacantLand,Vacant land,False,586,m2,False

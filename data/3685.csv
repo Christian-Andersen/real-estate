@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018254514,listing,/77-barkly-street-rutherglen-vic-3685-2018254514,,is-sold,Sold by private treaty 17 Dec 2022,20221217,77 Barkly Street,RUTHERGLEN,VIC,3685,-36.0453644,146.461212,3,3,3,House,House,False,1840.0,m2,False
 2018301275,listing,/barnawartha-road-browns-plains-vic-3685-2018301275,,is-sold,Sold by private treaty 22 Feb 2023,20230222,Barnawartha Road,BROWNS PLAINS,VIC,3685,-36.0291176,146.647766,,,,Rural,Rural,True,28.6,ha,False
 2018323735,listing,/4-riesling-road-rutherglen-vic-3685-2018323735,,is-sold,Sold by private treaty 21 Feb 2023,20230221,4 Riesling Road,RUTHERGLEN,VIC,3685,-36.04484,146.461014,3,3,3,House,House,False,834.0,m2,False
+2018193374,listing,/5-red-gum-place-rutherglen-vic-3685-2018193374,,is-sold,Sold by private treaty 07 Mar 2023,20230307,5 Red Gum Place,RUTHERGLEN,VIC,3685,-36.0534859,146.466476,3,2,2,House,House,False,1037,m2,False

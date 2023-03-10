@@ -367,3 +367,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007503935,listing,/lot-3-murrels-road-franklin-tas-7113-2007503935,,is-sold,Sold at auction 01 Jan 2009,20090101,Lot 3 Murrels Road,FRANKLIN,TAS,7113,-43.1125946,146.992081,,,,VacantLand,Vacant land,True,1.44,ha,False
 2007763732,listing,/146-maxfields-road-franklin-tas-7113-2007763732,,is-sold,Sold at auction 01 Jan 2009,20090101,146 Maxfields Road,FRANKLIN,TAS,7113,-43.0516052,147.019119,2,2,2,House,House,True,9.57,ha,False
 2007912837,listing,/139-jacksons-road-franklin-tas-7113-2007912837,,is-sold,Sold at auction 01 Jan 2009,20090101,139 Jacksons Road,FRANKLIN,TAS,7113,-43.107,146.985779,2,2,2,House,House,True,1.59,ha,False
+2017793517,listing,/lot-1-braeside-road-franklin-tas-7113-2017793517,215000,is-sold,Sold by private treaty 03 Mar 2023,20230303,Lot 1 Braeside Road,FRANKLIN,TAS,7113,-43.1157455,146.965958,,,,VacantLand,Vacant land,True,7.12,ha,False

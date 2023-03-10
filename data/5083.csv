@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018323644,listing,/2-tralee-avenue-broadview-sa-5083-2018323644,725000,is-sold,Sold at auction 18 Feb 2023,20230218,2 Tralee Avenue,BROADVIEW,SA,5083,-34.87236,138.615784,3,3,3,House,House,False,785,m2,False
 2018339148,listing,/14-burns-avenue-sefton-park-sa-5083-2018339148,,is-sold,Sold by private treaty 20 Feb 2023,20230220,14 Burns Avenue,SEFTON PARK,SA,5083,-34.87536,138.609818,4,4,4,House,House,False,750,m2,False
 2018354292,listing,/4-currie-street-nailsworth-sa-5083-2018354292,1300000,is-sold,Sold at auction 04 Mar 2023,20230304,4 Currie Street,NAILSWORTH,SA,5083,-34.8880157,138.606613,4,2,3,House,House,False,640,m2,False
+2018371406,listing,/4-96-hampstead-road-broadview-sa-5083-2018371406,,is-sold,Sold by private treaty 23 Feb 2023,20230223,4/96 Hampstead Road,BROADVIEW,SA,5083,-34.8742065,138.619049,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

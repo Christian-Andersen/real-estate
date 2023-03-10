@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018324279,listing,/5-derby-street-gillman-sa-5013-2018324279,475000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Derby Street,GILLMAN,SA,5013,-34.8471527,138.520432,2,2,2,House,House,False,0,m2,False
 2017955549,listing,/lot-102-rosetta-street-rosewater-sa-5013-2017955549,320000,is-sold,Sold by private treaty 07 Mar 2023,20230307,Lot 102 Rosetta Street,ROSEWATER,SA,5013,-34.850174,138.5161,,,,VacantLand,Vacant land,False,251,m2,False
 2018360318,listing,/1a-pearce-street-ottoway-sa-5013-2018360318,606000,is-sold,Sold by private treaty 08 Mar 2023,20230308,1a Pearce Street,OTTOWAY,SA,5013,-34.84516,138.537033,3,1,4,House,House,False,905,m2,False
+2018284326,listing,/31-park-avenue-pennington-sa-5013-2018284326,520000,is-sold,Sold by private treaty 27 Feb 2023,20230227,31 Park Avenue,PENNINGTON,SA,5013,-34.85973,138.53653,3,1,4,House,House,False,743,m2,False

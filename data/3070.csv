@@ -1003,3 +1003,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018340947,listing,/21-howitt-street-northcote-vic-3070-2018340947,2116000,is-sold,Sold at auction 04 Mar 2023,20230304,21 Howitt Street,NORTHCOTE,VIC,3070,-37.781662,145.014053,3,2,,House,House,False,0,m2,False
 2018344179,listing,/34-ryan-street-northcote-vic-3070-2018344179,1760000,is-sold,Sold by private treaty 08 Mar 2023,20230308,34 Ryan Street,NORTHCOTE,VIC,3070,-37.7700272,144.990082,3,1,1,House,House,False,0,m2,False
 2018374451,listing,/9-northcote-street-northcote-vic-3070-2018374451,1200000,is-sold,Sold at auction 08 Mar 2023,20230308,9 Northcote Street,NORTHCOTE,VIC,3070,-37.7741623,145.007767,3,1,,House,House,False,0,m2,False
+2018344095,listing,/5-latham-street-northcote-vic-3070-2018344095,,is-sold,Sold at auction 06 Mar 2023,20230306,5 Latham Street,NORTHCOTE,VIC,3070,-37.7687073,144.995087,4,2,1,House,House,False,0,m2,False
+2018402439,listing,/271-high-street-northcote-vic-3070-2018402439,,is-sold,Sold by private treaty 06 Mar 2023,20230306,271 High Street,NORTHCOTE,VIC,3070,-37.772377,144.9979,2,2,1,House,House,False,294,m2,False

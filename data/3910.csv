@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015938860,listing,/43-alder-street-langwarrin-vic-3910-2015938860,635000,is-sold,Sold by private treaty 09 Jan 2020,20200109,43 Alder Street,LANGWARRIN,VIC,3910,-38.1489,145.180023,3,1,6,House,House,False,642,m2,False
 2015941060,listing,/146-union-road-langwarrin-vic-3910-2015941060,617000,is-sold,Sold by private treaty 30 Dec 2019,20191230,146 Union Road,LANGWARRIN,VIC,3910,-38.16252,145.195221,5,2,2,House,House,False,890,m2,False
 2016001487,listing,/37-tamara-circuit-langwarrin-vic-3910-2016001487,765000,is-sold,Sold by private treaty 13 Jan 2020,20200113,37 Tamara Circuit,LANGWARRIN,VIC,3910,-38.13657,145.217255,4,2,2,House,House,False,584,m2,False
+2018297660,listing,/38-leisureland-drive-langwarrin-vic-3910-2018297660,1720000,is-sold,Sold by private treaty 10 Mar 2023,20230310,38 Leisureland Drive,LANGWARRIN,VIC,3910,-38.17086,145.209549,3,2,8,Rural,Rural,True,10000,m2,False

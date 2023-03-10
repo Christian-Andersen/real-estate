@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011883965,listing,/140-harding-road-macclesfield-vic-3782-2011883965,665000,is-sold,Sold by private treaty 10 Apr 2015,20150410,140 Harding Road,MACCLESFIELD,VIC,3782,-37.8986435,145.493317,3,3,3,House,House,True,4.11,ha,False
 2011913440,listing,/26-sydney-avenue-emerald-vic-3782-2011913440,470000,is-sold,Sold by private treaty 24 Apr 2015,20150424,26 Sydney Avenue,EMERALD,VIC,3782,-37.9195557,145.437317,3,3,3,House,House,False,5091.0,m2,False
 2018095618,listing,/6-view-street-avonsleigh-vic-3782-2018095618,940000,is-sold,Sold by private treaty 07 Mar 2023,20230307,6 View Street,AVONSLEIGH,VIC,3782,-37.9203224,145.4693,4,2,2,House,House,False,6262,m2,False
+2018069169,listing,/14-bayview-road-emerald-vic-3782-2018069169,,is-sold,Sold by private treaty 10 Mar 2023,20230310,14 Bayview Road,EMERALD,VIC,3782,-37.9351921,145.435074,3,2,2,House,House,False,1042,m2,False

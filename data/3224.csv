@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018382015,listing,/38-balmoral-gardens-leopold-vic-3224-2018382015,,is-sold,Sold by private treaty 21 Feb 2023,20230221,38 Balmoral Gardens,LEOPOLD,VIC,3224,-38.1788826,144.473938,4,4,4,House,House,False,1251.0,m2,False
 2018088820,listing,/22-arabando-drive-leopold-vic-3224-2018088820,700000,is-sold,Sold by private treaty 03 Mar 2023,20230303,22 Arabando Drive,LEOPOLD,VIC,3224,-38.1854,144.459564,3,3,3,House,House,False,566.0,m2,False
 2018313612,listing,/24-the-court-leopold-vic-3224-2018313612,590000,is-sold,Sold by private treaty 06 Mar 2023,20230306,24 The Court,LEOPOLD,VIC,3224,-38.1957054,144.46994,3,2,4,House,House,False,648,m2,False
+2018167359,listing,/38-paraffin-drive-leopold-vic-3224-2018167359,740000,is-sold,Sold by private treaty 06 Mar 2023,20230306,38 Paraffin Drive,LEOPOLD,VIC,3224,-38.19738,144.455429,4,2,3,House,House,False,580,m2,False

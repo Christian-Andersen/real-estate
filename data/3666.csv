@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018259297,listing,/92-binney-street-euroa-vic-3666-2018259297,,is-sold,Sold by private treaty 16 Jan 2023,20230116,92 Binney Street,EUROA,VIC,3666,-36.7517166,145.570877,3,3,3,House,House,False,880.0,m2,False
 2018267387,listing,/10-weir-street-euroa-vic-3666-2018267387,,is-sold,Sold by private treaty 21 Jan 2023,20230121,10 Weir Street,EUROA,VIC,3666,-36.75803,145.5707,3,3,3,House,House,False,903.0,m2,False
 2018105077,listing,/7-nelson-street-euroa-vic-3666-2018105077,,is-sold,Sold by private treaty 07 Mar 2023,20230307,7 Nelson Street,EUROA,VIC,3666,-36.7522049,145.5671,4,2,2,House,House,False,536,m2,False
+2018361211,listing,/16-main-street-strathbogie-vic-3666-2018361211,525000,is-sold,Sold by private treaty 07 Mar 2023,20230307,16 Main Street,STRATHBOGIE,VIC,3666,-36.856,145.7352,2,1,8,House,House,False,3465,m2,False

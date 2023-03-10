@@ -995,3 +995,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017297172,listing,/34-mortar-ridge-mernda-vic-3754-2017297172,952000,is-sold,Sold by private treaty 11 Oct 2021,20211011,34 Mortar Ridge,MERNDA,VIC,3754,-37.61001,145.079483,4,3,2,House,House,False,421,m2,False
 2017297603,listing,/18-sugarloaf-rise-doreen-vic-3754-2017297603,1100000,is-sold,Sold by private treaty 07 Oct 2021,20211007,18 Sugarloaf Rise,DOREEN,VIC,3754,-37.59435,145.134018,4,2,2,House,House,False,900,m2,False
 2017301708,listing,/12-dock-road-doreen-vic-3754-2017301708,911000,is-sold,Sold by private treaty 11 Oct 2021,20211011,12 Dock Road,DOREEN,VIC,3754,-37.6180077,145.122986,4,2,2,House,House,False,535,m2,False
+2018346737,listing,/39-pearson-road-mernda-vic-3754-2018346737,601000,is-sold,Sold prior to auction 09 Mar 2023,20230309,39 Pearson Road,MERNDA,VIC,3754,-37.58952,145.0874,3,2,2,House,House,False,0,m2,False

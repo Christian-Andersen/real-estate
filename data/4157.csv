@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016030579,listing,/63-pittwin-road-south-capalaba-qld-4157-2016030579,285000,is-sold,Sold by private treaty 18 Feb 2020,20200218,63 Pittwin Road South,CAPALABA,QLD,4157,-27.5275154,153.188675,,,,VacantLand,Vacant land,False,602.0,m2,False
 2016038745,listing,/12-gibson-street-capalaba-qld-4157-2016038745,433000,is-sold,Sold by private treaty 05 Feb 2020,20200205,12 Gibson Street,CAPALABA,QLD,4157,-27.5405655,153.19809,3,3,3,House,House,False,627.0,m2,False
 2016048071,listing,/39-ney-road-capalaba-qld-4157-2016048071,415000,is-sold,Sold by private treaty 08 Feb 2020,20200208,39 Ney Road,CAPALABA,QLD,4157,-27.53811,153.200562,3,3,3,House,House,False,703.0,m2,False
+2018302563,listing,/29-elmhurst-street-capalaba-qld-4157-2018302563,750000,is-sold,Sold by private treaty 06 Mar 2023,20230306,29 Elmhurst Street,CAPALABA,QLD,4157,-27.5259666,153.207062,3,2,2,House,House,False,767,m2,False

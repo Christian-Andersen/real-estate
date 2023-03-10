@@ -68,3 +68,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009239587,listing,/42-cudgel-street-yanco-nsw-2703-2009239587,100000,is-sold,Sold by private treaty 30 Nov 2011,20111130,42 Cudgel Street,YANCO,NSW,2703,-34.5974464,146.407547,3,3,3,House,House,False,0.0,m2,False
 2009307978,listing,/yanco-nsw-2703-2009307978,148000,is-sold,Sold by private treaty 01 Dec 2011,20111201,,YANCO,NSW,2703,-34.604393,146.409546,2,2,2,House,House,False,853.0,m2,False
 2009312982,listing,/14-progress-street-yanco-nsw-2703-2009312982,105000,is-sold,Sold by private treaty 22 Dec 2011,20111222,14 Progress Street,YANCO,NSW,2703,-34.6018562,146.409363,2,2,2,House,House,False,0.0,m2,False
+2018359116,listing,/39-progress-street-yanco-nsw-2703-2018359116,290000,is-sold,Sold by private treaty 09 Mar 2023,20230309,39 Progress Street,YANCO,NSW,2703,-34.5985756,146.409729,4,1,1,House,House,False,651,m2,False

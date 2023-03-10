@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017086735,listing,/1-benson-court-shepparton-vic-3630-2017086735,385000,is-sold,Sold by private treaty 25 May 2021,20210525,1 Benson Court,SHEPPARTON,VIC,3630,-36.361927,145.41246,3,3,3,House,House,False,0.0,m2,False
 2018315966,listing,/17-protea-court-shepparton-vic-3630-2018315966,920000,is-sold,Sold by private treaty 06 Mar 2023,20230306,17 Protea Court,SHEPPARTON,VIC,3630,-36.3576851,145.414322,4,2,3,House,House,False,1233,m2,False
 2018400827,listing,/shepparton-vic-3630-2018400827,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,SHEPPARTON,VIC,3630,-36.38214,145.407227,,,,House,House,False,0,m2,False
+2018344968,listing,/22-strauss-avenue-shepparton-vic-3630-2018344968,340000,is-sold,Sold by private treaty 08 Mar 2023,20230308,22 Strauss Avenue,SHEPPARTON,VIC,3630,-36.4064331,145.421234,3,1,1,House,House,False,435,m2,False

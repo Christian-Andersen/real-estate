@@ -8,3 +8,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018053387,listing,/38-davis-street-belmont-vic-3216-2018053387,620000,is-sold,Sold by private treaty 08 Mar 2023,20230308,38 Davis Street,BELMONT,VIC,3216,-38.1826553,144.329575,3,1,2,House,House,False,728,m2,False
 2018234100,listing,/58-bailey-street-belmont-vic-3216-2018234100,700000,is-sold,Sold by private treaty 09 Mar 2023,20230309,58 Bailey Street,BELMONT,VIC,3216,-38.18584,144.34938,3,1,2,House,House,False,665,m2,False
 2018265119,listing,/1-minka-court-marshall-vic-3216-2018265119,625000,is-sold,Sold by private treaty 09 Mar 2023,20230309,1 Minka Court,MARSHALL,VIC,3216,-38.19699,144.360016,3,1,2,House,House,False,734,m2,False
+2018333430,listing,/17-reynolds-road-belmont-vic-3216-2018333430,,is-sold,Sold by private treaty 09 Mar 2023,20230309,17 Reynolds Road,BELMONT,VIC,3216,-38.1882973,144.325455,,,175,DevelopmentSite,Development Site,True,1.56,ha,False

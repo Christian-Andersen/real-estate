@@ -498,3 +498,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008291451,listing,/27-gordon-avenue-darra-qld-4076-2008291451,427000,is-sold,Sold by private treaty 30 Apr 2010,20100430,27 Gordon Avenue,DARRA,QLD,4076,-27.5680485,152.957962,3,3,3,House,House,False,0.0,m2,False
 2008415326,listing,/darra-qld-4076-2008415326,101250,is-sold,Sold by private treaty 17 Sep 2010,20100917,,DARRA,QLD,4076,-27.5702019,152.959076,,,,VacantLand,Vacant land,False,0.0,m2,False
 2008458205,listing,/28-kokoda-street-darra-qld-4076-2008458205,355000,is-sold,Sold by private treaty 30 Aug 2010,20100830,28 Kokoda Street,DARRA,QLD,4076,-27.577013,152.941864,4,4,4,House,House,False,663.0,m2,False
+2018279200,listing,/70-strathaird-street-darra-qld-4076-2018279200,705000,is-sold,Sold by private treaty 07 Mar 2023,20230307,70 Strathaird Street,DARRA,QLD,4076,-27.5723572,152.947189,3,2,2,House,House,False,521,m2,False

@@ -266,3 +266,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018340364,listing,/13-2-macarthy-road-marsden-qld-4132-2018340364,350000,is-sold,Sold by private treaty 07 Mar 2023,20230307,13/2 Macarthy Road,MARSDEN,QLD,4132,-27.6747284,153.092178,3,2,1,Townhouse,Townhouse,False,0,m2,False
 2018329146,listing,/20-jobson-place-crestmead-qld-4132-2018329146,512000,is-sold,Sold by private treaty 08 Mar 2023,20230308,20 Jobson Place,CRESTMEAD,QLD,4132,-27.6976242,153.085571,4,2,1,House,House,False,524,m2,False
 2018365910,listing,/9-ella-court-marsden-qld-4132-2018365910,550000,is-sold,Sold by private treaty 09 Mar 2023,20230309,9 Ella Court,MARSDEN,QLD,4132,-27.6685257,153.086578,4,2,2,House,House,False,770,m2,False
+2018345597,listing,/10-voyager-street-marsden-qld-4132-2018345597,595000,is-sold,Sold by private treaty 10 Mar 2023,20230310,10 Voyager Street,MARSDEN,QLD,4132,-27.6761742,153.085892,4,2,2,House,House,False,621,m2,False
+2018346154,listing,/22-galahad-street-marsden-qld-4132-2018346154,596000,is-sold,Sold at auction 04 Mar 2023,20230304,22 Galahad Street,MARSDEN,QLD,4132,-27.6727753,153.1037,3,1,5,House,House,False,1013,m2,False

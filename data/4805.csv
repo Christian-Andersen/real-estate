@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018284741,listing,/107-ocean-view-drive-bowen-qld-4805-2018284741,905500,is-sold,Sold by private treaty 02 Feb 2023,20230202,107 Ocean View Drive,BOWEN,QLD,4805,-20.0593433,148.248459,5,5,5,House,House,False,1353.0,m2,False
 2018290953,listing,/3-seacove-crescent-bowen-qld-4805-2018290953,,is-sold,Sold by private treaty 01 Mar 2023,20230301,3 Seacove Crescent,BOWEN,QLD,4805,-20.0614872,148.245834,4,4,4,House,House,False,956.0,m2,False
 2018284449,listing,/110-gregory-street-bowen-qld-4805-2018284449,,is-sold,Sold by private treaty 06 Mar 2023,20230306,110 Gregory Street,BOWEN,QLD,4805,-20.0020943,148.2376,4,1,4,House,House,False,733,m2,False
+2018257478,listing,/19-tracey-street-bowen-qld-4805-2018257478,245000,is-sold,Sold by private treaty 03 Mar 2023,20230303,19 Tracey Street,BOWEN,QLD,4805,-19.9784927,148.228653,2,1,1,House,House,False,1089,m2,False

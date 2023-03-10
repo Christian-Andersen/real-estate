@@ -282,3 +282,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2006867158,listing,/26-bonham-street-leeman-wa-6514-2006867158,,is-sold,Sold by private treaty 05 Feb 2010,20100205,26 Bonham Street,LEEMAN,WA,6514,-29.9463329,114.980949,2,2,2,House,House,False,1012,m2,False
 2007245677,listing,/2-nairn-street-leeman-leeman-wa-6514-2007245677,,is-sold,Sold by private treaty 08 May 2009,20090508,"2 NAIRN STREET, LEEMAN",LEEMAN,WA,6514,-29.9476337,114.978546,4,4,4,House,House,False,0,m2,False
 2007426405,listing,/4-battersby-road-green-head-green-head-wa-6514-2007426405,,is-sold,Sold by private treaty 26 Dec 2009,20091226,"4 BATTERSBY ROAD, GREEN HEAD",GREEN HEAD,WA,6514,-30.0707188,114.967773,4,4,4,House,House,False,0,m2,False
+2017835225,listing,/34-bonham-street-leeman-wa-6514-2017835225,350000,is-sold,Sold by private treaty 07 Mar 2023,20230307,34 BONHAM Street,LEEMAN,WA,6514,-29.9457378,114.981323,3,2,4,House,House,False,1078,m2,False

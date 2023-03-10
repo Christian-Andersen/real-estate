@@ -20,3 +20,7 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018283617,listing,/lot-141-saw-mill-road-sevenhill-sa-5453-2018283617,,is-sold,Sold by private treaty 07 Feb 2023,20230207,Lot 141 Saw Mill Road,SEVENHILL,SA,5453,-33.9016838,138.613525,,,,VacantLand,Vacant land,True,22.3,ha,False
 2018298500,listing,/3-phoenix-court-clare-sa-5453-2018298500,,is-sold,Sold by private treaty 13 Feb 2023,20230213,3 Phoenix Court,CLARE,SA,5453,-33.8252754,138.613037,3,3,3,House,House,False,776.0,m2,False
 2018357315,listing,/28-tamblyn-street-clare-sa-5453-2018357315,,is-sold,Sold by private treaty 08 Mar 2023,20230308,28 Tamblyn Street,CLARE,SA,5453,-33.847168,138.61055,3,2,2,House,House,False,608,m2,False
+2018194703,listing,/12-plant-avenue-clare-sa-5453-2018194703,315000,is-sold,Sold by private treaty 10 Mar 2023,20230310,12 Plant Avenue,CLARE,SA,5453,-33.8511734,138.618744,3,1,3,House,House,False,2160,m2,False
+2018346290,listing,/13-james-road-clare-sa-5453-2018346290,,is-sold,Sold by private treaty 10 Mar 2023,20230310,13 James Road,CLARE,SA,5453,-33.825222,138.593674,3,1,2,House,House,False,630,m2,False
+2018226421,listing,/39-west-terrace-clare-sa-5453-2018226421,,is-sold,Sold by private treaty 09 Mar 2023,20230309,39 West Terrace,CLARE,SA,5453,-33.83175,138.603943,4,2,3,House,House,False,1800,m2,False
+2018277281,listing,/32-william-street-clare-sa-5453-2018277281,,is-sold,Sold by private treaty 03 Mar 2023,20230303,32 William Street,CLARE,SA,5453,-33.8389778,138.608047,,,,VacantLand,Vacant land,False,667,m2,False

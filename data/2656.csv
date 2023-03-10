@@ -134,3 +134,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012678648,listing,/7-elbe-street-milbrulong-nsw-2656-2012678648,125000,is-sold,Sold by private treaty 01 Jun 2016,20160601,7 Elbe Street,MILBRULONG,NSW,2656,-35.2562675,146.8504,2,2,2,House,House,False,885.0,m2,False
 2012862736,listing,/43-green-street-lockhart-nsw-2656-2012862736,100500,is-sold,Sold by private treaty 23 Aug 2016,20160823,43 Green Street,LOCKHART,NSW,2656,-35.22122,146.720078,2,2,2,House,House,False,1100.0,m2,False
 2015894638,listing,/18-20-osborne-lockhart-nsw-2656-2015894638,,is-sold,Sold by private treaty 06 Mar 2015,20150306,18 - 20 Osborne,LOCKHART,NSW,2656,-35.227417,146.722412,,,,VacantLand,Vacant land,False,0.0,m2,False
+2018357810,listing,/5-prichard-place-lockhart-nsw-2656-2018357810,68000,is-sold,Sold by private treaty 09 Mar 2023,20230309,5 Prichard Place,LOCKHART,NSW,2656,-35.2202072,146.704315,,,,VacantLand,Vacant land,False,879,m2,False

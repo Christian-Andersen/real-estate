@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013859561,listing,/37-autumn-avenue-lockleys-sa-5032-2013859561,592500,is-sold,Sold at auction 08 Oct 2017,20171008,37 Autumn Avenue,LOCKLEYS,SA,5032,-34.92151,138.542114,2,2,2,House,House,False,766,m2,False
 2013876532,listing,/70-tolley-crescent-brooklyn-park-sa-5032-2013876532,570000,is-sold,Sold at auction 15 Oct 2017,20171015,70 Tolley Crescent,BROOKLYN PARK,SA,5032,-34.9305458,138.545959,3,3,3,House,House,False,0,m2,False
 2013930120,listing,/32a-lipsett-terrace-brooklyn-park-sa-5032-2013930120,,is-sold,Sold by private treaty 10 Oct 2017,20171010,32A Lipsett Terrace,BROOKLYN PARK,SA,5032,-34.93013,138.549026,3,3,3,House,House,False,345,m2,False
+2018325184,listing,/15-2-rowells-road-lockleys-sa-5032-2018325184,422500,is-sold,Sold by private treaty 23 Feb 2023,20230223,15/2 Rowells Road,LOCKLEYS,SA,5032,-34.92657,138.53653,2,1,1,Townhouse,Townhouse,False,0,m2,False

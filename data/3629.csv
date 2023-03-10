@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013040741,listing,/595-ardmona-road-mooroopna-north-vic-3629-2013040741,,is-sold,Sold at auction 09 Oct 2016,20161009,595 Ardmona Road,MOOROOPNA NORTH,VIC,3629,-36.35023,145.295258,3,3,3,Rural,Rural,True,48.56,ha,False
 2018329816,listing,/48-elsie-jones-drive-mooroopna-vic-3629-2018329816,,is-sold,Sold by private treaty 06 Mar 2023,20230306,48 Elsie Jones Drive,MOOROOPNA,VIC,3629,-36.39078,145.346954,3,2,2,House,House,False,792,m2,False
 2018062224,listing,/12-paisley-crescent-mooroopna-vic-3629-2018062224,,is-sold,Sold by private treaty 09 Mar 2023,20230309,12 Paisley Crescent,MOOROOPNA,VIC,3629,-36.3705444,145.346024,5,2,4,House,House,False,712,m2,False
+2018210468,listing,/35-lenne-st-mooroopna-vic-3629-2018210468,,is-sold,Sold by private treaty 07 Mar 2023,20230307,35 Lenne St,MOOROOPNA,VIC,3629,-36.400238,145.349213,3,2,2,House,House,False,0,m2,False

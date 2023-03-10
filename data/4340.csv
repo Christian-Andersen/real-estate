@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018306108,listing,/33-bassett-lane-rosewood-qld-4340-2018306108,493590,is-sold,Sold by private treaty 06 Dec 2022,20221206,33 Bassett Lane,ROSEWOOD,QLD,4340,-27.6418419,152.601791,4,4,4,House,House,False,0.0,m2,False
 2018316570,listing,/44-albert-street-rosewood-qld-4340-2018316570,550000,is-sold,Sold by private treaty 06 Feb 2023,20230206,44 Albert Street,ROSEWOOD,QLD,4340,-27.6388721,152.590271,3,3,3,House,House,False,971.0,m2,False
 2018339552,listing,/5-matthew-street-rosewood-qld-4340-2018339552,455000,is-sold,Sold by private treaty 07 Mar 2023,20230307,5 Matthew Street,ROSEWOOD,QLD,4340,-27.6411076,152.596008,3,1,2,House,House,False,708,m2,False
+2018407832,listing,/10-lairhopes-road-mount-forbes-qld-4340-2018407832,1225000,is-sold,Sold by private treaty 08 Mar 2023,20230308,10 Lairhopes Road,MOUNT FORBES,QLD,4340,-27.7060528,152.594223,3,1,10,House,House,True,52.1,ha,False

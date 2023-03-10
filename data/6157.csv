@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015911896,listing,/12-fifth-street-bicton-wa-6157-2015911896,475000,is-sold,Sold by private treaty 23 Dec 2019,20191223,12 Fifth Street,BICTON,WA,6157,-32.0331,115.7907,3,3,3,House,House,False,386,m2,False
 2015928326,listing,/5-208-forrest-street-palmyra-wa-6157-2015928326,400000,is-sold,Sold by private treaty 21 Dec 2019,20191221,5/208 Forrest Street,PALMYRA,WA,6157,-32.04782,115.783386,3,3,3,House,House,False,0,m2,False
 2015950716,listing,/106a-aurelian-street-palmyra-wa-6157-2015950716,495000,is-sold,Sold by private treaty 04 Jan 2020,20200104,106A Aurelian Street,PALMYRA,WA,6157,-32.04609,115.792343,3,3,3,House,House,False,418,m2,False
+2018312563,listing,/2-66-solomon-street-palmyra-wa-6157-2018312563,,is-sold,Sold by private treaty 07 Mar 2023,20230307,2/66 Solomon Street,PALMYRA,WA,6157,-32.04296,115.788528,3,1,2,Villa,Villa,False,0,m2,False

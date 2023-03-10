@@ -1004,3 +1004,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018349447,listing,/63-cormorant-avenue-hinchinbrook-nsw-2168-2018349447,900000,is-sold,Sold at auction 04 Mar 2023,20230304,63 Cormorant Avenue,HINCHINBROOK,NSW,2168,-33.9130745,150.871521,3,2,13,House,House,False,1128,m2,False
 2018349321,listing,/1-hawk-cl-green-valley-nsw-2168-2018349321,1075000,is-sold,Sold by private treaty 07 Mar 2023,20230307,1 Hawk Cl,GREEN VALLEY,NSW,2168,-33.90598,150.86972,5,2,3,House,House,False,542,m2,False
 2018314205,listing,/33-cabramatta-avenue-miller-nsw-2168-2018314205,870000,is-sold,Sold by private treaty 07 Mar 2023,20230307,33 Cabramatta Avenue,MILLER,NSW,2168,-33.9244957,150.876251,4,1,1,House,House,False,543,m2,False
+2018384239,listing,/6-merino-street-miller-nsw-2168-2018384239,820000,is-sold,Sold prior to auction 08 Mar 2023,20230308,6 Merino Street,MILLER,NSW,2168,-33.9167175,150.878769,3,1,2,House,House,False,594,m2,False

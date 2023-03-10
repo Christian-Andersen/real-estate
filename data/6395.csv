@@ -214,3 +214,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008375287,listing,/kojonup-wa-6395-2008375287,,is-sold,Sold by private treaty 23 May 2010,20100523,,KOJONUP,WA,6395,-33.83622,117.16098,3,3,3,House,House,False,0.0,m2,False
 2008428791,listing,/kojonup-wa-6395-2008428791,,is-sold,Sold by private treaty 22 Jun 2010,20100622,,KOJONUP,WA,6395,-33.8292274,117.157906,3,3,3,House,House,False,0.0,m2,False
 2017872627,listing,/5-liddell-street-kojonup-wa-6395-2017872627,,is-sold,Sold by private treaty 07 Mar 2023,20230307,5 Liddell Street,KOJONUP,WA,6395,-33.829586,117.162064,3,1,1,House,House,False,856,m2,False
+2018302518,listing,/7-mcleod-street-kojonup-wa-6395-2018302518,,is-sold,Sold by private treaty 07 Mar 2023,20230307,7 McLeod Street,KOJONUP,WA,6395,-33.831192,117.15802,2,1,3,House,House,False,873,m2,False

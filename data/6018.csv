@@ -14,3 +14,9 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018251805,listing,/doubleview-wa-6018-2018251805,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,DOUBLEVIEW,WA,6018,-31.899765,115.781136,3,2,2,NewHouseLand,New House & Land,False,0,m2,False
 2018369850,listing,/doubleview-wa-6018-2018369850,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,DOUBLEVIEW,WA,6018,-31.8943577,115.786575,2,1,1,House,House,False,0,m2,False
 2018375193,listing,/innaloo-wa-6018-2018375193,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,INNALOO,WA,6018,-31.890255,115.797722,3,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018311960,listing,/46d-marian-street-innaloo-wa-6018-2018311960,,is-sold,Sold by private treaty 10 Mar 2023,20230310,46D Marian Street,INNALOO,WA,6018,-31.8949127,115.793694,3,2,2,Townhouse,Townhouse,False,209,m2,False
+2018358361,listing,/62a-francis-avenue-karrinyup-wa-6018-2018358361,,is-sold,Sold by private treaty 10 Mar 2023,20230310,62A Francis Avenue,KARRINYUP,WA,6018,-31.8759346,115.782364,3,2,2,House,House,False,0,m2,False
+2018306718,listing,/6-coneflower-corner-churchlands-wa-6018-2018306718,,is-sold,Sold by private treaty 07 Mar 2023,20230307,6 Coneflower Corner,CHURCHLANDS,WA,6018,-31.924572,115.790276,3,2,2,House,House,False,254,m2,False
+2018285903,listing,/152-holbeck-street-doubleview-wa-6018-2018285903,,is-sold,Sold by private treaty 03 Mar 2023,20230303,152 Holbeck Street,DOUBLEVIEW,WA,6018,-31.888237,115.785034,2,1,2,House,House,False,645,m2,False
+2018296253,listing,/17-mallee-way-gwelup-wa-6018-2018296253,1255000,is-sold,Sold by private treaty 02 Mar 2023,20230302,17 Mallee Way,GWELUP,WA,6018,-31.8691273,115.792442,5,3,2,House,House,False,420,m2,False
+2017952309,listing,/103b-odin-road-innaloo-wa-6018-2017952309,,is-sold,Sold by private treaty 02 Mar 2023,20230302,103B Odin Road,INNALOO,WA,6018,-31.89159,115.797668,3,2,2,House,House,False,237,m2,False

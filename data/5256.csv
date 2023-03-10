@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018163041,listing,/lot-1-terry-way-clayton-bay-sa-5256-2018163041,195000,is-sold,Sold by private treaty 28 Nov 2022,20221128,Lot 1 Terry Way,CLAYTON BAY,SA,5256,-35.487812,138.921509,,,,VacantLand,Vacant land,False,2627.0,m2,False
 2018163044,listing,/lot-14-terry-way-clayton-bay-sa-5256-2018163044,,is-sold,Sold by private treaty 24 Dec 2022,20221224,Lot 14 Terry Way,CLAYTON BAY,SA,5256,-35.487812,138.921509,,,,VacantLand,Vacant land,False,929.0,m2,False
 2018282715,listing,/39-lake-road-milang-sa-5256-2018282715,,is-sold,Sold by private treaty 01 Feb 2023,20230201,39 Lake Road,MILANG,SA,5256,-35.402195,138.981735,,,,VacantLand,Vacant land,False,760.0,m2,False
+2018334796,listing,/75-alexandrina-drive-clayton-bay-sa-5256-2018334796,,is-sold,Sold by private treaty 06 Mar 2023,20230306,75 Alexandrina Drive,CLAYTON BAY,SA,5256,-35.4908943,138.925339,3,1,1,House,House,False,1200,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009760365,listing,/26-south-street-gunnedah-nsw-2380-2009760365,280000,is-sold,Sold by private treaty 30 Jul 2012,20120730,26 South Street,GUNNEDAH,NSW,2380,-30.9846725,150.25708,3,3,3,House,House,False,1024.0,m2,False
 2009794022,listing,/17-goodwin-road-gunnedah-nsw-2380-2009794022,365000,is-sold,Sold by private treaty 22 Aug 2012,20120822,17 Goodwin Road,GUNNEDAH,NSW,2380,-30.9935379,150.253937,4,4,4,House,House,False,721.0,m2,False
 2009887145,listing,/118-barber-street-gunnedah-nsw-2380-2009887145,,is-sold,Sold by private treaty 03 Sep 2012,20120903,118 Barber Street,GUNNEDAH,NSW,2380,-30.97973,150.253723,4,4,4,House,House,False,968.0,m2,False
+2018309772,listing,/20-george-st-gunnedah-nsw-2380-2018309772,370000,is-sold,Sold by private treaty 10 Mar 2023,20230310,20 George St,GUNNEDAH,NSW,2380,-30.9863453,150.238,4,1,2,House,House,False,949,m2,False

@@ -861,3 +861,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008704658,listing,/lot-592-north-street-angaston-sa-5353-2008704658,646000,is-sold,Sold by private treaty 17 Dec 2010,20101217,Lot 592 North Street,ANGASTON,SA,5353,-34.5053329,139.055786,4,4,4,House,House,False,0.0,m2,False
 2007504296,listing,/14-davey-crescent-angaston-sa-5353-2007504296,408000,is-sold,Sold by private treaty 18 Feb 2009,20090218,14 Davey Crescent,ANGASTON,SA,5353,-34.4920578,139.048447,34,34,34,House,House,False,0.0,m2,False
 2007738803,listing,/6-smith-street-angaston-sa-5353-2007738803,160000,is-sold,Sold by private treaty 07 Jul 2009,20090707,6 Smith Street,ANGASTON,SA,5353,-34.5099945,139.043961,3,3,3,House,House,False,0.0,m2,False
+2018411136,listing,/121-123-moculta-road-penrice-sa-5353-2018411136,,is-sold,Sold by private treaty 01 Mar 2023,20230301,121-123 Moculta Road,PENRICE,SA,5353,-34.4872169,139.056549,4,2,6,House,House,True,1.65,ha,False

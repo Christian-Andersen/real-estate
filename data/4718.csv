@@ -219,3 +219,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014633490,listing,/12-hewitt-st-moura-qld-4718-2014633490,165000,is-sold,Sold by private treaty 05 Nov 2018,20181105,12 Hewitt St,MOURA,QLD,4718,-24.5730743,149.970612,4,4,4,House,House,False,809.0,m2,False
 2018280833,listing,/2-knaggs-st-moura-qld-4718-2018280833,150000,is-sold,Sold by private treaty 06 Mar 2023,20230306,2 Knaggs St,MOURA,QLD,4718,-24.5743656,149.970566,3,1,1,House,House,False,809,m2,False
 2018154441,listing,/28-burnham-street-moura-qld-4718-2018154441,264000,is-sold,Sold by private treaty 07 Mar 2023,20230307,28 Burnham Street,MOURA,QLD,4718,-24.57718,149.970016,3,1,4,House,House,False,769,m2,False
+2017614250,listing,/21-mcarthur-street-moura-qld-4718-2017614250,,is-sold,Sold by private treaty 10 Mar 2023,20230310,21 Mcarthur Street,MOURA,QLD,4718,-24.572998,149.973129,5,2,2,House,House,False,0,m2,False
+2018338255,listing,/19-mcdowell-street-moura-qld-4718-2018338255,160000,is-sold,Sold by private treaty 10 Mar 2023,20230310,19 Mcdowell Street,MOURA,QLD,4718,-24.5776634,149.974716,3,1,1,House,House,False,0,m2,False
+2016465492,listing,/3-becker-st-moura-qld-4718-2016465492,,is-sold,Sold by private treaty 09 Mar 2023,20230309,3 Becker St,MOURA,QLD,4718,-24.57815,149.967453,3,1,5,House,House,False,0,m2,False

@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018323119,listing,/382-rheban-road-orford-tas-7190-2018323119,,is-sold,Sold by private treaty 08 Feb 2023,20230208,382 Rheban Road,ORFORD,TAS,7190,-42.584034,147.91185,3,3,3,House,House,False,736,m2,False
 2018324832,listing,/4-henry-street-orford-tas-7190-2018324832,525000,is-sold,Sold by private treaty 08 Feb 2023,20230208,4 Henry Street,ORFORD,TAS,7190,-42.5619049,147.873611,2,2,2,House,House,False,918,m2,False
 2018326809,listing,/21-noyes-street-swansea-tas-7190-2018326809,380000,is-sold,Sold by private treaty 22 Feb 2023,20230222,21 Noyes Street,SWANSEA,TAS,7190,-42.1256752,148.072968,,,,VacantLand,Vacant land,False,831,m2,False
+2018237847,listing,/5-walters-drive-orford-tas-7190-2018237847,610000,is-sold,Sold by private treaty 10 Mar 2023,20230310,5 Walters Drive,ORFORD,TAS,7190,-42.5636559,147.876038,3,2,5,House,House,False,666,m2,False
+2018277916,listing,/11901a-tasman-highway-rocky-hills-tas-7190-2018277916,,is-sold,Sold by private treaty 03 Mar 2023,20230303,11901A Tasman Highway,ROCKY HILLS,TAS,7190,-42.2337074,148.016891,,,,Rural,Rural,True,566.2,ha,False

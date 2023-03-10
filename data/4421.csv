@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018237436,listing,/lot-11-wieambilla-road-tara-qld-4421-2018237436,120000,is-sold,Sold by private treaty 21 Dec 2022,20221221,Lot 11 Wieambilla Road,TARA,QLD,4421,-27.0086231,150.4706,,,,Rural,Rural,True,60.19,ha,False
 2018268166,listing,/151-robbos-road-tara-qld-4421-2018268166,100000,is-sold,Sold by private treaty 22 Feb 2023,20230222,151 Robbos Road,TARA,QLD,4421,-27.0284767,150.472214,,1.0,1.0,Rural,Rural,True,58.46,ha,False
 2018276219,listing,/14-keeshans-road-goranba-qld-4421-2018276219,60000,is-sold,Sold by private treaty 31 Jan 2023,20230131,14 Keeshans Road,GORANBA,QLD,4421,-27.2875824,150.598557,,,,Rural,Rural,True,14.63,ha,False
+2018368640,listing,/137-kofoeds-road-tara-qld-4421-2018368640,95000,is-sold,Sold by private treaty 09 Mar 2023,20230309,137 Kofoeds Road,TARA,QLD,4421,-27.172678,150.538757,,,,Rural,Rural,True,12,ha,False

@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018307409,listing,/3-gardiner-st-warracknabeal-vic-3393-2018307409,,is-sold,Sold by private treaty 20 Feb 2023,20230220,3 Gardiner St,WARRACKNABEAL,VIC,3393,-36.25948,142.392715,2,2,2,House,House,False,520,m2,False
 2018330175,listing,/122-jamouneau-street-warracknabeal-vic-3393-2018330175,,is-sold,Sold by private treaty 03 Mar 2023,20230303,122 JAMOUNEAU STREET,WARRACKNABEAL,VIC,3393,-36.2626724,142.393326,3,3,3,House,House,False,845,m2,False
 2018268165,listing,/tarrant-road-warracknabeal-vic-3393-2018268165,,is-sold,Sold at auction 09 Mar 2023,20230309,Tarrant Road,WARRACKNABEAL,VIC,3393,-36.2312164,142.3919,,,,Rural,Rural,True,260.13,ha,False
+2018107567,listing,/189-scott-street-warracknabeal-vic-3393-2018107567,,is-sold,Sold by private treaty 10 Mar 2023,20230310,189 Scott Street,WARRACKNABEAL,VIC,3393,-36.25473,142.395386,3,2,2,House,House,False,961,m2,False

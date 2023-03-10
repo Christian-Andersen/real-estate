@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018247091,listing,/3-norman-street-hamley-bridge-sa-5401-2018247091,362600,is-sold,Sold by private treaty 09 Feb 2023,20230209,3 Norman Street,HAMLEY BRIDGE,SA,5401,-34.3559761,138.678726,2,2,2,House,House,False,901.0,m2,False
 2018250255,listing,/11-hill-street-hamley-bridge-sa-5401-2018250255,310000,is-sold,Sold by private treaty 24 Feb 2023,20230224,11 Hill Street,HAMLEY BRIDGE,SA,5401,-34.3558,138.678436,3,3,3,House,House,False,809.0,m2,False
 2018256583,listing,/5-bowen-street-hamley-bridge-sa-5401-2018256583,,is-sold,Sold by private treaty 07 Feb 2023,20230207,5 Bowen Street,HAMLEY BRIDGE,SA,5401,-34.356514,138.686157,3,3,3,House,House,False,865.0,m2,False
+2018334040,listing,/37-stockport-road-hamley-bridge-sa-5401-2018334040,210000,is-sold,Sold at auction 07 Mar 2023,20230307,37 Stockport Road,HAMLEY BRIDGE,SA,5401,-34.3528442,138.685257,4,1,2,House,House,False,2525,m2,False

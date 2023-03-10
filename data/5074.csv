@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018354300,listing,/5-park-street-campbelltown-sa-5074-2018354300,552000,is-sold,Sold at auction 04 Mar 2023,20230304,5 Park Street,CAMPBELLTOWN,SA,5074,-34.882515,138.671036,3,1,1,House,House,False,535,m2,False
 2018349355,listing,/2-15-farmer-street-newton-sa-5074-2018349355,498000,is-sold,Sold at auction 06 Mar 2023,20230306,2/15 Farmer Street,NEWTON,SA,5074,-34.8773537,138.687485,2,1,1,House,House,False,0,m2,False
 2018355327,listing,/12-kenwyn-drive-campbelltown-sa-5074-2018355327,,is-sold,Sold by private treaty 09 Mar 2023,20230309,12 Kenwyn Drive,CAMPBELLTOWN,SA,5074,-34.8830643,138.656158,4,2,3,House,House,False,697,m2,False
+2018371011,listing,/1-114-gorge-road-newton-sa-5074-2018371011,370000,is-sold,Sold by private treaty 03 Mar 2023,20230303,1/114 Gorge Road,NEWTON,SA,5074,-34.8763161,138.6783,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

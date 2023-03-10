@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018304447,listing,/114-oxford-street-beauty-point-tas-7270-2018304447,,is-sold,Sold by private treaty 24 Jan 2023,20230124,114 Oxford Street,BEAUTY POINT,TAS,7270,-41.15659,146.81955,3,3,3,House,House,False,955.0,m2,False
 2018339913,listing,/52-west-bay-road-rowella-tas-7270-2018339913,,is-sold,Sold by private treaty 15 Feb 2023,20230215,52 West Bay Road,ROWELLA,TAS,7270,-41.18065,146.9223,3,3,3,House,House,False,1381.0,m2,False
 2018273668,listing,/3-243-flinders-street-beauty-point-tas-7270-2018273668,,is-sold,Sold by private treaty 06 Mar 2023,20230306,3/243 Flinders Street,BEAUTY POINT,TAS,7270,-41.1478348,146.8167,2,2,2,House,House,False,448,m2,False
+2018232287,listing,/131-foreshore-road-kelso-tas-7270-2018232287,535000,is-sold,Sold by private treaty 17 Feb 2023,20230217,131 Foreshore Road,KELSO,TAS,7270,-41.09506,146.789383,3,1,2,House,House,False,664,m2,False

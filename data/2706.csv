@@ -121,3 +121,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010452424,listing,/26-demamiel-street-darlington-point-nsw-2706-2010452424,185000,is-sold,Sold by private treaty 16 Jul 2013,20130716,26 DeMamiel Street,DARLINGTON POINT,NSW,2706,-34.57426,145.991989,4,4,4,House,House,False,1275.0,m2,False
 2007644166,listing,/darlington-point-nsw-2706-2007644166,179000,is-sold,Sold by private treaty 05 Jun 2009,20090605,,DARLINGTON POINT,NSW,2706,-34.5714874,145.987762,3,3,3,House,House,False,0.0,m2,False
 2017895833,listing,/darlington-point-nsw-2706-2017895833,,is-sold,Sold by private treaty 08 Mar 2023,20230308,,DARLINGTON POINT,NSW,2706,-34.6280174,145.869064,,,,Rural,Rural,True,539,ha,False
+2018286043,listing,/5-barwidgee-boulevard-darlington-point-nsw-2706-2018286043,,is-sold,Sold by private treaty 10 Mar 2023,20230310,5 Barwidgee Boulevard,DARLINGTON POINT,NSW,2706,-34.5731926,145.989273,4,2,2,House,House,False,1316,m2,False

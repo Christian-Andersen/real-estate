@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010876812,listing,/port-augusta-sa-5700-2010876812,,is-sold,Sold 20 Jan 2014,20140120,,PORT AUGUSTA,SA,5700,-32.49244,137.762817,4,4,4,House,House,False,0.0,m2,False
 2010876814,listing,/port-augusta-sa-5700-2010876814,115000,is-sold,Sold 13 Mar 2014,20140313,,PORT AUGUSTA,SA,5700,-32.49244,137.762817,3,3,3,SemiDetached,Semi-Detached,False,0.0,m2,False
 2010925794,listing,/port-augusta-west-sa-5700-2010925794,,is-sold,Sold 17 Jan 2014,20140117,,PORT AUGUSTA WEST,SA,5700,-32.4831429,137.7586,3,3,3,House,House,False,0.0,m2,False
+2018143854,listing,/3-northey-crescent-port-augusta-west-sa-5700-2018143854,300000,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 Northey Crescent,PORT AUGUSTA WEST,SA,5700,-32.48799,137.746918,4,2,2,House,House,False,677,m2,False

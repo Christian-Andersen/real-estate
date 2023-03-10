@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018125606,listing,/195-pender-creek-road-kin-kin-qld-4571-2018125606,700000,is-sold,Sold by private treaty 05 Nov 2022,20221105,195 Pender Creek Road,KIN KIN,QLD,4571,-26.2725811,152.850708,2,2,2,House,House,True,2.0,ha,False
 2018261745,listing,/686-pomona-kin-kin-rd-kin-kin-qld-4571-2018261745,1230000,is-sold,Sold by private treaty 15 Dec 2022,20221215,686 Pomona Kin Kin Rd,KIN KIN,QLD,4571,-26.3108711,152.877472,3,3,3,House,House,True,19.41,ha,False
 2018262305,listing,/25-leggetts-loop-kin-kin-qld-4571-2018262305,2050000,is-sold,Sold by private treaty 29 Jan 2023,20230129,25 Leggetts Loop,KIN KIN,QLD,4571,-26.2592945,152.872925,5,5,5,House,House,True,1.15,ha,False
+2018178882,listing,/kin-kin-qld-4571-2018178882,1100000,is-sold,Sold by private treaty 10 Mar 2023,20230310,,KIN KIN,QLD,4571,-26.2630272,152.873947,3,3,5,Rural,Rural,True,24.18,ha,False

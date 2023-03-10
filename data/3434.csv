@@ -21,3 +21,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018333266,listing,/17-bella-vista-place-romsey-vic-3434-2018333266,860000,is-sold,Sold by private treaty 26 Jan 2023,20230126,17 Bella Vista Place,ROMSEY,VIC,3434,-37.3629,144.734314,4,4,4,House,House,False,839.0,m2,False
 2018116741,listing,/3-thomas-court-romsey-vic-3434-2018116741,1102000,is-sold,Sold by private treaty 09 Mar 2023,20230309,3 Thomas Court,ROMSEY,VIC,3434,-37.34612,144.748627,4,2,4,House,House,False,6683,m2,False
 2018311101,listing,/143-barry-street-romsey-vic-3434-2018311101,700000,is-sold,Sold by private treaty 09 Mar 2023,20230309,143 Barry Street,ROMSEY,VIC,3434,-37.35113,144.735153,3,2,2,House,House,False,2029,m2,False
+2018169593,listing,/16a-metcalfe-drive-romsey-vic-3434-2018169593,720000,is-sold,Sold by private treaty 07 Mar 2023,20230307,16A Metcalfe Drive,ROMSEY,VIC,3434,-37.35477,144.735535,4,2,2,House,House,False,768,m2,False
+2018282546,listing,/9b-susanne-court-romsey-vic-3434-2018282546,695000,is-sold,Sold by private treaty 07 Mar 2023,20230307,9B Susanne Court,ROMSEY,VIC,3434,-37.3574944,144.7453,3,1,4,House,House,False,1761,m2,False

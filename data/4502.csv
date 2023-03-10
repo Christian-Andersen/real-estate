@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018282996,listing,/18-brittainy-street-petrie-qld-4502-2018282996,810000,is-sold,Sold by private treaty 02 Mar 2023,20230302,18 Brittainy Street,PETRIE,QLD,4502,-27.2649345,152.9762,5,5,5,House,House,False,905,m2,False
 2018283613,listing,/16-toulouse-avenue-petrie-qld-4502-2018283613,555000,is-sold,Sold at auction 24 Jan 2023,20230124,16 Toulouse Avenue,PETRIE,QLD,4502,-27.258419,152.9732,3,3,3,House,House,False,637,m2,False
 2018290452,listing,/23-eucumbene-drive-petrie-qld-4502-2018290452,775000,is-sold,Sold by private treaty 14 Feb 2023,20230214,23 Eucumbene Drive,PETRIE,QLD,4502,-27.2539063,152.970688,4,4,4,House,House,False,723,m2,False
+2018314318,listing,/16-alawara-street-petrie-qld-4502-2018314318,690000,is-sold,Sold by private treaty 10 Mar 2023,20230310,16 Alawara Street,PETRIE,QLD,4502,-27.2552776,152.962173,5,3,2,House,House,False,757,m2,False

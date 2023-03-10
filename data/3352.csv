@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018364382,listing,/lot-40-bliss-road-dereel-vic-3352-2018364382,210000,is-sold,Sold by private treaty 15 Feb 2023,20230215,Lot 40 Bliss Road,DEREEL,VIC,3352,-37.801857,143.7433,,,,Rural,Rural,True,2.02,ha,False
 2018309586,listing,/149-monmouth-road-garibaldi-vic-3352-2018309586,345000,is-sold,Sold by private treaty 03 Mar 2023,20230303,149 Monmouth Road,GARIBALDI,VIC,3352,-37.7340355,143.843048,,,,VacantLand,Vacant land,True,13.35,ha,False
 2018084012,listing,/171-skene-street-lexton-vic-3352-2018084012,70000,is-sold,Sold by private treaty 03 Mar 2023,20230303,171 Skene Street,LEXTON,VIC,3352,-37.26957,143.514359,,,,VacantLand,Vacant land,False,2022.0,m2,False
+2018328866,listing,/272-tait-street-bonshaw-vic-3352-2018328866,,is-sold,Sold by private treaty 06 Mar 2023,20230306,272 Tait Street,BONSHAW,VIC,3352,-37.60227,143.822815,4,2,2,House,House,False,0,m2,False

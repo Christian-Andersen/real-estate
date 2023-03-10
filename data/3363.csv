@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018231882,listing,/4-reed-street-creswick-vic-3363-2018231882,495000,is-sold,Sold by private treaty 06 Dec 2022,20221206,4 Reed Street,CRESWICK,VIC,3363,-37.4233665,143.886612,3,3,3,House,House,False,1027,m2,False
 2018249515,listing,/3-the-board-walk-creswick-vic-3363-2018249515,552119,is-sold,Sold by private treaty 16 Feb 2023,20230216,3 The Board Walk,CRESWICK,VIC,3363,-37.44536,143.895737,3,3,3,House,House,False,322,m2,False
 2018357089,listing,/23-phillip-street-creswick-vic-3363-2018357089,,is-sold,Sold by private treaty 10 Feb 2023,20230210,23 Phillip Street,CRESWICK,VIC,3363,-37.4189873,143.879639,4,4,4,House,House,False,0,m2,False
+2018291148,listing,/29-lewers-street-creswick-vic-3363-2018291148,490000,is-sold,Sold by private treaty 09 Mar 2023,20230309,29 Lewers Street,CRESWICK,VIC,3363,-37.4219131,143.888474,3,1,2,House,House,False,967,m2,False

@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018278392,listing,/62-ruby-street-north-perth-wa-6006-2018278392,,is-sold,Sold by private treaty 23 Feb 2023,20230223,62 Ruby Street,NORTH PERTH,WA,6006,-31.92498,115.852432,4,4,4,House,House,False,491,m2,False
 2018303343,listing,/126-eton-street-north-perth-wa-6006-2018303343,1200000,is-sold,Sold by private treaty 01 Mar 2023,20230301,126 Eton Street,NORTH PERTH,WA,6006,-31.9156971,115.8473,3,3,3,House,House,False,809,m2,False
 2018313219,listing,/5-green-street-north-perth-wa-6006-2018313219,865000,is-sold,Sold by private treaty 21 Feb 2023,20230221,5 Green Street,NORTH PERTH,WA,6006,-31.9143581,115.845772,3,3,3,House,House,False,437,m2,False
+2018329523,listing,/6-4-6-kadina-street-north-perth-wa-6006-2018329523,535000,is-sold,Sold by private treaty 09 Mar 2023,20230309,6/4-6 Kadina Street,NORTH PERTH,WA,6006,-31.92869,115.851921,2,2,2,Townhouse,Townhouse,False,0,m2,False

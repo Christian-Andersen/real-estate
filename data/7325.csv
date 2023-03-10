@@ -20,3 +20,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018254492,listing,/34-new-street-wynyard-tas-7325-2018254492,,is-sold,Sold by private treaty 24 Feb 2023,20230224,34 New Street,WYNYARD,TAS,7325,-40.9820976,145.722565,3,3,3,House,House,False,888.0,m2,False
 2018318817,listing,/132-hoares-lane-elliott-tas-7325-2018318817,455000,is-sold,Sold by private treaty 26 Jan 2023,20230126,132 Hoares Lane,ELLIOTT,TAS,7325,-41.080452,145.8051,3,3,3,House,House,True,1.95,ha,False
 2018017077,listing,/1490-preolenna-road-moorleah-tas-7325-2018017077,,is-sold,Sold by private treaty 03 Mar 2023,20230303,1490 Preolenna Road,MOORLEAH,TAS,7325,-41.038784,145.596909,2,2,2,House,House,True,8.52,ha,False
+2018333543,listing,/3-saunders-street-wynyard-tas-7325-2018333543,530000,is-sold,Sold by private treaty 10 Mar 2023,20230310,3 Saunders Street,WYNYARD,TAS,7325,-40.99318,145.727676,3,1,2,House,House,False,1232,m2,False
+2018299889,listing,/80-tippetts-road-mount-hicks-tas-7325-2018299889,,is-sold,Sold by private treaty 27 Feb 2023,20230227,80 Tippetts Road,MOUNT HICKS,TAS,7325,-41.04556,145.7561,4,2,1,House,House,True,1.7,ha,False
+2018140274,listing,/91-saunders-street-wynyard-tas-7325-2018140274,,is-sold,Sold by private treaty 20 Feb 2023,20230220,91 Saunders Street,WYNYARD,TAS,7325,-40.98246,145.722092,3,1,1,House,House,False,809,m2,False

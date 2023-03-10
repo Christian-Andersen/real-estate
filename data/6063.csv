@@ -25,3 +25,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018368265,listing,/24-privet-pass-bennett-springs-wa-6063-2018368265,,is-sold,Sold by private treaty 08 Mar 2023,20230308,24 Privet Pass,BENNETT SPRINGS,WA,6063,-31.8581638,115.933243,4,2,2,House,House,False,297,m2,False
 2018242630,listing,/4-seine-close-beechboro-wa-6063-2018242630,466000,is-sold,Sold by private treaty 10 Mar 2023,20230310,4 Seine Close,BEECHBORO,WA,6063,-31.8711643,115.926239,3,1,2,House,House,False,700,m2,False
 2018326150,listing,/7-13-bray-place-beechboro-wa-6063-2018326150,275000,is-sold,Sold by private treaty 10 Mar 2023,20230310,7/13 Bray Place,BEECHBORO,WA,6063,-31.8713055,115.951744,2,1,,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018320578,listing,/4-cockram-place-beechboro-wa-6063-2018320578,453750,is-sold,Sold by private treaty 03 Mar 2023,20230303,4 Cockram Place,BEECHBORO,WA,6063,-31.8738,115.950844,3,1,1,House,House,False,765,m2,False

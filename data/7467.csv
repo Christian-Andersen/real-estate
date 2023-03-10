@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018210379,listing,/2-brown-street-queenstown-tas-7467-2018210379,175000,is-sold,Sold by private treaty 30 Jan 2023,20230130,2 Brown Street,QUEENSTOWN,TAS,7467,-42.08652,145.547,3,3,3,House,House,False,635,m2,False
 2018231560,listing,/10-fysh-street-queenstown-tas-7467-2018231560,200000,is-sold,Sold by private treaty 13 Dec 2022,20221213,10 Fysh Street,QUEENSTOWN,TAS,7467,-42.0898,145.548676,1,1,1,House,House,False,1066,m2,False
 2018312537,listing,/81-esplanade-queenstown-tas-7467-2018312537,,is-sold,Sold by private treaty 06 Mar 2023,20230306,81 Esplanade,QUEENSTOWN,TAS,7467,-42.0853462,145.548,2,1,3,House,House,False,368,m2,False
+2017938131,listing,/23-jakins-street-queenstown-tas-7467-2017938131,398000,is-sold,Sold by private treaty 10 Mar 2023,20230310,23 Jakins Street,QUEENSTOWN,TAS,7467,-42.0739326,145.557892,3,1,6,House,House,False,686,m2,False

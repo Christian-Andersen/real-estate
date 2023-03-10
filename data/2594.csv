@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018263091,listing,/6-lynch-street-young-nsw-2594-2018263091,450000,is-sold,Sold by private treaty 08 Mar 2023,20230308,6 Lynch Street,YOUNG,NSW,2594,-34.3093719,148.299484,3,1,4,House,House,False,1012,m2,False
 2018254620,listing,/35-taylor-road-young-nsw-2594-2018254620,,is-sold,Sold by private treaty 09 Mar 2023,20230309,35 Taylor Road,YOUNG,NSW,2594,-34.3066673,148.308685,4,1,,House,House,False,619,m2,False
 2018341486,listing,/17-apps-lane-young-nsw-2594-2018341486,440000,is-sold,Sold by private treaty 09 Mar 2023,20230309,17 Apps Lane,YOUNG,NSW,2594,-34.2954521,148.351608,,,,VacantLand,Vacant land,True,4,ha,False
+2018366503,listing,/72-redhill-road-young-nsw-2594-2018366503,,is-sold,Sold prior to auction 10 Mar 2023,20230310,72 Redhill Road,YOUNG,NSW,2594,-34.29237,148.284424,3,1,11,House,House,True,22.66,ha,False

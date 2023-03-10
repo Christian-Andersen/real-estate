@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018315642,listing,/24-clarkson-way-bulgarra-wa-6714-2018315642,875000,is-sold,Sold by private treaty 25 Feb 2023,20230225,24 Clarkson Way,BULGARRA,WA,6714,-20.7291832,116.867134,4,4,4,House,House,False,828,m2,False
 2018321509,listing,/40-55-gardugarli-drive-baynton-wa-6714-2018321509,,is-sold,Sold by private treaty 02 Mar 2023,20230302,40/55 Gardugarli Drive,BAYNTON,WA,6714,-20.7534752,116.801064,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,86,m2,False
 2018340496,listing,/21-brolga-meander-nickol-wa-6714-2018340496,568000,is-sold,Sold by private treaty 03 Mar 2023,20230303,21 Brolga Meander,NICKOL,WA,6714,-20.744772,116.797363,3,3,3,House,House,False,608,m2,False
+2018107970,listing,/9-snook-way-pegs-creek-wa-6714-2018107970,495000,is-sold,Sold by private treaty 02 Mar 2023,20230302,9 Snook Way,PEGS CREEK,WA,6714,-20.7383,116.835243,4,2,2,House,House,False,750,m2,False

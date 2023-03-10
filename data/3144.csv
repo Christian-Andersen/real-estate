@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013807477,listing,/213-wattletree-road-malvern-vic-3144-2013807477,,is-sold,Sold at auction 16 Sep 2017,20170916,213 Wattletree Road,MALVERN,VIC,3144,-37.86329,145.036514,3,3,3,House,House,False,0,m2,False
 2013838358,listing,/2b-finlayson-street-malvern-vic-3144-2013838358,,is-sold,Sold by private treaty 21 Sep 2017,20170921,2B Finlayson Street,MALVERN,VIC,3144,-37.8680038,145.035873,3,3,3,Townhouse,Townhouse,False,0,m2,False
 2018334728,listing,/14-arthur-street-malvern-vic-3144-2018334728,,is-sold,Sold at auction 04 Mar 2023,20230304,14 Arthur Street,MALVERN,VIC,3144,-37.84617,145.038376,3,3,3,Townhouse,Townhouse,False,233,m2,False
+2018371206,listing,/3-cressy-street-malvern-vic-3144-2018371206,3200000,is-sold,Sold at auction 09 Mar 2023,20230309,3 Cressy Street,MALVERN,VIC,3144,-37.8523827,145.040878,3,1,2,House,House,False,651,m2,False

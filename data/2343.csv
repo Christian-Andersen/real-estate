@@ -656,3 +656,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009700014,listing,/7-phillip-street-quirindi-nsw-2343-2009700014,156000,is-sold,Sold by private treaty 06 Jun 2012,20120606,7 Phillip Street,QUIRINDI,NSW,2343,-31.4925137,150.680222,3,3,3,House,House,False,0.0,m2,False
 2009726031,listing,/343-rossmar-park-road-caroona-nsw-2343-2009726031,3200000,is-sold,Sold by private treaty 29 Jun 2012,20120629,343 Rossmar Park Road,CAROONA,NSW,2343,-31.34641,150.4151,3,3,3,Rural,Rural,True,814.23,ha,False
 2016196672,listing,/343-rossmar-park-road-caroona-nsw-2343-2016196672,3200000,is-sold,Sold by private treaty 29 Jun 2012,20120629,343 Rossmar Park Road,CAROONA,NSW,2343,-31.3716011,150.41716,3,3,3,Rural,Rural,True,814.23,ha,False
+2018405874,listing,/19-duke-street-quirindi-nsw-2343-2018405874,280000,is-sold,Sold by private treaty 10 Mar 2023,20230310,19 Duke Street,QUIRINDI,NSW,2343,-31.5220757,150.67955,4,1,4,House,House,False,0,m2,False

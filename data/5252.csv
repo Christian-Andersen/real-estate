@@ -999,3 +999,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010958337,listing,/3-hawthorn-st-dawesley-sa-5252-2010958337,475000,is-sold,Sold by private treaty 27 Feb 2014,20140227,3 Hawthorn St,DAWESLEY,SA,5252,-35.0368958,138.947586,4,4,4,House,House,False,0.0,m2,False
 2010961837,listing,/4-bremer-street-dawesley-sa-5252-2010961837,275000,is-sold,Sold by private treaty 05 Mar 2014,20140305,4 Bremer Street,DAWESLEY,SA,5252,-35.03854,138.9473,3,3,3,House,House,False,0.0,m2,False
 2011024612,listing,/4-burns-street-nairne-sa-5252-2011024612,130000,is-sold,Sold by private treaty 11 Mar 2014,20140311,4 Burns Street,NAIRNE,SA,5252,-35.035347,138.908066,3,3,3,House,House,False,728.0,m2,False
+2018364728,listing,/50c-north-road-nairne-sa-5252-2018364728,,is-sold,Sold by private treaty 10 Mar 2023,20230310,50C North Road,NAIRNE,SA,5252,-35.03385,138.9127,3,1,,House,House,False,2007,m2,False
+2018370674,listing,/14-nursery-road-kanmantoo-sa-5252-2018370674,,is-sold,Sold by private treaty 07 Mar 2023,20230307,14 Nursery Road,KANMANTOO,SA,5252,-35.070446,139.012177,3,2,6,House,House,False,1522,m2,False

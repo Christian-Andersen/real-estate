@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018198470,listing,/15-portland-road-coleraine-vic-3315-2018198470,260000,is-sold,Sold by private treaty 20 Jan 2023,20230120,15 Portland Road,COLERAINE,VIC,3315,-37.6334953,141.687576,2,2,2,House,House,False,3222.0,m2,False
 2018223794,listing,/35-henty-street-coleraine-vic-3315-2018223794,320000,is-sold,Sold by private treaty 03 Oct 2022,20221003,35 Henty Street,COLERAINE,VIC,3315,-37.6014481,141.692963,1,1,1,House,House,False,480.0,m2,False
 2018226880,listing,/35-mckebery-street-coleraine-vic-3315-2018226880,155000,is-sold,Sold by private treaty 28 Jan 2023,20230128,35 McKebery Street,COLERAINE,VIC,3315,-37.60488,141.695847,2,2,2,House,House,False,0.0,m2,False
+2017478401,listing,/84a-whyte-street-coleraine-vic-3315-2017478401,187000,is-sold,Sold by private treaty 07 Mar 2023,20230307,84A Whyte Street,COLERAINE,VIC,3315,-37.5980263,141.690765,3,1,,House,House,False,0,m2,False

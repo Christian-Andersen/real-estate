@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018342841,listing,/4-6-rothesay-avenue-hazelwood-park-sa-5066-2018342841,,is-sold,Sold at auction 05 Mar 2023,20230305,4/6 Rothesay Avenue,HAZELWOOD PARK,SA,5066,-34.9411964,138.653015,3,2,2,House,House,False,426,m2,False
 2018373251,listing,/31-the-common-beaumont-sa-5066-2018373251,,is-sold,Sold by private treaty 06 Mar 2023,20230306,31 The Common,BEAUMONT,SA,5066,-34.9468346,138.6582,4,3,4,House,House,False,905,m2,False
 2018228075,listing,/11-simpson-rd-wattle-park-sa-5066-2018228075,,is-sold,Sold by private treaty 09 Mar 2023,20230309,11 Simpson Rd,WATTLE PARK,SA,5066,-34.92861,138.673874,5,2,2,House,House,False,708,m2,False
+2018221136,listing,/25-hallett-road-erindale-sa-5066-2018221136,1250000,is-sold,Sold at auction 28 Feb 2023,20230228,25 Hallett Road,ERINDALE,SA,5066,-34.9300842,138.668076,5,2,5,House,House,False,680,m2,False

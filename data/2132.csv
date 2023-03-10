@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009976343,listing,/28-royce-avenue-croydon-nsw-2132-2009976343,900000,is-sold,Sold at auction 29 Sep 2012,20120929,28 Royce Avenue,CROYDON,NSW,2132,-33.87336,151.1127,3,3,3,House,House,False,411,m2,False
 2018319071,listing,/26-the-strand-croydon-nsw-2132-2018319071,,is-sold,Sold at auction 04 Mar 2023,20230304,26 The Strand,CROYDON,NSW,2132,-33.8839264,151.114487,4,4,4,House,House,False,243,m2,False
 2018330390,listing,/23-brady-street-croydon-nsw-2132-2018330390,2562000,is-sold,Sold at auction 04 Mar 2023,20230304,23 Brady Street,CROYDON,NSW,2132,-33.8820267,151.110352,4,2,4,House,House,False,809,m2,False
+2017882414,listing,/143-edwin-st-north-croydon-nsw-2132-2017882414,,is-sold,Sold by private treaty 09 Mar 2023,20230309,143 Edwin St North,CROYDON,NSW,2132,-33.8818321,151.118179,3,3,2,House,House,False,0,m2,False

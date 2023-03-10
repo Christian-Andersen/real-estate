@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012724157,listing,/61-barak-street-bulleen-vic-3105-2012724157,1200000,is-sold,Sold at auction 28 Apr 2016,20160428,61 Barak Street,BULLEEN,VIC,3105,-37.7709923,145.0867,4,4,4,House,House,False,752,m2,False
 2012756200,listing,/4-graeme-court-bulleen-vic-3105-2012756200,1300000,is-sold,Sold by private treaty 28 Apr 2016,20160428,4 Graeme Court,BULLEEN,VIC,3105,-37.7736855,145.088028,4,4,4,House,House,False,531,m2,False
 2012756201,listing,/1-13-kampman-street-bulleen-vic-3105-2012756201,693000,is-sold,Sold at auction 30 Apr 2016,20160430,1/13 Kampman Street,BULLEEN,VIC,3105,-37.7787,145.08638,3,3,3,Townhouse,Townhouse,False,261,m2,False
+2018335381,listing,/42-templestowe-road-bulleen-vic-3105-2018335381,,is-sold,Sold by private treaty 07 Mar 2023,20230307,42 Templestowe Road,BULLEEN,VIC,3105,-37.7584,145.086227,3,1,2,House,House,False,779,m2,False

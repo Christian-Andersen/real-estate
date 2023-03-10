@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017259238,listing,/43-glamorgan-vale-road-lowood-qld-4311-2017259238,340000,is-sold,Sold by private treaty 05 Oct 2018,20181005,43 Glamorgan Vale Road,LOWOOD,QLD,4311,-27.4720211,152.587509,2,2,2,House,House,True,3.87,ha,False
 2016925733,listing,/69-tawney-street-lowood-qld-4311-2016925733,405000,is-sold,Sold by private treaty 09 Mar 2023,20230309,69 Tawney Street,LOWOOD,QLD,4311,-27.4675865,152.563248,4,2,2,House,House,False,700,m2,False
 2018308221,listing,/365-clarendon-road-rifle-range-qld-4311-2018308221,450000,is-sold,Sold by private treaty 08 Mar 2023,20230308,365 Clarendon road,RIFLE RANGE,QLD,4311,-27.44746,152.5503,1,1,5,Rural,Rural,True,4.05,ha,False
+2018330477,listing,/18-mcinnes-cct-lowood-qld-4311-2018330477,450000,is-sold,Sold by private treaty 10 Mar 2023,20230310,18 McInnes CCT,LOWOOD,QLD,4311,-27.4642677,152.573227,4,2,2,House,House,False,800,m2,False

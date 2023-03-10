@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016497792,listing,/17-carling-court-raby-bay-qld-4163-2016497792,1400000,is-sold,Sold by private treaty 15 Sep 2020,20200915,17 Carling Court,RABY BAY,QLD,4163,-27.52137,153.282562,4,3,2,House,House,False,800,m2,False
 2016535072,listing,/3-coburg-street-east-cleveland-qld-4163-2016535072,815000,is-sold,Sold by private treaty 09 Sep 2020,20200909,3 Coburg Street East,CLEVELAND,QLD,4163,-27.5331421,153.281418,,,,VacantLand,Vacant land,False,888,m2,False
 2016598688,listing,/25-anchorage-drive-raby-bay-qld-4163-2016598688,1950000,is-sold,Sold by private treaty 13 Sep 2020,20200913,25 Anchorage Drive,RABY BAY,QLD,4163,-27.5209846,153.2712,5,5,2,House,House,False,791,m2,False
+2018296972,listing,/20-amelia-place-cleveland-qld-4163-2018296972,,is-sold,Sold by private treaty 03 Mar 2023,20230303,20 Amelia Place,CLEVELAND,QLD,4163,-27.5461216,153.277679,5,2,4,House,House,False,650,m2,False

@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012195373,listing,/58-reusch-drive-nuriootpa-sa-5355-2012195373,,is-sold,Sold by private treaty 21 Aug 2015,20150821,58 Reusch Drive,NURIOOTPA,SA,5355,-34.4613228,139.003189,4,4,4,House,House,False,0.0,m2,False
 2018337312,listing,/13-15-golden-way-nuriootpa-sa-5355-2018337312,,is-sold,Sold at auction 04 Mar 2023,20230304,13/15 Golden Way,NURIOOTPA,SA,5355,-34.47152,138.98262,3,3,3,ApartmentUnitFlat,Apartment / Unit / Flat,False,367.0,m2,False
 2018367446,listing,/4-flinders-street-nuriootpa-sa-5355-2018367446,,is-sold,Sold by private treaty 09 Mar 2023,20230309,4 Flinders Street,NURIOOTPA,SA,5355,-34.4643059,138.99556,3,1,2,House,House,False,806,m2,False
+2018352064,listing,/57-centenary-avenue-nuriootpa-sa-5355-2018352064,490000,is-sold,Sold at auction 09 Mar 2023,20230309,57 Centenary Avenue,NURIOOTPA,SA,5355,-34.4610252,138.9935,3,2,2,House,House,False,542,m2,False

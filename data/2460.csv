@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016928533,listing,/72-clarence-street-grafton-nsw-2460-2016928533,640000,is-sold,Sold by private treaty 30 Apr 2021,20210430,72 Clarence Street,GRAFTON,NSW,2460,-29.6881962,152.944611,6,4,3,BlockOfUnits,Block of Units,False,790,m2,False
 2016960536,listing,/6-queen-street-grafton-nsw-2460-2016960536,435000,is-sold,Sold by private treaty 23 Apr 2021,20210423,6 Queen Street,GRAFTON,NSW,2460,-29.6914577,152.929947,3,2,1,House,House,False,637,m2,False
 2018357115,listing,/34-maud-street-grafton-nsw-2460-2018357115,575000,is-sold,Sold by private treaty 09 Mar 2023,20230309,34 Maud Street,GRAFTON,NSW,2460,-29.6803551,152.926453,3,1,2,House,House,False,803,m2,False
+2018165238,listing,/3-butters-lane-south-grafton-nsw-2460-2018165238,418000,is-sold,Sold by private treaty 09 Mar 2023,20230309,3 Butters Lane,SOUTH GRAFTON,NSW,2460,-29.6991673,152.94751,3,1,2,House,House,False,3566,m2,False

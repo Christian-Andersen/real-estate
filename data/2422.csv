@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012816464,listing,/lot-9-10-easton-st-gloucester-nsw-2422-2012816464,,is-sold,Sold by private treaty 16 Aug 2016,20160816,Lot 9-10 Easton St,GLOUCESTER,NSW,2422,-32.0076332,151.958252,,,,VacantLand,Vacant land,False,0.0,m2,False
 2012901464,listing,/gloucester-nsw-2422-2012901464,,is-sold,Sold by private treaty 26 Aug 2016,20160826,,GLOUCESTER,NSW,2422,-32.02333,151.958755,8,8,8,ApartmentUnitFlat,Apartment / Unit / Flat,False,1488.0,m2,False
 2012943432,listing,/gloucester-nsw-2422-2012943432,275000,is-sold,Sold by private treaty 04 Aug 2016,20160804,,GLOUCESTER,NSW,2422,-32.02333,151.958755,4,4,4,House,House,False,620.0,m2,False
+2018194591,listing,/43-northgate-street-gloucester-nsw-2422-2018194591,347500,is-sold,Sold by private treaty 10 Mar 2023,20230310,43 Northgate Street,GLOUCESTER,NSW,2422,-32.0062027,151.964966,3,1,1,House,House,False,481,m2,False

@@ -672,3 +672,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009531052,listing,/narrandera-nsw-2700-2009531052,320000,is-sold,Sold by private treaty 13 Aug 2012,20120813,,NARRANDERA,NSW,2700,-34.7449379,146.5647,4,4,4,House,House,False,0.0,m2,False
 2009675843,listing,/5-bells-road-narrandera-nsw-2700-2009675843,375000,is-sold,Sold by private treaty 15 Jun 2012,20120615,5 Bells Road,NARRANDERA,NSW,2700,-34.7219276,146.554855,3,3,3,House,House,False,0.0,m2,False
 2018262583,listing,/15-william-street-narrandera-nsw-2700-2018262583,305000,is-sold,Sold by private treaty 08 Mar 2023,20230308,15 William Street,NARRANDERA,NSW,2700,-34.74257,146.559586,3,1,1,House,House,False,632,m2,False
+2018235670,listing,/6-bells-road-narrandera-nsw-2700-2018235670,600000,is-sold,Sold by private treaty 09 Mar 2023,20230309,6 Bells Road,NARRANDERA,NSW,2700,-34.7224579,146.5533,4,2,2,House,House,True,1.7,ha,False

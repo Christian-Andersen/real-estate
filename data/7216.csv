@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018276378,listing,/15-cannell-place-akaroa-tas-7216-2018276378,,is-sold,Sold by private treaty 24 Jan 2023,20230124,15 Cannell Place,AKAROA,TAS,7216,-41.3087234,148.314682,,,,VacantLand,Vacant land,False,1012,m2,False
 2018277623,listing,/40-tully-street-st-helens-tas-7216-2018277623,,is-sold,Sold by private treaty 12 Jan 2023,20230112,40 Tully Street,ST HELENS,TAS,7216,-41.316967,148.243073,,,,VacantLand,Vacant land,False,935,m2,False
 2018303297,listing,/20-peron-street-stieglitz-tas-7216-2018303297,,is-sold,Sold by private treaty 03 Mar 2023,20230303,20 Peron Street,STIEGLITZ,TAS,7216,-41.3227119,148.304657,3,3,3,House,House,False,986,m2,False
+2018322592,listing,/181-main-road-binalong-bay-tas-7216-2018322592,,is-sold,Sold by private treaty 25 Feb 2023,20230225,181 Main Road,BINALONG BAY,TAS,7216,-41.2574959,148.291916,3,3,8,House,House,False,1242,m2,False

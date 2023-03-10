@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018200921,listing,/24-giles-st-crystal-brook-sa-5523-2018200921,120000,is-sold,Sold by private treaty 20 Jan 2023,20230120,24 Giles St,CRYSTAL BROOK,SA,5523,-33.3564873,138.202759,3,3,3,House,House,False,1148.0,m2,False
 2018255492,listing,/58-mitchell-st-crystal-brook-sa-5523-2018255492,,is-sold,Sold by private treaty 22 Feb 2023,20230222,58 Mitchell St,CRYSTAL BROOK,SA,5523,-33.3494835,138.208008,2,2,2,House,House,False,1010.0,m2,False
 2018230628,listing,/17-frith-rd-crystal-brook-sa-5523-2018230628,,is-sold,Sold by private treaty 08 Mar 2023,20230308,17 Frith Rd,CRYSTAL BROOK,SA,5523,-33.3527832,138.198654,3,1,,House,House,False,911,m2,False
+2018027977,listing,/100-goulter-road-crystal-brook-sa-5523-2018027977,,is-sold,Sold by private treaty 03 Mar 2023,20230303,100 Goulter Road,CRYSTAL BROOK,SA,5523,-33.3506279,138.224533,4,2,4,Rural,Rural,True,4.86,ha,False

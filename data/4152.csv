@@ -1006,3 +1006,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018351097,listing,/5-29-brown-street-camp-hill-qld-4152-2018351097,632000,is-sold,Sold by private treaty 06 Mar 2023,20230306,5/29 Brown Street,CAMP HILL,QLD,4152,-27.4929371,153.068314,2,2,1,Townhouse,Townhouse,False,0,m2,False
 2018389064,listing,/38-hartley-street-camp-hill-qld-4152-2018389064,,is-sold,Sold at auction 08 Mar 2023,20230308,38 Hartley Street,CAMP HILL,QLD,4152,-27.4972343,153.071869,5,3,2,House,House,False,529,m2,False
 2018373025,listing,/26-stanmere-street-carindale-qld-4152-2018373025,950000,is-sold,Sold by private treaty 07 Mar 2023,20230307,26 Stanmere Street,CARINDALE,QLD,4152,-27.5118923,153.106522,3,2,1,House,House,False,608,m2,False
+2018312859,listing,/60-warilda-street-camp-hill-qld-4152-2018312859,,is-sold,Sold by private treaty 05 Mar 2023,20230305,60 Warilda Street,CAMP HILL,QLD,4152,-27.4959812,153.072968,3,1,2,House,House,False,0,m2,False
+2018338079,listing,/3-madison-place-carina-qld-4152-2018338079,,is-sold,Sold at auction 04 Mar 2023,20230304,3 Madison Place,CARINA,QLD,4152,-27.4812317,153.0896,4,2,2,House,House,False,693,m2,False

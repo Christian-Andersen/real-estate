@@ -998,3 +998,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013910609,listing,/17-elizabeth-street-norwood-sa-5067-2013910609,1350000,is-sold,Sold by private treaty 31 Oct 2017,20171031,17 Elizabeth Street,NORWOOD,SA,5067,-34.923214,138.6296,4,4,4,House,House,False,0,m2,False
 2013921047,listing,/7-6-10-donegal-street-norwood-sa-5067-2013921047,485000,is-sold,Sold by private treaty 17 Oct 2017,20171017,7/6-10 Donegal Street,NORWOOD,SA,5067,-34.9249573,138.640442,2,2,2,Townhouse,Townhouse,False,0,m2,False
 2013928859,listing,/14-fisher-street-norwood-sa-5067-2013928859,,is-sold,Sold by private treaty 25 Oct 2017,20171025,14 Fisher Street,NORWOOD,SA,5067,-34.91985,138.624268,3,3,3,House,House,False,0,m2,False
+2018357753,listing,/20a-college-road-kent-town-sa-5067-2018357753,,is-sold,Sold by private treaty 03 Mar 2023,20230303,20A College Road,KENT TOWN,SA,5067,-34.9197769,138.62085,3,2,1,House,House,False,0,m2,False
+2018345495,listing,/18-gertrude-street-norwood-sa-5067-2018345495,1485000,is-sold,Sold at auction 03 Mar 2023,20230303,18 Gertrude Street,NORWOOD,SA,5067,-34.92569,138.638245,3,2,2,House,House,False,235,m2,False

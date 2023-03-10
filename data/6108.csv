@@ -22,3 +22,8 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018267756,listing,/10-camborne-way-thornlie-wa-6108-2018267756,,is-sold,Sold by private treaty 03 Mar 2023,20230303,10 Camborne Way,THORNLIE,WA,6108,-32.05594,115.954262,4,4,4,House,House,False,911,m2,False
 2018332440,listing,/78-regency-drive-thornlie-wa-6108-2018332440,,is-sold,Sold by private treaty 03 Mar 2023,20230303,78 Regency Drive,THORNLIE,WA,6108,-32.06289,115.9616,3,3,3,House,House,False,779,m2,False
 2018330961,listing,/19-regency-drive-thornlie-wa-6108-2018330961,,is-sold,Sold by private treaty 03 Mar 2023,20230303,19 Regency Drive,THORNLIE,WA,6108,-32.0596161,115.962204,4,4,4,House,House,False,759,m2,False
+2018359886,listing,/7-bligh-place-thornlie-wa-6108-2018359886,463000,is-sold,Sold by private treaty 10 Mar 2023,20230310,7 Bligh Place,THORNLIE,WA,6108,-32.0526352,115.949135,3,1,2,House,House,False,756,m2,False
+2018373020,listing,/71-lyrebird-way-thornlie-wa-6108-2018373020,,is-sold,Sold by private treaty 09 Mar 2023,20230309,71 Lyrebird Way,THORNLIE,WA,6108,-32.04983,115.948166,3,1,1,House,House,False,710,m2,False
+2018381578,listing,/5-39-spring-road-thornlie-wa-6108-2018381578,,is-sold,Sold by private treaty 09 Mar 2023,20230309,5/39 Spring Road,THORNLIE,WA,6108,-32.04607,115.961205,2,1,1,House,House,False,232,m2,False
+2018281384,listing,/1-mcalister-place-thornlie-wa-6108-2018281384,,is-sold,Sold by private treaty 07 Mar 2023,20230307,1 McAlister Place,THORNLIE,WA,6108,-32.04839,115.943405,3,1,1,House,House,False,708,m2,False
+2018325450,listing,/4-crossford-street-thornlie-wa-6108-2018325450,441000,is-sold,Sold by private treaty 02 Mar 2023,20230302,4 Crossford Street,THORNLIE,WA,6108,-32.0578651,115.968117,3,1,1,House,House,False,942,m2,False

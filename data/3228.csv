@@ -24,3 +24,7 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018211827,listing,/29-st-georges-way-torquay-vic-3228-2018211827,,is-sold,Sold 03 Mar 2023,20230303,29 ST GEORGES WAY,TORQUAY,VIC,3228,-38.3057938,144.350937,4,4,4,House,House,False,657,m2,False
 2018333231,listing,/3-seaview-rise-jan-juc-vic-3228-2018333231,,is-sold,Sold by private treaty 08 Mar 2023,20230308,3 Seaview Rise,JAN JUC,VIC,3228,-38.3427353,144.293976,3,2,2,House,House,False,540,m2,False
 2018334223,listing,/4-brown-street-torquay-vic-3228-2018334223,1330000,is-sold,Sold by private treaty 08 Mar 2023,20230308,4 Brown Street,TORQUAY,VIC,3228,-38.3105164,144.3227,5,3,2,House,House,False,512,m2,False
+2018173613,listing,/6-blackwattle-mews-torquay-vic-3228-2018173613,1238000,is-sold,Sold by private treaty 10 Mar 2023,20230310,6 Blackwattle Mews,TORQUAY,VIC,3228,-38.3193855,144.317978,4,2,2,House,House,False,639,m2,False
+2018290453,listing,/66-marine-drive-torquay-vic-3228-2018290453,,is-sold,Sold by private treaty 09 Mar 2023,20230309,66 Marine Drive,TORQUAY,VIC,3228,-38.3122368,144.322083,4,2,2,House,House,False,444,m2,False
+2018311539,listing,/15-longshore-street-torquay-vic-3228-2018311539,1220000,is-sold,Sold by private treaty 08 Mar 2023,20230308,15 Longshore Street,TORQUAY,VIC,3228,-38.3111076,144.334549,4,2,2,House,House,False,634,m2,False
+2018088075,listing,/18-riverside-drive-torquay-vic-3228-2018088075,,is-sold,Sold by private treaty 07 Mar 2023,20230307,18 Riverside Drive,TORQUAY,VIC,3228,-38.321228,144.326355,4,2,2,House,House,False,593,m2,False

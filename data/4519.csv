@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018404593,listing,/1-5-greber-road-beerwah-qld-4519-2018404593,,is-sold,Sold by private treaty 08 Mar 2023,20230308,1/5 Greber Road,BEERWAH,QLD,4519,-26.8507576,152.956192,3,2,2,Townhouse,Townhouse,False,0,m2,False
 2018406605,listing,/2-5-greber-road-beerwah-qld-4519-2018406605,,is-sold,Sold by private treaty 09 Mar 2023,20230309,2/5 Greber Road,BEERWAH,QLD,4519,-26.8507576,152.956192,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018406705,listing,/3-5-greber-road-beerwah-qld-4519-2018406705,,is-sold,Sold by private treaty 09 Mar 2023,20230309,3/5 Greber Road,BEERWAH,QLD,4519,-26.8507576,152.956192,3,2,2,Townhouse,Townhouse,False,0,m2,False
+2018409833,listing,/2-24-coolamon-crescent-beerwah-qld-4519-2018409833,650000,is-sold,Sold by private treaty 07 Mar 2023,20230307,2/24 Coolamon Crescent,BEERWAH,QLD,4519,-26.859293,152.950089,3,2,4,House,House,False,0,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013382982,listing,/26-antares-place-cranebrook-nsw-2749-2013382982,540000,is-sold,Sold by private treaty 13 Feb 2017,20170213,26 Antares Place,CRANEBROOK,NSW,2749,-33.7057953,150.719955,3,1,1,SemiDetached,Semi-Detached,False,0,m2,False
 2013385966,listing,/26-andromeda-drive-cranebrook-nsw-2749-2013385966,750000,is-sold,Sold by private treaty 20 Feb 2017,20170220,26 Andromeda Drive,CRANEBROOK,NSW,2749,-33.7065353,150.71965,4,2,2,House,House,False,682,m2,False
 2013387109,listing,/cranebrook-nsw-2749-2013387109,719500,is-sold,Sold by private treaty 27 Feb 2017,20170227,,CRANEBROOK,NSW,2749,-33.72088,150.713013,4,2,4,House,House,False,721,m2,False
+2018319472,listing,/5-opus-place-cranebrook-nsw-2749-2018319472,1200000,is-sold,Sold by private treaty 10 Mar 2023,20230310,5 Opus Place,CRANEBROOK,NSW,2749,-33.731823,150.7146,4,2,2,House,House,False,834,m2,False

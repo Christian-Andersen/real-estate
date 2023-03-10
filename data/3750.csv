@@ -999,3 +999,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018403884,listing,/4230-wollert-wollert-vic-3750-2018403884,,is-sold,Sold by private treaty 08 Mar 2023,20230308,4230 Wollert,WOLLERT,VIC,3750,,,,,,VacantLand,Vacant land,False,332,m2,False
 2018305492,listing,/15-catanzaro-crescent-wollert-vic-3750-2018305492,,is-sold,Sold by private treaty 09 Mar 2023,20230309,15 Catanzaro Crescent,WOLLERT,VIC,3750,-37.5959625,144.997,4,2,2,House,House,False,448,m2,False
 2018334173,listing,/58-steen-avenue-wollert-vic-3750-2018334173,650000,is-sold,Sold by private treaty 09 Mar 2023,20230309,58 Steen Avenue,WOLLERT,VIC,3750,-37.61291,145.000351,4,2,2,House,House,False,0,m2,False
+2018320542,listing,/33-walkhill-drive-wollert-vic-3750-2018320542,615000,is-sold,Sold by private treaty 10 Mar 2023,20230310,33 Walkhill Drive,WOLLERT,VIC,3750,-37.6156464,145.0122,3,2,2,House,House,False,0,m2,False
+2018357230,listing,/58-springbank-road-wollert-vic-3750-2018357230,650000,is-sold,Sold by private treaty 10 Mar 2023,20230310,58 Springbank Road,WOLLERT,VIC,3750,-37.62206,145.042145,3,2,2,House,House,False,0,m2,False
+2018224518,listing,/22-amaretto-street-wollert-vic-3750-2018224518,475000,is-sold,Sold by private treaty 06 Mar 2023,20230306,22 Amaretto Street,WOLLERT,VIC,3750,-37.5891876,144.994232,,,,VacantLand,Vacant land,False,480,m2,False

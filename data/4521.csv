@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018211784,listing,/31-gannon-street-mount-mee-qld-4521-2018211784,580000,is-sold,Sold by private treaty 17 Feb 2023,20230217,31 Gannon Street,MOUNT MEE,QLD,4521,-27.06937,152.7827,2,2,2,House,House,False,809.0,m2,False
 2018238856,listing,/31-saddleback-drive-dayboro-qld-4521-2018238856,1270000,is-sold,Sold by private treaty 11 Dec 2022,20221211,31 Saddleback Drive,DAYBORO,QLD,4521,-27.1973953,152.831589,4,4,4,House,House,False,6065.0,m2,False
 2018086683,listing,/9-riverview-court-dayboro-qld-4521-2018086683,1350000,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Riverview Court,DAYBORO,QLD,4521,-27.1951027,152.8066,4,2,4,Rural,Rural,True,4.05,ha,False
+2018321009,listing,/32-coralie-circuit-dayboro-qld-4521-2018321009,1180000,is-sold,Sold by private treaty 09 Mar 2023,20230309,32 Coralie Circuit,DAYBORO,QLD,4521,-27.18972,152.832489,4,2,2,House,House,False,1890,m2,False

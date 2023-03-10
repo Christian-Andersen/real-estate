@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018342078,listing,/1-lebanon-avenue-glenunga-sa-5064-2018342078,,is-sold,Sold at auction 21 Feb 2023,20230221,1 Lebanon Avenue,GLENUNGA,SA,5064,-34.9548,138.641281,4,4,4,House,House,False,916,m2,False
 2018342870,listing,/2a-gulfview-avenue-st-georges-sa-5064-2018342870,,is-sold,Sold at auction 26 Feb 2023,20230226,2A Gulfview Avenue,ST GEORGES,SA,5064,-34.9490852,138.650665,4,4,4,House,House,False,487,m2,False
 2018344281,listing,/6-howard-court-glen-osmond-sa-5064-2018344281,,is-sold,Sold by private treaty 13 Feb 2023,20230213,6 Howard Court,GLEN OSMOND,SA,5064,-34.9636345,138.6473,3,3,3,House,House,False,794,m2,False
+2018244074,listing,/3-blairgowrie-road-st-georges-sa-5064-2018244074,1401000,is-sold,Sold by private treaty 24 Feb 2023,20230224,3 Blairgowrie Road,ST GEORGES,SA,5064,-34.9507828,138.649948,4,2,1,House,House,False,684,m2,False

@@ -3,3 +3,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018266399,listing,/26-fairy-parade-alkimos-wa-6038-2018266399,535000,is-sold,Sold by private treaty 28 Feb 2023,20230228,26 Fairy Parade,ALKIMOS,WA,6038,-31.624155,115.678978,3,3,3,House,House,False,375,m2,False
 2018373608,listing,/8-shy-lane-alkimos-wa-6038-2018373608,,is-sold,Sold by private treaty 01 Mar 2023,20230301,8 Shy Lane,ALKIMOS,WA,6038,-31.6231346,115.679131,2,2,2,House,House,False,160,m2,False
 2018367702,listing,/63-missingham-avenue-alkimos-wa-6038-2018367702,523000,is-sold,Sold by private treaty 09 Mar 2023,20230309,63 Missingham Avenue,ALKIMOS,WA,6038,-31.6272621,115.696144,4,2,2,House,House,False,375,m2,False
+2017517665,listing,/lot-8-60-villena-parade-alkimos-wa-6038-2017517665,148900,is-sold,Sold by private treaty 09 Mar 2023,20230309,Lot 8/60 Villena Parade,ALKIMOS,WA,6038,-31.62572,115.702942,,,,VacantLand,Vacant land,False,0,m2,False
+2018266331,listing,/38-danforth-crescent-alkimos-wa-6038-2018266331,,is-sold,Sold by private treaty 09 Mar 2023,20230309,38 Danforth Crescent,ALKIMOS,WA,6038,-31.60163,115.677094,3,2,2,House,House,False,460,m2,False

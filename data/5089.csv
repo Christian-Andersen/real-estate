@@ -936,3 +936,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007963905,listing,/26-lovelock-street-highbury-sa-5089-2007963905,323000,is-sold,Sold by private treaty 14 Oct 2009,20091014,26 Lovelock Street,HIGHBURY,SA,5089,-34.8514023,138.705414,3,3,3,House,House,False,0,m2,False
 2007966405,listing,/18a-rogers-street-highbury-sa-5089-2007966405,385000,is-sold,Sold by private treaty 16 Oct 2009,20091016,18a Rogers Street,HIGHBURY,SA,5089,-34.850666,138.699356,3,3,3,House,House,False,0,m2,False
 2008080587,listing,/49-edmund-road-highbury-sa-5089-2008080587,547500,is-sold,Sold by private treaty 14 Jan 2010,20100114,49 Edmund Road,HIGHBURY,SA,5089,-34.84953,138.695511,5,5,5,House,House,False,1071,m2,False
+2018370520,listing,/24-nursery-way-highbury-sa-5089-2018370520,,is-sold,Sold by private treaty 04 Mar 2023,20230304,24 Nursery Way,HIGHBURY,SA,5089,-34.857193,138.714172,4,2,2,House,House,False,712,m2,False
+2018355116,listing,/18-beckman-avenue-highbury-sa-5089-2018355116,990000,is-sold,Sold at auction 03 Mar 2023,20230303,18 Beckman Avenue,HIGHBURY,SA,5089,-34.8484955,138.704361,3,3,6,House,House,False,1215,m2,False

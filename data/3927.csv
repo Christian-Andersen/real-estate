@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018330003,listing,/10-beach-hill-avenue-somers-vic-3927-2018330003,,is-sold,Sold by private treaty 18 Feb 2023,20230218,10 Beach Hill Avenue,SOMERS,VIC,3927,-38.3909225,145.157043,4,4,4,House,House,False,678.0,m2,False
 2018330080,listing,/8-tasman-road-somers-vic-3927-2018330080,,is-sold,Sold by private treaty 12 Feb 2023,20230212,8 Tasman Road,SOMERS,VIC,3927,-38.3941841,145.175873,4,4,4,House,House,False,1159.0,m2,False
 2018334493,listing,/35-wills-road-somers-vic-3927-2018334493,,is-sold,Sold by private treaty 27 Feb 2023,20230227,35 Wills Road,SOMERS,VIC,3927,-38.38882,145.17482,4,4,4,House,House,False,981.0,m2,False
+2018371320,listing,/80-parklands-avenue-somers-vic-3927-2018371320,1510000,is-sold,Sold by private treaty 08 Mar 2023,20230308,80 Parklands Avenue,SOMERS,VIC,3927,-38.39119,145.147675,2,1,,House,House,False,890,m2,False

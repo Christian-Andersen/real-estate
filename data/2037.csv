@@ -1009,3 +1009,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018377136,listing,/30-talfourd-street-glebe-nsw-2037-2018377136,,is-sold,Sold prior to auction 09 Mar 2023,20230309,30 Talfourd Street,GLEBE,NSW,2037,-33.8798637,151.187759,2,1,1,Terrace,Terrace,False,95,m2,False
 2018407971,listing,/422-8-grattan-close-glebe-nsw-2037-2018407971,1450000,is-sold,Sold by private treaty 09 Mar 2023,20230309,422/8 Grattan Close,GLEBE,NSW,2037,-33.8798027,151.179337,2,2,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,103,m2,False
 2018309329,listing,/8-toxteth-road-glebe-nsw-2037-2018309329,4820000,is-sold,Sold at auction 08 Mar 2023,20230308,8 Toxteth Road,GLEBE,NSW,2037,-33.87658,151.183456,4,1,,House,House,False,479,m2,False
+2018359981,listing,/8-hereford-street-glebe-nsw-2037-2018359981,,is-sold,Sold at auction 10 Mar 2023,20230310,8 Hereford Street,GLEBE,NSW,2037,-33.87903,151.185226,4,2,,Terrace,Terrace,False,209,m2,False

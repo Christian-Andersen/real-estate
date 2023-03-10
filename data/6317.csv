@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018157591,listing,/74-carew-street-katanning-wa-6317-2018157591,,is-sold,Sold by private treaty 10 Nov 2022,20221110,74 Carew Street,KATANNING,WA,6317,-33.6838379,117.551628,3,3,3,House,House,False,822.0,m2,False
 2018222017,listing,/36-adam-street-katanning-wa-6317-2018222017,,is-sold,Sold by private treaty 21 Dec 2022,20221221,36 Adam Street,KATANNING,WA,6317,-33.6850929,117.5635,4,4,4,House,House,False,1193.0,m2,False
 2018265401,listing,/31-clarence-street-katanning-wa-6317-2018265401,,is-sold,Sold by private treaty 21 Jan 2023,20230121,31 Clarence Street,KATANNING,WA,6317,-33.68275,117.552956,4,4,4,House,House,False,3030.0,m2,False
+2018274445,listing,/69-daping-street-katanning-wa-6317-2018274445,,is-sold,Sold by private treaty 01 Mar 2023,20230301,69 Daping Street,KATANNING,WA,6317,-33.69465,117.563683,4,2,3,House,House,False,1148,m2,False

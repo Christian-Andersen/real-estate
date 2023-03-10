@@ -536,3 +536,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008990460,listing,/-forester-road-scottsdale-tas-7260-2008990460,,is-sold,Sold by private treaty 27 Jun 2011,20110627,. Forester Road,SCOTTSDALE,TAS,7260,-41.0899239,147.615448,,,,House,House,False,0.0,m2,False
 2009003488,listing,/80-king-street-scottsdale-tas-7260-2009003488,,is-sold,Sold by private treaty 01 Jun 2011,20110601,80 King Street,SCOTTSDALE,TAS,7260,-41.1657066,147.508987,2,2,2,House,House,False,1012.0,m2,False
 2018227381,listing,/9-charles-street-scottsdale-tas-7260-2018227381,325000,is-sold,Sold by private treaty 09 Mar 2023,20230309,9 Charles Street,SCOTTSDALE,TAS,7260,-41.1602974,147.5153,3,1,2,House,House,False,632,m2,False
+2018267118,listing,/9-elizabeth-street-scottsdale-tas-7260-2018267118,275000,is-sold,Sold by private treaty 03 Mar 2023,20230303,9 Elizabeth Street,SCOTTSDALE,TAS,7260,-41.16126,147.509933,3,1,1,House,House,False,668,m2,False

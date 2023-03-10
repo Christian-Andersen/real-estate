@@ -1002,3 +1002,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018349567,listing,/15-lauri-court-parkwood-wa-6147-2018349567,565000,is-sold,Sold by private treaty 07 Mar 2023,20230307,15 Lauri Court,PARKWOOD,WA,6147,-32.0504036,115.919655,3,1,1,House,House,False,636,m2,False
 2018067881,listing,/10-kenton-street-lynwood-wa-6147-2018067881,,is-sold,Sold by private treaty 07 Mar 2023,20230307,10 Kenton Street,LYNWOOD,WA,6147,-32.0365753,115.928757,3,1,2,House,House,False,0,m2,False
 2017992044,listing,/22-daly-circle-langford-wa-6147-2017992044,,is-sold,Sold by private treaty 09 Mar 2023,20230309,22 Daly Circle,LANGFORD,WA,6147,-32.03453,115.935944,4,2,2,House,House,False,568,m2,False
+2018256817,listing,/543-high-road-parkwood-wa-6147-2018256817,,is-sold,Sold by private treaty 09 Mar 2023,20230309,543 High Road,PARKWOOD,WA,6147,-32.04717,115.925156,3,1,,House,House,False,688,m2,False
+2018353429,listing,/37-letsom-way-langford-wa-6147-2018353429,,is-sold,Sold by private treaty 07 Mar 2023,20230307,37 Letsom Way,LANGFORD,WA,6147,-32.03845,115.936478,3,2,2,House,House,False,693,m2,False

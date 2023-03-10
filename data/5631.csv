@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018198083,listing,/52-light-road-cummins-sa-5631-2018198083,350000,is-sold,Sold by private treaty 22 Feb 2023,20230222,52 Light Road,CUMMINS,SA,5631,-34.2678146,135.727982,3,3,3,House,House,False,1011.0,m2,False
 2018258248,listing,/5-7-warrow-road-cummins-sa-5631-2018258248,340000,is-sold,Sold by private treaty 14 Feb 2023,20230214,5-7 Warrow Road,CUMMINS,SA,5631,-34.26061,135.7251,3,3,3,House,House,False,0.0,m2,False
 2018355410,listing,/6-laube-street-cummins-sa-5631-2018355410,246000,is-sold,Sold by private treaty 01 Feb 2023,20230201,6 Laube Street,CUMMINS,SA,5631,-34.2609558,135.722733,3,3,3,House,House,False,851.0,m2,False
+2018058340,listing,/140-citadella-lane-cockaleechie-sa-5631-2018058340,,is-sold,Sold by private treaty 01 Mar 2023,20230301,140 Citadella Lane,COCKALEECHIE,SA,5631,-34.2064857,135.846054,,,,Rural,Rural,True,492.3,ha,False
+2018304223,listing,/11-fuss-street-cummins-sa-5631-2018304223,220000,is-sold,Sold by private treaty 01 Mar 2023,20230301,11 Fuss Street,CUMMINS,SA,5631,-34.2617378,135.722137,3,1,2,House,House,False,0,m2,False

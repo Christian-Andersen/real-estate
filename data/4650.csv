@@ -10,3 +10,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018309869,listing,/67-dundas-street-granville-qld-4650-2018309869,397500,is-sold,Sold by private treaty 08 Mar 2023,20230308,67 Dundas Street,GRANVILLE,QLD,4650,-25.54326,152.716476,3,2,1,House,House,False,1525,m2,False
 2018246091,listing,/205-john-street-maryborough-qld-4650-2018246091,460000,is-sold,Sold by private treaty 09 Mar 2023,20230309,205 John Street,MARYBOROUGH,QLD,4650,-25.5307617,152.705368,3,1,4,House,House,False,728,m2,False
 2018274325,listing,/6-eva-st-maryborough-qld-4650-2018274325,325000,is-sold,Sold by private treaty 09 Mar 2023,20230309,6 Eva St,MARYBOROUGH,QLD,4650,-25.5262814,152.701767,2,1,1,House,House,False,506,m2,False
+2018074613,listing,/50-gallipoli-st-maryborough-qld-4650-2018074613,285000,is-sold,Sold by private treaty 10 Mar 2023,20230310,50 Gallipoli St,MARYBOROUGH,QLD,4650,-25.5177174,152.704254,2,1,1,House,House,False,911,m2,False
+2018297550,listing,/82-fort-st-maryborough-qld-4650-2018297550,370000,is-sold,Sold by private treaty 08 Mar 2023,20230308,82 Fort St,MARYBOROUGH,QLD,4650,-25.5390224,152.694931,3,1,2,House,House,False,678,m2,False

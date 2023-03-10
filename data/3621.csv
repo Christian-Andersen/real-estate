@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018201947,listing,/1090-mcewen-road-kyvalley-vic-3621-2018201947,630000,is-sold,Sold by private treaty 06 Feb 2023,20230206,1090 McEwen Road,KYVALLEY,VIC,3621,-36.29619,145.03186,2,2,2,House,House,True,2.02,ha,False
 2018228518,listing,/2826-curr-road-yambuna-vic-3621-2018228518,2500000,is-sold,Sold by private treaty 14 Nov 2022,20221114,2826 Curr Road,YAMBUNA,VIC,3621,-36.1888657,144.981445,4,4,4,Rural,Rural,True,129.5,ha,False
 2018232819,listing,/80-miller-street-tongala-vic-3621-2018232819,105000,is-sold,Sold by private treaty 18 Jan 2023,20230118,80 Miller Street,TONGALA,VIC,3621,-36.2485924,144.949722,,,,VacantLand,Vacant land,False,505.0,m2,False
+2018339638,listing,/1068-mcewen-road-kyvalley-vic-3621-2018339638,,is-sold,Sold by private treaty 10 Mar 2023,20230310,1068 McEwen Road,KYVALLEY,VIC,3621,-36.2946129,145.031357,4,2,5,House,House,False,8650,m2,False

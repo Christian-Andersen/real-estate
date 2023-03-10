@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018303010,listing,/2-3-chunar-grove-mccrae-vic-3938-2018303010,1210000,is-sold,Sold by private treaty 30 Jan 2023,20230130,2/3 Chunar Grove,MCCRAE,VIC,3938,-38.35779,144.928131,3,3,3,ApartmentUnitFlat,Apartment / Unit / Flat,False,281,m2,False
 2018315003,listing,/45-arthurs-avenue-mccrae-vic-3938-2018315003,,is-sold,Sold by private treaty 04 Feb 2023,20230204,45 Arthurs Avenue,MCCRAE,VIC,3938,-38.3530121,144.9428,3,3,3,House,House,False,2363,m2,False
 2018326612,listing,/28-the-boulevard-mccrae-vic-3938-2018326612,1550000,is-sold,Sold by private treaty 10 Feb 2023,20230210,28 The Boulevard,MCCRAE,VIC,3938,-38.35139,144.94017,3,3,3,House,House,False,2054,m2,False
+2018338075,listing,/3-russell-street-mccrae-vic-3938-2018338075,1520000,is-sold,Sold by private treaty 05 Mar 2023,20230305,3 Russell Street,MCCRAE,VIC,3938,-38.35683,144.92981,6,4,10,House,House,False,1509,m2,False

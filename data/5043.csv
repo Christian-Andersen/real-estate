@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016179856,listing,/1-gilmore-crescent-morphettville-sa-5043-2016179856,592000,is-sold,Sold by private treaty 04 Apr 2020,20200404,1 Gilmore Crescent,MORPHETTVILLE,SA,5043,-34.9899979,138.5401,3,3,3,House,House,False,403,m2,False
 2016220030,listing,/2c-baker-avenue-morphettville-sa-5043-2016220030,590000,is-sold,Sold by private treaty 11 Apr 2020,20200411,2C Baker Avenue,MORPHETTVILLE,SA,5043,-34.9833221,138.544189,4,4,4,House,House,False,288,m2,False
 2016243533,listing,/1d-baker-avenue-morphettville-sa-5043-2016243533,,is-sold,Sold by private treaty 27 Mar 2020,20200327,1D Baker Avenue,MORPHETTVILLE,SA,5043,-34.98332,138.5447,3,3,3,House,House,False,0,m2,False
+2018336888,listing,/5-parslow-road-marion-sa-5043-2018336888,,is-sold,Sold at auction 25 Feb 2023,20230225,5 Parslow Road,MARION,SA,5043,-35.01432,138.550873,3,1,4,House,House,False,744,m2,False

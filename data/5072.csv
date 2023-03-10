@@ -21,3 +21,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018368131,listing,/2-65-jervois-avenue-magill-sa-5072-2018368131,,is-sold,Sold by private treaty 09 Feb 2023,20230209,2/65 Jervois Avenue,MAGILL,SA,5072,-34.907856,138.668076,4,4,4,House,House,False,210,m2,False
 2018319609,listing,/lot-266-19-highlands-court-woodforde-sa-5072-2018319609,,is-sold,Sold by private treaty 03 Mar 2023,20230303,"Lot 266, 19 Highlands Court",WOODFORDE,SA,5072,-34.9046059,138.689316,,,,VacantLand,Vacant land,False,561,m2,False
 2018175114,listing,/24-rowland-road-magill-sa-5072-2018175114,745000,is-sold,Sold by private treaty 07 Mar 2023,20230307,24 Rowland Road,MAGILL,SA,5072,-34.91648,138.671936,3,2,2,House,House,False,360,m2,False
+2018368713,listing,/11a-eton-avenue-magill-sa-5072-2018368713,,is-sold,Sold by private treaty 08 Mar 2023,20230308,11a Eton Avenue,MAGILL,SA,5072,-34.897747,138.6673,4,2,2,House,House,False,416,m2,False
+2018379069,listing,/9-east-street-magill-sa-5072-2018379069,,is-sold,Sold by private treaty 03 Mar 2023,20230303,9 East Street,MAGILL,SA,5072,-34.9139023,138.682266,,,,VacantLand,Vacant land,False,895,m2,False
+2018271039,listing,/7-barons-street-magill-sa-5072-2018271039,860000,is-sold,Sold by private treaty 23 Feb 2023,20230223,7 Barons Street,MAGILL,SA,5072,-34.90298,138.666779,3,1,2,House,House,False,685,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017027724,listing,/140-station-road-deagon-qld-4017-2017027724,1225000,is-sold,Sold by private treaty 02 Jun 2021,20210602,140 Station Road,DEAGON,QLD,4017,-27.3296471,153.0698,4,1,2,House,House,False,936,m2,False
 2017032332,listing,/4-macs-street-brighton-qld-4017-2017032332,815000,is-sold,Sold by private treaty 31 May 2021,20210531,4 Macs Street,BRIGHTON,QLD,4017,-27.3057919,153.04863,5,2,1,House,House,False,607,m2,False
 2017040873,listing,/157-hoyland-street-bracken-ridge-qld-4017-2017040873,500000,is-sold,Sold by private treaty 31 May 2021,20210531,157 Hoyland Street,BRACKEN RIDGE,QLD,4017,-27.31097,153.025131,3,2,2,House,House,False,605,m2,False
+2018380922,listing,/32-somerton-street-bracken-ridge-qld-4017-2018380922,715000,is-sold,Sold by private treaty 09 Mar 2023,20230309,32 Somerton Street,BRACKEN RIDGE,QLD,4017,-27.33231,153.0368,3,2,2,House,House,False,571,m2,False

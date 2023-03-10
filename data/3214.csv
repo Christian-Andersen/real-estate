@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016785721,listing,/11-kestrel-court-norlane-vic-3214-2016785721,442500,is-sold,Sold by private treaty 23 Feb 2021,20210223,11 Kestrel Court,NORLANE,VIC,3214,-38.0895576,144.350174,4,1,4,House,House,False,0,m2,False
 2016794445,listing,/66-cloverdale-drive-corio-vic-3214-2016794445,420000,is-sold,Sold by private treaty 22 Feb 2021,20210222,66 Cloverdale Drive,CORIO,VIC,3214,-38.06783,144.348618,3,1,2,House,House,False,593,m2,False
 2016797598,listing,/9-pembroke-street-corio-vic-3214-2016797598,437000,is-sold,Sold by private treaty 25 Feb 2021,20210225,9 Pembroke Street,CORIO,VIC,3214,-38.0701828,144.351944,3,2,2,House,House,False,582,m2,False
+2018034615,listing,/68-princes-highway-norlane-vic-3214-2018034615,440000,is-sold,Sold by private treaty 09 Mar 2023,20230309,68 Princes Highway,NORLANE,VIC,3214,-38.0927773,144.356766,3,1,3,House,House,False,632,m2,False

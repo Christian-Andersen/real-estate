@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018226868,listing,/38-muirkirk-st-jamestown-sa-5491-2018226868,,is-sold,Sold by private treaty 13 Feb 2023,20230213,38 Muirkirk St,JAMESTOWN,SA,5491,-33.206604,138.597763,2,2,2,House,House,False,834.0,m2,False
 2018228110,listing,/9-11-muirkirk-street-jamestown-sa-5491-2018228110,,is-sold,Sold by private treaty 14 Oct 2022,20221014,9 - 11 Muirkirk Street,JAMESTOWN,SA,5491,-33.2072525,138.604233,3,3,3,House,House,False,2400.0,m2,False
 2018243216,listing,/7-9-kinnane-street-jamestown-sa-5491-2018243216,130000,is-sold,Sold by private treaty 05 Dec 2022,20221205,7-9 Kinnane Street,JAMESTOWN,SA,5491,-33.2145157,138.610748,,,,VacantLand,Vacant land,False,0.0,m2,False
+2018048569,listing,/34-wolfe-street-jamestown-sa-5491-2018048569,,is-sold,Sold by private treaty 06 Mar 2023,20230306,34 Wolfe Street,JAMESTOWN,SA,5491,-33.197628,138.60434,,,,VacantLand,Vacant land,False,921,m2,False

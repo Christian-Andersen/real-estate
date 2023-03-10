@@ -615,3 +615,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007982396,listing,/108a-lyons-road-holden-hill-sa-5088-2007982396,,is-sold,Sold by private treaty 09 Oct 2009,20091009,108A Lyons Road,HOLDEN HILL,SA,5088,-34.8574753,138.666229,3,3,3,House,House,False,0,m2,False
 2008070831,listing,/1-33-gaelic-avenue-holden-hill-sa-5088-2008070831,265000,is-sold,Sold by private treaty 22 Dec 2009,20091222,1/33 Gaelic Avenue,HOLDEN HILL,SA,5088,-34.85699,138.662628,2,2,2,House,House,False,0,m2,False
 2018354956,listing,/39-bentley-drive-holden-hill-sa-5088-2018354956,588000,is-sold,Sold at auction 06 Mar 2023,20230306,39 Bentley Drive,HOLDEN HILL,SA,5088,-34.8544769,138.671417,3,2,1,House,House,False,312,m2,False
+2018336769,listing,/37-the-parade-holden-hill-sa-5088-2018336769,,is-sold,Sold by private treaty 03 Mar 2023,20230303,37 The Parade,HOLDEN HILL,SA,5088,-34.85335,138.6766,3,1,4,House,House,False,715,m2,False
+2018281338,listing,/17-karina-crescent-holden-hill-sa-5088-2018281338,580000,is-sold,Sold at auction 02 Mar 2023,20230302,17 Karina Crescent,HOLDEN HILL,SA,5088,-34.84908,138.676575,3,1,2,House,House,False,678,m2,False

@@ -23,3 +23,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018282279,listing,/40-lookout-drive-yanchep-wa-6035-2018282279,450000,is-sold,Sold by private treaty 03 Mar 2023,20230303,40 Lookout Drive,YANCHEP,WA,6035,-31.5410118,115.624146,3,3,3,House,House,False,331,m2,False
 2017750679,listing,/39-foreshore-vista-yanchep-wa-6035-2017750679,430000,is-sold,Sold by private treaty 03 Mar 2023,20230303,39 Foreshore Vista,YANCHEP,WA,6035,-31.5624,115.63517,,,,VacantLand,Vacant land,False,501,m2,False
 2018313305,listing,/80-parkland-drive-yanchep-wa-6035-2018313305,,is-sold,Sold by private treaty 03 Mar 2023,20230303,80 Parkland Drive,YANCHEP,WA,6035,-31.5451546,115.656616,3,3,3,House,House,False,342,m2,False
+2018344920,listing,/2-artisan-road-yanchep-wa-6035-2018344920,530000,is-sold,Sold by private treaty 01 Mar 2023,20230301,2 Artisan Road,YANCHEP,WA,6035,-31.5483036,115.658989,4,2,2,House,House,False,528,m2,False

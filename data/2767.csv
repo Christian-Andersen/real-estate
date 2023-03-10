@@ -999,3 +999,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012997678,listing,/12-pottery-circuit-woodcroft-nsw-2767-2012997678,680000,is-sold,Sold by private treaty 31 Aug 2016,20160831,12 Pottery Circuit,WOODCROFT,NSW,2767,-33.7553329,150.876343,3,3,3,House,House,False,468,m2,False
 2013005672,listing,/4-batten-place-doonside-nsw-2767-2013005672,655000,is-sold,Sold by private treaty 02 Sep 2016,20160902,4 Batten Place,DOONSIDE,NSW,2767,-33.7722664,150.8825,3,3,3,House,House,False,0,m2,False
 2015758516,listing,/17-sienna-grove-woodcroft-nsw-2767-2015758516,,is-sold,Sold by private treaty 25 Aug 2016,20160825,17 Sienna Grove,WOODCROFT,NSW,2767,-33.7475624,150.87822,4,4,4,House,House,False,0,m2,False
+2018341535,listing,/35-lilydale-drive-woodcroft-nsw-2767-2018341535,1195000,is-sold,Sold by private treaty 10 Mar 2023,20230310,35 Lilydale Drive,WOODCROFT,NSW,2767,-33.7613564,150.874725,4,2,2,House,House,False,0,m2,False
+2018378710,listing,/7-ballard-place-doonside-nsw-2767-2018378710,1065000,is-sold,Sold by private treaty 09 Mar 2023,20230309,7 Ballard Place,DOONSIDE,NSW,2767,-33.7772522,150.875671,4,3,6,House,House,False,612,m2,False

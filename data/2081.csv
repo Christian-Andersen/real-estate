@@ -581,3 +581,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008853244,listing,/10-koorong-street-berowra-nsw-2081-2008853244,603000,is-sold,Sold at auction 07 Mar 2011,20110307,10 Koorong Street,BEROWRA,NSW,2081,-33.61501,151.148621,3,3,3,House,House,False,0.0,m2,False
 2017924754,listing,/4-acacia-road-berowra-nsw-2081-2017924754,,is-sold,Sold by private treaty 02 Mar 2023,20230302,4 Acacia Road,BEROWRA,NSW,2081,-33.62747,151.14592,4,4,4,House,House,False,748.0,m2,False
 2018311502,listing,/929-pacific-highway-berowra-nsw-2081-2018311502,1285000,is-sold,Sold by private treaty 03 Mar 2023,20230303,929 Pacific Highway,BEROWRA,NSW,2081,-33.6301537,151.1479,4,4,4,House,House,False,1448.0,m2,False
+2018312877,listing,/8-bambil-road-berowra-nsw-2081-2018312877,1200000,is-sold,Sold by private treaty 09 Mar 2023,20230309,8 Bambil Road,BEROWRA,NSW,2081,-33.62895,151.146332,3,1,2,House,House,False,563,m2,False

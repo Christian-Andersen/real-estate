@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018323105,listing,/8-kalmia-avenue-crafers-sa-5152-2018323105,975000,is-sold,Sold by private treaty 06 Feb 2023,20230206,8 Kalmia Avenue,CRAFERS,SA,5152,-34.99476,138.718765,3,3,3,House,House,False,1295.0,m2,False
 2018324989,listing,/17-sturt-valley-road-stirling-sa-5152-2018324989,,is-sold,Sold by private treaty 09 Feb 2023,20230209,17 Sturt Valley Road,STIRLING,SA,5152,-35.0085754,138.707031,5,5,5,House,House,False,6508.0,m2,False
 2018325370,listing,/1-alta-crescent-stirling-sa-5152-2018325370,1320000,is-sold,Sold by private treaty 14 Feb 2023,20230214,1 Alta Crescent,STIRLING,SA,5152,-35.0043755,138.719788,3,3,3,House,House,False,1486.0,m2,False
+2018354753,listing,/39-avenue-road-stirling-sa-5152-2018354753,,is-sold,Sold by private treaty 01 Mar 2023,20230301,39 Avenue Road,STIRLING,SA,5152,-35.00675,138.7111,3,2,2,House,House,False,775,m2,False

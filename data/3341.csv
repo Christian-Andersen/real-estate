@@ -274,3 +274,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008133586,listing,/dales-creek-vic-3341-2008133586,,is-sold,Sold by private treaty 07 Jun 2010,20100607,,DALES CREEK,VIC,3341,-37.5207748,144.308151,,,,VacantLand,Vacant land,False,0.0,m2,False
 2008265379,listing,/myrniong-vic-3341-2008265379,,is-sold,Sold by private treaty 11 Jun 2010,20100611,,MYRNIONG,VIC,3341,-37.6176262,144.341614,,,,VacantLand,Vacant land,False,0.0,m2,False
 2008466498,listing,/dales-creek-vic-3341-2008466498,380000,is-sold,Sold by private treaty 17 Jul 2010,20100717,,DALES CREEK,VIC,3341,-37.5190353,144.309143,3,3,3,House,House,False,0.0,m2,False
+2017731544,listing,/155-shuter-avenue-greendale-vic-3341-2017731544,470000,is-sold,Sold by private treaty 08 Mar 2023,20230308,155 Shuter Avenue,GREENDALE,VIC,3341,-37.55606,144.315033,1,1,,RuralLifestyle,Rural Lifestyle,True,1.2,ha,False

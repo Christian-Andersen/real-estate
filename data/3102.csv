@@ -994,3 +994,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2005054997,listing,/5-1236-1238-old-burke-road-kew-east-vic-3102-2005054997,500000,is-sold,Sold at auction 13 Aug 2005,20050813,5/1236-1238 Old Burke Road,KEW EAST,VIC,3102,-37.7862053,145.062286,3,3,3,Townhouse,Townhouse,False,0,m2,False
 2018333647,listing,/20-cadow-street-kew-east-vic-3102-2018333647,,is-sold,Sold at auction 04 Mar 2023,20230304,20 Cadow Street,KEW EAST,VIC,3102,-37.7964745,145.054565,3,3,3,House,House,False,400,m2,False
 2018346556,listing,/11-namur-street-kew-east-vic-3102-2018346556,2910000,is-sold,Sold at auction 04 Mar 2023,20230304,11 Namur Street,KEW EAST,VIC,3102,-37.79465,145.058716,4,4,4,House,House,False,697,m2,False
+2018410336,listing,/14-oswin-street-kew-east-vic-3102-2018410336,,is-sold,Sold by private treaty 07 Mar 2023,20230307,14 Oswin Street,KEW EAST,VIC,3102,-37.7957039,145.056671,6,3,4,House,House,False,0,m2,False
+2018410337,listing,/14-oswin-street-kew-east-vic-3102-2018410337,,is-sold,Sold by private treaty 07 Mar 2023,20230307,14 Oswin Street,KEW EAST,VIC,3102,-37.7957039,145.056671,6,3,4,House,House,False,0,m2,False

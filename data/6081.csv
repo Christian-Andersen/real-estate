@@ -23,3 +23,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018064262,listing,/9-carawatha-road-parkerville-wa-6081-2018064262,630000,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Carawatha Road,PARKERVILLE,WA,6081,-31.8821087,116.134789,4,2,,House,House,False,4307,m2,False
 2018312969,listing,/stoneville-wa-6081-2018312969,,is-sold,Sold by private treaty 08 Mar 2023,20230308,,STONEVILLE,WA,6081,-31.8785534,116.171227,3,2,2,House,House,False,1805,m2,False
 2018153743,listing,/745-la-grange-road-stoneville-wa-6081-2018153743,,is-sold,Sold by private treaty 09 Mar 2023,20230309,745 La Grange Road,STONEVILLE,WA,6081,-31.84764,116.16024,4,2,4,House,House,False,24700,m2,False
+2018372057,listing,/2-grenville-road-stoneville-wa-6081-2018372057,,is-sold,Sold by private treaty 02 Mar 2023,20230302,2 Grenville Road,STONEVILLE,WA,6081,-31.87486,116.165741,4,2,,House,House,False,2008,m2,False

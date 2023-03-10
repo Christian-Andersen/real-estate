@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018309460,listing,/26-38-salmon-street-hastings-vic-3915-2018309460,165000,is-sold,Sold by private treaty 10 Feb 2023,20230210,26/38 Salmon Street,HASTINGS,VIC,3915,-38.31738,145.1934,1,1,1,House,House,False,0,m2,False
 2018314476,listing,/20-pinewood-drive-hastings-vic-3915-2018314476,650000,is-sold,Sold prior to auction 16 Feb 2023,20230216,20 Pinewood Drive,HASTINGS,VIC,3915,-38.3018074,145.186371,4,4,4,House,House,False,565,m2,False
 2018323490,listing,/11-brydon-court-hastings-vic-3915-2018323490,644000,is-sold,Sold by private treaty 02 Mar 2023,20230302,11 Brydon Court,HASTINGS,VIC,3915,-38.30356,145.17627,4,4,4,House,House,False,628,m2,False
+2018343459,listing,/14a-burke-street-hastings-vic-3915-2018343459,834500,is-sold,Sold by private treaty 10 Mar 2023,20230310,14A Burke Street,HASTINGS,VIC,3915,-38.29395,145.188782,4,2,3,House,House,False,1044,m2,False
+2018274604,listing,/1-melaleuca-drive-hastings-vic-3915-2018274604,715000,is-sold,Sold by private treaty 06 Mar 2023,20230306,1 Melaleuca Drive,HASTINGS,VIC,3915,-38.3074455,145.181381,3,2,1,House,House,False,0,m2,False

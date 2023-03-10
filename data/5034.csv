@@ -20,3 +20,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018339536,listing,/4-ada-street-goodwood-sa-5034-2018339536,,is-sold,Sold by private treaty 20 Feb 2023,20230220,4 Ada Street,GOODWOOD,SA,5034,-34.9504967,138.5918,3,3,3,House,House,False,300,m2,False
 2018343563,listing,/51-millswood-crescent-millswood-sa-5034-2018343563,,is-sold,Sold prior to auction 15 Feb 2023,20230215,51 Millswood Crescent,MILLSWOOD,SA,5034,-34.9604836,138.582947,3,3,3,House,House,False,690,m2,False
 2018378538,listing,/9-simpson-parade-goodwood-sa-5034-2018378538,2300000,is-sold,Sold at auction 08 Mar 2023,20230308,9 Simpson Parade,GOODWOOD,SA,5034,-34.94786,138.598221,4,2,4,House,House,False,738,m2,False
+2018356054,listing,/7-hammond-street-clarence-park-sa-5034-2018356054,1275000,is-sold,Sold at auction 04 Mar 2023,20230304,7 Hammond Street,CLARENCE PARK,SA,5034,-34.96211,138.585449,4,2,2,House,House,False,568,m2,False
+2018341292,listing,/34-le-hunte-street-wayville-sa-5034-2018341292,1015000,is-sold,Sold at auction 04 Mar 2023,20230304,34 Le Hunte Street,WAYVILLE,SA,5034,-34.94644,138.592651,2,1,1,House,House,False,413,m2,False
+2018190289,listing,/4-stanley-street-kings-park-sa-5034-2018190289,2300000,is-sold,Sold at auction 24 Feb 2023,20230224,4 Stanley Street,KINGS PARK,SA,5034,-34.9615059,138.5911,4,2,4,House,House,False,804,m2,False

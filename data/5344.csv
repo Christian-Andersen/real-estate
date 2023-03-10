@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018267281,listing,/81-garrett-road-glossop-sa-5344-2018267281,345000,is-sold,Sold by private treaty 24 Jan 2023,20230124,81 Garrett Road,GLOSSOP,SA,5344,-34.2801857,140.520538,4,4,4,House,House,True,3.62,ha,False
 2018267846,listing,/65-cornish-road-glossop-sa-5344-2018267846,345000,is-sold,Sold by private treaty 13 Jan 2023,20230113,65 Cornish Road,GLOSSOP,SA,5344,-34.27907,140.554077,3,3,3,House,House,False,4125.0,m2,False
 2018154524,listing,/6-hatch-street-glossop-sa-5344-2018154524,,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Hatch Street,GLOSSOP,SA,5344,-34.2709045,140.5261,,,,VacantLand,Vacant land,False,1205.0,m2,False
+2018228627,listing,/224-spendiff-road-glossop-sa-5344-2018228627,595000,is-sold,Sold by private treaty 03 Mar 2023,20230303,224 Spendiff Road,GLOSSOP,SA,5344,-34.2936478,140.520737,4,2,7,House,House,True,4.34,ha,False

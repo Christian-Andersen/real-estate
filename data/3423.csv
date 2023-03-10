@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018107805,listing,/20-ellam-school-road-jeparit-vic-3423-2018107805,,is-sold,Sold at auction 27 Oct 2022,20221027,20 Ellam School Road,JEPARIT,VIC,3423,-36.05418,142.072571,3,3,3,House,House,False,0.0,m2,False
 2018159016,listing,/23-sands-avenue-jeparit-vic-3423-2018159016,,is-sold,Sold by private treaty 02 Feb 2023,20230202,23 Sands Avenue,JEPARIT,VIC,3423,-36.1418381,141.9842,,1.0,,Studio,Studio,False,2006.0,m2,False
 2018187370,listing,/71-broadway-jeparit-vic-3423-2018187370,168000,is-sold,Sold by private treaty 14 Nov 2022,20221114,71 Broadway,JEPARIT,VIC,3423,-36.1397934,141.986725,3,3,3,House,House,False,0.0,m2,False
+2018215737,listing,/61-lower-roy-street-jeparit-vic-3423-2018215737,,is-sold,Sold by private treaty 10 Mar 2023,20230310,61 Lower Roy Street,JEPARIT,VIC,3423,-36.139698,141.9895,2,1,1,House,House,False,960,m2,False

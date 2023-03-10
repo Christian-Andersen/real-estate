@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018347082,listing,/45-schilling-street-kadina-sa-5554-2018347082,,is-sold,Sold by private treaty 16 Feb 2023,20230216,45 Schilling Street,KADINA,SA,5554,-33.965332,137.72702,3,3,3,House,House,False,0.0,m2,False
 2018366354,listing,/16-patrick-street-kadina-sa-5554-2018366354,,is-sold,Sold by private treaty 03 Jan 2023,20230103,16 Patrick Street,KADINA,SA,5554,-33.9648476,137.726273,5,5,5,House,House,False,881.0,m2,False
 2018217422,listing,/11-west-terrace-kadina-sa-5554-2018217422,295000,is-sold,Sold by private treaty 03 Mar 2023,20230303,11 West Terrace,KADINA,SA,5554,-33.9645844,137.703552,3,3,3,House,House,False,1589.0,m2,False
+2017563298,listing,/lot-5-helston-road-kadina-sa-5554-2017563298,128000,is-sold,Sold by private treaty 03 Mar 2023,20230303,Lot 5 Helston Road,KADINA,SA,5554,-33.9772224,137.737381,,,,VacantLand,Vacant land,True,10000,m2,False

@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018345711,listing,/78-mcnamara-avenue-airport-west-vic-3042-2018345711,1228000,is-sold,Sold at auction 04 Mar 2023,20230304,78 McNamara Avenue,AIRPORT WEST,VIC,3042,-37.72196,144.882614,4,4,4,House,House,False,0,m2,False
 2018337408,listing,/26-ryder-street-niddrie-vic-3042-2018337408,903000,is-sold,Sold at auction 04 Mar 2023,20230304,26 Ryder Street,NIDDRIE,VIC,3042,-37.7404938,144.886429,3,3,3,House,House,False,0,m2,False
 2018336724,listing,/1-73-victory-road-airport-west-vic-3042-2018336724,780000,is-sold,Sold by private treaty 08 Mar 2023,20230308,1/73 Victory Road,AIRPORT WEST,VIC,3042,-37.71823,144.885345,3,2,1,Townhouse,Townhouse,False,0,m2,False
+2017784975,listing,/35-newman-street-niddrie-vic-3042-2017784975,1050000,is-sold,Sold by private treaty 09 Mar 2023,20230309,35 Newman Street,NIDDRIE,VIC,3042,-37.7381172,144.881439,3,2,1,Townhouse,Townhouse,False,0,m2,False

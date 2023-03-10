@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017897238,listing,/7-high-street-farrell-flat-sa-5416-2017897238,,is-sold,Sold by private treaty 19 Jul 2022,20220719,7 High Street,FARRELL FLAT,SA,5416,-33.8250046,138.794937,,,,VacantLand,Vacant land,False,2023,m2,False
 2017954323,listing,/23-staveley-street-farrell-flat-sa-5416-2017954323,,is-sold,Sold by private treaty 21 Dec 2022,20221221,23 Staveley Street,FARRELL FLAT,SA,5416,-33.8325043,138.798676,4,4,4,House,House,False,2023,m2,False
 2018022694,listing,/5-levi-street-farrell-flat-sa-5416-2018022694,165000,is-sold,Sold by private treaty 12 Oct 2022,20221012,5 Levi Street,FARRELL FLAT,SA,5416,-33.82611,138.795029,4,4,4,House,House,False,4863,m2,False
+2017819251,listing,/5-senafe-street-farrell-flat-sa-5416-2017819251,133000,is-sold,Sold by private treaty 24 Feb 2023,20230224,5 Senafe Street,FARRELL FLAT,SA,5416,-33.82928,138.794708,3,1,1,House,House,False,0,m2,False

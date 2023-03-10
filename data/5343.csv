@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018267375,listing,/7-muscat-avenue-berri-sa-5343-2018267375,100000,is-sold,Sold by private treaty 23 Feb 2023,20230223,7 Muscat Avenue,BERRI,SA,5343,-34.2803879,140.594727,2,2,2,House,House,False,1012.0,m2,False
 2018267995,listing,/244-katarapko-crescent-winkie-sa-5343-2018267995,610000,is-sold,Sold by private treaty 21 Feb 2023,20230221,244 Katarapko Crescent,WINKIE,SA,5343,-34.3225822,140.5228,4,4,4,House,House,True,1.08,ha,False
 2018310416,listing,/4-mortimer-road-berri-sa-5343-2018310416,272000,is-sold,Sold by private treaty 14 Feb 2023,20230214,4 Mortimer Road,BERRI,SA,5343,-34.2757339,140.595413,3,3,3,House,House,False,1155.0,m2,False
+2018355721,listing,/7-vivian-cock-street-berri-sa-5343-2018355721,,is-sold,Sold by private treaty 26 Feb 2023,20230226,7 Vivian Cock Street,BERRI,SA,5343,-34.2774963,140.605225,4,2,6,House,House,False,1100,m2,False

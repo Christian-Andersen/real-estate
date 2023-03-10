@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018300063,listing,/100a-frawley-road-hallam-vic-3803-2018300063,510000,is-sold,Sold by private treaty 25 Jan 2023,20230125,100A Frawley Road,HALLAM,VIC,3803,-38.00098,145.265442,2,2,2,House,House,False,192,m2,False
 2018300163,listing,/11-tripoli-court-hallam-vic-3803-2018300163,,is-sold,Sold by private treaty 14 Feb 2023,20230214,11 Tripoli Court,HALLAM,VIC,3803,-37.99788,145.261429,3,3,3,House,House,False,900,m2,False
 2018313620,listing,/65-hinrichsen-drive-hallam-vic-3803-2018313620,662000,is-sold,Sold at auction 18 Feb 2023,20230218,65 Hinrichsen Drive,HALLAM,VIC,3803,-38.0163269,145.277954,3,3,3,House,House,False,651,m2,False
+2018364371,listing,/2-79-george-chudleigh-drive-hallam-vic-3803-2018364371,740000,is-sold,Sold by private treaty 08 Mar 2023,20230308,2/79 George Chudleigh Drive,HALLAM,VIC,3803,-37.99955,145.28331,3,2,2,Townhouse,Townhouse,False,0,m2,False

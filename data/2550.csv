@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015936050,listing,/12-taronga-crescent-bega-nsw-2550-2015936050,555000,is-sold,Sold by private treaty 19 Dec 2019,20191219,12 Taronga Crescent,BEGA,NSW,2550,-36.6846466,149.854645,4,2,4,House,House,False,0,m2,False
 2015979457,listing,/25-bay-street-tathra-nsw-2550-2015979457,675000,is-sold,Sold by private treaty 31 Jan 2020,20200131,25 Bay Street,TATHRA,NSW,2550,-36.7313728,149.985321,3,2,3,House,House,False,1012,m2,False
 2015980434,listing,/22-auckland-street-bega-nsw-2550-2015980434,105000,is-sold,Sold by private treaty 04 Jan 2020,20200104,22 Auckland Street,BEGA,NSW,2550,-36.67024,149.84201,,,,VacantLand,Vacant land,False,9188,m2,False
+2018222635,listing,/45-bay-drive-tathra-nsw-2550-2018222635,950000,is-sold,Sold by private treaty 10 Mar 2023,20230310,45 BAY Drive,TATHRA,NSW,2550,-36.695343,149.9791,2,1,2,House,House,False,981,m2,False

@@ -1003,3 +1003,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018343804,listing,/25-holyrood-close-orelia-wa-6167-2018343804,505000,is-sold,Sold by private treaty 08 Mar 2023,20230308,25 Holyrood Close,ORELIA,WA,6167,-32.22851,115.825348,4,2,2,House,House,False,562,m2,False
 2018303536,listing,/30-chieftain-street-bertram-wa-6167-2018303536,555000,is-sold,Sold by private treaty 09 Mar 2023,20230309,30 Chieftain Street,BERTRAM,WA,6167,-32.2494774,115.840782,4,2,2,House,House,False,705,m2,False
 2018347199,listing,/14-chieftain-street-bertram-wa-6167-2018347199,517000,is-sold,Sold by private treaty 10 Mar 2023,20230310,14 Chieftain Street,BERTRAM,WA,6167,-32.2505875,115.842125,4,2,2,House,House,False,616,m2,False
+2018298814,listing,/4-gaffin-way-kwinana-town-centre-wa-6167-2018298814,,is-sold,Sold by private treaty 10 Mar 2023,20230310,4 Gaffin Way,KWINANA TOWN CENTRE,WA,6167,-32.2423935,115.815132,3,2,2,House,House,False,0,m2,False
+2018288685,listing,/1-narran-street-anketell-wa-6167-2018288685,,is-sold,Sold by private treaty 08 Mar 2023,20230308,1 Narran Street,ANKETELL,WA,6167,-32.2124176,115.85511,2,1,2,House,House,False,273,m2,False
+2018164091,listing,/1-oakley-st-medina-wa-6167-2018164091,,is-sold,Sold by private treaty 03 Mar 2023,20230303,1 Oakley St,MEDINA,WA,6167,-32.2397423,115.802879,3,1,1,House,House,False,600,m2,False

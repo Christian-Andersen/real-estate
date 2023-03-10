@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013516336,listing,/1-112-dutton-street-yagoona-nsw-2199-2013516336,799000,is-sold,Sold by private treaty 29 Apr 2017,20170429,1/112 Dutton Street,YAGOONA,NSW,2199,-33.9091,151.022446,3,3,3,House,House,False,0,m2,False
 2013525720,listing,/21-collins-crescent-yagoona-nsw-2199-2013525720,845000,is-sold,Sold by private treaty 18 Apr 2017,20170418,21 Collins Crescent,YAGOONA,NSW,2199,-33.915432,151.008255,3,3,3,Duplex,Duplex,False,211,m2,False
 2018335285,listing,/8a-edgar-street-yagoona-nsw-2199-2018335285,950000,is-sold,Sold by private treaty 09 Mar 2023,20230309,8A Edgar Street,YAGOONA,NSW,2199,-33.90696,151.015274,3,3,2,House,House,False,0,m2,False
+2017799059,listing,/224-rose-street-yagoona-nsw-2199-2017799059,1220000,is-sold,Sold by private treaty 10 Mar 2023,20230310,224 Rose Street,YAGOONA,NSW,2199,-33.90341,151.010712,3,1,2,House,House,False,520,m2,False

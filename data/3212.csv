@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018263906,listing,/67-curletts-road-lara-vic-3212-2018263906,605000,is-sold,Sold by private treaty 03 Mar 2023,20230303,67 Curletts Road,LARA,VIC,3212,-38.015274,144.402527,3,3,3,House,House,False,603.0,m2,False
 2018349042,listing,/316-o-hallorans-road-lara-vic-3212-2018349042,832000,is-sold,Sold by private treaty 08 Mar 2023,20230308,316 O'Hallorans Road,LARA,VIC,3212,-38.0093346,144.380234,4,2,2,House,House,False,504,m2,False
 2018336174,listing,/7-black-duck-court-lara-vic-3212-2018336174,717500,is-sold,Sold by private treaty 09 Mar 2023,20230309,7 Black Duck Court,LARA,VIC,3212,-38.02852,144.3783,3,2,2,House,House,False,489,m2,False
+2018203612,listing,/18-lapwing-drive-lara-vic-3212-2018203612,985000,is-sold,Sold by private treaty 06 Mar 2023,20230306,18 Lapwing Drive,LARA,VIC,3212,-38.02908,144.388046,4,2,4,House,House,False,730,m2,False

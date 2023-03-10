@@ -871,3 +871,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007695330,listing,/shortland-nsw-2307-2007695330,415000,is-sold,Sold by private treaty 29 May 2009,20090529,,SHORTLAND,NSW,2307,-32.8865356,151.6953,6,6,6,House,House,False,0.0,m2,False
 2007716257,listing,/shortland-nsw-2307-2007716257,245000,is-sold,Sold by private treaty 08 May 2009,20090508,,SHORTLAND,NSW,2307,-32.8856773,151.689926,3,3,3,House,House,False,0.0,m2,False
 2007721004,listing,/14-macarthur-street-shortland-nsw-2307-2007721004,312000,is-sold,Sold by private treaty 26 May 2009,20090526,14 MACARTHUR STREET,SHORTLAND,NSW,2307,-32.8893623,151.687515,3,3,3,House,House,False,0.0,m2,False
+2018329065,listing,/7-libya-street-shortland-nsw-2307-2018329065,670000,is-sold,Sold by private treaty 08 Mar 2023,20230308,7 Libya Street,SHORTLAND,NSW,2307,-32.8892555,151.687851,3,1,3,House,House,False,567,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017882596,listing,/27-levis-drive-canning-vale-wa-6155-2017882596,625000,is-sold,Sold by private treaty 02 Aug 2021,20210802,27 Levis Drive,CANNING VALE,WA,6155,-32.0815735,115.949921,6,6,6,House,House,False,520.0,m2,False
 2017844146,listing,/9-58-canna-drive-canning-vale-wa-6155-2017844146,280000,is-sold,Sold by private treaty 07 Mar 2023,20230307,9/58 Canna Drive,CANNING VALE,WA,6155,-32.0678139,115.935623,2,1,6,House,House,False,0,m2,True
 2018356710,listing,/113a-amherst-road-canning-vale-wa-6155-2018356710,,is-sold,Sold by private treaty 07 Mar 2023,20230307,113a Amherst Road,CANNING VALE,WA,6155,-32.0798264,115.931808,3,2,2,House,House,False,278,m2,False
+2018310091,listing,/23-suelex-street-willetton-wa-6155-2018310091,900000,is-sold,Sold at auction 07 Mar 2023,20230307,23 Suelex Street,WILLETTON,WA,6155,-32.0463,115.882744,3,1,1,House,House,False,660,m2,False

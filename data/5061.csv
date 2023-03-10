@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018299289,listing,/14-eton-street-malvern-sa-5061-2018299289,1830000,is-sold,Sold at auction 11 Feb 2023,20230211,14 Eton Street,MALVERN,SA,5061,-34.9561157,138.615417,3,3,3,House,House,False,743,m2,False
 2018305868,listing,/8-ash-avenue-unley-sa-5061-2018305868,,is-sold,Sold at auction 11 Feb 2023,20230211,8 Ash Avenue,UNLEY,SA,5061,-34.94911,138.603317,2,2,2,House,House,False,0,m2,False
 2018309235,listing,/70-frederick-street-unley-sa-5061-2018309235,,is-sold,Sold at auction 11 Feb 2023,20230211,70 Frederick Street,UNLEY,SA,5061,-34.94894,138.6105,4,4,4,House,House,False,743,m2,False
+2018308713,listing,/4-180-fisher-street-malvern-sa-5061-2018308713,,is-sold,Sold by private treaty 08 Mar 2023,20230308,4/180 Fisher Street,MALVERN,SA,5061,-34.95718,138.611237,2,1,,House,House,False,0,m2,False
+2018118027,listing,/62-marlborough-street-malvern-sa-5061-2018118027,,is-sold,Sold by private treaty 06 Mar 2023,20230306,62 Marlborough Street,MALVERN,SA,5061,-34.95839,138.609482,4,1,2,House,House,False,773,m2,False

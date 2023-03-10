@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018331279,listing,/112-turner-road-kedron-qld-4031-2018331279,,is-sold,Sold by private treaty 27 Jan 2023,20230127,112 Turner Road,KEDRON,QLD,4031,-27.40599,153.025253,3,3,3,House,House,False,405,m2,False
 2018336545,listing,/2-66-broughton-road-kedron-qld-4031-2018336545,490000,is-sold,Sold by private treaty 17 Feb 2023,20230217,2/66 Broughton Road,KEDRON,QLD,4031,-27.4096184,153.029221,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018345180,listing,/16-caithness-street-kedron-qld-4031-2018345180,955000,is-sold,Sold at auction 04 Mar 2023,20230304,16 Caithness Street,KEDRON,QLD,4031,-27.402832,153.03009,3,1,1,House,House,False,636,m2,False
+2018339618,listing,/114-somerset-road-kedron-qld-4031-2018339618,1025000,is-sold,Sold by private treaty 07 Mar 2023,20230307,114 Somerset Road,KEDRON,QLD,4031,-27.4077015,153.0266,3,1,2,House,House,False,642,m2,False

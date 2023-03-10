@@ -150,16 +150,18 @@ for webpage in webpages:
             site = webpage+'&page='+str(i)
         else:
             site = webpage+'?page='+str(i)
-        print(site, end='')
+        print(site, end='\t')
         driver.get(site)
-        print('\tDone')
+        print('Done', end='\t')
         page_data = driver.page_source
         if page_data.find('"listingsMap":') == -1:
             print('FAILED TO FIND DATA ON WEBAGE:', site)
             continue
         property_dictionary = html_to_dict(page_data)
+        dupes = 0
         for value in property_dictionary.values():
             if str(value['id']) in ids:
+                dupes += 1
                 continue
             postcode = value['listingModel']['address']['postcode']
             file = os.path.join('data', postcode+'.csv')
@@ -172,3 +174,4 @@ for webpage in webpages:
             with open(file, 'a', newline='', encoding='utf-8') as f:
                 w = csv.writer(f)
                 w.writerow(row)
+        print(dupes)

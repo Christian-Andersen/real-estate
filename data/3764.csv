@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018244182,listing,/1-wattlebird-way-kilmore-vic-3764-2018244182,670000,is-sold,Sold by private treaty 08 Mar 2023,20230308,1 Wattlebird Way,KILMORE,VIC,3764,-37.3078575,144.959,3,2,4,House,House,False,689,m2,False
 2018305476,listing,/3-4-thompson-place-kilmore-vic-3764-2018305476,463000,is-sold,Sold by private treaty 08 Mar 2023,20230308,3/4 Thompson Place,KILMORE,VIC,3764,-37.30998,144.952011,3,2,1,House,House,False,470,m2,False
 2018139528,listing,/2-ariel-court-kilmore-vic-3764-2018139528,660000,is-sold,Sold by private treaty 09 Mar 2023,20230309,2 Ariel Court,KILMORE,VIC,3764,-37.28995,144.938812,3,2,8,House,House,False,843,m2,False
+2018251184,listing,/kilmore-east-vic-3764-2018251184,,is-sold,Sold by private treaty 10 Mar 2023,20230310,,KILMORE EAST,VIC,3764,-37.28836,144.9799,,,,Farm,Farm,True,16.19,ha,False

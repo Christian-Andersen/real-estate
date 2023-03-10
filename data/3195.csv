@@ -24,3 +24,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018338378,listing,/9-montgomery-street-mordialloc-vic-3195-2018338378,2100000,is-sold,Sold at auction 04 Mar 2023,20230304,9 Montgomery Street,MORDIALLOC,VIC,3195,-38.00631,145.084854,3,2,2,House,House,False,0,m2,False
 2018345764,listing,/11-arwon-street-mordialloc-vic-3195-2018345764,,is-sold,Sold at auction 04 Mar 2023,20230304,11 Arwon Street,MORDIALLOC,VIC,3195,-38.0028458,145.1003,4,2,4,House,House,False,0,m2,False
 2018337056,listing,/9-barmah-place-waterways-vic-3195-2018337056,1775000,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Barmah Place,WATERWAYS,VIC,3195,-38.0105133,145.12532,5,3,2,House,House,False,585,m2,False
+2018038781,listing,/17-paragon-way-waterways-vic-3195-2018038781,820000,is-sold,Sold by private treaty 07 Mar 2023,20230307,17 Paragon Way,WATERWAYS,VIC,3195,-38.01185,145.1399,3,2,1,House,House,False,0,m2,False
+2018222227,listing,/155-warren-road-parkdale-vic-3195-2018222227,,is-sold,Sold by private treaty 06 Mar 2023,20230306,155 Warren Road,PARKDALE,VIC,3195,-37.98685,145.093552,3,2,2,Townhouse,Townhouse,False,0,m2,False

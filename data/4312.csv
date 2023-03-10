@@ -772,3 +772,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007658640,listing,/esk-qld-4312-2007658640,,is-sold,Sold by private treaty 06 Aug 2009,20090806,,ESK,QLD,4312,-27.1243324,152.388382,5,5,5,Rural,Rural,True,17.0,ha,False
 2007688967,listing,/esk-qld-4312-2007688967,375000,is-sold,Sold by private treaty 15 Jun 2009,20090615,,ESK,QLD,4312,-27.2482529,152.4213,4,4,4,House,House,False,3996.0,m2,False
 2007748338,listing,/murrumba-qld-4312-2007748338,470000,is-sold,Sold by private treaty 31 Jul 2009,20090731,,MURRUMBA,QLD,4312,-27.2537174,153.0114,4,4,4,House,House,False,905.0,m2,False
+2018408816,listing,/0-corner-of-gatton-esk-road-selwyn-road-esk-qld-4312-2018408816,450000,is-sold,Sold by private treaty 03 Mar 2023,20230303,0 Corner of Gatton Esk Road & Selwyn Road,ESK,QLD,4312,-27.2702579,152.42836,,,,AcreageSemiRural,Acreage / Semi-Rural,True,5.49,ha,False

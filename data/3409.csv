@@ -110,3 +110,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008197303,listing,/51-main-street-natimuk-vic-3409-2008197303,138000,is-sold,Sold by private treaty 27 Apr 2010,20100427,51 Main Street,NATIMUK,VIC,3409,-36.7435226,141.93924,3,3,3,House,House,False,0.0,m2,False
 2008495331,listing,/1423-natimuk-frances-road-mitre-vic-3409-2008495331,,is-sold,Sold by private treaty 13 Aug 2010,20100813,1423 Natimuk Frances Road,MITRE,VIC,3409,-36.7282677,141.7831,2,2,2,House,House,False,0.0,m2,False
 2008525716,listing,/27-29-main-street-natimuk-vic-3409-2008525716,67500,is-sold,Sold at auction 24 Sep 2010,20100924,27-29 Main Street,NATIMUK,VIC,3409,-36.7393456,141.947922,,,,House,House,False,2023.0,m2,False
+2018308891,listing,/ca-55-55a-blakes-road-tooan-vic-3409-2018308891,,is-sold,Sold at auction 10 Mar 2023,20230310,CA 55 & 55a Blakes Road,TOOAN,VIC,3409,-36.8480225,141.773636,,,,Rural,Rural,True,365.84,ha,False

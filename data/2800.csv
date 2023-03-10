@@ -999,3 +999,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017385690,listing,/213-joseph-drive-orange-nsw-2800-2017385690,359000,is-sold,Sold by private treaty 04 Nov 2021,20211104,213 Joseph Drive,ORANGE,NSW,2800,-33.27749,149.1003,,,,VacantLand,Vacant land,False,0,m2,False
 2017393504,listing,/24-autumn-street-orange-nsw-2800-2017393504,600000,is-sold,Sold by private treaty 04 Nov 2021,20211104,24 Autumn Street,ORANGE,NSW,2800,-33.2856827,149.110214,2,1,1,House,House,False,904,m2,False
 2018353962,listing,/41-sampson-street-orange-nsw-2800-2018353962,,is-sold,Sold at auction 09 Mar 2023,20230309,41 Sampson Street,ORANGE,NSW,2800,-33.28485,149.08783,5,2,1,House,House,False,1388,m2,False
+2018253940,listing,/36-36a-miriam-drive-orange-nsw-2800-2018253940,875000,is-sold,Sold by private treaty 10 Mar 2023,20230310,36 & 36a Miriam Drive,ORANGE,NSW,2800,-33.255497,149.118729,5,3,2,House,House,False,703,m2,False
+2018087296,listing,/26-dalton-street-orange-nsw-2800-2018087296,585000,is-sold,Sold by private treaty 09 Mar 2023,20230309,26 Dalton Street,ORANGE,NSW,2800,-33.2749939,149.091064,2,1,1,House,House,False,961,m2,False
+2018112435,listing,/5-tempest-way-orange-nsw-2800-2018112435,380000,is-sold,Sold by private treaty 08 Mar 2023,20230308,5 Tempest Way,ORANGE,NSW,2800,-33.25753,149.079208,,,,VacantLand,Vacant land,False,710,m2,False

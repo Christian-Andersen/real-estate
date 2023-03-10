@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018151117,listing,/40-30-burgoyne-street-roxby-downs-sa-5725-2018151117,103500,is-sold,Sold by private treaty 11 Dec 2022,20221211,40/30 Burgoyne Street,ROXBY DOWNS,SA,5725,-30.56457,136.893021,3,3,3,House,House,False,0,m2,False
 2018162000,listing,/2-bolami-street-roxby-downs-sa-5725-2018162000,345000,is-sold,Sold by private treaty 16 Dec 2022,20221216,2 Bolami Street,ROXBY DOWNS,SA,5725,-30.56378,136.905136,4,4,4,House,House,False,0,m2,False
 2018318873,listing,/15-30-burgoyne-street-roxby-downs-sa-5725-2018318873,,is-sold,Sold by private treaty 08 Mar 2023,20230308,15/30 Burgoyne Street,ROXBY DOWNS,SA,5725,-30.5643749,136.893326,3,1,1,House,House,False,0,m2,False
+2014526715,listing,/5-irrapatana-st-roxby-downs-sa-5725-2014526715,,is-sold,Sold by private treaty 06 Mar 2023,20230306,5 Irrapatana St,ROXBY DOWNS,SA,5725,-30.5549927,136.901932,3,2,4,House,House,False,0,m2,False

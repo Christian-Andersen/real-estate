@@ -1018,3 +1018,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018318495,listing,/99-robey-street-maroubra-nsw-2035-2018318495,,is-sold,Sold prior to auction 06 Mar 2023,20230306,99 Robey Street,MAROUBRA,NSW,2035,-33.94747,151.238953,3,2,2,House,House,False,354,m2,False
 2018365637,listing,/27-gale-road-maroubra-nsw-2035-2018365637,,is-sold,Sold prior to auction 08 Mar 2023,20230308,27 Gale Road,MAROUBRA,NSW,2035,-33.9379349,151.233032,5,3,2,House,House,False,0,m2,False
 2018389135,listing,/73-edgar-street-maroubra-nsw-2035-2018389135,,is-sold,Sold prior to auction 08 Mar 2023,20230308,73 Edgar Street,MAROUBRA,NSW,2035,-33.9353676,151.2473,3,1,1,House,House,False,291,m2,False
+2018366892,listing,/835-anzac-parade-maroubra-nsw-2035-2018366892,2000000,is-sold,Sold at auction 10 Mar 2023,20230310,835 Anzac Parade,MAROUBRA,NSW,2035,-33.9442024,151.239456,4,2,,House,House,False,383,m2,False
+2018344268,listing,/893-anzac-parade-maroubra-nsw-2035-2018344268,,is-sold,Sold prior to auction 09 Mar 2023,20230309,893 Anzac Parade,MAROUBRA,NSW,2035,-33.94671,151.240051,4,3,4,House,House,False,500,m2,False

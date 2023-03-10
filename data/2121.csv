@@ -1006,3 +1006,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018343291,listing,/15-helen-street-epping-nsw-2121-2018343291,2455000,is-sold,Sold at auction 05 Mar 2023,20230305,15 Helen Street,EPPING,NSW,2121,-33.7742233,151.058075,4,4,4,House,House,False,828,m2,False
 2018343495,listing,/5-rosebank-avenue-epping-nsw-2121-2018343495,,is-sold,Sold at auction 04 Mar 2023,20230304,5 Rosebank Avenue,EPPING,NSW,2121,-33.7697372,151.077911,6,4,1,House,House,False,835,m2,False
 2018310610,listing,/36-10-14-hazlewood-place-epping-nsw-2121-2018310610,910000,is-sold,Sold by private treaty 08 Mar 2023,20230308,36/10-14 Hazlewood Place,EPPING,NSW,2121,-33.76987,151.076538,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018374495,listing,/8-third-avenue-epping-nsw-2121-2018374495,,is-sold,Sold prior to auction 10 Mar 2023,20230310,8 Third Avenue,EPPING,NSW,2121,-33.7800446,151.0674,4,2,2,Duplex,Duplex,False,0,m2,False

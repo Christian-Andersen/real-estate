@@ -1003,3 +1003,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018037374,listing,/16-blackspear-court-zuccoli-nt-0832-2018037374,580000,is-sold,Sold by private treaty 21 Feb 2023,20230221,16 Blackspear Court,ZUCCOLI,NT,832,-12.5081072,131.00235,4,4,4,House,House,False,506,m2,False
 2016795825,listing,/23-henschke-street-bellamack-nt-0832-2016795825,655000,is-sold,Sold by private treaty 25 Jun 2021,20210625,23 Henschke Street,BELLAMACK,NT,832,-12.51439,130.9826,4,4,4,House,House,False,875,m2,False
 2018313421,listing,/13-brisbane-crescent-johnston-nt-0832-2018313421,740000,is-sold,Sold by private treaty 06 Mar 2023,20230306,13 Brisbane Crescent,JOHNSTON,NT,0832,-12.4904661,131.003891,5,2,2,House,House,False,1100,m2,False
+2018344634,listing,/3-tozer-street-rosebery-nt-0832-2018344634,549000,is-sold,Sold by private treaty 15 Feb 2023,20230215,3 Tozer Street,ROSEBERY,NT,0832,-12.5071526,130.985245,3,2,2,House,House,False,0,m2,False

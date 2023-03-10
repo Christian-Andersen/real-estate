@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015604205,listing,/79-campbell-street-gordonvale-qld-4865-2015604205,280000,is-sold,Sold by private treaty 03 Feb 2016,20160203,79 Campbell Street,GORDONVALE,QLD,4865,-17.0824661,145.78952,3,3,3,House,House,False,800.0,m2,False
 2015604288,listing,/6-bonner-close-gordonvale-qld-4865-2015604288,322500,is-sold,Sold by private treaty 15 Dec 2015,20151215,6 Bonner Close,GORDONVALE,QLD,4865,-17.08933,145.7651,3,3,3,House,House,False,626.0,m2,False
 2016753848,listing,/gordonvale-qld-4865-2016753848,300000,is-sold,Sold by private treaty 27 Jan 2016,20160127,,GORDONVALE,QLD,4865,-17.0831738,145.796112,3,3,3,House,House,False,0.0,m2,False
+2018302817,listing,/5-ghelfi-close-gordonvale-qld-4865-2018302817,725000,is-sold,Sold by private treaty 10 Mar 2023,20230310,5 Ghelfi Close,GORDONVALE,QLD,4865,-17.0910988,145.762665,4,2,2,House,House,False,638,m2,False

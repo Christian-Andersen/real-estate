@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015866077,listing,/12-pepperina-place-fitzgibbon-qld-4018-2015866077,425000,is-sold,Sold by private treaty 13 Aug 2018,20180813,12 Pepperina Place,FITZGIBBON,QLD,4018,-27.3414478,153.039,3,3,3,House,House,False,405,m2,False
 2016630903,listing,/5-lyrebird-close-taigum-qld-4018-2016630903,435000,is-sold,Sold by private treaty 14 Aug 2018,20180814,5 Lyrebird Close,TAIGUM,QLD,4018,-27.3381786,153.0491,3,3,3,House,House,False,411,m2,False
 2016631348,listing,/66-odense-street-fitzgibbon-qld-4018-2016631348,431250,is-sold,Sold by private treaty 24 Aug 2018,20180824,66 Odense Street,FITZGIBBON,QLD,4018,-27.341692,153.0313,3,3,3,House,House,False,270,m2,False
+2018250569,listing,/32-odense-street-fitzgibbon-qld-4018-2018250569,,is-sold,Sold by private treaty 10 Mar 2023,20230310,32 Odense Street,FITZGIBBON,QLD,4018,-27.3419361,153.033844,4,2,2,House,House,False,450,m2,False

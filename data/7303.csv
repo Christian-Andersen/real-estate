@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018294189,listing,/59-moore-street-westbury-tas-7303-2018294189,745000,is-sold,Sold by private treaty 23 Jan 2023,20230123,59 Moore Street,WESTBURY,TAS,7303,-41.5461922,146.84288,3,3,3,House,House,True,2.05,ha,False
 2018321062,listing,/107-king-street-westbury-tas-7303-2018321062,635000,is-sold,Sold by private treaty 09 Feb 2023,20230209,107 King Street,WESTBURY,TAS,7303,-41.5289154,146.841141,4,4,4,House,House,False,683.0,m2,False
 2018292140,listing,/14-taylor-street-westbury-tas-7303-2018292140,710000,is-sold,Sold by private treaty 07 Mar 2023,20230307,14 Taylor Street,WESTBURY,TAS,7303,-41.5280037,146.839676,3,1,1,House,House,False,3373,m2,False
+2018318015,listing,/150-mary-street-westbury-tas-7303-2018318015,995000,is-sold,Sold by private treaty 03 Mar 2023,20230303,150 Mary Street,WESTBURY,TAS,7303,-41.5414352,146.822891,4,2,14,House,House,True,2.23,ha,False

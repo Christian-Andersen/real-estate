@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018327405,listing,/13-gelven-terrace-largs-north-sa-5016-2018327405,,is-sold,Sold by private treaty 11 Feb 2023,20230211,13 Gelven Terrace,LARGS NORTH,SA,5016,-34.81453,138.4953,3,3,3,House,House,False,0,m2,False
 2018344630,listing,/337-military-road-largs-bay-sa-5016-2018344630,1945000,is-sold,Sold at auction 04 Mar 2023,20230304,337 Military Road,LARGS BAY,SA,5016,-34.8325043,138.486115,5,3,9,House,House,False,1009,m2,False
 2018353125,listing,/104-fletcher-road-peterhead-sa-5016-2018353125,640000,is-sold,Sold at auction 04 Mar 2023,20230304,104 Fletcher Road,PETERHEAD,SA,5016,-34.8318863,138.4969,3,1,4,House,House,False,674,m2,False
+2018291986,listing,/45-wandilla-street-largs-north-sa-5016-2018291986,530000,is-sold,Sold by private treaty 01 Mar 2023,20230301,45 Wandilla Street,LARGS NORTH,SA,5016,-34.81416,138.506729,3,2,2,Townhouse,Townhouse,False,159,m2,False

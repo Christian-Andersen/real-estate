@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018279578,listing,/78-hickeys-drive-coobowie-sa-5583-2018279578,,is-sold,Sold at auction 07 Feb 2023,20230207,78 Hickeys Drive,COOBOWIE,SA,5583,-35.04252,137.747589,3,3,3,House,House,False,700,m2,False
 2018320599,listing,/1-dease-street-coobowie-sa-5583-2018320599,,is-sold,Sold at auction 24 Feb 2023,20230224,1 Dease Street,COOBOWIE,SA,5583,-35.04445,137.7275,4,4,4,House,House,False,808,m2,False
 2018354253,listing,/51-park-terrace-north-edithburgh-sa-5583-2018354253,,is-sold,Sold by private treaty 02 Mar 2023,20230302,51 Park Terrace North,EDITHBURGH,SA,5583,-35.07356,137.739578,,,,VacantLand,Vacant land,False,1200,m2,False
+2017426809,listing,/7-lot-9-dev-patterson-drive-edithburgh-sa-5583-2017426809,,is-sold,Sold by private treaty 27 Feb 2023,20230227,7 (Lot 9) Dev Patterson Drive,EDITHBURGH,SA,5583,-35.0902672,137.7394,,,,VacantLand,Vacant land,False,937,m2,False

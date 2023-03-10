@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018319874,listing,/-macks-quinn-road-booborowie-sa-5417-2018319874,,is-sold,Sold by private treaty 20 Jan 2023,20230120,'Macks' Quinn Road,BOOBOROWIE,SA,5417,-33.56065,138.770432,,,,Rural,Rural,True,253.0,ha,False
 2018232065,listing,/119-windy-brae-road-booborowie-sa-5417-2018232065,,is-sold,Sold by private treaty 07 Mar 2023,20230307,119 Windy Brae Road,BOOBOROWIE,SA,5417,-33.5731125,138.785965,3,1,1,House,House,True,1.7,ha,False
 2018307405,listing,/-stoneleigh-braefoot-road-burra-sa-5417-2018307405,,is-sold,Sold by private treaty 07 Mar 2023,20230307,'Stoneleigh' Braefoot Road,BURRA,SA,5417,-33.6956139,138.852737,,,,Farm,Farm,True,503.83,ha,False
+2017930277,listing,/lot-794-grainger-street-burra-sa-5417-2017930277,,is-sold,Sold by private treaty 10 Mar 2023,20230310,Lot 794 Grainger Street,BURRA,SA,5417,-33.6721649,138.926743,,,,VacantLand,Vacant land,False,2150,m2,False

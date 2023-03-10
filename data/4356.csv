@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018249983,listing,/43-hadley-street-pittsworth-qld-4356-2018249983,355000,is-sold,Sold by private treaty 11 Jan 2023,20230111,43 Hadley Street,PITTSWORTH,QLD,4356,-27.7148628,151.631042,2,2,2,House,House,False,802.0,m2,False
 2018297699,listing,/26-murray-street-pittsworth-qld-4356-2018297699,380000,is-sold,Sold by private treaty 20 Feb 2023,20230220,26 Murray Street,PITTSWORTH,QLD,4356,-27.7202225,151.636841,4,4,4,House,House,False,2023.0,m2,False
 2018041029,listing,/8-allom-street-pittsworth-qld-4356-2018041029,370000,is-sold,Sold by private treaty 06 Mar 2023,20230306,8 Allom Street,PITTSWORTH,QLD,4356,-27.7189789,151.6405,3,1,,House,House,False,779,m2,False
+2018253935,listing,/17-weale-street-pittsworth-qld-4356-2018253935,279000,is-sold,Sold by private treaty 10 Mar 2023,20230310,17 Weale Street,PITTSWORTH,QLD,4356,-27.7194653,151.639862,3,1,2,House,House,False,779,m2,False

@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015460019,listing,/1-the-cove-drive-fullerton-cove-nsw-2318-2015460019,720000,is-sold,Sold by private treaty 18 Jul 2019,20190718,1 The Cove Drive,FULLERTON COVE,NSW,2318,-32.8559151,151.801224,2,2,2,House,House,False,0.0,m2,False
 2015835295,listing,/18-mountain-ash-close-medowie-nsw-2318-2015835295,410000,is-sold,Sold by private treaty 01 Jul 2019,20190701,18 Mountain Ash Close,MEDOWIE,NSW,2318,-32.7361069,151.881439,3,3,3,House,House,False,0.0,m2,False
 2018290759,listing,/26-county-close-medowie-nsw-2318-2018290759,1080000,is-sold,Sold by private treaty 06 Mar 2023,20230306,26 County Close,MEDOWIE,NSW,2318,-32.72463,151.87471,4,2,4,House,House,False,4350,m2,False
+2018182820,listing,/20-topaz-avenue-medowie-nsw-2318-2018182820,984000,is-sold,Sold by private treaty 10 Mar 2023,20230310,20 Topaz Avenue,MEDOWIE,NSW,2318,-32.7179871,151.870438,4,3,2,House,House,False,646,m2,False

@@ -1007,3 +1007,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018339128,listing,/2-alandale-avenue-balwyn-vic-3103-2018339128,3510000,is-sold,Sold at auction 04 Mar 2023,20230304,2 Alandale Avenue,BALWYN,VIC,3103,-37.8045,145.086319,5,3,2,House,House,False,728,m2,False
 2018341882,listing,/3-48-weir-street-balwyn-vic-3103-2018341882,,is-sold,Sold at auction 04 Mar 2023,20230304,3/48 Weir Street,BALWYN,VIC,3103,-37.8138657,145.084641,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018354958,listing,/4-362-belmore-road-balwyn-vic-3103-2018354958,740000,is-sold,Sold at auction 08 Mar 2023,20230308,4/362 Belmore Road,BALWYN,VIC,3103,-37.8026962,145.103928,2,2,1,Townhouse,Townhouse,False,0,m2,False
+2018324112,listing,/5-1b-abercrombie-street-balwyn-vic-3103-2018324112,,is-sold,Sold by private treaty 08 Mar 2023,20230308,5/1B Abercrombie Street,BALWYN,VIC,3103,-37.8077278,145.061523,3,2,2,Townhouse,Townhouse,False,0,m2,False

@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016778734,listing,/6-mernda-street-rye-vic-3941-2016778734,1010000,is-sold,Sold by private treaty 07 Feb 2021,20210207,6 Mernda Street,RYE,VIC,3941,-38.38833,144.797714,3,1,2,House,House,False,865,m2,False
 2018300634,listing,/85-pasadena-street-rye-vic-3941-2018300634,1850000,is-sold,Sold by private treaty 08 Mar 2023,20230308,85 Pasadena Street,RYE,VIC,3941,-38.38922,144.79657,4,3,2,House,House,False,1742,m2,False
 2018279226,listing,/boatshed-47-tyrone-foreshore-rye-vic-3941-2018279226,350000,is-sold,Sold by private treaty 09 Mar 2023,20230309,"Boatshed 47 , Tyrone Foreshore",RYE,VIC,3941,-38.36734,144.808289,1,1,,House,House,False,0,m2,False
+2018306869,listing,/513-dundas-street-st-andrews-beach-vic-3941-2018306869,,is-sold,Sold by private treaty 10 Mar 2023,20230310,513 Dundas Street,ST ANDREWS BEACH,VIC,3941,-38.4132767,144.823013,3,2,2,House,House,False,863,m2,False

@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018100243,listing,/24-patterson-street-dysart-qld-4745-2018100243,,is-sold,Sold by private treaty 23 Jan 2023,20230123,24 Patterson Street,DYSART,QLD,4745,-22.5832939,148.34671,3,3,3,House,House,False,765,m2,False
 2018232477,listing,/10-donovan-crescent-dysart-qld-4745-2018232477,200000,is-sold,Sold by private treaty 03 Jan 2023,20230103,10 Donovan Crescent,DYSART,QLD,4745,-22.5882988,148.355042,4,4,4,House,House,False,891,m2,False
 2018245560,listing,/4-perry-street-dysart-qld-4745-2018245560,,is-sold,Sold by private treaty 16 Jan 2023,20230116,4 Perry Street,DYSART,QLD,4745,-22.5923233,148.347382,3,3,3,House,House,False,801,m2,False
+2018149257,listing,/6-fraser-court-dysart-qld-4745-2018149257,200000,is-sold,Sold by private treaty 10 Mar 2023,20230310,6 Fraser Court,DYSART,QLD,4745,-22.58992,148.342621,3,1,2,House,House,False,777,m2,False
+2018205604,listing,/16-hannah-crescent-dysart-qld-4745-2018205604,185000,is-sold,Sold by private treaty 10 Mar 2023,20230310,16 Hannah Crescent,DYSART,QLD,4745,-22.5808563,148.351669,3,1,1,House,House,False,842,m2,False

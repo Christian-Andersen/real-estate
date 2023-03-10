@@ -215,3 +215,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009705265,listing,/32-lyne-st-eaglehawk-neck-tas-7179-2009705265,,is-sold,Sold by private treaty 14 Dec 2012,20121214,32 Lyne St,EAGLEHAWK NECK,TAS,7179,-43.0195427,147.922455,,,,VacantLand,Vacant land,False,3060.0,m2,False
 2009764174,listing,/13-pirates-road-eaglehawk-neck-tas-7179-2009764174,,is-sold,Sold by private treaty 01 Sep 2012,20120901,13 Pirates Road,EAGLEHAWK NECK,TAS,7179,-43.02385,147.8954,3,3,3,House,House,False,0.0,m2,False
 2010135304,listing,/23-lyndal-drive-eaglehawk-neck-tas-7179-2010135304,,is-sold,Sold by private treaty 30 May 2013,20130530,23 Lyndal Drive,EAGLEHAWK NECK,TAS,7179,-43.00461,147.9288,3,3,3,House,House,False,0.0,m2,False
+2018356016,listing,/19-osprey-road-eaglehawk-neck-tas-7179-2018356016,,is-sold,Sold by private treaty 06 Mar 2023,20230306,19 Osprey Road,EAGLEHAWK NECK,TAS,7179,-43.0056419,147.93837,5,2,6,House,House,True,2.38,ha,False

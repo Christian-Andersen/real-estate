@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013144585,listing,/1-kerr-street-broome-wa-6725-2013144585,,is-sold,Sold by private treaty 09 Dec 2016,20161209,1 Kerr Street,BROOME,WA,6725,-17.95622,122.227638,3,3,3,House,House,False,733.0,m2,False
 2013163114,listing,/18-honeyeater-loop-djugun-wa-6725-2013163114,,is-sold,Sold by private treaty 13 Dec 2016,20161213,18 Honeyeater Loop,DJUGUN,WA,6725,-17.93539,122.22934,4,4,4,House,House,False,706.0,m2,False
 2013264222,listing,/unit-25-17-dora-street-broome-wa-6725-2013264222,,is-sold,Sold by private treaty 03 Dec 2016,20161203,Unit 25/17 Dora Street,BROOME,WA,6725,-17.9637489,122.230545,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,122.0,m2,False
+2018136288,listing,/14-streeter-avenue-broome-wa-6725-2018136288,399000,is-sold,Sold by private treaty 03 Mar 2023,20230303,14 Streeter Avenue,BROOME,WA,6725,-17.9675064,122.227921,3,1,1,House,House,False,1012,m2,False

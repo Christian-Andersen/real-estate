@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018356346,listing,/6-hamel-crescent-earlwood-nsw-2206-2018356346,2700000,is-sold,Sold at auction 03 Mar 2023,20230303,6 Hamel Crescent,EARLWOOD,NSW,2206,-33.92143,151.130722,4,4,4,House,House,False,664,m2,False
 2018334293,listing,/8-cameron-ave-earlwood-nsw-2206-2018334293,2150000,is-sold,Sold at auction 04 Mar 2023,20230304,8 Cameron Ave,EARLWOOD,NSW,2206,-33.92467,151.122589,5,5,5,House,House,False,638,m2,False
 2018338504,listing,/22-malley-avenue-earlwood-nsw-2206-2018338504,1725000,is-sold,Sold at auction 04 Mar 2023,20230304,22 Malley Avenue,EARLWOOD,NSW,2206,-33.9304276,151.112717,3,2,2,House,House,False,423,m2,False
+2018349432,listing,/8-117-119-homer-street-earlwood-nsw-2206-2018349432,775000,is-sold,Sold prior to auction 10 Mar 2023,20230310,8/117-119 Homer Street,EARLWOOD,NSW,2206,-33.9238319,151.134949,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,109,m2,False

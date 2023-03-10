@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018344698,listing,/3-white-swan-avenue-blue-haven-nsw-2262-2018344698,,is-sold,Sold by private treaty 03 Mar 2023,20230303,3 White Swan Avenue,BLUE HAVEN,NSW,2262,-33.21037,151.49826,4,4,4,House,House,False,576,m2,False
 2018324214,listing,/15-barega-close-buff-point-nsw-2262-2018324214,660000,is-sold,Sold by private treaty 03 Mar 2023,20230303,15 Barega Close,BUFF POINT,NSW,2262,-33.2236023,151.535248,3,3,3,House,House,False,645,m2,False
 2018234433,listing,/59-iluka-avenue-san-remo-nsw-2262-2018234433,640000,is-sold,Sold by private treaty 09 Mar 2023,20230309,59 Iluka Avenue,SAN REMO,NSW,2262,-33.21335,151.52124,3,1,1,House,House,False,809,m2,False
+2018319285,listing,/25-natuna-avenue-budgewoi-nsw-2262-2018319285,980000,is-sold,Sold at auction 10 Mar 2023,20230310,25 Natuna Avenue,BUDGEWOI,NSW,2262,-33.2338028,151.559937,3,2,4,House,House,False,0,m2,False

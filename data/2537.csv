@@ -1003,3 +1003,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018164105,listing,/12-coila-avenue-tuross-head-nsw-2537-2018164105,780000,is-sold,Sold by private treaty 08 Mar 2023,20230308,12 Coila Avenue,TUROSS HEAD,NSW,2537,-36.0508,150.128174,3,1,1,House,House,False,632,m2,False
 2018316079,listing,/23-coogee-street-tuross-head-nsw-2537-2018316079,819000,is-sold,Sold by private treaty 08 Mar 2023,20230308,23 Coogee Street,TUROSS HEAD,NSW,2537,-36.04395,150.121887,3,2,2,House,House,False,556,m2,False
 2018183982,listing,/91-hawdon-street-moruya-nsw-2537-2018183982,690000,is-sold,Sold by private treaty 09 Mar 2023,20230309,91 Hawdon Street,MORUYA,NSW,2537,-35.9140663,150.066483,4,2,2,House,House,False,1082,m2,False
+2018334332,listing,/28-haslingden-st-moruya-nsw-2537-2018334332,640000,is-sold,Sold by private treaty 10 Mar 2023,20230310,28 Haslingden St,MORUYA,NSW,2537,-35.9204674,150.0777,4,1,2,House,House,False,1016,m2,False

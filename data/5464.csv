@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018111811,listing,/189-powerline-road-brinkworth-sa-5464-2018111811,,is-sold,Sold by private treaty 14 Dec 2022,20221214,189 Powerline Road,BRINKWORTH,SA,5464,-33.72115,138.403412,,,,Rural,Rural,True,512.0,ha,False
 2018189718,listing,/3-south-street-brinkworth-sa-5464-2018189718,,is-sold,Sold by private treaty 02 Nov 2022,20221102,3 South Street,BRINKWORTH,SA,5464,-33.6991768,138.4025,2,2,2,House,House,False,2984.0,m2,False
 2018306030,listing,/91-main-street-brinkworth-sa-5464-2018306030,,is-sold,Sold by private treaty 21 Feb 2023,20230221,91 Main Street,BRINKWORTH,SA,5464,-33.6898956,138.402725,,,,VacantLand,Vacant land,False,1968.0,m2,False
+2018140812,listing,/225-mallee-grove-rd-koolunga-sa-5464-2018140812,,is-sold,Sold by private treaty 08 Mar 2023,20230308,225 Mallee Grove Rd,KOOLUNGA,SA,5464,-33.5271759,138.306046,3,2,10,AcreageSemiRural,Acreage / Semi-Rural,True,1.82,ha,False
