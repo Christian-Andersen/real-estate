@@ -982,4 +982,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007666850,listing,/40-edmonds-street-bucasia-qld-4750-2007666850,,is-sold,Sold by private treaty 15 Apr 2009,20090415,40 Edmonds Street,BUCASIA,QLD,4750,-21.0361538,149.163391,2,1,2,House,House,False,0,m2,False
 2007795026,listing,/5-scott-court-bucasia-qld-4750-2007795026,,is-sold,Sold at auction 28 Jul 2009,20090728,5 Scott Court,BUCASIA,QLD,4750,-21.04543,149.154785,4,2,3,House,House,False,0,m2,False
 2007960939,listing,/6-kemp-street-bucasia-qld-4750-2007960939,447500,is-sold,Sold by private treaty 11 Sep 2009,20090911,6 Kemp Street,BUCASIA,QLD,4750,-21.0305214,149.157913,3,2,2,House,House,False,919,m2,False
-2010874071,listing,/8-wallace-street-bucasia-qld-4750-2010874071,,is-sold,Sold by private treaty,NaN,8 Wallace Street,BUCASIA,QLD,4750,-21.0414085,149.151749,4,2,4,House,House,False,1100,m2,False
+2010874071,listing,/8-wallace-street-bucasia-qld-4750-2010874071,,is-sold,Sold by private treaty,,8 Wallace Street,BUCASIA,QLD,4750,-21.0414085,149.151749,4,2,4,House,House,False,1100,m2,False
+2018175368,listing,/46-stone-drive-bucasia-qld-4750-2018175368,440000,is-sold,Sold by private treaty 09 Mar 2023,20230309,46 Stone Drive,BUCASIA,QLD,4750,-21.0192432,149.1487,4,2,2,House,House,False,708,m2,False

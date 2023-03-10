@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018324338,listing,/80-albert-street-geelong-west-vic-3218-2018324338,,is-sold,Sold by private treaty 10 Feb 2023,20230210,80 Albert Street,GEELONG WEST,VIC,3218,-38.1397324,144.341736,4,4,4,House,House,False,0,m2,False
 2018358213,listing,/130-autumn-street-geelong-west-vic-3218-2018358213,900000,is-sold,Sold by private treaty 22 Feb 2023,20230222,130 Autumn Street,GEELONG WEST,VIC,3218,-38.1425323,144.345047,3,3,3,House,House,False,0,m2,False
 2018334478,listing,/3-laira-street-geelong-west-vic-3218-2018334478,705000,is-sold,Sold at auction 04 Mar 2023,20230304,3 Laira Street,GEELONG WEST,VIC,3218,-38.14311,144.341568,2,1,1,House,House,False,409,m2,False
+2018284198,listing,/4-black-bull-ridge-herne-hill-vic-3218-2018284198,,is-sold,Sold by private treaty 07 Mar 2023,20230307,4 Black Bull Ridge,HERNE HILL,VIC,3218,-38.1355934,144.317474,3,2,2,House,House,False,326,m2,False

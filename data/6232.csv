@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018320792,listing,/68-hamilton-road-eaton-wa-6232-2018320792,255000,is-sold,Sold by private treaty 02 Feb 2023,20230202,68 Hamilton Road,EATON,WA,6232,-33.31638,115.708771,2,2,2,House,House,False,1012,m2,False
 2018336236,listing,/22-peninsula-lakes-drive-eaton-wa-6232-2018336236,660000,is-sold,Sold by private treaty 06 Feb 2023,20230206,22 Peninsula Lakes Drive,EATON,WA,6232,-33.3033524,115.727242,4,4,4,House,House,False,793,m2,False
 2018343611,listing,/30-crampton-avenue-eaton-wa-6232-2018343611,425000,is-sold,Sold by private treaty 13 Feb 2023,20230213,30 Crampton Avenue,EATON,WA,6232,-33.31986,115.711357,3,3,3,House,House,False,868,m2,False
+2018162160,listing,/40-illawarra-drive-eaton-wa-6232-2018162160,285000,is-sold,Sold by private treaty 08 Mar 2023,20230308,40 Illawarra Drive,EATON,WA,6232,-33.3150253,115.732445,,,,VacantLand,Vacant land,False,973,m2,False

@@ -303,3 +303,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2006550800,listing,/lot-294-ventnor-orchard-kingsvale-nsw-2587-2006550800,,is-sold,Sold by private treaty 30 Jul 2009,20090730,Lot 294 Ventnor Orchard,KINGSVALE,NSW,2587,-34.44289,148.319977,3,1,,Rural,Rural,False,0,m2,False
 2007353731,listing,/lot-2-5-scott-street-harden-nsw-2587-2007353731,,is-sold,Sold by private treaty 02 Mar 2009,20090302,Lot 2-5 Scott Street,HARDEN,NSW,2587,-34.5585747,148.366928,4,1,,Rural,Rural,False,0,m2,False
 2007617907,listing,/131-133-neill-street-harden-nsw-2587-2007617907,,is-sold,Sold at auction 14 Mar 2009,20090314,131 - 133 Neill Street,HARDEN,NSW,2587,-34.5520668,148.365265,4,1,,House,House,False,0,m2,False
+2017620947,listing,/26-smith-street-harden-nsw-2587-2017620947,,is-sold,Sold by private treaty 08 Mar 2023,20230308,26 Smith Street,HARDEN,NSW,2587,-34.56101,148.371246,4,2,4,House,House,False,1911,m2,False

@@ -208,3 +208,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010761439,listing,/bombala-nsw-2632-2010761439,,is-sold,Sold by private treaty 27 Nov 2013,20131127,,BOMBALA,NSW,2632,-36.912262,149.238235,,,,Rural,Rural,True,15.38,ha,False
 2010761861,listing,/bombala-nsw-2632-2010761861,,is-sold,Sold by private treaty 26 Nov 2013,20131126,,BOMBALA,NSW,2632,-36.912262,149.238235,,,,VacantLand,Vacant land,True,33.18,ha,False
 2011076817,listing,/0-tantawangalo-rd-cathcart-nsw-2632-2011076817,95000,is-sold,Sold by private treaty 29 Jul 2014,20140729,0 Tantawangalo Rd,CATHCART,NSW,2632,-36.8128929,149.4494,3,3,3,Rural,Rural,True,2.02,ha,False
+2018281728,listing,/lot-12-monaro-highway-bombala-nsw-2632-2018281728,120000,is-sold,Sold by private treaty 07 Mar 2023,20230307,Lot 12 Monaro Highway,BOMBALA,NSW,2632,-36.8876228,149.245743,,,,VacantLand,Vacant land,False,9416,m2,False

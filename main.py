@@ -8,7 +8,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.window import WindowTypes
 
 def add_column(group, header):
-    """Returns 'NaN' if the key 'header' does not excist in dict 'group'"""
+    """Returns '' if the key 'header' does not excist in dict 'group'"""
     if header in group:
         return group[header]
     else:
@@ -53,7 +53,7 @@ def value_to_row(value):
             ' '.join(row[-1].split()[-3:]), '%d %b %Y')
         row.append(date.strftime('%Y%m%d'))
     except:
-        row.append('NaN')
+        row.append('')
     address = value['listingModel']['address']
     row.append(add_column(address, 'street').replace('\n', ' '))
     row.append(add_column(address, 'suburb'))
@@ -110,8 +110,8 @@ for filename in os.listdir('data'):
 # Get information from the data folder
 ids = {}
 postcodes = {}
-for file in os.listdir('data'):
-    path = os.path.join('data', file)
+for filename in os.listdir('data'):
+    path = os.path.join('data', filename)
     with open(path, 'r', newline='', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
         oldest = float('inf')
@@ -125,7 +125,7 @@ for file in os.listdir('data'):
                             oldest = int(row[6])
                     ids[row[0]] = row[2]
             date = row[6]
-    postcodes[file.split('.')[0]] = oldest
+    postcodes[filename.split('.')[0]] = oldest
 print('Total Properties:', len(ids))
 print('Total Postcodes:', len(postcodes))
 

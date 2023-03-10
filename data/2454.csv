@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010769956,listing,/5-beach-parade-mylestom-nsw-2454-2010769956,385000,is-sold,Sold by private treaty 13 Dec 2013,20131213,5 Beach Parade,MYLESTOM,NSW,2454,-30.4645824,153.044769,3,3,3,House,House,False,0.0,m2,False
 2010822650,listing,/bellingen-nsw-2454-2010822650,700000,is-sold,Sold by private treaty 13 Dec 2013,20131213,,BELLINGEN,NSW,2454,-30.452034,152.896683,3,3,3,House,House,False,1424.0,m2,False
 2018097459,listing,/49-crown-st-bellingen-nsw-2454-2018097459,,is-sold,Sold by private treaty 03 Mar 2023,20230303,49 Crown St,BELLINGEN,NSW,2454,-30.4586182,152.903336,3,3,3,House,House,False,0.0,m2,False
+2018276112,listing,/14-ironbark-place-bellingen-nsw-2454-2018276112,635000,is-sold,Sold by private treaty 08 Mar 2023,20230308,14 Ironbark Place,BELLINGEN,NSW,2454,-30.44123,152.901932,2,1,,House,House,False,740,m2,False

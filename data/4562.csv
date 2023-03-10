@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018231970,listing,/23-shields-court-eumundi-qld-4562-2018231970,2740000,is-sold,Sold by private treaty 07 Dec 2022,20221207,23 Shields Court,EUMUNDI,QLD,4562,-26.4562321,152.9668,4,4,4,House,House,False,6334.0,m2,False
 2018321811,listing,/43-foxtail-rise-doonan-qld-4562-2018321811,1125000,is-sold,Sold by private treaty 23 Feb 2023,20230223,43 Foxtail Rise,DOONAN,QLD,4562,-26.4289284,153.005783,4,4,4,House,House,False,4085.0,m2,False
 2018398737,listing,/70-eumundi-range-rd-eumundi-qld-4562-2018398737,3350000,is-sold,Sold by private treaty 06 Mar 2023,20230306,70 Eumundi Range Rd,EUMUNDI,QLD,4562,-26.4662323,152.956238,5,3,2,House,House,True,4.49,ha,False
+2018166718,listing,/29-gees-road-eerwah-vale-qld-4562-2018166718,1150000,is-sold,Sold by private treaty 08 Mar 2023,20230308,29 Gees Road,EERWAH VALE,QLD,4562,-26.4956989,152.925125,4,2,3,House,House,False,3189,m2,False

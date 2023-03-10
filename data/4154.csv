@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018333576,listing,/560-grassdale-road-gumdale-qld-4154-2018333576,,is-sold,Sold by private treaty 19 Dec 2022,20221219,560 Grassdale Road,GUMDALE,QLD,4154,-27.4977131,153.1588,5,5,5,AcreageSemiRural,Acreage / Semi-Rural,True,0,m2,False
 2018351741,listing,/6-esk-crescent-wakerley-qld-4154-2018351741,1270000,is-sold,Sold by private treaty 11 Feb 2023,20230211,6 Esk Crescent,WAKERLEY,QLD,4154,-27.48404,153.159531,4,4,4,House,House,False,600,m2,False
 2018357053,listing,/47-watervale-parade-wakerley-qld-4154-2018357053,1210000,is-sold,Sold by private treaty 16 Jan 2023,20230116,47 Watervale Parade,WAKERLEY,QLD,4154,-27.4795723,153.1608,4,4,4,House,House,False,600,m2,False
+2018291873,listing,/30-figtree-place-wakerley-qld-4154-2018291873,920000,is-sold,Sold by private treaty 08 Mar 2023,20230308,30 Figtree Place,WAKERLEY,QLD,4154,-27.4849434,153.1505,3,2,2,House,House,False,450,m2,False

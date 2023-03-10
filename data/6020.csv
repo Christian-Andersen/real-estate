@@ -999,3 +999,7 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016302071,listing,/8-bonsall-place-carine-wa-6020-2016302071,,is-sold,Sold by private treaty 13 Jun 2020,20200613,8 Bonsall Place,CARINE,WA,6020,-31.847105,115.776772,4,2,5,House,House,False,724,m2,False
 2016307435,listing,/30a-sholl-avenue-north-beach-wa-6020-2016307435,,is-sold,Sold by private treaty 16 Jun 2020,20200616,30a Sholl Avenue,NORTH BEACH,WA,6020,-31.86661,115.755653,4,2,2,House,House,False,440,m2,False
 2016318865,listing,/26a-hood-terrace-sorrento-wa-6020-2016318865,650000,is-sold,Sold by private treaty 22 Jun 2020,20200622,26A Hood Terrace,SORRENTO,WA,6020,-31.83013,115.753281,3,1,1,House,House,False,711,m2,False
+2018378148,listing,/69-high-street-sorrento-wa-6020-2018378148,1520000,is-sold,Sold by private treaty 08 Mar 2023,20230308,69 High Street,SORRENTO,WA,6020,-31.83635,115.756111,4,2,3,House,House,False,693,m2,False
+2018246617,listing,/49-fairlane-drive-carine-wa-6020-2018246617,,is-sold,Sold by private treaty 07 Mar 2023,20230307,49 Fairlane Drive,CARINE,WA,6020,-31.8566742,115.781509,4,2,2,House,House,False,807,m2,False
+2018368570,listing,/12b-mathis-way-carine-wa-6020-2018368570,1310000,is-sold,Sold by private treaty 07 Mar 2023,20230307,12B Mathis Way,CARINE,WA,6020,-31.8584328,115.790161,4,2,2,House,House,False,508,m2,False
+2018195910,listing,/94-clontarf-street-sorrento-wa-6020-2018195910,,is-sold,Sold by private treaty 09 Mar 2023,20230309,94 Clontarf Street,SORRENTO,WA,6020,-31.8358135,115.757935,3,1,2,House,House,False,427,m2,False

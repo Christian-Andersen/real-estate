@@ -22,3 +22,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018097468,listing,/120-vary-street-morwell-vic-3840-2018097468,,is-sold,Sold by private treaty 04 Mar 2023,20230304,120 vary Street,MORWELL,VIC,3840,-38.2240028,146.426041,3,3,3,House,House,False,0.0,m2,False
 2018054309,listing,/unit-1-14a-ann-st-morwell-vic-3840-2018054309,,is-sold,Sold by private treaty 06 Mar 2023,20230306,Unit 1/14A Ann St,MORWELL,VIC,3840,-38.2380257,146.391525,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018303967,listing,/38-alamein-st-morwell-vic-3840-2018303967,,is-sold,Sold by private treaty 06 Mar 2023,20230306,38 Alamein St,MORWELL,VIC,3840,-38.2333641,146.420486,2,1,1,House,House,False,0,m2,False
+2018221726,listing,/44-bellarine-circuit-morwell-vic-3840-2018221726,425000,is-sold,Sold by private treaty 09 Mar 2023,20230309,44 Bellarine Circuit,MORWELL,VIC,3840,-38.2279549,146.393509,4,2,2,House,House,False,668,m2,False
+2018263866,listing,/7-fraser-street-morwell-vic-3840-2018263866,425000,is-sold,Sold by private treaty 09 Mar 2023,20230309,7 Fraser Street,MORWELL,VIC,3840,-38.22592,146.42482,3,1,6,House,House,False,760,m2,False

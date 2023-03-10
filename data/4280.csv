@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015979273,listing,/524-mona-drive-jimboomba-qld-4280-2015979273,650000,is-sold,Sold by private treaty 13 Jan 2020,20200113,524 Mona Drive,JIMBOOMBA,QLD,4280,-27.8400478,153.061523,4,4,4,House,House,True,6.75,ha,False
 2018213703,listing,/1-54-ridgecrest-drive-flagstone-qld-4280-2018213703,510000,is-sold,Sold by private treaty 06 Mar 2023,20230306,1/54 Ridgecrest Drive,FLAGSTONE,QLD,4280,-27.80017,152.957809,3,2,2,House,House,False,496,m2,False
 2018307215,listing,/15-elizabeth-drive-flagstone-qld-4280-2018307215,556000,is-sold,Sold by private treaty 06 Mar 2023,20230306,15 Elizabeth Drive,FLAGSTONE,QLD,4280,-27.80028,152.936249,4,2,2,House,House,False,350,m2,False
+2018279354,listing,/12-langlo-street-jimboomba-qld-4280-2018279354,595000,is-sold,Sold by private treaty 08 Mar 2023,20230308,12 Langlo Street,JIMBOOMBA,QLD,4280,-27.82347,153.011826,4,2,2,House,House,False,450,m2,False

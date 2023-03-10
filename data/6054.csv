@@ -2,3 +2,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018347800,listing,/eden-hill-wa-6054-2018347800,,is-sold,Sold by private treaty 27 Feb 2023,20230227,,EDEN HILL,WA,6054,-31.8910942,115.946465,3,3,3,NewHouseLand,New House & Land,False,0,m2,False
 2017876678,listing,/2-26-thorson-way-lockridge-wa-6054-2017876678,,is-sold,Sold by private treaty 28 Feb 2023,20230228,2/26 Thorson Way,LOCKRIDGE,WA,6054,-31.881815,115.952827,3,3,3,ApartmentUnitFlat,Apartment / Unit / Flat,False,136,m2,False
 2018298165,listing,/3h-hardy-road-bassendean-wa-6054-2018298165,825000,is-sold,Sold by private treaty 03 Mar 2023,20230303,3H Hardy Road,BASSENDEAN,WA,6054,-31.9159832,115.944649,4,4,4,House,House,False,335,m2,False
+2018296845,listing,/7-9-sylvia-way-eden-hill-wa-6054-2018296845,387500,is-sold,Sold by private treaty 09 Mar 2023,20230309,7/9 Sylvia Way,EDEN HILL,WA,6054,-31.8928127,115.942482,3,1,2,Villa,Villa,False,0,m2,False
+2018379821,listing,/2-thorley-way-lockridge-wa-6054-2018379821,,is-sold,Sold by private treaty 09 Mar 2023,20230309,2 Thorley Way,LOCKRIDGE,WA,6054,-31.8775711,115.954628,4,1,2,House,House,False,684,m2,False

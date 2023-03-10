@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018171324,listing,/4-hetherington-street-clermont-qld-4721-2018171324,260000,is-sold,Sold by private treaty 17 Feb 2023,20230217,4 Hetherington Street,CLERMONT,QLD,4721,-22.8359985,147.632156,4,4,4,House,House,False,1245.0,m2,False
 2018182110,listing,/350-alpha-clermont-road-clermont-qld-4721-2018182110,,is-sold,Sold at auction 08 Dec 2022,20221208,350 Alpha-Clermont Road,CLERMONT,QLD,4721,-22.819809,147.600143,5,5,5,Rural,Rural,True,64.75,ha,False
 2018229862,listing,/10-karmoo-street-clermont-qld-4721-2018229862,145000,is-sold,Sold by private treaty 11 Jan 2023,20230111,10 Karmoo Street,CLERMONT,QLD,4721,-22.8197842,147.64296,4,4,4,House,House,False,616.0,m2,False
+2016175213,listing,/42-rubyvale-road-clermont-qld-4721-2016175213,225000,is-sold,Sold by private treaty 08 Mar 2023,20230308,42 Rubyvale Road,CLERMONT,QLD,4721,-22.8318863,147.629028,,2,1,House,House,False,4381,m2,False

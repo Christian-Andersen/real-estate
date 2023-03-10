@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018243180,listing,/2-manton-court-hamersley-wa-6022-2018243180,600000,is-sold,Sold by private treaty 11 Jan 2023,20230111,2 Manton Court,HAMERSLEY,WA,6022,-31.84736,115.81073,3,3,3,House,House,False,492,m2,False
 2018245477,listing,/57-rannoch-circle-hamersley-wa-6022-2018245477,756000,is-sold,Sold by private treaty 01 Feb 2023,20230201,57 Rannoch Circle,HAMERSLEY,WA,6022,-31.84599,115.81675,4,4,4,House,House,False,773,m2,False
 2018269966,listing,/23-bosworth-street-hamersley-wa-6022-2018269966,720000,is-sold,Sold by private treaty 13 Jan 2023,20230113,23 Bosworth Street,HAMERSLEY,WA,6022,-31.8496742,115.812,3,3,3,House,House,False,372,m2,False
+2018339306,listing,/28-blissett-way-hamersley-wa-6022-2018339306,600500,is-sold,Sold at auction 09 Mar 2023,20230309,28 Blissett Way,HAMERSLEY,WA,6022,-31.85248,115.820145,3,1,6,House,House,False,728,m2,False

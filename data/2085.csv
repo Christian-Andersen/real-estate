@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011113334,listing,/105-prahran-avenue-davidson-nsw-2085-2011113334,1181000,is-sold,Sold by private treaty 26 Apr 2014,20140426,105 Prahran Avenue,DAVIDSON,NSW,2085,-33.7455521,151.19902,4,4,4,House,House,False,715.0,m2,False
 2011113901,listing,/41-ralston-avenue-belrose-nsw-2085-2011113901,1045000,is-sold,Sold by private treaty 06 May 2014,20140506,41 Ralston Avenue,BELROSE,NSW,2085,-33.72837,151.2143,3,3,3,House,House,False,696.0,m2,False
 2018323853,listing,/6-chatham-close-belrose-nsw-2085-2018323853,1800000,is-sold,Sold prior to auction 03 Mar 2023,20230303,6 Chatham Close,BELROSE,NSW,2085,-33.7317276,151.217285,4,4,4,House,House,False,784.0,m2,False
+2018177728,listing,/4-cotswold-close-belrose-nsw-2085-2018177728,,is-sold,Sold by private treaty 10 Mar 2023,20230310,4 Cotswold Close,BELROSE,NSW,2085,-33.72898,151.21994,4,2,3,House,House,False,696,m2,False

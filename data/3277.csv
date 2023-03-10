@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018211281,listing,/25-ziegler-parade-allansford-vic-3277-2018211281,540000,is-sold,Sold by private treaty 09 Dec 2022,20221209,25 ZIEGLER Parade,ALLANSFORD,VIC,3277,-38.385807,142.592178,3,3,3,House,House,False,1011.0,m2,False
 2018255311,listing,/495-hopkins-point-road-allansford-vic-3277-2018255311,1350000,is-sold,Sold by private treaty 04 Jan 2023,20230104,495 Hopkins Point Road,ALLANSFORD,VIC,3277,-38.4074173,142.560608,,,,Rural,Rural,True,16.19,ha,False
 2018258737,listing,/119-ziegler-parade-allansford-vic-3277-2018258737,,is-sold,Sold by private treaty 17 Jan 2023,20230117,119 Ziegler Parade,ALLANSFORD,VIC,3277,-38.387104,142.604889,3,3,3,House,House,False,751.0,m2,False
+2018365440,listing,/12-hermitage-allansford-vic-3277-2018365440,,is-sold,Sold by private treaty 08 Mar 2023,20230308,12 Hermitage,ALLANSFORD,VIC,3277,-38.39459,142.5836,5,4,2,House,House,False,24281,m2,False

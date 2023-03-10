@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015896213,listing,/4-cabramatta-street-bayswater-wa-6053-2015896213,,is-sold,Sold by private treaty 18 Nov 2019,20191118,4 Cabramatta Street,BAYSWATER,WA,6053,-31.9232483,115.935272,2,2,2,House,House,False,1091,m2,False
 2015902554,listing,/4-aughton-street-bayswater-wa-6053-2015902554,,is-sold,Sold by private treaty 28 Nov 2019,20191128,4 Aughton Street,BAYSWATER,WA,6053,-31.92049,115.92186,3,3,3,House,House,False,0,m2,False
 2018015629,listing,/3-roberts-street-bayswater-wa-6053-2018015629,618000,is-sold,Sold by private treaty 07 Mar 2023,20230307,3 Roberts Street,BAYSWATER,WA,6053,-31.9203472,115.9089,3,1,2,House,House,False,602,m2,False
+2018208624,listing,/1c-hotham-street-bayswater-wa-6053-2018208624,910000,is-sold,Sold by private treaty 07 Mar 2023,20230307,1C Hotham Street,BAYSWATER,WA,6053,-31.92114,115.901367,3,2,4,House,House,False,360,m2,False

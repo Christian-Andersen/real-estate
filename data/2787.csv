@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011277062,listing,/oberon-nsw-2787-2011277062,245000,is-sold,Sold by private treaty 18 Aug 2014,20140818,,OBERON,NSW,2787,-33.704174,149.8574,3,3,3,Farm,Farm,False,0.0,m2,False
 2011307766,listing,/oberon-nsw-2787-2011307766,,is-sold,Sold by private treaty 26 Aug 2014,20140826,,OBERON,NSW,2787,-33.704174,149.8574,,,,Rural,Rural,False,0.0,m2,False
 2018178307,listing,/46-carrington-avenue-oberon-nsw-2787-2018178307,470000,is-sold,Sold by private treaty 07 Mar 2023,20230307,46 Carrington Avenue,OBERON,NSW,2787,-33.703167,149.848709,3,1,1,House,House,False,639,m2,False
+2018238667,listing,/10-mervyn-road-yerranderie-nsw-2787-2018238667,,is-sold,Sold by private treaty 08 Mar 2023,20230308,10 Mervyn Road,YERRANDERIE,NSW,2787,-34.1190262,150.2226,,,,VacantLand,Vacant land,False,562,m2,False

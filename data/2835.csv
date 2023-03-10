@@ -448,3 +448,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010781925,listing,/2-cypress-place-cobar-nsw-2835-2010781925,310000,is-sold,Sold by private treaty 06 Nov 2013,20131106,2 Cypress Place,COBAR,NSW,2835,-31.5059261,145.8285,3,3,3,House,House,False,0.0,m2,False
 2010796777,listing,/29-bathurst-street-cobar-nsw-2835-2010796777,90500,is-sold,Sold at auction 28 Nov 2013,20131128,29 Bathurst Street,COBAR,NSW,2835,-31.4892883,145.827667,3,3,3,House,House,False,0.0,m2,False
 2010796779,listing,/1-morrison-street-cobar-nsw-2835-2010796779,,is-sold,Sold at auction 28 Nov 2013,20131128,1 Morrison Street,COBAR,NSW,2835,-31.4877052,145.831375,3,3,3,House,House,False,0.0,m2,False
+2018241078,listing,/16-snelson-street-cobar-nsw-2835-2018241078,,is-sold,Sold by private treaty 09 Mar 2023,20230309,16 Snelson Street,COBAR,NSW,2835,-31.50534,145.826,3,1,2,House,House,False,0,m2,False

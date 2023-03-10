@@ -22,3 +22,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017740640,listing,/6-cowrie-road-torquay-vic-3228-2017740640,2200000,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Cowrie Road,TORQUAY,VIC,3228,-38.324913,144.326553,,,,VacantLand,Vacant land,False,609,m2,False
 2018118370,listing,/6-lincoln-avenue-torquay-vic-3228-2018118370,,is-sold,Sold by private treaty 03 Mar 2023,20230303,6 Lincoln Avenue,TORQUAY,VIC,3228,-38.3142281,144.277435,5,5,5,House,House,False,2761,m2,False
 2018211827,listing,/29-st-georges-way-torquay-vic-3228-2018211827,,is-sold,Sold 03 Mar 2023,20230303,29 ST GEORGES WAY,TORQUAY,VIC,3228,-38.3057938,144.350937,4,4,4,House,House,False,657,m2,False
+2018333231,listing,/3-seaview-rise-jan-juc-vic-3228-2018333231,,is-sold,Sold by private treaty 08 Mar 2023,20230308,3 Seaview Rise,JAN JUC,VIC,3228,-38.3427353,144.293976,3,2,2,House,House,False,540,m2,False
+2018334223,listing,/4-brown-street-torquay-vic-3228-2018334223,1330000,is-sold,Sold by private treaty 08 Mar 2023,20230308,4 Brown Street,TORQUAY,VIC,3228,-38.3105164,144.3227,5,3,2,House,House,False,512,m2,False

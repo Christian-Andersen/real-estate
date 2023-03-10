@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018330862,listing,/17-helston-street-balwyn-north-vic-3104-2018330862,,is-sold,Sold at auction 04 Mar 2023,20230304,17 Helston Street,BALWYN NORTH,VIC,3104,-37.78585,145.0936,4,4,4,House,House,False,0,m2,False
 2018333993,listing,/12-madden-street-balwyn-north-vic-3104-2018333993,4730000,is-sold,Sold at auction 04 Mar 2023,20230304,12 Madden Street,BALWYN NORTH,VIC,3104,-37.7977066,145.090668,5,5,5,House,House,False,1012,m2,False
 2018333881,listing,/12-madden-street-balwyn-north-vic-3104-2018333881,,is-sold,Sold at auction 04 Mar 2023,20230304,12 Madden Street,BALWYN NORTH,VIC,3104,-37.7977066,145.090668,5,4,4,House,House,False,1012,m2,False
+2018363583,listing,/1-26-hatfield-street-balwyn-north-vic-3104-2018363583,,is-sold,Sold at auction 08 Mar 2023,20230308,1/26 Hatfield Street,BALWYN NORTH,VIC,3104,-37.7963638,145.065659,3,2,2,Townhouse,Townhouse,False,0,m2,False

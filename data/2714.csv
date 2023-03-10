@@ -683,3 +683,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2006764194,listing,/tocumwal-nsw-2714-2006764194,,is-sold,Sold by private treaty 11 May 2009,20090511,,TOCUMWAL,NSW,2714,-35.81217,145.569489,4,4,4,Farm,Farm,False,0.0,m2,False
 2007235987,listing,/tocumwal-nsw-2714-2007235987,,is-sold,Sold by private treaty 12 Dec 2008,20081212,,TOCUMWAL,NSW,2714,-35.8060226,145.56604,3,3,3,House,House,False,1100.0,m2,False
 2009029045,listing,/49-honniball-drive-tocumwal-nsw-2714-2009029045,,is-sold,Sold by private treaty 31 May 2011,20110531,49 Honniball Drive,TOCUMWAL,NSW,2714,-35.7933731,145.5701,2,2,2,House,House,False,0.0,m2,False
+2018331330,listing,/12-bushlands-road-tocumwal-nsw-2714-2018331330,,is-sold,Sold by private treaty 08 Mar 2023,20230308,12 Bushlands Road,TOCUMWAL,NSW,2714,-35.8208122,145.562363,,,,VacantLand,Vacant land,False,6062,m2,False

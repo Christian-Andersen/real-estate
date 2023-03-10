@@ -5,3 +5,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018262440,listing,/5-armitage-court-belmont-vic-3216-2018262440,620000,is-sold,Sold by private treaty 01 Mar 2023,20230301,5 Armitage Court,BELMONT,VIC,3216,-38.1895027,144.330765,3,3,3,House,House,False,726,m2,False
 2018242040,listing,/20-patonga-crescent-grovedale-vic-3216-2018242040,600000,is-sold,Sold by private treaty 02 Mar 2023,20230302,20 Patonga Crescent,GROVEDALE,VIC,3216,-38.21028,144.331619,3,3,3,House,House,False,569,m2,False
 2018340596,listing,/26-porter-avenue-highton-vic-3216-2018340596,742000,is-sold,Sold at auction 04 Mar 2023,20230304,26 Porter Avenue,HIGHTON,VIC,3216,-38.1809578,144.31839,3,1,1,House,House,False,589,m2,False
+2018053387,listing,/38-davis-street-belmont-vic-3216-2018053387,620000,is-sold,Sold by private treaty 08 Mar 2023,20230308,38 Davis Street,BELMONT,VIC,3216,-38.1826553,144.329575,3,1,2,House,House,False,728,m2,False
+2018234100,listing,/58-bailey-street-belmont-vic-3216-2018234100,700000,is-sold,Sold by private treaty 09 Mar 2023,20230309,58 Bailey Street,BELMONT,VIC,3216,-38.18584,144.34938,3,1,2,House,House,False,665,m2,False
+2018265119,listing,/1-minka-court-marshall-vic-3216-2018265119,625000,is-sold,Sold by private treaty 09 Mar 2023,20230309,1 Minka Court,MARSHALL,VIC,3216,-38.19699,144.360016,3,1,2,House,House,False,734,m2,False

@@ -317,3 +317,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2009543118,listing,/54-grassy-rd-bowraville-nsw-2449-2009543118,508000,is-sold,Sold by private treaty 29 Jun 2012,20120629,54 Grassy Rd,BOWRAVILLE,NSW,2449,-30.6492214,152.862259,3,3,3,House,House,False,0.0,m2,False
 2009683678,listing,/950-rodeo-drive-tewinga-nsw-2449-2009683678,315000,is-sold,Sold by private treaty 21 Jun 2012,20120621,950 Rodeo Drive,TEWINGA,NSW,2449,-30.658226,152.91098,3,3,3,Rural,Rural,False,0.0,m2,False
 2009748483,listing,/bowraville-nsw-2449-2009748483,110000,is-sold,Sold by private treaty 03 Sep 2012,20120903,,BOWRAVILLE,NSW,2449,-30.6497211,152.8537,3,3,3,House,House,False,0.0,m2,False
+2017980319,listing,/164-helliwells-rd-missabotti-nsw-2449-2017980319,900000,is-sold,Sold by private treaty 09 Mar 2023,20230309,164 Helliwells Rd,MISSABOTTI,NSW,2449,-30.5914822,152.831818,3,1,4,House,House,True,4.25,ha,False

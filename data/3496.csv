@@ -989,3 +989,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008014751,listing,/2-murray-avenue-red-cliffs-vic-3496-2008014751,120000,is-sold,Sold by private treaty 09 Oct 2009,20091009,2 Murray Avenue,RED CLIFFS,VIC,3496,-34.311676,142.1839,2,2,2,House,House,False,0.0,m2,False
 2018323107,listing,/12-the-centreway-red-cliffs-vic-3496-2018323107,,is-sold,Sold by private treaty 07 Mar 2023,20230307,12 The Centreway,RED CLIFFS,VIC,3496,-34.30038,142.20192,3,1,2,House,House,False,1280,m2,False
 2018317791,listing,/6-mcglashan-street-red-cliffs-vic-3496-2018317791,,is-sold,Sold by private treaty 07 Mar 2023,20230307,6 McGlashan Street,RED CLIFFS,VIC,3496,-34.3071327,142.188385,3,2,2,House,House,False,583,m2,False
+2018266082,listing,/2-ash-court-red-cliffs-vic-3496-2018266082,,is-sold,Sold by private treaty 09 Mar 2023,20230309,2 Ash Court,RED CLIFFS,VIC,3496,-34.307373,142.192825,3,1,2,House,House,False,641,m2,False
+2018328313,listing,/29-hollins-road-red-cliffs-vic-3496-2018328313,,is-sold,Sold by private treaty 09 Mar 2023,20230309,29 Hollins Road,RED CLIFFS,VIC,3496,-34.28806,142.161682,3,1,2,House,House,False,743,m2,False

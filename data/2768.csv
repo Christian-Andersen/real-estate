@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017492064,listing,/31-majestic-drive-stanhope-gardens-nsw-2768-2017492064,742000,is-sold,Sold by private treaty 17 Jul 2019,20190717,31 Majestic Drive,STANHOPE GARDENS,NSW,2768,-33.72151,150.928436,3,3,3,House,House,False,469,m2,False
 2018360378,listing,/10-nydeggar-avenue-glenwood-nsw-2768-2018360378,1270000,is-sold,Sold at auction 05 Mar 2023,20230305,10 Nydeggar Avenue,GLENWOOD,NSW,2768,-33.7290077,150.927261,3,2,2,House,House,False,450,m2,False
 2018332745,listing,/8-galea-drive-glenwood-nsw-2768-2018332745,1885000,is-sold,Sold at auction 07 Mar 2023,20230307,8 Galea Drive,GLENWOOD,NSW,2768,-33.7399,150.926254,4,3,2,House,House,False,0,m2,False
+2018279460,listing,/9-angel-court-glenwood-nsw-2768-2018279460,1640000,is-sold,Sold by private treaty 09 Mar 2023,20230309,9 Angel Court,GLENWOOD,NSW,2768,-33.73897,150.927231,4,3,2,House,House,False,0,m2,False

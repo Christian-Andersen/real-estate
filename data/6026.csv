@@ -999,3 +999,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015855548,listing,/21-dalton-crescent-kingsley-wa-6026-2015855548,,is-sold,Sold by private treaty 15 Nov 2019,20191115,21 Dalton Crescent,KINGSLEY,WA,6026,-31.8104916,115.8003,4,4,4,House,House,False,690,m2,False
 2015858642,listing,/29-harness-street-kingsley-wa-6026-2015858642,,is-sold,Sold by private treaty 15 Nov 2019,20191115,29 Harness Street,KINGSLEY,WA,6026,-31.80527,115.800858,3,3,3,House,House,False,700,m2,False
 2018329114,listing,/12-legana-avenue-kingsley-wa-6026-2018329114,750000,is-sold,Sold by private treaty 07 Mar 2023,20230307,12 Legana Avenue,KINGSLEY,WA,6026,-31.81805,115.8101,4,2,2,House,House,False,713,m2,False
+2018255048,listing,/8-richmond-place-kingsley-wa-6026-2018255048,,is-sold,Sold by private treaty 08 Mar 2023,20230308,8 Richmond Place,KINGSLEY,WA,6026,-31.8032036,115.786713,4,2,2,House,House,False,454,m2,False
+2018324405,listing,/5-chase-court-woodvale-wa-6026-2018324405,780000,is-sold,Sold by private treaty 08 Mar 2023,20230308,5 Chase Court,WOODVALE,WA,6026,-31.7972584,115.787849,4,2,1,House,House,False,724,m2,False
+2018311725,listing,/41-celina-crescent-kingsley-wa-6026-2018311725,752500,is-sold,Sold by private treaty 09 Mar 2023,20230309,41 Celina Crescent,KINGSLEY,WA,6026,-31.8203869,115.8008,4,2,2,House,House,False,700,m2,False

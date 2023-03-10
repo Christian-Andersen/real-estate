@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018313693,listing,/1-150-labouchere-road-como-wa-6152-2018313693,,is-sold,Sold by private treaty 20 Feb 2023,20230220,1/150 Labouchere Road,COMO,WA,6152,-31.99028,115.858421,3,3,3,SemiDetached,Semi-Detached,False,356,m2,False
 2018359828,listing,/3-56-comer-street-como-wa-6152-2018359828,,is-sold,Sold by private treaty 22 Feb 2023,20230222,3/56 Comer Street,COMO,WA,6152,-31.9909744,115.863487,3,3,3,Villa,Villa,False,0,m2,False
 2018133128,listing,/33a-henley-street-como-wa-6152-2018133128,,is-sold,Sold 04 Mar 2023,20230304,33A HENLEY STREET,COMO,WA,6152,-32.00587,115.864792,,,,VacantLand,Vacant land,False,350,m2,False
+2018232853,listing,/88-kilkenny-circle-waterford-wa-6152-2018232853,,is-sold,Sold by private treaty 08 Mar 2023,20230308,88 Kilkenny Circle,WATERFORD,WA,6152,-32.01855,115.878006,4,2,2,House,House,False,794,m2,False

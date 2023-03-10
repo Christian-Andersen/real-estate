@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018072740,listing,/-meadowcroft-cunderdin-wa-6407-2018072740,,is-sold,Sold at auction 26 Oct 2022,20221026,. 'Meadowcroft',CUNDERDIN,WA,6407,-31.6274643,117.232849,,,,Rural,Rural,True,320.0,ha,False
 2018196035,listing,/-kromana-avalon-cunderdin-wa-6407-2018196035,340400,is-sold,Sold by private treaty 14 Dec 2022,20221214,. Kromana Avalon,CUNDERDIN,WA,6407,-31.6274643,117.232849,,,,Farm,Farm,True,2023.0,ha,False
 2018383080,listing,/22a-margaret-street-cunderdin-wa-6407-2018383080,,is-sold,Sold by private treaty 30 Sep 2022,20220930,22A Margaret Street,CUNDERDIN,WA,6407,-31.6569214,117.240059,4,4,4,House,House,False,4041.0,m2,False
+2018371905,listing,/lot-10-hills-road-cunderdin-wa-6407-2018371905,,is-sold,Sold by private treaty 09 Mar 2023,20230309,Lot 10 Hills Road,CUNDERDIN,WA,6407,-31.6274643,117.232849,,,,Rural,Rural,True,64.75,ha,False

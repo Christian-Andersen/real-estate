@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017903898,listing,/17-fisher-st-georgetown-sa-5472-2017903898,200000,is-sold,Sold by private treaty 01 Dec 2022,20221201,17 Fisher St,GEORGETOWN,SA,5472,-33.3617363,138.394058,4,4,4,House,House,False,1866.0,m2,False
 2017951001,listing,/-garawang-lehmann-road-georgetown-sa-5472-2017951001,,is-sold,Sold by private treaty 28 Oct 2022,20221028,'Garawang' Lehmann Road,GEORGETOWN,SA,5472,-33.35738,138.450928,,,,Farm,Farm,True,791.6,ha,False
 2018124953,listing,/123-brogan-rd-georgetown-sa-5472-2018124953,131000,is-sold,Sold by private treaty 18 Jan 2023,20230118,123 Brogan Rd,GEORGETOWN,SA,5472,-33.3631248,138.387192,3,3,3,House,House,False,1156.0,m2,False
+2018305162,listing,/1-west-terrace-georgetown-sa-5472-2018305162,60000,is-sold,Sold by private treaty 09 Mar 2023,20230309,1 West Terrace,GEORGETOWN,SA,5472,-33.36317,138.390808,,,,VacantLand,Vacant land,False,4053,m2,False

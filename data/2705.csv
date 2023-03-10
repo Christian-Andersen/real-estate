@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012629987,listing,/93-acacia-ave-leeton-nsw-2705-2012629987,260000,is-sold,Sold by private treaty 19 Mar 2016,20160319,93 Acacia Ave,LEETON,NSW,2705,-34.5571251,146.4059,4,4,4,House,House,False,1012.0,m2,False
 2012650201,listing,/76-yanco-avenue-leeton-nsw-2705-2012650201,225000,is-sold,Sold by private treaty 12 Feb 2016,20160212,76 Yanco Avenue,LEETON,NSW,2705,-34.5638046,146.41246,3,3,3,VacantLand,Vacant land,False,0.0,m2,False
 2018399233,listing,/452-merungle-hill-road-leeton-nsw-2705-2018399233,,is-sold,Sold at auction 07 Mar 2023,20230307,452 Merungle Hill Road,LEETON,NSW,2705,-34.5931664,146.468033,3,1,2,AcreageSemiRural,Acreage / Semi-Rural,True,19.14,ha,False
+2018320548,listing,/3-cassia-road-leeton-nsw-2705-2018320548,340000,is-sold,Sold by private treaty 08 Mar 2023,20230308,3 Cassia Road,LEETON,NSW,2705,-34.5469742,146.400681,3,1,1,House,House,False,720,m2,False

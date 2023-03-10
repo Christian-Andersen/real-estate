@@ -999,3 +999,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012001204,listing,/210-beecroft-road-cheltenham-nsw-2119-2012001204,1950000,is-sold,Sold at auction 20 Jun 2015,20150620,210 Beecroft Road,CHELTENHAM,NSW,2119,-33.7604446,151.079071,5,5,5,House,House,False,1315,m2,False
 2012001210,listing,/17a-murray-road-cheltenham-nsw-2119-2012001210,1502000,is-sold,Sold at auction 13 Jun 2015,20150613,17A Murray Road,CHELTENHAM,NSW,2119,-33.7571945,151.07103,3,3,3,House,House,False,0,m2,False
 2012016237,listing,/53-cardinal-avenue-beecroft-nsw-2119-2012016237,1015000,is-sold,Sold at auction 19 Jun 2015,20150619,53 Cardinal Avenue,BEECROFT,NSW,2119,-33.74802,151.0529,3,3,3,House,House,False,0,m2,False
+2017952620,listing,/2-york-street-beecroft-nsw-2119-2017952620,,is-sold,Sold by private treaty 08 Mar 2023,20230308,2 York Street,BEECROFT,NSW,2119,-33.7489662,151.060822,7,7,3,House,House,False,1619,m2,False
+2018355643,listing,/6-park-avenue-beecroft-nsw-2119-2018355643,,is-sold,Sold prior to auction 09 Mar 2023,20230309,6 Park Avenue,BEECROFT,NSW,2119,-33.7461166,151.068222,3,1,3,House,House,False,910,m2,False
+2018408188,listing,/206-beecroft-road-cheltenham-nsw-2119-2018408188,,is-sold,Sold by private treaty 09 Mar 2023,20230309,206 Beecroft Road,CHELTENHAM,NSW,2119,-33.760067,151.078873,4,1,2,House,House,False,1062,m2,False

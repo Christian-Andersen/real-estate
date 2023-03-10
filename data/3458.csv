@@ -937,3 +937,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007677505,listing,/9-lelant-st-trentham-vic-3458-2007677505,430000,is-sold,Sold by private treaty 17 Mar 2009,20090317,9 Lelant St,TRENTHAM,VIC,3458,-37.3864136,144.319244,2,2,2,House,House,False,0.0,m2,False
 2007723967,listing,/20-groves-st-trentham-vic-3458-2007723967,,is-sold,Sold by private treaty 15 Apr 2009,20090415,20 Groves St,TRENTHAM,VIC,3458,-37.395134,144.323242,3,3,3,House,House,False,1100.0,m2,False
 2018324099,listing,/2-matheson-street-trentham-vic-3458-2018324099,1975000,is-sold,Sold at auction 04 Mar 2023,20230304,2 Matheson Street,TRENTHAM,VIC,3458,-37.3925323,144.328827,2,2,2,House,House,False,17000.0,m2,False
+2018190899,listing,/179-rippers-lane-trentham-east-vic-3458-2018190899,,is-sold,Sold by private treaty 09 Mar 2023,20230309,179 Rippers Lane,TRENTHAM EAST,VIC,3458,-37.35912,144.399872,4,2,2,House,House,True,6.08,ha,False
+2018347136,listing,/111-blue-mount-road-trentham-vic-3458-2018347136,1540000,is-sold,Sold by private treaty 09 Mar 2023,20230309,111 Blue Mount Road,TRENTHAM,VIC,3458,-37.3958855,144.309525,3,2,4,House,House,True,1.74,ha,False

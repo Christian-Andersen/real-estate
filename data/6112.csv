@@ -10,3 +10,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018349828,listing,/72-chiltern-avenue-brookdale-wa-6112-2018349828,430250,is-sold,Sold by private treaty 02 Mar 2023,20230302,72 Chiltern Avenue,BROOKDALE,WA,6112,-32.1710777,116.006035,4,4,4,House,House,False,572,m2,False
 2018367223,listing,/13-angelo-street-armadale-wa-6112-2018367223,260000,is-sold,Sold by private treaty 06 Mar 2023,20230306,13 Angelo Street,ARMADALE,WA,6112,-32.1552773,116.002945,4,1,,House,House,False,787,m2,False
 2018303666,listing,/18-bright-street-haynes-wa-6112-2018303666,,is-sold,Sold by private treaty 07 Mar 2023,20230307,18 Bright Street,HAYNES,WA,6112,-32.1568146,115.991814,5,2,2,House,House,False,480,m2,False
+2018311410,listing,/11a-joyner-way-armadale-wa-6112-2018311410,262000,is-sold,Sold by private treaty 08 Mar 2023,20230308,11A Joyner Way,ARMADALE,WA,6112,-32.15228,115.995,3,1,1,Duplex,Duplex,False,84,m2,False
+2018304583,listing,/68-gribble-avenue-armadale-wa-6112-2018304583,350000,is-sold,Sold by private treaty 09 Mar 2023,20230309,68 Gribble Avenue,ARMADALE,WA,6112,-32.15266,115.99588,3,1,1,House,House,False,708,m2,False

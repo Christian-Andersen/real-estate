@@ -269,3 +269,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011811533,listing,/spring-street-bingara-nsw-2404-2011811533,,is-sold,Sold by private treaty 05 May 2015,20150505,Spring Street,BINGARA,NSW,2404,-29.8764153,150.577637,3,3,3,House,House,False,1678.0,m2,False
 2011818005,listing,/l3-narrabri-road-bingara-nsw-2404-2011818005,,is-sold,Sold by private treaty 23 Apr 2015,20150423,L3 Narrabri Road,BINGARA,NSW,2404,-29.8711052,150.551437,,,,VacantLand,Vacant land,False,3276.0,m2,False
 2011829749,listing,/6-bligh-street-bingara-nsw-2404-2011829749,80000,is-sold,Sold by private treaty 06 May 2015,20150506,6 Bligh Street,BINGARA,NSW,2404,-29.85844,150.577744,3,3,3,House,House,False,1067.0,m2,False
+2018390946,listing,/20-bombelli-street-bingara-nsw-2404-2018390946,315000,is-sold,Sold by private treaty 08 Mar 2023,20230308,20 Bombelli Street,BINGARA,NSW,2404,-29.8682041,150.563583,3,1,2,House,House,False,2040,m2,False

@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018043763,listing,/1518-numurkah-road-strathmerton-vic-3641-2018043763,460000,is-sold,Sold by private treaty 04 Nov 2022,20221104,1518 Numurkah Road,STRATHMERTON,VIC,3641,-35.96688,145.478668,3,3,3,Rural,Rural,True,0.0,m2,False
 2018200230,listing,/4-first-st-strathmerton-vic-3641-2018200230,316000,is-sold,Sold at auction 03 Feb 2023,20230203,4 First St,STRATHMERTON,VIC,3641,-35.9264069,145.476379,4,4,4,House,House,False,674.0,m2,False
 2018211728,listing,/71-findlay-street-strathmerton-vic-3641-2018211728,330000,is-sold,Sold by private treaty 19 Dec 2022,20221219,71 Findlay Street,STRATHMERTON,VIC,3641,-35.9239845,145.475876,3,3,3,House,House,False,0.0,m2,False
+2018210630,listing,/1-patrick-street-strathmerton-vic-3641-2018210630,,is-sold,Sold by private treaty 08 Mar 2023,20230308,1 Patrick Street,STRATHMERTON,VIC,3641,-35.92651,145.4759,3,1,2,House,House,False,0,m2,False

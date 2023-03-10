@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018292946,listing,/1-gibbs-street-riverview-qld-4303-2018292946,325000,is-sold,Sold by private treaty 26 Jan 2023,20230126,1 Gibbs Street,RIVERVIEW,QLD,4303,-27.5987988,152.845108,3,3,3,House,House,False,597,m2,False
 2018321001,listing,/38-earl-street-dinmore-qld-4303-2018321001,410000,is-sold,Sold by private treaty 08 Feb 2023,20230208,38 Earl Street,DINMORE,QLD,4303,-27.5927162,152.83139,4,4,4,House,House,False,425,m2,False
 2018325800,listing,/21a-caroline-street-riverview-qld-4303-2018325800,458000,is-sold,Sold by private treaty 08 Feb 2023,20230208,21A Caroline Street,RIVERVIEW,QLD,4303,-27.6005249,152.8534,3,3,3,House,House,False,736,m2,False
+2018264021,listing,/34-river-road-dinmore-qld-4303-2018264021,,is-sold,Sold by private treaty 09 Mar 2023,20230309,34 River Road,DINMORE,QLD,4303,-27.5927238,152.832321,4,1,1,House,House,False,809,m2,False

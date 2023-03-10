@@ -999,3 +999,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016629197,listing,/10-bernard-street-kelmscott-wa-6111-2016629197,,is-sold,Sold by private treaty 20 Nov 2020,20201120,10 Bernard Street,KELMSCOTT,WA,6111,-32.12543,116.035919,4,4,4,House,House,False,825.0,m2,False
 2016633343,listing,/68-tollington-park-road-kelmscott-wa-6111-2016633343,,is-sold,Sold by private treaty 16 Nov 2020,20201116,68 Tollington Park Road,KELMSCOTT,WA,6111,-32.1242027,116.01107,3,3,3,House,House,False,718.0,m2,False
 2016638215,listing,/7-steve-street-kelmscott-wa-6111-2016638215,,is-sold,Sold by private treaty 23 Nov 2020,20201123,7 Steve Street,KELMSCOTT,WA,6111,-32.1148033,116.024513,4,4,4,House,House,False,850.0,m2,False
+2018310882,listing,/79-amanda-drive-camillo-wa-6111-2018310882,285000,is-sold,Sold by private treaty 07 Mar 2023,20230307,79 Amanda Drive,CAMILLO,WA,6111,-32.1117821,115.996826,3,1,1,Duplex,Duplex,False,590,m2,False
+2018284667,listing,/6-megan-way-camillo-wa-6111-2018284667,,is-sold,Sold by private treaty 09 Mar 2023,20230309,6 Megan Way,CAMILLO,WA,6111,-32.1124039,115.999893,3,1,2,House,House,False,660,m2,False

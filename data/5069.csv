@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011574234,listing,/25-seventh-avenue-st-peters-sa-5069-2011574234,925000,is-sold,Sold by private treaty 22 Dec 2014,20141222,25 Seventh Avenue,ST PETERS,SA,5069,-34.9067841,138.619415,4,4,4,House,House,False,654,m2,False
 2011584317,listing,/13a-tenth-avenue-st-peters-sa-5069-2011584317,800001,is-sold,Sold by private treaty 08 Jan 2015,20150108,13A Tenth Avenue,ST PETERS,SA,5069,-34.9017334,138.618988,3,3,3,House,House,False,0,m2,False
 2018320865,listing,/18-tenth-avenue-st-peters-sa-5069-2018320865,,is-sold,Sold at auction 05 Mar 2023,20230305,18 Tenth Avenue,ST PETERS,SA,5069,-34.9015121,138.618484,3,2,5,House,House,False,835,m2,False
+2018354474,listing,/6-sixth-avenue-st-peters-sa-5069-2018354474,,is-sold,Sold at auction 08 Mar 2023,20230308,6 Sixth Avenue,ST PETERS,SA,5069,-34.90814,138.61911,3,1,2,House,House,False,557,m2,False

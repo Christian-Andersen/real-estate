@@ -1001,3 +1001,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014647043,listing,/16-5-beasley-street-torrens-act-2607-2014647043,450000,is-sold,Sold by private treaty 09 Oct 2018,20181009,16/5 Beasley Street,TORRENS,ACT,2607,-35.3648071,149.09111,2,2,2,Townhouse,Townhouse,False,0,m2,False
 2018326481,listing,/7-gratton-place-isaacs-act-2607-2018326481,,is-sold,Sold by private treaty 06 Mar 2023,20230306,7 Gratton Place,ISAACS,ACT,2607,-35.36544,149.110748,3,1,1,House,House,False,543,m2,False
 2018371878,listing,/3-50-enderby-street-mawson-act-2607-2018371878,,is-sold,Sold prior to auction 06 Mar 2023,20230306,3/50 Enderby Street,MAWSON,ACT,2607,-35.35559,149.096954,3,2,2,Townhouse,Townhouse,False,343,m2,False
+2018326479,listing,/3-southee-place-farrer-act-2607-2018326479,,is-sold,Sold by private treaty 08 Mar 2023,20230308,3 Southee Place,FARRER,ACT,2607,-35.3784981,149.108643,3,2,1,Townhouse,Townhouse,False,282,m2,False
+2018356945,listing,/10-hannam-place-mawson-act-2607-2018356945,,is-sold,Sold at auction 08 Mar 2023,20230308,10 Hannam Place,MAWSON,ACT,2607,-35.3599129,149.101059,4,2,2,House,House,False,791,m2,False
+2018313473,listing,/4-werribee-crescent-farrer-act-2607-2018313473,,is-sold,Sold by private treaty 09 Mar 2023,20230309,4 Werribee Crescent,FARRER,ACT,2607,-35.3747635,149.105988,4,2,2,House,House,False,783,m2,False

@@ -3,3 +3,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018361917,listing,/5-17-westbrook-way-girrawheen-wa-6064-2018361917,295000,is-sold,Sold by private treaty 27 Feb 2023,20230227,5/17 Westbrook Way,GIRRAWHEEN,WA,6064,-31.8413811,115.84581,3,3,3,Villa,Villa,False,676,m2,False
 2018329327,listing,/18a-keeley-way-girrawheen-wa-6064-2018329327,371000,is-sold,Sold by private treaty 03 Mar 2023,20230303,18A Keeley Way,GIRRAWHEEN,WA,6064,-31.83597,115.825188,3,3,3,House,House,False,327,m2,False
 2018362196,listing,/38-harford-way-girrawheen-wa-6064-2018362196,,is-sold,Sold by private treaty 07 Mar 2023,20230307,38 Harford Way,GIRRAWHEEN,WA,6064,-31.842495,115.840508,3,1,2,House,House,False,692,m2,False
+2018360036,listing,/77-fenchurch-street-alexander-heights-wa-6064-2018360036,616500,is-sold,Sold by private treaty 10 Mar 2023,20230310,77 Fenchurch Street,ALEXANDER HEIGHTS,WA,6064,-31.8229733,115.870361,4,2,2,House,House,False,535,m2,False

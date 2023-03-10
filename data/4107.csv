@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018259504,listing,/281-evans-rd-salisbury-qld-4107-2018259504,885000,is-sold,Sold by private treaty 23 Jan 2023,20230123,281 Evans Rd,SALISBURY,QLD,4107,-27.5459919,153.035263,4,4,4,House,House,False,602,m2,False
 2018263054,listing,/67-blackwood-road-salisbury-qld-4107-2018263054,,is-sold,Sold by private treaty 16 Dec 2022,20221216,67 Blackwood Road,SALISBURY,QLD,4107,-27.5529881,153.02594,5,5,5,House,House,False,809,m2,False
 2018342835,listing,/124-lillian-avenue-salisbury-qld-4107-2018342835,700000,is-sold,Sold by private treaty 03 Mar 2023,20230303,124 Lillian Avenue,SALISBURY,QLD,4107,-27.5535469,153.02684,2,2,2,House,House,False,405,m2,False
+2018406356,listing,/362-lillian-avenue-salisbury-qld-4107-2018406356,,is-sold,Sold by private treaty 09 Mar 2023,20230309,362 Lillian Avenue,SALISBURY,QLD,4107,-27.5553379,153.038513,5,2,2,House,House,False,405,m2,False

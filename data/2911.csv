@@ -510,3 +510,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010322746,listing,/12-indi-close-crace-act-2911-2010322746,,is-sold,Sold by private treaty 06 Jun 2013,20130606,12 Indi Close,CRACE,ACT,2911,-35.2027168,149.107681,4,4,4,House,House,False,704.0,m2,False
 2010340376,listing,/8-durong-street-crace-act-2911-2010340376,616000,is-sold,Sold at auction 13 Apr 2013,20130413,8 Durong Street,CRACE,ACT,2911,-35.1991234,149.107452,4,4,4,House,House,False,0.0,m2,False
 2010399364,listing,/21-abena-avenue-crace-act-2911-2010399364,570000,is-sold,Sold by private treaty 28 Jun 2013,20130628,21 Abena Avenue,CRACE,ACT,2911,-35.20075,149.104279,4,4,4,House,House,False,0.0,m2,False
+2018369842,listing,/20-errol-street-crace-act-2911-2018369842,871000,is-sold,Sold by private treaty 08 Mar 2023,20230308,20 Errol Street,CRACE,ACT,2911,-35.200325,149.105835,3,2,2,House,House,False,294,m2,False

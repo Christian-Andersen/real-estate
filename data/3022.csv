@@ -669,3 +669,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007609537,listing,/182-forrest-street-ardeer-vic-3022-2007609537,240000,is-sold,Sold by private treaty 13 Feb 2009,20090213,182 Forrest Street,ARDEER,VIC,3022,-37.782753,144.803452,3,3,3,House,House,False,0,m2,False
 2008028675,listing,/40-helene-street-ardeer-vic-3022-2008028675,325000,is-sold,Sold by private treaty 08 Sep 2008,20080908,40 Helene Street,ARDEER,VIC,3022,-37.7783775,144.802826,4,4,4,House,House,False,0,m2,False
 2018322128,listing,/14-maxweld-street-ardeer-vic-3022-2018322128,795000,is-sold,Sold at auction 04 Mar 2023,20230304,14 Maxweld Street,ARDEER,VIC,3022,-37.78032,144.805954,3,3,3,House,House,False,604,m2,False
+2018353204,listing,/1-16-chelsey-street-ardeer-vic-3022-2018353204,590000,is-sold,Sold by private treaty 10 Mar 2023,20230310,1/16 Chelsey Street,ARDEER,VIC,3022,-37.77584,144.79808,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

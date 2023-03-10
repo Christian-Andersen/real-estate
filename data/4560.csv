@@ -5,3 +5,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018190169,listing,/47-51-blackall-terrace-nambour-qld-4560-2018190169,750000,is-sold,Sold by private treaty 01 Mar 2023,20230301,47-51 Blackall Terrace,NAMBOUR,QLD,4560,-26.6206951,152.957443,3,3,3,House,House,False,1621,m2,False
 2017900649,listing,/3-189-camp-flat-rd-bli-bli-qld-4560-2017900649,,is-sold,Sold by private treaty 02 Mar 2023,20230302,3/189 Camp Flat Rd,BLI BLI,QLD,4560,-26.6012878,153.021759,,,,VacantLand,Vacant land,False,950,m2,False
 2018312971,listing,/20-klinain-street-coes-creek-qld-4560-2018312971,718000,is-sold,Sold by private treaty 06 Mar 2023,20230306,20 Klinain Street,COES CREEK,QLD,4560,-26.6448212,152.95018,3,2,2,House,House,False,888,m2,False
+2018343497,listing,/24-webster-road-nambour-qld-4560-2018343497,575000,is-sold,Sold by private treaty 09 Mar 2023,20230309,24 Webster Road,NAMBOUR,QLD,4560,-26.6220932,152.957489,4,1,1,House,House,False,673,m2,False

@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018193966,listing,/lot-11-goyder-highway-markaranka-sa-5330-2018193966,225000,is-sold,Sold by private treaty 02 Dec 2022,20221202,Lot 11 Goyder Highway,MARKARANKA,SA,5330,-34.0800934,139.955124,,,,Rural,Rural,True,100.0,ha,False
 2018228697,listing,/4-wohling-street-waikerie-sa-5330-2018228697,300000,is-sold,Sold by private treaty 09 Jan 2023,20230109,4 Wohling Street,WAIKERIE,SA,5330,-34.1849556,139.988037,3,3,3,House,House,False,809.0,m2,False
 2018257091,listing,/17-don-elliott-drive-waikerie-sa-5330-2018257091,245000,is-sold,Sold by private treaty 19 Dec 2022,20221219,17 Don Elliott Drive,WAIKERIE,SA,5330,-34.1865654,139.984665,3,3,3,House,House,False,0.0,m2,False
+2018028339,listing,/2080-maggea-road-boolgun-sa-5330-2018028339,,is-sold,Sold by private treaty 08 Mar 2023,20230308,2080 Maggea Road,BOOLGUN,SA,5330,-34.37557,140.002716,4,1,6,Rural,Rural,True,1543.88,ha,False

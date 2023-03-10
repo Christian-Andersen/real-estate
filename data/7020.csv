@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018279789,listing,/686-dorans-road-sandford-tas-7020-2018279789,1475000,is-sold,Sold by private treaty 23 Jan 2023,20230123,686 Dorans Road,SANDFORD,TAS,7020,-42.9392242,147.458527,4,4,4,House,House,False,20200.0,m2,False
 2018292360,listing,/384-dorans-road-sandford-tas-7020-2018292360,2000000,is-sold,Sold by private treaty 14 Feb 2023,20230214,384 Dorans Road,SANDFORD,TAS,7020,-42.9225235,147.469025,5,5,5,House,House,False,9997.0,m2,False
 2018195746,listing,/48-honeywood-drive-sandford-tas-7020-2018195746,1200000,is-sold,Sold by private treaty 06 Mar 2023,20230306,48 Honeywood Drive,SANDFORD,TAS,7020,-42.9605865,147.514771,3,1,6,House,House,True,2.02,ha,False
+2018120187,listing,/410-rifle-range-road-sandford-tas-7020-2018120187,950000,is-sold,Sold by private treaty 09 Mar 2023,20230309,410 Rifle Range Road,SANDFORD,TAS,7020,-42.95893,147.4756,4,1,6,House,House,True,1.91,ha,False

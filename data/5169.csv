@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016235010,listing,/13-dock-road-seaford-meadows-sa-5169-2016235010,430000,is-sold,Sold by private treaty 12 May 2020,20200512,13 Dock Road,SEAFORD MEADOWS,SA,5169,-35.17549,138.479782,3,3,3,House,House,False,550,m2,False
 2018351788,listing,/89-seaford-road-seaford-meadows-sa-5169-2018351788,723000,is-sold,Sold by private treaty 07 Mar 2023,20230307,89 Seaford Road,SEAFORD MEADOWS,SA,5169,-35.1803856,138.480423,4,2,2,House,House,False,0,m2,False
 2018024744,listing,/11-babbacombe-drive-moana-sa-5169-2018024744,,is-sold,Sold 07 Mar 2023,20230307,11 BABBACOMBE DRIVE,MOANA,SA,5169,-35.21222,138.474411,4,2,4,House,House,False,636,m2,False
+2018297642,listing,/25-miranda-place-seaford-meadows-sa-5169-2018297642,760000,is-sold,Sold by private treaty 08 Mar 2023,20230308,25 Miranda Place,SEAFORD MEADOWS,SA,5169,-35.170414,138.481339,4,2,3,House,House,False,630,m2,False

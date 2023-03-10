@@ -227,3 +227,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008487331,listing,/rylstone-nsw-2849-2008487331,287000,is-sold,Sold by private treaty 08 Nov 2010,20101108,,RYLSTONE,NSW,2849,-32.7857,149.9736,4,4,4,Rural,Rural,False,0.0,m2,False
 2008626366,listing,/rylstone-nsw-2849-2008626366,,is-sold,Sold at auction 06 Nov 2010,20101106,,RYLSTONE,NSW,2849,-32.722187,149.9571,,,,Rural,Rural,False,0.0,m2,False
 2008660599,listing,/rylstone-nsw-2849-2008660599,,is-sold,Sold at auction 11 Dec 2010,20101211,,RYLSTONE,NSW,2849,-32.79992,149.971024,1,1,1,House,House,False,0.0,m2,False
+2018349856,listing,/56-panorama-court-rylstone-nsw-2849-2018349856,355000,is-sold,Sold by private treaty 08 Mar 2023,20230308,56 Panorama Court,RYLSTONE,NSW,2849,-32.7875862,149.964447,,,,Rural,Rural,True,2.02,ha,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016415567,listing,/floreat-wa-6014-2016415567,,is-sold,Sold by private treaty 16 Jul 2020,20200716,,FLOREAT,WA,6014,-31.9344273,115.790649,4,3,2,House,House,False,1007,m2,False
 2016420725,listing,/42-85-herdsman-parade-wembley-wa-6014-2016420725,159000,is-sold,Sold by private treaty 10 Aug 2020,20200810,42/85 Herdsman Parade,WEMBLEY,WA,6014,-31.92962,115.811462,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2017170945,listing,/34-oakdale-street-floreat-wa-6014-2017170945,,is-sold,Sold by private treaty 04 Aug 2020,20200804,34 Oakdale Street,FLOREAT,WA,6014,-31.94008,115.787865,4,2,2,House,House,False,809,m2,False
+2018345339,listing,/16b-kirwan-street-floreat-wa-6014-2018345339,1285000,is-sold,Sold by private treaty 08 Mar 2023,20230308,16B Kirwan Street,FLOREAT,WA,6014,-31.9450264,115.802353,3,2,2,House,House,False,533,m2,False

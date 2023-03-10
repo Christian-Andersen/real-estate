@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016548821,listing,/3-redwood-crescent-melville-wa-6156-2016548821,,is-sold,Sold by private treaty 29 Oct 2020,20201029,3 Redwood Crescent,MELVILLE,WA,6156,-32.0400047,115.7942,4,4,4,House,House,False,446,m2,False
 2016550490,listing,/33-bawdan-street-willagee-wa-6156-2016550490,570000,is-sold,Sold by private treaty 22 Oct 2020,20201022,33 Bawdan Street,WILLAGEE,WA,6156,-32.0499954,115.804413,3,3,3,AcreageSemiRural,Acreage / Semi-Rural,True,721,m2,False
 2016568743,listing,/11-challenger-place-melville-wa-6156-2016568743,,is-sold,Sold by private treaty 25 Oct 2020,20201025,11 Challenger Place,MELVILLE,WA,6156,-32.0433273,115.802147,3,3,3,House,House,False,802,m2,False
+2018201982,listing,/2-12-lentona-road-attadale-wa-6156-2018201982,935000,is-sold,Sold by private treaty 07 Mar 2023,20230307,2/12 Lentona Road,ATTADALE,WA,6156,-32.0301437,115.812218,4,2,2,House,House,False,317,m2,False

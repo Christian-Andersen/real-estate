@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018237680,listing,/27-warfe-way-yinnar-yinnar-vic-3869-2018237680,,is-sold,Sold by private treaty 10 Feb 2023,20230210,27 Warfe Way Yinnar,YINNAR,VIC,3869,-38.3255653,146.328629,,,,VacantLand,Vacant land,False,960.0,m2,False
 2018252494,listing,/5-winterton-place-yinnar-vic-3869-2018252494,,is-sold,Sold by private treaty 13 Jan 2023,20230113,5 Winterton Place,YINNAR,VIC,3869,-38.33122,146.32872,5,5,5,House,House,False,676.0,m2,False
 2018255330,listing,/134-healeys-road-yinnar-south-vic-3869-2018255330,305000,is-sold,Sold by private treaty 14 Feb 2023,20230214,134 Healeys Road,YINNAR SOUTH,VIC,3869,-38.3811836,146.375916,,,,VacantLand,Vacant land,True,1.82,ha,False
+2018267072,listing,/225-gilberts-road-yinnar-south-vic-3869-2018267072,,is-sold,Sold by private treaty 08 Mar 2023,20230308,225 Gilberts Road,YINNAR SOUTH,VIC,3869,-38.39255,146.358032,4,2,4,House,House,True,6.27,ha,False

@@ -1000,3 +1000,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015896675,listing,/36a-paul-street-dundas-nsw-2117-2015896675,1455000,is-sold,Sold at auction 14 Dec 2019,20191214,36A Paul Street,DUNDAS,NSW,2117,-33.8016739,151.049927,5,5,5,House,House,False,327,m2,False
 2015898596,listing,/46-king-street-dundas-valley-nsw-2117-2015898596,1205000,is-sold,Sold at auction 14 Dec 2019,20191214,46 King Street,DUNDAS VALLEY,NSW,2117,-33.79381,151.059357,3,3,3,House,House,False,0,m2,False
 2018280969,listing,/25-felton-street-telopea-nsw-2117-2018280969,1762000,is-sold,Sold by private treaty 06 Mar 2023,20230306,25 Felton Street,TELOPEA,NSW,2117,-33.7876053,151.034988,4,3,2,SemiDetached,Semi-Detached,False,367,m2,False
+2018308931,listing,/160a-park-road-dundas-nsw-2117-2018308931,1780000,is-sold,Sold by private treaty 08 Mar 2023,20230308,160A Park Road,DUNDAS,NSW,2117,-33.80289,151.041565,5,4,2,SemiDetached,Semi-Detached,False,0,m2,False
+2018341514,listing,/138-kirby-street-dundas-nsw-2117-2018341514,1400000,is-sold,Sold at auction 08 Mar 2023,20230308,138 Kirby Street,DUNDAS,NSW,2117,-33.80307,151.046478,4,3,1,House,House,False,552,m2,False

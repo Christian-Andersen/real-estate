@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015902870,listing,/1-sloop-street-manly-west-qld-4179-2015902870,616000,is-sold,Sold by private treaty 25 Nov 2019,20191125,1 Sloop Street,MANLY WEST,QLD,4179,-27.47375,153.162491,3,3,3,House,House,False,584,m2,False
 2015904695,listing,/167-hindes-st-lota-qld-4179-2015904695,735000,is-sold,Sold by private treaty 23 Nov 2019,20191123,167 Hindes St,LOTA,QLD,4179,-27.4660683,153.180038,4,4,4,House,House,False,1389,m2,False
 2018391315,listing,/76-manly-road-manly-west-qld-4179-2018391315,,is-sold,Sold by private treaty 04 Mar 2023,20230304,76 Manly Road,MANLY WEST,QLD,4179,-27.4604454,153.175171,4,3,2,House,House,False,673,m2,False
+2018351620,listing,/1-tulkara-street-manly-west-qld-4179-2018351620,940000,is-sold,Sold by private treaty 08 Mar 2023,20230308,1 Tulkara Street,MANLY WEST,QLD,4179,-27.4648628,153.162674,3,2,4,House,House,False,597,m2,False

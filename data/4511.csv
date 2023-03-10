@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018297009,listing,/98-15-23-redondo-street-ningi-qld-4511-2018297009,454000,is-sold,Sold by private treaty 09 Feb 2023,20230209,98/15-23 Redondo Street,NINGI,QLD,4511,-27.0682659,153.106964,3,3,3,House,House,False,371,m2,False
 2018033213,listing,/28-todman-court-ningi-qld-4511-2018033213,827000,is-sold,Sold by private treaty 03 Mar 2023,20230303,28 Todman Court,NINGI,QLD,4511,-27.065,153.066772,3,3,3,House,House,False,4230,m2,False
 2018251039,listing,/1345-bribie-island-road-ningi-qld-4511-2018251039,455000,is-sold,Sold by private treaty 06 Mar 2023,20230306,1345 Bribie Island Road,NINGI,QLD,4511,-27.0661869,153.101349,3,1,2,House,House,False,582,m2,False
+2018262353,listing,/77-ningi-esplanade-ningi-qld-4511-2018262353,410000,is-sold,Sold by private treaty 09 Mar 2023,20230309,77 Ningi Esplanade,NINGI,QLD,4511,-27.0648041,153.08284,2,1,2,House,House,False,739,m2,False

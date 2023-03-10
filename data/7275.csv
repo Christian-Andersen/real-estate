@@ -751,3 +751,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007945092,listing,/swan-point-tas-7275-2007945092,,is-sold,Sold by private treaty 10 Sep 2009,20090910,,SWAN POINT,TAS,7275,-41.2566872,146.966263,3,3,3,House,House,False,2205.0,m2,False
 2016616937,listing,/13a-main-road-lanena-tas-7275-2016616937,,is-sold,Sold by private treaty 04 Jun 2009,20090604,13A Main Road,LANENA,TAS,7275,-41.30896,146.964264,3,3,3,House,House,False,1503.0,m2,False
 2018303261,listing,/2748-frankford-road-frankford-tas-7275-2018303261,,is-sold,Sold by private treaty 06 Mar 2023,20230306,2748 Frankford Road,FRANKFORD,TAS,7275,-41.30004,146.70874,2,2,2,House,House,True,32.37,ha,False
+2018240999,listing,/25-main-road-exeter-tas-7275-2018240999,,is-sold,Sold by private treaty 08 Mar 2023,20230308,25 Main Road,EXETER,TAS,7275,-41.306324,146.959335,3,1,4,House,House,False,4168,m2,False
+2018333348,listing,/365b-rosevears-drive-lanena-tas-7275-2018333348,850000,is-sold,Sold by private treaty 09 Mar 2023,20230309,365B Rosevears Drive,LANENA,TAS,7275,-41.31714,146.975571,4,2,2,House,House,True,1.21,ha,False

@@ -481,3 +481,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016589540,listing,/lot-4-government-road-port-victoria-sa-5573-2016589540,,is-sold,Sold at auction 29 Mar 2009,20090329,Lot 4 Government Road,PORT VICTORIA,SA,5573,-34.496666,137.483337,1,1,1,House,House,False,0.0,m2,False
 2016589184,listing,/18-samuel-street-maitland-sa-5573-2016589184,235000,is-sold,Sold at auction 24 Jun 2008,20080624,18 Samuel Street,MAITLAND,SA,5573,-34.3727722,137.673264,4,4,4,House,House,False,927.0,m2,False
 2016589222,listing,/36-caroline-street-maitland-sa-5573-2016589222,70000,is-sold,Sold at auction 23 May 2008,20080523,36 Caroline Street,MAITLAND,SA,5573,-34.37125,137.67218,2,2,2,House,House,False,0.0,m2,False
+2018186835,listing,/29-elizabeth-street-maitland-sa-5573-2018186835,,is-sold,Sold by private treaty 08 Mar 2023,20230308,29 Elizabeth Street,MAITLAND,SA,5573,-34.37349,137.672333,,1,,House,House,False,658,m2,False

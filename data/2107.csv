@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018344614,listing,/4-wanawong-road-avalon-beach-nsw-2107-2018344614,,is-sold,Sold prior to auction 03 Mar 2023,20230303,4 Wanawong Road,AVALON BEACH,NSW,2107,-33.6238136,151.322632,4,4,4,House,House,False,0,m2,False
 2018287349,listing,/165-plateau-road-bilgola-plateau-nsw-2107-2018287349,2150000,is-sold,Sold at auction 06 Mar 2023,20230306,165 Plateau Road,BILGOLA PLATEAU,NSW,2107,-33.6436653,151.315674,4,2,3,House,House,False,802,m2,False
 2018344964,listing,/8-farview-road-bilgola-plateau-nsw-2107-2018344964,,is-sold,Sold at auction 06 Mar 2023,20230306,8 Farview Road,BILGOLA PLATEAU,NSW,2107,-33.6469269,151.319214,3,2,1,House,House,False,765,m2,False
+2018374404,listing,/32-bellevue-avenue-avalon-beach-nsw-2107-2018374404,,is-sold,Sold prior to auction 08 Mar 2023,20230308,32 Bellevue Avenue,AVALON BEACH,NSW,2107,-33.6372948,151.326645,4,4,2,House,House,False,1214,m2,False

@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013276726,listing,/7-hamal-street-donvale-vic-3111-2013276726,1140000,is-sold,Sold by private treaty 26 Sep 2016,20160926,7 Hamal Street,DONVALE,VIC,3111,-37.79329,145.171616,4,4,4,House,House,False,0.0,m2,False
 2018213845,listing,/3-70-chippewa-avenue-donvale-vic-3111-2018213845,1125000,is-sold,Sold at auction 04 Mar 2023,20230304,3/70 Chippewa Avenue,DONVALE,VIC,3111,-37.8052559,145.199356,5,5,5,Townhouse,Townhouse,False,214.0,m2,False
 2018335050,listing,/22-chippewa-avenue-donvale-vic-3111-2018335050,1241800,is-sold,Sold at auction 04 Mar 2023,20230304,22 Chippewa Avenue,DONVALE,VIC,3111,-37.805294,145.193939,4,4,4,House,House,False,939.0,m2,False
+2018158434,listing,/80-tunstall-road-donvale-vic-3111-2018158434,1734000,is-sold,Sold by private treaty 09 Mar 2023,20230309,80 Tunstall Road,DONVALE,VIC,3111,-37.7950935,145.17038,4,3,2,Townhouse,Townhouse,False,0,m2,False

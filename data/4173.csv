@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018285245,listing,/4-pandanus-place-tingalpa-qld-4173-2018285245,900000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4 Pandanus Place,TINGALPA,QLD,4173,-27.4677734,153.14122,5,5,5,House,House,False,450,m2,False
 2018303824,listing,/65-583-wondall-road-tingalpa-qld-4173-2018303824,498000,is-sold,Sold at auction 05 Feb 2023,20230205,65/583 Wondall Road,TINGALPA,QLD,4173,-27.4729366,153.1447,3,3,3,Townhouse,Townhouse,False,0,m2,False
 2018309439,listing,/64-hamilton-street-tingalpa-qld-4173-2018309439,711500,is-sold,Sold by private treaty 08 Feb 2023,20230208,64 Hamilton Street,TINGALPA,QLD,4173,-27.471489,153.122955,3,3,3,House,House,False,618,m2,False
+2017867296,listing,/16-dialba-crescent-tingalpa-qld-4173-2017867296,,is-sold,Sold by private treaty 09 Mar 2023,20230309,16 Dialba Crescent,TINGALPA,QLD,4173,-27.4716339,153.1405,3,1,1,House,House,False,311,m2,False

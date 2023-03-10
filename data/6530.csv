@@ -23,3 +23,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018269959,listing,/78-tersonia-way-strathalbyn-wa-6530-2018269959,645000,is-sold,Sold by private treaty 03 Mar 2023,20230303,78 Tersonia Way,STRATHALBYN,WA,6530,-28.7495975,114.645683,5,5,5,House,House,False,2067.0,m2,False
 2018139414,listing,/27-oceanside-drive-wandina-wa-6530-2018139414,280000,is-sold,Sold by private treaty 03 Mar 2023,20230303,27 Oceanside Drive,WANDINA,WA,6530,-28.8259087,114.632393,2,2,2,House,House,False,808.0,m2,False
 2017889633,listing,/16-houston-street-spalding-wa-6530-2017889633,55000,is-sold,Sold by private treaty 07 Mar 2023,20230307,16 Houston Street,SPALDING,WA,6530,-28.7441425,114.632439,,,,VacantLand,Vacant land,False,1384,m2,False
+2018273052,listing,/16-conus-way-sunset-beach-wa-6530-2018273052,,is-sold,Sold by private treaty 09 Mar 2023,20230309,16 Conus Way,SUNSET BEACH,WA,6530,-28.7201462,114.622772,4,2,3,House,House,False,1097,m2,False

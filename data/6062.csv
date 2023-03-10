@@ -12,3 +12,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018340788,listing,/65-embleton-avenue-embleton-wa-6062-2018340788,585000,is-sold,Sold by private treaty 28 Feb 2023,20230228,65 Embleton Avenue,EMBLETON,WA,6062,-31.89739,115.916725,3,3,3,House,House,False,728,m2,False
 2018193056,listing,/20-robann-way-morley-wa-6062-2018193056,480000,is-sold,Sold by private treaty 07 Mar 2023,20230307,20 Robann Way,MORLEY,WA,6062,-31.8870945,115.892609,3,1,2,House,House,False,347,m2,False
 2018289218,listing,/49-wheatstone-drive-morley-wa-6062-2018289218,600000,is-sold,Sold by private treaty 07 Mar 2023,20230307,49 Wheatstone Drive,MORLEY,WA,6062,-31.88508,115.9313,4,2,2,House,House,False,700,m2,False
+2018157757,listing,/5a-drake-way-morley-wa-6062-2018157757,682500,is-sold,Sold by private treaty 07 Mar 2023,20230307,5A Drake Way,MORLEY,WA,6062,-31.905077,115.89814,3,2,1,House,House,False,354,m2,False
+2018242736,listing,/12-devonshire-street-morley-wa-6062-2018242736,537500,is-sold,Sold by private treaty 09 Mar 2023,20230309,12 Devonshire Street,MORLEY,WA,6062,-31.8789883,115.923447,3,1,4,House,House,False,680,m2,False
+2018272258,listing,/4a-wolseley-road-morley-wa-6062-2018272258,,is-sold,Sold at auction 09 Mar 2023,20230309,4A Wolseley Road,MORLEY,WA,6062,-31.8828735,115.884254,4,3,2,House,House,False,0,m2,False

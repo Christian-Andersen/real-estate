@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018303377,listing,/8-inglewood-lane-inglewood-wa-6052-2018303377,890000,is-sold,Sold by private treaty 24 Feb 2023,20230224,8 Inglewood Lane,INGLEWOOD,WA,6052,-31.9216976,115.884262,3,3,3,House,House,False,241,m2,False
 2018309574,listing,/31-drummond-street-bedford-wa-6052-2018309574,,is-sold,Sold by private treaty 02 Mar 2023,20230302,31 Drummond Street,BEDFORD,WA,6052,-31.9140129,115.893272,5,5,5,House,House,False,1225,m2,False
 2018319867,listing,/bedford-wa-6052-2018319867,,is-sold,Sold by private treaty 31 Jan 2023,20230131,,BEDFORD,WA,6052,-31.9094238,115.892159,3,3,3,House,House,False,488,m2,False
+2018350989,listing,/41-park-street-bedford-wa-6052-2018350989,,is-sold,Sold by private treaty 08 Mar 2023,20230308,41 Park Street,BEDFORD,WA,6052,-31.9097786,115.895576,4,2,2,House,House,False,320,m2,False
+2018358406,listing,/62-drummond-street-bedford-wa-6052-2018358406,,is-sold,Sold by private treaty 10 Mar 2023,20230310,62 Drummond Street,BEDFORD,WA,6052,-31.9119511,115.8918,3,1,2,House,House,False,410,m2,False

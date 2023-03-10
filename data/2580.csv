@@ -993,3 +993,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017242629,listing,/21-gardiner-road-goulburn-nsw-2580-2017242629,825000,is-sold,Sold by private treaty 15 Sep 2021,20210915,21 Gardiner Road,GOULBURN,NSW,2580,-34.72857,149.7067,4,2,5,House,House,False,730,m2,False
 2017246372,listing,/13-victoria-street-goulburn-nsw-2580-2017246372,775000,is-sold,Sold by private treaty 15 Sep 2021,20210915,13 Victoria Street,GOULBURN,NSW,2580,-34.7451,149.722931,4,1,1,House,House,False,857,m2,False
 2017295035,listing,/33-kinghorne-street-goulburn-nsw-2580-2017295035,595000,is-sold,Sold by private treaty 10 Sep 2021,20210910,33 Kinghorne Street,GOULBURN,NSW,2580,-34.74272,149.726715,4,1,1,House,House,False,696,m2,False
+2017863010,listing,/8-brooklands-cct-goulburn-nsw-2580-2017863010,,is-sold,Sold by private treaty 08 Mar 2023,20230308,8 Brooklands Cct,GOULBURN,NSW,2580,-34.7237434,149.713425,4,3,2,House,House,False,700,m2,False

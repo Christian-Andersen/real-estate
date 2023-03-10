@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015849941,listing,/38-girrawheen-avenue-kiama-nsw-2533-2015849941,1077000,is-sold,Sold by private treaty 19 Nov 2019,20191119,38 Girrawheen Avenue,KIAMA,NSW,2533,-34.68576,150.853424,5,5,5,House,House,False,602.0,m2,False
 2015852606,listing,/25-greyleigh-drive-kiama-nsw-2533-2015852606,834000,is-sold,Sold by private treaty 11 Nov 2019,20191111,25 Greyleigh Drive,KIAMA,NSW,2533,-34.6771431,150.83786,3,3,3,House,House,False,375.0,m2,False
 2015878903,listing,/29-cole-street-kiama-nsw-2533-2015878903,920000,is-sold,Sold by private treaty 22 Nov 2019,20191122,29 Cole Street,KIAMA,NSW,2533,-34.6776924,150.8409,4,4,4,House,House,False,510.0,m2,False
+2017857600,listing,/51-halls-road-kiama-nsw-2533-2017857600,,is-sold,Sold by private treaty 08 Mar 2023,20230308,51 Halls Road,KIAMA,NSW,2533,-34.6857,150.8114,6,5,2,AcreageSemiRural,Acreage / Semi-Rural,True,52.17,ha,False

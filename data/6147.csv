@@ -1000,3 +1000,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014894153,listing,/12-romney-way-parkwood-wa-6147-2014894153,,is-sold,Sold by private treaty 14 Feb 2019,20190214,12 Romney Way,PARKWOOD,WA,6147,-32.04467,115.919754,4,4,4,House,House,False,688,m2,False
 2014904886,listing,/15-glengarry-street-parkwood-wa-6147-2014904886,,is-sold,Sold by private treaty 11 Feb 2019,20190211,15 Glengarry Street,PARKWOOD,WA,6147,-32.046093,115.922707,4,4,4,House,House,False,688,m2,False
 2018349567,listing,/15-lauri-court-parkwood-wa-6147-2018349567,565000,is-sold,Sold by private treaty 07 Mar 2023,20230307,15 Lauri Court,PARKWOOD,WA,6147,-32.0504036,115.919655,3,1,1,House,House,False,636,m2,False
+2018067881,listing,/10-kenton-street-lynwood-wa-6147-2018067881,,is-sold,Sold by private treaty 07 Mar 2023,20230307,10 Kenton Street,LYNWOOD,WA,6147,-32.0365753,115.928757,3,1,2,House,House,False,0,m2,False
+2017992044,listing,/22-daly-circle-langford-wa-6147-2017992044,,is-sold,Sold by private treaty 09 Mar 2023,20230309,22 Daly Circle,LANGFORD,WA,6147,-32.03453,115.935944,4,2,2,House,House,False,568,m2,False

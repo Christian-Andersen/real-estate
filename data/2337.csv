@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013627915,listing,/15-davies-street-scone-nsw-2337-2013627915,375000,is-sold,Sold by private treaty 30 Jun 2017,20170630,15 Davies Street,SCONE,NSW,2337,-32.0372925,150.844208,4,4,4,House,House,False,1380.0,m2,False
 2013695115,listing,/44-birrell-street-scone-nsw-2337-2013695115,235000,is-sold,Sold by private treaty 27 Jun 2017,20170627,44 Birrell Street,SCONE,NSW,2337,-32.049366,150.87793,4,4,4,House,House,False,1542.0,m2,False
 2013709694,listing,/134-moobi-road-scone-nsw-2337-2013709694,545000,is-sold,Sold by private treaty 01 Aug 2017,20170801,134 Moobi Road,SCONE,NSW,2337,-32.0477142,150.8358,4,4,4,House,House,False,2057.0,m2,False
+2018365762,listing,/20-sydney-street-scone-nsw-2337-2018365762,900000,is-sold,Sold by private treaty 09 Mar 2023,20230309,20 Sydney Street,SCONE,NSW,2337,-32.0451279,150.871719,4,2,2,House,House,False,1138,m2,False

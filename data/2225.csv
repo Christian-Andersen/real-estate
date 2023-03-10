@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018296255,listing,/6-manning-street-oyster-bay-nsw-2225-2018296255,,is-sold,Sold at auction 27 Jan 2023,20230127,6 Manning Street,OYSTER BAY,NSW,2225,-34.0069,151.075729,4,4,4,House,House,False,570,m2,False
 2018317796,listing,/9-drummond-road-oyster-bay-nsw-2225-2018317796,,is-sold,Sold prior to auction 24 Feb 2023,20230224,9 Drummond Road,OYSTER BAY,NSW,2225,-34.005558,151.079041,5,5,5,House,House,False,676,m2,False
 2018324474,listing,/50-carvers-road-oyster-bay-nsw-2225-2018324474,1190000,is-sold,Sold prior to auction 20 Feb 2023,20230220,50 Carvers Road,OYSTER BAY,NSW,2225,-34.011692,151.077454,4,4,4,House,House,False,0,m2,False
+2018338306,listing,/12-shipwright-place-oyster-bay-nsw-2225-2018338306,,is-sold,Sold prior to auction 08 Mar 2023,20230308,12 Shipwright Place,OYSTER BAY,NSW,2225,-34.0018044,151.075836,4,3,2,House,House,False,1000,m2,False

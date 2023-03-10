@@ -469,3 +469,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007747133,listing,/14-fagans-crescent-kendall-nsw-2439-2007747133,,is-sold,Sold by private treaty 02 Jul 2009,20090702,14 Fagans Crescent,KENDALL,NSW,2439,-31.6360073,152.7081,3,3,3,House,House,False,799.0,m2,False
 2007866253,listing,/438-blackbutt-road-herons-creek-nsw-2439-2007866253,405000,is-sold,Sold by private treaty 07 Sep 2009,20090907,438 Blackbutt Road,HERONS CREEK,NSW,2439,-31.5640354,152.698669,4,4,4,Rural,Rural,True,8.09,ha,False
 2007920687,listing,/24-graham-street-kendall-nsw-2439-2007920687,408000,is-sold,Sold by private treaty 12 Nov 2009,20091112,24 Graham Street,KENDALL,NSW,2439,-31.6299877,152.704132,4,4,4,House,House,False,1725.0,m2,False
+2018364639,listing,/3-satinwood-crescent-kew-nsw-2439-2018364639,,is-sold,Sold 08 Mar 2023,20230308,3 SATINWOOD CRESCENT,KEW,NSW,2439,-31.6331367,152.7192,4,2,2,House,House,False,660,m2,False

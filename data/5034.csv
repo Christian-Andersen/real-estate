@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018330328,listing,/9a-clark-street-wayville-sa-5034-2018330328,1144000,is-sold,Sold by private treaty 03 Feb 2023,20230203,9A Clark Street,WAYVILLE,SA,5034,-34.9430656,138.596634,3,3,3,House,House,False,0,m2,False
 2018339536,listing,/4-ada-street-goodwood-sa-5034-2018339536,,is-sold,Sold by private treaty 20 Feb 2023,20230220,4 Ada Street,GOODWOOD,SA,5034,-34.9504967,138.5918,3,3,3,House,House,False,300,m2,False
 2018343563,listing,/51-millswood-crescent-millswood-sa-5034-2018343563,,is-sold,Sold prior to auction 15 Feb 2023,20230215,51 Millswood Crescent,MILLSWOOD,SA,5034,-34.9604836,138.582947,3,3,3,House,House,False,690,m2,False
+2018378538,listing,/9-simpson-parade-goodwood-sa-5034-2018378538,2300000,is-sold,Sold at auction 08 Mar 2023,20230308,9 Simpson Parade,GOODWOOD,SA,5034,-34.94786,138.598221,4,2,4,House,House,False,738,m2,False

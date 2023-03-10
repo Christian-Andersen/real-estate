@@ -6,3 +6,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018358523,listing,/213-alanvale-road-newnham-tas-7248-2018358523,,is-sold,Sold by private treaty 27 Feb 2023,20230227,213 Alanvale Road,NEWNHAM,TAS,7248,-41.3834457,147.1107,4,4,4,House,House,False,712,m2,False
 2018291582,listing,/1-luck-street-mowbray-tas-7248-2018291582,480000,is-sold,Sold by private treaty 01 Mar 2023,20230301,1 Luck Street,MOWBRAY,TAS,7248,-41.4070435,147.131882,4,4,4,House,House,False,696,m2,False
 2018227671,listing,/1-picasso-place-newnham-tas-7248-2018227671,,is-sold,Sold by private treaty 06 Mar 2023,20230306,1 Picasso Place,NEWNHAM,TAS,7248,-41.3801,147.119766,3,2,2,House,House,False,757,m2,False
+2018100321,listing,/19-burns-street-invermay-tas-7248-2018100321,,is-sold,Sold by private treaty 08 Mar 2023,20230308,19 Burns Street,INVERMAY,TAS,7248,-41.4175529,147.138519,5,3,3,House,House,False,658,m2,False
+2018121224,listing,/2-38-haig-street-mowbray-tas-7248-2018121224,395000,is-sold,Sold by private treaty 08 Mar 2023,20230308,2/38 Haig Street,MOWBRAY,TAS,7248,-41.4043961,147.127823,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,281,m2,False

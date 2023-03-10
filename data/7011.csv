@@ -2,3 +2,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018321953,listing,/22-belgrave-street-claremont-tas-7011-2018321953,,is-sold,Sold by private treaty 27 Feb 2023,20230227,22 Belgrave Street,CLAREMONT,TAS,7011,-42.7910233,147.250717,3,3,3,House,House,False,834,m2,False
 2018291058,listing,/3-yaralla-place-berriedale-tas-7011-2018291058,,is-sold,Sold by private treaty 28 Feb 2023,20230228,3 Yaralla Place,BERRIEDALE,TAS,7011,-42.8035164,147.25087,3,3,3,House,House,False,670,m2,False
 2018188473,listing,/40-berriedale-road-berriedale-tas-7011-2018188473,,is-sold,Sold by private treaty 03 Mar 2023,20230303,40 Berriedale Road,BERRIEDALE,TAS,7011,-42.8159,147.250732,3,3,3,House,House,False,698,m2,False
+2018359346,listing,/38-alexa-drive-austins-ferry-tas-7011-2018359346,250000,is-sold,Sold by private treaty 08 Mar 2023,20230308,38 Alexa Drive,AUSTINS FERRY,TAS,7011,-42.7750473,147.245819,,,,VacantLand,Vacant land,False,753,m2,False
+2018308135,listing,/9-spring-street-claremont-tas-7011-2018308135,,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Spring Street,CLAREMONT,TAS,7011,-42.78764,147.235428,3,1,3,House,House,False,0,m2,False

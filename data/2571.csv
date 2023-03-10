@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013593159,listing,/6-station-street-balmoral-nsw-2571-2013593159,,is-sold,Sold by private treaty 01 Jun 2017,20170601,6 Station Street,BALMORAL,NSW,2571,-34.30756,150.522629,5,5,5,AcreageSemiRural,Acreage / Semi-Rural,False,2000.0,m2,False
 2013784805,listing,/7-chisolm-street-wilton-nsw-2571-2013784805,,is-sold,Sold at auction 26 May 2017,20170526,7 Chisolm Street,WILTON,NSW,2571,-34.2329254,150.68367,6,6,6,House,House,False,2008.0,m2,False
 2018352923,listing,/460a-argyle-street-picton-nsw-2571-2018352923,,is-sold,Sold by private treaty 03 Mar 2023,20230303,460A Argyle Street,PICTON,NSW,2571,-34.19311,150.606262,4,4,4,House,House,False,1080.0,m2,False
+2018387337,listing,/lot-1267-wilton-greens-estate-wilton-nsw-2571-2018387337,,is-sold,Sold by private treaty 09 Mar 2023,20230309,Lot 1267 Wilton Greens Estate,WILTON,NSW,2571,-34.2385826,150.6854,4,2,2,House,House,False,0,m2,False

@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014385681,listing,/527-holden-road-plumpton-vic-3335-2014385681,1500000,is-sold,Sold at auction 16 Jun 2018,20180616,527 Holden Road,PLUMPTON,VIC,3335,-37.6591,144.707932,4,2,3,House,House,True,4.86,ha,False
 2014392326,listing,/25-springlands-crescent-plumpton-vic-3335-2014392326,645000,is-sold,Sold by private treaty 12 Jun 2018,20180612,25 Springlands Crescent,PLUMPTON,VIC,3335,-37.7123756,144.722931,3,2,2,House,House,False,0,m2,False
 2014399888,listing,/35-quadrant-drive-plumpton-vic-3335-2014399888,660000,is-sold,Sold at auction 16 Jun 2018,20180616,35 Quadrant Drive,PLUMPTON,VIC,3335,-37.7185249,144.7308,4,2,2,House,House,False,444,m2,False
+2018280792,listing,/32-stellar-road-bonnie-brook-vic-3335-2018280792,675000,is-sold,Sold by private treaty 08 Mar 2023,20230308,32 Stellar Road,BONNIE BROOK,VIC,3335,-37.69186,144.659729,4,2,2,House,House,False,349,m2,False

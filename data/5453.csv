@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018269441,listing,/14-kelly-street-clare-sa-5453-2018269441,345000,is-sold,Sold by private treaty 10 Feb 2023,20230210,14 Kelly Street,CLARE,SA,5453,-33.8441658,138.610291,3,3,3,House,House,False,894.0,m2,False
 2018283617,listing,/lot-141-saw-mill-road-sevenhill-sa-5453-2018283617,,is-sold,Sold by private treaty 07 Feb 2023,20230207,Lot 141 Saw Mill Road,SEVENHILL,SA,5453,-33.9016838,138.613525,,,,VacantLand,Vacant land,True,22.3,ha,False
 2018298500,listing,/3-phoenix-court-clare-sa-5453-2018298500,,is-sold,Sold by private treaty 13 Feb 2023,20230213,3 Phoenix Court,CLARE,SA,5453,-33.8252754,138.613037,3,3,3,House,House,False,776.0,m2,False
+2018357315,listing,/28-tamblyn-street-clare-sa-5453-2018357315,,is-sold,Sold by private treaty 08 Mar 2023,20230308,28 Tamblyn Street,CLARE,SA,5453,-33.847168,138.61055,3,2,2,House,House,False,608,m2,False

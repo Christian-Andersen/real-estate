@@ -13,3 +13,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018371211,listing,/8-bond-street-mount-gambier-sa-5290-2018371211,,is-sold,Sold by private treaty 07 Mar 2023,20230307,8 Bond Street,MOUNT GAMBIER,SA,5290,-37.83271,140.7657,3,1,1,House,House,False,956,m2,False
 2018329417,listing,/15-smith-street-mount-gambier-sa-5290-2018329417,,is-sold,Sold by private treaty 07 Mar 2023,20230307,15 Smith Street,MOUNT GAMBIER,SA,5290,-37.8300934,140.798416,4,2,1,House,House,False,680,m2,False
 2018373366,listing,/8-bond-street-mount-gambier-sa-5290-2018373366,,is-sold,Sold by private treaty 07 Mar 2023,20230307,8 Bond Street,MOUNT GAMBIER,SA,5290,-37.83271,140.7657,3,1,1,House,House,False,956,m2,False
+2018352128,listing,/7-derwent-court-mount-gambier-sa-5290-2018352128,,is-sold,Sold by private treaty 09 Mar 2023,20230309,7 Derwent Court,MOUNT GAMBIER,SA,5290,-37.8311768,140.803268,3,2,4,House,House,False,795,m2,False

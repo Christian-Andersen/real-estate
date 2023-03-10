@@ -999,3 +999,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013825235,listing,/47-charles-street-dalby-qld-4405-2013825235,150000,is-sold,Sold by private treaty 24 Aug 2017,20170824,47 Charles Street,DALBY,QLD,4405,-27.19265,151.2695,2,2,2,House,House,False,878.0,m2,False
 2018291697,listing,/21-knox-street-dalby-qld-4405-2018291697,335100,is-sold,Sold by private treaty 07 Mar 2023,20230307,21 Knox Street,DALBY,QLD,4405,-27.1841049,151.249161,3,2,2,House,House,False,918,m2,False
 2017678702,listing,/80-pratten-street-dalby-qld-4405-2017678702,335000,is-sold,Sold by private treaty 06 Mar 2023,20230306,80 Pratten Street,DALBY,QLD,4405,-27.1819954,151.257767,5,1,2,House,House,False,943,m2,False
+2017899774,listing,/60-wyley-street-dalby-qld-4405-2017899774,290000,is-sold,Sold by private treaty 08 Mar 2023,20230308,60 Wyley Street,DALBY,QLD,4405,-27.17463,151.2799,3,2,2,House,House,False,706,m2,False
+2018324923,listing,/58-edward-street-dalby-qld-4405-2018324923,345000,is-sold,Sold by private treaty 08 Mar 2023,20230308,58 Edward Street,DALBY,QLD,4405,-27.1872215,151.260315,4,2,2,House,House,False,641,m2,False
+2018100387,listing,/44-palmer-street-dalby-qld-4405-2018100387,,is-sold,Sold by private treaty 07 Mar 2023,20230307,44 Palmer Street,DALBY,QLD,4405,-27.1929989,151.270615,3,1,2,House,House,False,885,m2,False

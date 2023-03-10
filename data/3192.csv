@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018339402,listing,/13-beverley-street-cheltenham-vic-3192-2018339402,1540000,is-sold,Sold by private treaty 05 Mar 2023,20230305,13 Beverley Street,CHELTENHAM,VIC,3192,-37.96851,145.0425,3,2,2,House,House,False,587,m2,False
 2018313661,listing,/19-victor-avenue-cheltenham-vic-3192-2018313661,,is-sold,Sold by private treaty 04 Mar 2023,20230304,19 Victor Avenue,CHELTENHAM,VIC,3192,-37.9693146,145.047241,6,3,3,House,House,False,959,m2,False
 2018339005,listing,/38-nancy-street-cheltenham-vic-3192-2018339005,1170000,is-sold,Sold at auction 04 Mar 2023,20230304,38 Nancy Street,CHELTENHAM,VIC,3192,-37.9721069,145.079712,3,1,1,House,House,False,538,m2,False
+2018274583,listing,/8-3-jean-street-cheltenham-vic-3192-2018274583,620000,is-sold,Sold by private treaty 08 Mar 2023,20230308,8/3 Jean Street,CHELTENHAM,VIC,3192,-37.9622154,145.0521,2,2,1,Townhouse,Townhouse,False,0,m2,False

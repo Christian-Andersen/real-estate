@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014709340,listing,/167-condobolin-road-parkes-nsw-2870-2014709340,,is-sold,Sold by private treaty 25 Oct 2018,20181025,167 Condobolin Road,PARKES,NSW,2870,-33.132782,148.159119,4,4,4,House,House,False,740.0,m2,False
 2014722964,listing,/35-webb-street-parkes-nsw-2870-2014722964,155000,is-sold,Sold by private treaty 18 Oct 2018,20181018,35 Webb Street,PARKES,NSW,2870,-33.12233,148.1778,3,3,3,House,House,False,0.0,m2,False
 2014777310,listing,/lot-526-henderson-street-parkes-nsw-2870-2014777310,,is-sold,Sold by private treaty 15 Oct 2018,20181015,Lot 526 HENDERSON STREET,PARKES,NSW,2870,-33.15802,148.172318,,,,House,House,True,3.42,ha,False
+2018201600,listing,/15-moor-street-parkes-nsw-2870-2018201600,,is-sold,Sold by private treaty 09 Mar 2023,20230309,15 Moor Street,PARKES,NSW,2870,-33.1329269,148.18927,3,1,2,House,House,False,0,m2,False

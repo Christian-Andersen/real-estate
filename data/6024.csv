@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017170352,listing,/1-41-glenmere-road-warwick-wa-6024-2017170352,,is-sold,Sold by private treaty 15 Nov 2018,20181115,1/41 Glenmere Road,WARWICK,WA,6024,-31.8415127,115.808205,3,3,3,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018349991,listing,/greenwood-wa-6024-2018349991,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,GREENWOOD,WA,6024,-31.824892,115.804588,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
 2018350041,listing,/greenwood-wa-6024-2018350041,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,GREENWOOD,WA,6024,-31.824892,115.804588,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018332067,listing,/14-penistone-street-greenwood-wa-6024-2018332067,880000,is-sold,Sold by private treaty 08 Mar 2023,20230308,14 Penistone Street,GREENWOOD,WA,6024,-31.8322735,115.812294,5,2,2,House,House,False,683,m2,False

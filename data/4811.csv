@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014072932,listing,/20-lakewood-drive-idalia-qld-4811-2014072932,340000,is-sold,Sold by private treaty 20 Jan 2018,20180120,20 Lakewood Drive,IDALIA,QLD,4811,-19.3022614,146.813171,4,4,4,House,House,False,700.0,m2,False
 2014078716,listing,/79-springbrook-parade-idalia-qld-4811-2014078716,390000,is-sold,Sold by private treaty 31 Jan 2018,20180131,79 Springbrook Parade,IDALIA,QLD,4811,-19.3098049,146.8129,4,4,4,House,House,False,509.0,m2,False
 2014100749,listing,/24-tomkins-street-cluden-qld-4811-2014100749,345000,is-sold,Sold by private treaty 05 Feb 2018,20180205,24 Tomkins Street,CLUDEN,QLD,4811,-19.3163548,146.829788,4,4,4,House,House,False,1012.0,m2,False
+2018321355,listing,/25-nobel-street-wulguru-qld-4811-2018321355,,is-sold,Sold by private treaty 09 Mar 2023,20230309,25 Nobel Street,WULGURU,QLD,4811,-19.3249626,146.808655,3,1,2,House,House,False,607,m2,False

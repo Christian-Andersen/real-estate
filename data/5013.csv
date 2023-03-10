@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018364484,listing,/10-shell-street-rosewater-sa-5013-2018364484,444000,is-sold,Sold by private treaty 21 Jan 2023,20230121,10 Shell Street,ROSEWATER,SA,5013,-34.8479576,138.523071,3,3,3,House,House,False,533,m2,False
 2018324279,listing,/5-derby-street-gillman-sa-5013-2018324279,475000,is-sold,Sold by private treaty 03 Mar 2023,20230303,5 Derby Street,GILLMAN,SA,5013,-34.8471527,138.520432,2,2,2,House,House,False,0,m2,False
 2017955549,listing,/lot-102-rosetta-street-rosewater-sa-5013-2017955549,320000,is-sold,Sold by private treaty 07 Mar 2023,20230307,Lot 102 Rosetta Street,ROSEWATER,SA,5013,-34.850174,138.5161,,,,VacantLand,Vacant land,False,251,m2,False
+2018360318,listing,/1a-pearce-street-ottoway-sa-5013-2018360318,606000,is-sold,Sold by private treaty 08 Mar 2023,20230308,1a Pearce Street,OTTOWAY,SA,5013,-34.84516,138.537033,3,1,4,House,House,False,905,m2,False

@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014307574,listing,/35c-bungay-road-wingham-nsw-2429-2014307574,365000,is-sold,Sold by private treaty 30 Apr 2018,20180430,35C Bungay Road,WINGHAM,NSW,2429,-31.875948,152.366974,3,3,3,House,House,False,0.0,m2,False
 2018100438,listing,/1-bent-street-wingham-nsw-2429-2018100438,500000,is-sold,Sold by private treaty 07 Mar 2023,20230307,1 Bent Street,WINGHAM,NSW,2429,-31.8717766,152.37204,4,1,,House,House,False,866,m2,False
 2018282284,listing,/8-hillcrest-avenue-wingham-nsw-2429-2018282284,490000,is-sold,Sold by private treaty 07 Mar 2023,20230307,8 Hillcrest Avenue,WINGHAM,NSW,2429,-31.8760834,152.354614,3,2,3,House,House,False,719,m2,False
+2018167803,listing,/70-eringa-way-bunyah-nsw-2429-2018167803,900000,is-sold,Sold at auction 08 Mar 2023,20230308,70 Eringa Way,BUNYAH,NSW,2429,-32.164196,152.21994,2,1,2,AcreageSemiRural,Acreage / Semi-Rural,True,89.13,ha,False

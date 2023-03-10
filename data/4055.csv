@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018358992,listing,/6-lincoln-crescent-upper-kedron-qld-4055-2018358992,,is-sold,Sold by private treaty 10 Feb 2023,20230210,6 Lincoln Crescent,UPPER KEDRON,QLD,4055,-27.4184837,152.918335,4,4,4,House,House,False,0,m2,False
 2018366652,listing,/94-illuta-avenue-ferny-hills-qld-4055-2018366652,,is-sold,Sold by private treaty 20 Feb 2023,20230220,94 Illuta Avenue,FERNY HILLS,QLD,4055,-27.4010658,152.938812,3,3,3,House,House,False,607,m2,False
 2018384504,listing,/37-leonarda-drive-ferny-hills-qld-4055-2018384504,,is-sold,Sold by private treaty 20 Feb 2023,20230220,37 Leonarda Drive,FERNY HILLS,QLD,4055,-27.38624,152.944733,4,4,4,House,House,False,1114,m2,False
+2018100143,listing,/45-tarnook-drive-ferny-hills-qld-4055-2018100143,694105,is-sold,Sold by private treaty 08 Mar 2023,20230308,45 Tarnook Drive,FERNY HILLS,QLD,4055,-27.3900681,152.942352,3,1,2,House,House,False,607,m2,False

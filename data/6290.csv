@@ -808,3 +808,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007646252,listing,/144-blackwood-avenue-augusta-wa-6290-2007646252,,is-sold,Sold by private treaty 03 Apr 2009,20090403,144 Blackwood Avenue,AUGUSTA,WA,6290,-34.30805,115.158157,3,3,3,House,House,False,0.0,m2,False
 2007888239,listing,/51-allnut-terrace-augusta-wa-6290-2007888239,,is-sold,Sold by private treaty 23 Jul 2009,20090723,51 Allnut Terrace,AUGUSTA,WA,6290,-34.3151131,115.157806,,,,VacantLand,Vacant land,False,0.0,m2,False
 2007888256,listing,/lot-29-abbey-lane-augusta-wa-6290-2007888256,,is-sold,Sold by private treaty 07 Aug 2009,20090807,Lot 29 Abbey Lane,AUGUSTA,WA,6290,-34.31594,115.159729,,,,VacantLand,Vacant land,False,0.0,m2,False
+2018331325,listing,/16-dawson-terrace-augusta-wa-6290-2018331325,655000,is-sold,Sold by private treaty 08 Mar 2023,20230308,16 Dawson Terrace,AUGUSTA,WA,6290,-34.3196945,115.1624,3,1,2,House,House,False,757,m2,False

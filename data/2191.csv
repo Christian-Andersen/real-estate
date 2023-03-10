@@ -847,3 +847,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007738053,listing,/56-burwood-road-belfield-nsw-2191-2007738053,443000,is-sold,Sold at auction 22 Sep 2007,20070922,56 Burwood Road,BELFIELD,NSW,2191,0.0,0.0,2,2,2,House,House,False,0,m2,False
 2007749887,listing,/70-linda-street-belfield-nsw-2191-2007749887,341000,is-sold,Sold at auction 21 Oct 2006,20061021,70 Linda Street,BELFIELD,NSW,2191,0.0,0.0,2,2,2,House,House,False,0,m2,False
 2007749888,listing,/70-linda-street-belfield-nsw-2191-2007749888,367000,is-sold,Sold at auction 05 May 2007,20070505,70 Linda Street,BELFIELD,NSW,2191,0.0,0.0,2,2,2,House,House,False,0,m2,False
+2018291807,listing,/32-michael-avenue-belfield-nsw-2191-2018291807,2000000,is-sold,Sold by private treaty 07 Mar 2023,20230307,32 Michael Avenue,BELFIELD,NSW,2191,-33.9091,151.092056,4,3,4,House,House,False,550,m2,False

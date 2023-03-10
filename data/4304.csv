@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018350658,listing,/33-eric-drive-blackstone-qld-4304-2018350658,532500,is-sold,Sold by private treaty 07 Mar 2023,20230307,33 Eric Drive,BLACKSTONE,QLD,4304,-27.6300583,152.808578,4,2,2,House,House,False,696,m2,False
 2018250631,listing,/5-vivian-hancock-drive-north-booval-qld-4304-2018250631,480000,is-sold,Sold by private treaty 07 Mar 2023,20230307,5 Vivian Hancock Drive,NORTH BOOVAL,QLD,4304,-27.5946655,152.787277,4,2,2,House,House,False,695,m2,False
 2018341661,listing,/194-glebe-road-booval-qld-4304-2018341661,459000,is-sold,Sold by private treaty 06 Mar 2023,20230306,194 Glebe Road,BOOVAL,QLD,4304,-27.61855,152.797134,3,1,2,House,House,False,759,m2,False
+2018255604,listing,/2-marian-street-booval-qld-4304-2018255604,375000,is-sold,Sold by private treaty 09 Mar 2023,20230309,2 Marian Street,BOOVAL,QLD,4304,-27.6130772,152.784042,3,1,1,House,House,False,607,m2,False

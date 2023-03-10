@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007719535,listing,/dungog-nsw-2420-2007719535,289000,is-sold,Sold by private treaty 27 Apr 2009,20090427,,DUNGOG,NSW,2420,-32.32043,151.822937,2,2,2,Rural,Rural,False,0.0,m2,False
 2007727970,listing,/dungog-nsw-2420-2007727970,385000,is-sold,Sold by private treaty 12 Jun 2009,20090612,,DUNGOG,NSW,2420,-32.4038658,151.757172,1,1,1,Rural,Rural,False,0.0,m2,False
 2018279437,listing,/873-upper-monkerai-road-dungog-nsw-2420-2018279437,,is-sold,Sold by private treaty 06 Mar 2023,20230306,873 Upper Monkerai Road,DUNGOG,NSW,2420,-32.3998375,151.75798,4,2,10,Rural,Rural,True,42.49,ha,False
+2018155886,listing,/3664-clarence-town-road-brookfield-nsw-2420-2018155886,1175000,is-sold,Sold by private treaty 09 Mar 2023,20230309,3664 Clarence Town Road,BROOKFIELD,NSW,2420,-32.5165977,151.760941,4,1,7,Rural,Rural,True,2.53,ha,False

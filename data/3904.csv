@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018253096,listing,/17-tambo-boulevard-metung-vic-3904-2018253096,,is-sold,Sold by private treaty 09 Feb 2023,20230209,17 Tambo Boulevard,METUNG,VIC,3904,-37.85598,147.820541,3,3,3,House,House,False,2137.0,m2,False
 2018265796,listing,/135-cantrills-road-metung-vic-3904-2018265796,,is-sold,Sold by private treaty 23 Dec 2022,20221223,135 Cantrills Road,METUNG,VIC,3904,-37.875843,147.867935,4,4,4,House,House,True,1.36,ha,False
 2018310773,listing,/75-storth-ryes-avenue-metung-vic-3904-2018310773,,is-sold,Sold by private treaty 24 Feb 2023,20230224,75 Storth Ryes Avenue,METUNG,VIC,3904,-37.8825569,147.833984,,,,VacantLand,Vacant land,False,734.0,m2,False
+2018268619,listing,/4-tambo-boulevard-metung-vic-3904-2018268619,,is-sold,Sold by private treaty 08 Mar 2023,20230308,4 Tambo Boulevard,METUNG,VIC,3904,-37.8574066,147.818985,3,2,9,House,House,False,891,m2,False

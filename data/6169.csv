@@ -998,3 +998,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017505622,listing,/16-hayeswater-circuit-waikiki-wa-6169-2017505622,480000,is-sold,Sold by private treaty 19 Jan 2022,20220119,16 Hayeswater Circuit,WAIKIKI,WA,6169,-32.32202,115.766075,4,2,2,House,House,False,510,m2,False
 2017506059,listing,/80-waterfront-parkway-shoalwater-wa-6169-2017506059,480000,is-sold,Sold by private treaty 18 Jan 2022,20220118,80 Waterfront Parkway,SHOALWATER,WA,6169,-32.29346,115.71769,4,2,2,House,House,False,330,m2,False
 2017516070,listing,/9-halfmoon-place-waikiki-wa-6169-2017516070,,is-sold,Sold by private treaty 15 Jan 2022,20220115,9 Halfmoon Place,WAIKIKI,WA,6169,-32.31765,115.758,4,2,1,House,House,False,0,m2,False
+2018314999,listing,/23-sennet-lane-warnbro-wa-6169-2018314999,462500,is-sold,Sold by private treaty 08 Mar 2023,20230308,23 Sennet Lane,WARNBRO,WA,6169,-32.34558,115.754723,4,2,2,House,House,False,506,m2,False
+2018345407,listing,/19-muir-close-waikiki-wa-6169-2018345407,492500,is-sold,Sold by private treaty 08 Mar 2023,20230308,19 Muir Close,WAIKIKI,WA,6169,-32.3045235,115.763275,4,2,3,House,House,False,771,m2,False

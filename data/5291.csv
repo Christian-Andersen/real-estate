@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013452717,listing,/788-wandilo-forest-road-wandilo-sa-5291-2013452717,,is-sold,Sold by private treaty 13 Apr 2017,20170413,788 Wandilo Forest Road,WANDILO,SA,5291,-37.7236633,140.704437,4,4,4,House,House,True,10000.0,m2,False
 2013495540,listing,/5-wallace-road-allendale-east-sa-5291-2013495540,165000,is-sold,Sold by private treaty 13 Apr 2017,20170413,5 Wallace Road,ALLENDALE EAST,SA,5291,-38.0105743,140.706573,3,3,3,House,House,False,2000.0,m2,False
 2018330720,listing,/3-rossell-street-port-macdonnell-sa-5291-2018330720,,is-sold,Sold by private treaty 06 Mar 2023,20230306,3 Rossell Street,PORT MACDONNELL,SA,5291,-38.0556335,140.692261,3,1,1,House,House,False,639,m2,False
+2018362164,listing,/127-glencoe-road-glencoe-sa-5291-2018362164,,is-sold,Sold by private treaty 08 Mar 2023,20230308,127 Glencoe Road,GLENCOE,SA,5291,-37.69102,140.616882,3,2,6,House,House,False,44515,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011072517,listing,/53-stradbroke-road-athelstone-sa-5076-2011072517,490000,is-sold,Sold by private treaty 24 Apr 2014,20140424,53 Stradbroke Road,ATHELSTONE,SA,5076,-34.8817177,138.691879,3,3,3,House,House,False,0,m2,False
 2011141776,listing,/21-greenbank-road-athelstone-sa-5076-2011141776,365000,is-sold,Sold by private treaty 29 May 2014,20140529,21 Greenbank Road,ATHELSTONE,SA,5076,-34.8708153,138.698853,3,3,3,House,House,False,0,m2,False
 2011198787,listing,/19-burton-road-athelstone-sa-5076-2011198787,400500,is-sold,Sold by private treaty 05 May 2014,20140505,19 Burton Road,ATHELSTONE,SA,5076,-34.8714752,138.70932,3,3,3,House,House,False,4619,m2,False
+2018145384,listing,/355-gorge-road-athelstone-sa-5076-2018145384,700000,is-sold,Sold by private treaty 10 Mar 2023,20230310,355 Gorge Road,ATHELSTONE,SA,5076,-34.8681679,138.706772,3,1,4,House,House,False,994,m2,False

@@ -999,3 +999,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2012582929,listing,/7-8-peninsula-avenue-cornubia-qld-4130-2012582929,341250,is-sold,Sold by private treaty 07 Mar 2016,20160307,7/8 PENINSULA AVENUE,CORNUBIA,QLD,4130,-27.67883,153.212,3,2,1,House,House,False,141,m2,False
 2012615588,listing,/cornubia-qld-4130-2012615588,245000,is-sold,Sold by private treaty 19 Feb 2016,20160219,,CORNUBIA,QLD,4130,-27.6697426,153.203766,,,,VacantLand,Vacant land,False,0,m2,False
 2012624493,listing,/4-retta-street-cornubia-qld-4130-2012624493,945000,is-sold,Sold by private treaty 22 Mar 2016,20160322,4 Retta Street,CORNUBIA,QLD,4130,-27.6634026,153.226212,4,3,2,House,House,False,8398,m2,False
+2018244913,listing,/9-excalibur-road-cornubia-qld-4130-2018244913,900000,is-sold,Sold by private treaty 07 Mar 2023,20230307,9 Excalibur Road,CORNUBIA,QLD,4130,-27.67879,153.203,5,3,2,House,House,False,3096,m2,False
+2018355622,listing,/6-verbena-street-cornubia-qld-4130-2018355622,737000,is-sold,Sold by private treaty 07 Mar 2023,20230307,6 Verbena Street,CORNUBIA,QLD,4130,-27.6580582,153.198654,4,2,2,House,House,False,600,m2,False

@@ -997,3 +997,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016665165,listing,/20-wilson-street-glen-iris-vic-3146-2016665165,2359000,is-sold,Sold by private treaty 01 Dec 2020,20201201,20 Wilson Street,GLEN IRIS,VIC,3146,-37.862442,145.042679,3,1,1,House,House,False,680,m2,False
 2016667389,listing,/6-saxby-road-glen-iris-vic-3146-2016667389,2750000,is-sold,Sold prior to auction 04 Dec 2020,20201204,6 Saxby Road,GLEN IRIS,VIC,3146,-37.8642654,145.065033,4,4,4,House,House,False,618,m2,False
 2018351662,listing,/42-albion-road-glen-iris-vic-3146-2018351662,2550000,is-sold,Sold at auction 07 Mar 2023,20230307,42 Albion Road,GLEN IRIS,VIC,3146,-37.8654671,145.066925,4,2,2,House,House,False,630,m2,False
+2018368200,listing,/6-irymple-avenue-glen-iris-vic-3146-2018368200,,is-sold,Sold by private treaty 08 Mar 2023,20230308,6 Irymple Avenue,GLEN IRIS,VIC,3146,-37.8641472,145.048752,5,2,2,House,House,False,836,m2,False
+2018367809,listing,/52-denman-avenue-glen-iris-vic-3146-2018367809,2500000,is-sold,Sold prior to auction 09 Mar 2023,20230309,52 Denman Avenue,GLEN IRIS,VIC,3146,-37.8508644,145.07576,4,2,3,Townhouse,Townhouse,False,323,m2,False

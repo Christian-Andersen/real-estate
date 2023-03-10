@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018318790,listing,/shenton-park-wa-6008-2018318790,,is-sold,Sold by private treaty 20 Feb 2023,20230220,,SHENTON PARK,WA,6008,-31.9608727,115.814896,4,4,4,NewHouseLand,New House & Land,False,0,m2,False
 2018379715,listing,/104-30-hood-street-subiaco-wa-6008-2018379715,840000,is-sold,Sold by private treaty 23 Feb 2023,20230223,104/30 Hood Street,SUBIACO,WA,6008,-31.9443913,115.821533,3,3,3,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018180888,listing,/225-hamersley-road-subiaco-wa-6008-2018180888,1900000,is-sold,Sold by private treaty 03 Mar 2023,20230303,225 Hamersley Road,SUBIACO,WA,6008,-31.9526138,115.817955,4,4,4,House,House,False,488,m2,False
+2018218392,listing,/28-price-street-subiaco-wa-6008-2018218392,1575000,is-sold,Sold by private treaty 09 Mar 2023,20230309,28 Price Street,SUBIACO,WA,6008,-31.9460831,115.815514,3,3,2,House,House,False,174,m2,False

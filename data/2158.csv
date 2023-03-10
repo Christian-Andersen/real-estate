@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011072776,listing,/dural-nsw-2158-2011072776,801000,is-sold,Sold at auction 12 Apr 2014,20140412,,DURAL,NSW,2158,-33.6808052,151.028458,4,4,4,House,House,False,0.0,m2,False
 2011077451,listing,/3-wildflower-place-dural-nsw-2158-2011077451,995000,is-sold,Sold by private treaty 04 Apr 2014,20140404,3 Wildflower Place,DURAL,NSW,2158,-33.7159729,151.030838,4,4,4,House,House,False,760.0,m2,False
 2018373673,listing,/2-1-caber-close-dural-nsw-2158-2018373673,1680000,is-sold,Sold at auction 06 Mar 2023,20230306,2/1 Caber Close,DURAL,NSW,2158,-33.71758,151.030624,4,2,2,Duplex,Duplex,False,403,m2,False
+2018281590,listing,/56-jaffa-road-dural-nsw-2158-2018281590,1510000,is-sold,Sold by private treaty 08 Mar 2023,20230308,56 Jaffa Road,DURAL,NSW,2158,-33.695118,151.026688,3,1,2,House,House,False,696,m2,False

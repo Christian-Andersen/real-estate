@@ -300,3 +300,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010679478,listing,/lot-223-river-st-broadwater-nsw-2472-2010679478,,is-sold,Sold by private treaty 29 Oct 2013,20131029,Lot 223 River St,BROADWATER,NSW,2472,-29.0188217,153.428787,,,,Rural,Rural,False,0.0,m2,False
 2010693696,listing,/22-pitt-street-broadwater-nsw-2472-2010693696,,is-sold,Sold by private treaty 11 Sep 2013,20130911,22 Pitt Street,BROADWATER,NSW,2472,-29.01479,153.433853,2,2,2,House,House,False,1016.0,m2,False
 2007876702,listing,/524-forest-road-woodburn-nsw-2472-2007876702,370000,is-sold,Sold by private treaty 17 Aug 2009,20090817,524 Forest Road,WOODBURN,NSW,2472,-29.0124779,153.357285,,,,Rural,Rural,False,0.0,m2,False
+2018157481,listing,/105-richmond-street-woodburn-nsw-2472-2018157481,285000,is-sold,Sold by private treaty 08 Mar 2023,20230308,105 Richmond Street,WOODBURN,NSW,2472,-29.07296,153.343857,3,1,2,House,House,False,1011,m2,False

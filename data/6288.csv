@@ -163,3 +163,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007739938,listing,/52-brockman-hwy-alexandra-bridge-wa-6288-2007739938,,is-sold,Sold by private treaty 18 Aug 2009,20090818,52 Brockman Hwy,ALEXANDRA BRIDGE,WA,6288,-34.1615524,115.20723,,,,Rural,Rural,False,0.0,m2,False
 2007908866,listing,/58-colyer-drive-hamelin-bay-wa-6288-2007908866,,is-sold,Sold by private treaty 19 Oct 2010,20101019,58 Colyer Drive,HAMELIN BAY,WA,6288,-34.2238121,115.057739,,,,Rural,Rural,False,0.0,m2,False
 2007934844,listing,/lot-34-bushby-road-karridale-wa-6288-2007934844,,is-sold,Sold by private treaty 29 Apr 2010,20100429,Lot 34 Bushby Road,KARRIDALE,WA,6288,-34.2062035,115.084549,1,1,1,Rural,Rural,False,0.0,m2,False
+2018188212,listing,/3-felling-road-karridale-wa-6288-2018188212,220000,is-sold,Sold by private treaty 08 Mar 2023,20230308,3 Felling Road,KARRIDALE,WA,6288,-34.20032,115.100113,,,,VacantLand,Vacant land,False,3000,m2,False

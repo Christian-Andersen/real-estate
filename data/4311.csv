@@ -998,3 +998,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014772249,listing,/minden-qld-4311-2014772249,392000,is-sold,Sold by private treaty 09 Nov 2018,20181109,,MINDEN,QLD,4311,-27.55,152.53334,4,4,4,House,House,False,2487.0,m2,False
 2014854420,listing,/lot-14-linde-street-coominya-qld-4311-2014854420,,is-sold,Sold by private treaty 25 Sep 2018,20180925,Lot 14 Linde Street,COOMINYA,QLD,4311,-27.3925343,152.501984,,,,VacantLand,Vacant land,False,1000.0,m2,False
 2017259238,listing,/43-glamorgan-vale-road-lowood-qld-4311-2017259238,340000,is-sold,Sold by private treaty 05 Oct 2018,20181005,43 Glamorgan Vale Road,LOWOOD,QLD,4311,-27.4720211,152.587509,2,2,2,House,House,True,3.87,ha,False
+2016925733,listing,/69-tawney-street-lowood-qld-4311-2016925733,405000,is-sold,Sold by private treaty 09 Mar 2023,20230309,69 Tawney Street,LOWOOD,QLD,4311,-27.4675865,152.563248,4,2,2,House,House,False,700,m2,False
+2018308221,listing,/365-clarendon-road-rifle-range-qld-4311-2018308221,450000,is-sold,Sold by private treaty 08 Mar 2023,20230308,365 Clarendon road,RIFLE RANGE,QLD,4311,-27.44746,152.5503,1,1,5,Rural,Rural,True,4.05,ha,False

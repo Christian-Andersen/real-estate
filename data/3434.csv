@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018319534,listing,/17-parkside-avenue-romsey-vic-3434-2018319534,624000,is-sold,Sold by private treaty 14 Feb 2023,20230214,17 Parkside Avenue,ROMSEY,VIC,3434,-37.3630753,144.741058,3,3,3,House,House,False,445.0,m2,False
 2018333161,listing,/11-francis-close-romsey-vic-3434-2018333161,,is-sold,Sold prior to auction 20 Feb 2023,20230220,11 Francis Close,ROMSEY,VIC,3434,-37.34858,144.734177,4,4,4,House,House,False,1888.0,m2,False
 2018333266,listing,/17-bella-vista-place-romsey-vic-3434-2018333266,860000,is-sold,Sold by private treaty 26 Jan 2023,20230126,17 Bella Vista Place,ROMSEY,VIC,3434,-37.3629,144.734314,4,4,4,House,House,False,839.0,m2,False
+2018116741,listing,/3-thomas-court-romsey-vic-3434-2018116741,1102000,is-sold,Sold by private treaty 09 Mar 2023,20230309,3 Thomas Court,ROMSEY,VIC,3434,-37.34612,144.748627,4,2,4,House,House,False,6683,m2,False
+2018311101,listing,/143-barry-street-romsey-vic-3434-2018311101,700000,is-sold,Sold by private treaty 09 Mar 2023,20230309,143 Barry Street,ROMSEY,VIC,3434,-37.35113,144.735153,3,2,2,House,House,False,2029,m2,False

@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017958613,listing,/19-hamelin-street-two-rocks-wa-6037-2017958613,532500,is-sold,Sold by private treaty 03 Mar 2023,20230303,19 Hamelin Street,TWO ROCKS,WA,6037,-31.5059013,115.602638,4,4,4,House,House,False,647,m2,False
 2018298179,listing,/8-gemfish-street-two-rocks-wa-6037-2018298179,465000,is-sold,Sold by private treaty 03 Mar 2023,20230303,8 Gemfish Street,TWO ROCKS,WA,6037,-31.5007648,115.602821,4,4,4,House,House,False,450,m2,False
 2018194426,listing,/11-leichhardt-drive-two-rocks-wa-6037-2018194426,350000,is-sold,Sold by private treaty 07 Mar 2023,20230307,11 Leichhardt Drive,TWO ROCKS,WA,6037,-31.5039024,115.601212,4,1,,House,House,False,810,m2,False
+2018298170,listing,/16-cobbler-way-two-rocks-wa-6037-2018298170,435000,is-sold,Sold by private treaty 08 Mar 2023,20230308,16 Cobbler Way,TWO ROCKS,WA,6037,-31.500597,115.603683,3,2,2,House,House,False,422,m2,False

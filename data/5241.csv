@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018328024,listing,/84-main-street-lobethal-sa-5241-2018328024,,is-sold,Sold by private treaty 20 Feb 2023,20230220,84 Main Street,LOBETHAL,SA,5241,-34.9017525,138.875931,3,3,3,House,House,False,910,m2,False
 2018397706,listing,/5-100a-main-street-lobethal-sa-5241-2018397706,,is-sold,Sold by private treaty 06 Mar 2023,20230306,5/100A Main Street,LOBETHAL,SA,5241,-34.900074,138.8767,3,2,2,House,House,False,536,m2,False
 2018349177,listing,/11-church-street-lobethal-sa-5241-2018349177,,is-sold,Sold by private treaty 07 Mar 2023,20230307,11 Church Street,LOBETHAL,SA,5241,-34.9012222,138.879166,4,2,2,House,House,False,900,m2,False
+2018325229,listing,/lot-5-hughes-place-lobethal-sa-5241-2018325229,,is-sold,Sold by private treaty 08 Mar 2023,20230308,Lot 5 Hughes Place,LOBETHAL,SA,5241,-34.9042435,138.8745,,,,VacantLand,Vacant land,False,988,m2,False

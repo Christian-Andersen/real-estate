@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018285927,listing,/24-station-street-harcourt-vic-3453-2018285927,578000,is-sold,Sold by private treaty 17 Feb 2023,20230217,24 Station Street,HARCOURT,VIC,3453,-37.0025253,144.253326,3,3,3,House,House,False,671.0,m2,False
 2018303968,listing,/lot-3-pippin-court-harcourt-vic-3453-2018303968,380000,is-sold,Sold by private treaty 17 Feb 2023,20230217,Lot 3 Pippin Court,HARCOURT,VIC,3453,-36.99958,144.260345,,,,VacantLand,Vacant land,False,946.0,m2,False
 2018017705,listing,/27-mennens-lane-harcourt-north-vic-3453-2018017705,760000,is-sold,Sold by private treaty 03 Mar 2023,20230303,27 Mennens Lane,HARCOURT NORTH,VIC,3453,-36.9579773,144.241547,5,5,5,House,House,True,2.74,ha,False
+2017961076,listing,/7-eagles-road-harcourt-vic-3453-2017961076,,is-sold,Sold by private treaty 09 Mar 2023,20230309,7 Eagles Road,HARCOURT,VIC,3453,-36.9961929,144.262863,3,2,2,House,House,False,945,m2,False

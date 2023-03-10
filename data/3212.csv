@@ -20,3 +20,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018333414,listing,/87-country-gardens-drive-lara-vic-3212-2018333414,,is-sold,Sold by private treaty 17 Feb 2023,20230217,87 Country Gardens Drive,LARA,VIC,3212,-38.03276,144.391754,3,3,3,House,House,False,673.0,m2,False
 2018345323,listing,/42-patullos-road-lara-vic-3212-2018345323,785000,is-sold,Sold by private treaty 13 Feb 2023,20230213,42 Patullos Road,LARA,VIC,3212,-38.0228539,144.393173,4,4,4,House,House,False,1131.0,m2,False
 2018263906,listing,/67-curletts-road-lara-vic-3212-2018263906,605000,is-sold,Sold by private treaty 03 Mar 2023,20230303,67 Curletts Road,LARA,VIC,3212,-38.015274,144.402527,3,3,3,House,House,False,603.0,m2,False
+2018349042,listing,/316-o-hallorans-road-lara-vic-3212-2018349042,832000,is-sold,Sold by private treaty 08 Mar 2023,20230308,316 O'Hallorans Road,LARA,VIC,3212,-38.0093346,144.380234,4,2,2,House,House,False,504,m2,False
+2018336174,listing,/7-black-duck-court-lara-vic-3212-2018336174,717500,is-sold,Sold by private treaty 09 Mar 2023,20230309,7 Black Duck Court,LARA,VIC,3212,-38.02852,144.3783,3,2,2,House,House,False,489,m2,False

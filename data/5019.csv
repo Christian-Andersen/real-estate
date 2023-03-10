@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2011787935,listing,/12-dunstone-road-semaphore-park-sa-5019-2011787935,869000,is-sold,Sold by private treaty 14 Mar 2015,20150314,12 Dunstone Road,SEMAPHORE PARK,SA,5019,-34.8623848,138.481,3,3,3,House,House,False,565,m2,False
 2011805138,listing,/16-boord-street-semaphore-south-sa-5019-2011805138,,is-sold,Sold by private treaty 17 Mar 2015,20150317,16 Boord Street,SEMAPHORE SOUTH,SA,5019,-34.8490753,138.478958,4,4,4,House,House,False,555,m2,False
 2018372588,listing,/27-fairford-terrace-semaphore-park-sa-5019-2018372588,675000,is-sold,Sold at auction 05 Mar 2023,20230305,27 Fairford Terrace,SEMAPHORE PARK,SA,5019,-34.853756,138.488525,4,1,3,House,House,False,499,m2,False
+2018291406,listing,/7-brown-street-semaphore-sa-5019-2018291406,710000,is-sold,Sold by private treaty 08 Mar 2023,20230308,7 Brown Street,SEMAPHORE,SA,5019,-34.840416,138.4841,2,2,,House,House,False,207,m2,False

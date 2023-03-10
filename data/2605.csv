@@ -999,3 +999,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013036222,listing,/6-parker-street-curtin-act-2605-2013036222,879000,is-sold,Sold prior to auction 23 Aug 2016,20160823,6 Parker Street,CURTIN,ACT,2605,-35.32677,149.083908,4,4,4,House,House,False,740.0,m2,False
 2013043608,listing,/28-holman-street-curtin-act-2605-2013043608,730000,is-sold,Sold at auction 27 Sep 2016,20160927,28 Holman Street,CURTIN,ACT,2605,-35.3320427,149.083466,3,3,3,House,House,False,0.0,m2,False
 2018204195,listing,/3-couvreur-street-garran-act-2605-2018204195,1500000,is-sold,Sold prior to auction 06 Mar 2023,20230306,3 Couvreur Street,GARRAN,ACT,2605,-35.33716,149.111221,4,3,2,House,House,False,892,m2,False
+2018223281,listing,/11-brand-street-hughes-act-2605-2018223281,1420000,is-sold,Sold by private treaty 08 Mar 2023,20230308,11 Brand Street,HUGHES,ACT,2605,-35.3305473,149.096527,4,3,2,House,House,False,883,m2,False
+2018369883,listing,/7-wisdom-place-hughes-act-2605-2018369883,,is-sold,Sold prior to auction 08 Mar 2023,20230308,7 Wisdom Place,HUGHES,ACT,2605,-35.3351364,149.095169,5,2,4,House,House,False,1217,m2,False
+2018357432,listing,/6-mackaness-place-garran-act-2605-2018357432,,is-sold,Sold at auction 08 Mar 2023,20230308,6 Mackaness Place,GARRAN,ACT,2605,-35.3427963,149.105911,3,2,2,Townhouse,Townhouse,False,520,m2,False

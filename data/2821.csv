@@ -487,3 +487,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008676448,listing,/lot-17-high-park-road-narromine-nsw-2821-2008676448,,is-sold,Sold 21 Mar 2011,20110321,Lot 17 High Park Road,NARROMINE,NSW,2821,-32.246254,148.2804,4,4,4,House,House,True,10.11,ha,False
 2009026206,listing,/valhalla-glenunga-narromine-nsw-2821-2009026206,,is-sold,Sold by private treaty 31 May 2011,20110531,VALHALLA - GLENUNGA,NARROMINE,NSW,2821,-32.2328224,148.239441,,,,Rural,Rural,True,1045.0,ha,False
 2009054567,listing,/106-warren-road-narromine-nsw-2821-2009054567,650000,is-sold,Sold by private treaty 22 Jun 2011,20110622,106 Warren Road,NARROMINE,NSW,2821,-32.212,148.235275,4,4,4,House,House,False,9878.0,m2,False
+2018281708,listing,/25-ellengerah-street-narromine-nsw-2821-2018281708,,is-sold,Sold by private treaty 09 Mar 2023,20230309,25 ELLENGERAH STREET,NARROMINE,NSW,2821,-32.2288971,148.246185,3,1,2,House,House,False,0,m2,False
+2018281744,listing,/193-temoin-street-narromine-nsw-2821-2018281744,530000,is-sold,Sold by private treaty 09 Mar 2023,20230309,193 TEMOIN STREET,NARROMINE,NSW,2821,-32.2455521,148.240982,3,1,4,House,House,False,2023,m2,False

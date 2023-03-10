@@ -515,3 +515,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007760862,listing,/selby-vic-3159-2007760862,374000,is-sold,Sold by private treaty 30 May 2009,20090530,,SELBY,VIC,3159,-37.912075,145.380692,3,3,3,House,House,False,0.0,m2,False
 2007761392,listing,/9-grandview-grove-menzies-creek-vic-3159-2007761392,415000,is-sold,Sold by private treaty 09 Jun 2009,20090609,9 Grandview Grove,MENZIES CREEK,VIC,3159,-37.918396,145.393448,4,4,4,House,House,False,0.0,m2,False
 2007842577,listing,/36-nation-road-selby-vic-3159-2007842577,,is-sold,Sold by private treaty 04 Jul 2009,20090704,36 Nation Road,SELBY,VIC,3159,-37.9097252,145.375137,3,3,3,House,House,False,0.0,m2,False
+2018344602,listing,/9-church-road-menzies-creek-vic-3159-2018344602,705000,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Church Road,MENZIES CREEK,VIC,3159,-37.91926,145.403152,2,1,1,House,House,False,1421,m2,False

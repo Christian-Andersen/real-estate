@@ -997,3 +997,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017426757,listing,/17-alice-street-yalyalup-wa-6280-2017426757,399000,is-sold,Sold by private treaty 24 Nov 2021,20211124,17 Alice Street,YALYALUP,WA,6280,-33.66877,115.381111,3,2,2,House,House,False,354,m2,False
 2017430812,listing,/45-flinders-cresent-abbey-wa-6280-2017430812,,is-sold,Sold by private treaty 01 Dec 2021,20211201,45 Flinders Cresent,ABBEY,WA,6280,-33.6631851,115.259659,4,2,4,House,House,False,568,m2,False
 2017466472,listing,/4-pickmore-circus-west-busselton-wa-6280-2017466472,,is-sold,Sold by private treaty 30 Nov 2021,20211130,4 Pickmore Circus,WEST BUSSELTON,WA,6280,-33.66555,115.31443,4,2,2,House,House,False,955,m2,False
+2018323792,listing,/14-barkle-close-abbey-wa-6280-2018323792,1200000,is-sold,Sold by private treaty 08 Mar 2023,20230308,14 Barkle Close,ABBEY,WA,6280,-33.6598549,115.264427,4,2,2,House,House,False,573,m2,False

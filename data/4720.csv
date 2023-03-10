@@ -13,3 +13,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018334333,listing,/21-crinum-crescent-emerald-qld-4720-2018334333,359000,is-sold,Sold by private treaty 06 Mar 2023,20230306,21 Crinum Crescent,EMERALD,QLD,4720,-23.5386238,148.170135,4,2,2,House,House,False,727,m2,False
 2018352649,listing,/25-lakeside-drive-emerald-qld-4720-2018352649,312000,is-sold,Sold by private treaty 06 Mar 2023,20230306,25 Lakeside Drive,EMERALD,QLD,4720,-23.5582275,148.156479,4,2,2,House,House,False,800,m2,False
 2018295408,listing,/30-desgrand-street-emerald-qld-4720-2018295408,499000,is-sold,Sold by private treaty 07 Mar 2023,20230307,30 Desgrand Street,EMERALD,QLD,4720,-23.5530834,148.166382,4,2,2,House,House,False,900,m2,False
+2018251990,listing,/24-staal-crescent-emerald-qld-4720-2018251990,329000,is-sold,Sold by private treaty 08 Mar 2023,20230308,24 Staal Crescent,EMERALD,QLD,4720,-23.5046959,148.160522,3,2,2,House,House,False,704,m2,False

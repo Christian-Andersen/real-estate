@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018178761,listing,/456-keys-road-flinders-vic-3929-2018178761,6075000,is-sold,Sold by private treaty 11 Nov 2022,20221111,456 Keys Road,FLINDERS,VIC,3929,-38.48019,144.965179,5,5,5,House,House,True,3.21,ha,False
 2018246389,listing,/2-darley-court-flinders-vic-3929-2018246389,,is-sold,Sold by private treaty 02 Dec 2022,20221202,2 Darley Court,FLINDERS,VIC,3929,-38.4660568,145.026382,4,4,4,House,House,False,0.0,m2,False
 2018291181,listing,/81-barker-street-flinders-vic-3929-2018291181,,is-sold,Sold by private treaty 11 Feb 2023,20230211,81 Barker Street,FLINDERS,VIC,3929,-38.472393,145.0117,4,4,4,House,House,False,1021.0,m2,False
+2018339859,listing,/16-patterson-grove-flinders-vic-3929-2018339859,,is-sold,Sold by private treaty 08 Mar 2023,20230308,16 Patterson Grove,FLINDERS,VIC,3929,-38.4721832,145.017456,3,2,2,House,House,False,1302,m2,False

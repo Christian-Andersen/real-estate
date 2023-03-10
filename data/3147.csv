@@ -1004,3 +1004,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018323177,listing,/14-rocklands-road-ashwood-vic-3147-2018323177,1455000,is-sold,Sold at auction 04 Mar 2023,20230304,14 Rocklands Road,ASHWOOD,VIC,3147,-37.86431,145.11142,3,2,1,House,House,False,724,m2,False
 2018338780,listing,/50-warner-avenue-ashburton-vic-3147-2018338780,2650000,is-sold,Sold at auction 04 Mar 2023,20230304,50 Warner Avenue,ASHBURTON,VIC,3147,-37.86957,145.085419,4,3,4,House,House,False,710,m2,False
 2018345917,listing,/2-8-silver-ash-avenue-ashwood-vic-3147-2018345917,1044000,is-sold,Sold at auction 04 Mar 2023,20230304,2/8 Silver Ash Avenue,ASHWOOD,VIC,3147,-37.8581543,145.105667,4,2,2,Townhouse,Townhouse,False,0,m2,False
+2018350130,listing,/28-ward-street-ashburton-vic-3147-2018350130,,is-sold,Sold at auction 08 Mar 2023,20230308,28 Ward Street,ASHBURTON,VIC,3147,-37.86566,145.079056,3,1,3,House,House,False,604,m2,False
+2018341697,listing,/61-gloucester-road-ashburton-vic-3147-2018341697,,is-sold,Sold by private treaty 08 Mar 2023,20230308,61 Gloucester Road,ASHBURTON,VIC,3147,-37.86946,145.088165,5,3,4,House,House,False,640,m2,False

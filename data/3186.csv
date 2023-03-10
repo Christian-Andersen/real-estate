@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018145326,listing,/26-bay-street-brighton-vic-3186-2018145326,7300000,is-sold,Sold at auction 04 Mar 2023,20230304,26 Bay Street,BRIGHTON,VIC,3186,-37.9039764,144.987213,5,3,3,House,House,False,1311,m2,False
 2018355529,listing,/1-893-hampton-street-brighton-vic-3186-2018355529,,is-sold,Sold at auction 04 Mar 2023,20230304,1/893 Hampton Street,BRIGHTON,VIC,3186,-37.90933,145.007538,4,2,2,Townhouse,Townhouse,False,0,m2,False
 2018333726,listing,/93-asling-street-brighton-vic-3186-2018333726,3195000,is-sold,Sold at auction 04 Mar 2023,20230304,93 Asling Street,BRIGHTON,VIC,3186,-37.8961639,145.003036,4,2,2,House,House,False,0,m2,False
+2018066247,listing,/3-17a-3-17a-martin-st-brighton-vic-3186-2018066247,,is-sold,Sold by private treaty 08 Mar 2023,20230308,"3, 17A/3, 17A Martin St",BRIGHTON,VIC,3186,-37.8953171,144.9892,2,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

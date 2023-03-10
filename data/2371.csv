@@ -290,3 +290,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008196460,listing,/torrington-nsw-2371-2008196460,,is-sold,Sold by private treaty 17 Apr 2010,20100417,,TORRINGTON,NSW,2371,-29.3119869,151.696579,,,,Rural,Rural,False,0.0,m2,False
 2008280253,listing,/torrington-nsw-2371-2008280253,195000,is-sold,Sold by private treaty 20 Aug 2010,20100820,,TORRINGTON,NSW,2371,-29.3119869,151.696579,3,3,3,House,House,False,4046.0,m2,False
 2008729959,listing,/1197-torrington-road-deepwater-nsw-2371-2008729959,97000,is-sold,Sold by private treaty 21 Apr 2011,20110421,1197 Torrington Road,DEEPWATER,NSW,2371,-29.4099846,151.857544,,,,Rural,Rural,True,6.88,ha,False
+2018320247,listing,/579-wellington-vale-road-deepwater-nsw-2371-2018320247,,is-sold,Sold at auction 09 Mar 2023,20230309,579 Wellington Vale Road,DEEPWATER,NSW,2371,-29.4275036,151.8022,4,1,2,Farm,Farm,True,403.1,ha,False
+2018321986,listing,/579-wellington-vale-road-deepwater-nsw-2371-2018321986,,is-sold,Sold at auction 09 Mar 2023,20230309,579 Wellington Vale Road,DEEPWATER,NSW,2371,-29.4275036,151.8022,4,1,2,Farm,Farm,True,403.1,ha,False

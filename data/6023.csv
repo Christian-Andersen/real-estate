@@ -5,3 +5,7 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018337807,listing,/5-huntly-court-duncraig-wa-6023-2018337807,,is-sold,Sold by private treaty 28 Feb 2023,20230228,5 Huntly Court,DUNCRAIG,WA,6023,-31.8255825,115.783661,4,4,4,House,House,False,830,m2,False
 2018280222,listing,/35-poynter-drive-duncraig-wa-6023-2018280222,990000,is-sold,Sold by private treaty 03 Mar 2023,20230303,35 Poynter Drive,DUNCRAIG,WA,6023,-31.8428745,115.775429,5,5,5,House,House,False,892,m2,False
 2018316002,listing,/17-bernedale-way-duncraig-wa-6023-2018316002,,is-sold,Sold by private treaty 03 Mar 2023,20230303,17 Bernedale Way,DUNCRAIG,WA,6023,-31.836422,115.776978,5,5,5,House,House,False,697,m2,False
+2018263238,listing,/duncraig-wa-6023-2018263238,,is-sold,Sold by private treaty 08 Mar 2023,20230308,,DUNCRAIG,WA,6023,-31.8306122,115.775269,3,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018263255,listing,/duncraig-wa-6023-2018263255,,is-sold,Sold by private treaty 08 Mar 2023,20230308,,DUNCRAIG,WA,6023,-31.8306122,115.775269,4,2,2,NewHouseLand,New House & Land,False,0,m2,False
+2018391560,listing,/11-eckford-way-duncraig-wa-6023-2018391560,925000,is-sold,Sold by private treaty 08 Mar 2023,20230308,11 Eckford Way,DUNCRAIG,WA,6023,-31.840353,115.781906,4,2,2,House,House,False,709,m2,False
+2018327895,listing,/5-ruthven-place-duncraig-wa-6023-2018327895,1180000,is-sold,Sold by private treaty 08 Mar 2023,20230308,5 Ruthven Place,DUNCRAIG,WA,6023,-31.8415089,115.7937,4,2,2,House,House,False,700,m2,False

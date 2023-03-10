@@ -1016,3 +1016,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018026064,listing,/8-undine-street-maroubra-nsw-2035-2018026064,3185000,is-sold,Sold by private treaty 03 Mar 2023,20230303,8 Undine Street,MAROUBRA,NSW,2035,-33.9398575,151.261856,4,2,1,House,House,False,0,m2,False
 2018088570,listing,/2-7-bellevue-street-maroubra-nsw-2035-2018088570,,is-sold,Sold by private treaty 03 Mar 2023,20230303,2/7 Bellevue Street,MAROUBRA,NSW,2035,-33.9427528,151.258591,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018318495,listing,/99-robey-street-maroubra-nsw-2035-2018318495,,is-sold,Sold prior to auction 06 Mar 2023,20230306,99 Robey Street,MAROUBRA,NSW,2035,-33.94747,151.238953,3,2,2,House,House,False,354,m2,False
+2018365637,listing,/27-gale-road-maroubra-nsw-2035-2018365637,,is-sold,Sold prior to auction 08 Mar 2023,20230308,27 Gale Road,MAROUBRA,NSW,2035,-33.9379349,151.233032,5,3,2,House,House,False,0,m2,False
+2018389135,listing,/73-edgar-street-maroubra-nsw-2035-2018389135,,is-sold,Sold prior to auction 08 Mar 2023,20230308,73 Edgar Street,MAROUBRA,NSW,2035,-33.9353676,151.2473,3,1,1,House,House,False,291,m2,False

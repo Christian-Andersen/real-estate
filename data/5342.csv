@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018042748,listing,/1265-harding-road-monash-sa-5342-2018042748,350000,is-sold,Sold by private treaty 16 Sep 2022,20220916,1265 Harding Road,MONASH,SA,5342,-34.2278557,140.588837,,,,VacantLand,Vacant land,False,0.0,m2,False
 2018171966,listing,/74-crossing-road-monash-sa-5342-2018171966,,is-sold,Sold by private treaty 14 Feb 2023,20230214,74 Crossing Road,MONASH,SA,5342,-34.2456436,140.585663,6,6,6,House,House,False,0.0,m2,False
 2018267308,listing,/section-686-soderberg-road-monash-sa-5342-2018267308,98000,is-sold,Sold by private treaty 31 Jan 2023,20230131,Section 686 Soderberg Road,MONASH,SA,5342,-34.22561,140.564392,,,,VacantLand,Vacant land,True,2.92,ha,False
+2018263675,listing,/20-bigg-road-monash-sa-5342-2018263675,610000,is-sold,Sold by private treaty 08 Mar 2023,20230308,20 Bigg Road,MONASH,SA,5342,-34.242218,140.592468,4,2,4,House,House,True,11.44,ha,False

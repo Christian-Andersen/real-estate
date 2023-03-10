@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017091876,listing,/50-blair-street-harrow-vic-3317-2017091876,312000,is-sold,Sold by private treaty 25 May 2022,20220525,50 Blair Street,HARROW,VIC,3317,-37.1672249,141.5909,2,2,2,House,House,False,4095.0,m2,False
 2017690108,listing,/69-teatree-creek-road-harrow-vic-3317-2017690108,301000,is-sold,Sold by private treaty 29 Jun 2022,20220629,69 Teatree Creek Road,HARROW,VIC,3317,-37.1582756,141.514465,,,,VacantLand,Vacant land,True,165.11,ha,False
 2017863532,listing,/5464-coleraine-edenhope-road-harrow-vic-3317-2017863532,67500,is-sold,Sold by private treaty 12 Sep 2022,20220912,5464 Coleraine-Edenhope Road,HARROW,VIC,3317,-37.14854,141.5839,,,,VacantLand,Vacant land,True,3.07,ha,False
+2018275172,listing,/harrow-vic-3317-2018275172,,is-sold,Sold by private treaty 08 Mar 2023,20230308,,HARROW,VIC,3317,-37.147747,141.57811,,,,Farm,Farm,True,354.5,ha,False

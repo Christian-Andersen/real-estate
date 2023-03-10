@@ -759,3 +759,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2010734475,listing,/wangaratta-south-vic-3678-2010734475,,is-sold,Sold by private treaty 18 Sep 2013,20130918,,WANGARATTA SOUTH,VIC,3678,-36.3953056,146.252762,4,4,4,House,House,False,0.0,m2,False
 2010734476,listing,/tarrawingee-vic-3678-2010734476,,is-sold,Sold by private treaty 12 Sep 2013,20130912,,TARRAWINGEE,VIC,3678,-36.3905869,146.444748,3,3,3,House,House,False,0.0,m2,False
 2010734503,listing,/everton-vic-3678-2010734503,212000,is-sold,Sold by private treaty 11 Oct 2013,20131011,,EVERTON,VIC,3678,-36.4334869,146.5427,3,3,3,House,House,False,0.0,m2,False
+2018274880,listing,/312-glenrowan-road-wangaratta-south-vic-3678-2018274880,,is-sold,Sold by private treaty 09 Mar 2023,20230309,312 Glenrowan Road,WANGARATTA SOUTH,VIC,3678,-36.40907,146.269638,3,1,4,Rural,Rural,True,7.28,ha,False
+2018207195,listing,/9-simpson-st-oxley-vic-3678-2018207195,640000,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Simpson St,OXLEY,VIC,3678,-36.4448433,146.383453,3,2,4,House,House,False,2083,m2,False

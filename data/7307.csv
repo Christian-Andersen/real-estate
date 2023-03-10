@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016785111,listing,/4-14-beechwood-close-port-sorell-tas-7307-2016785111,185000,is-sold,Sold by private treaty 20 May 2019,20190520,4/14 Beechwood Close,PORT SORELL,TAS,7307,-41.1697769,146.534836,,,,VacantLand,Vacant land,False,1760,m2,False
 2016786402,listing,/8-briar-court-latrobe-tas-7307-2016786402,285000,is-sold,Sold by private treaty 20 May 2019,20190520,8 Briar Court,LATROBE,TAS,7307,-41.2448959,146.418686,2,1,1,House,House,False,733,m2,False
 2017647643,listing,/20-palmers-road-latrobe-tas-7307-2017647643,260000,is-sold,Sold by private treaty 24 May 2019,20190524,20 Palmers Road,LATROBE,TAS,7307,-41.2276764,146.424438,4,1,,House,House,False,771,m2,False
+2018321098,listing,/68-cotton-street-latrobe-tas-7307-2018321098,468000,is-sold,Sold by private treaty 08 Mar 2023,20230308,68 Cotton Street,LATROBE,TAS,7307,-41.23912,146.4206,3,1,1,House,House,False,936,m2,False

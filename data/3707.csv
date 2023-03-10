@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018071478,listing,/165-harris-st-corryong-vic-3707-2018071478,420000,is-sold,Sold at auction 16 Dec 2022,20221216,165 Harris St,CORRYONG,VIC,3707,-36.19993,147.891479,4,4,4,House,House,False,1350.0,m2,False
 2018129103,listing,/5526-tooma-road-bringenbrong-nsw-3707-2018129103,10300000,is-sold,Sold prior to auction 18 Nov 2022,20221118,5526 Tooma Road,BRINGENBRONG,NSW,3707,-36.1162224,148.0141,,,,Rural,Rural,True,0.0,m2,False
 2018177549,listing,/163-hanson-st-corryong-vic-3707-2018177549,295000,is-sold,Sold by private treaty 02 Feb 2023,20230202,163 Hanson St,CORRYONG,VIC,3707,-36.20028,147.894089,3,3,3,House,House,False,921.0,m2,False
+2018228862,listing,/4-bryant-st-corryong-vic-3707-2018228862,475000,is-sold,Sold at auction 08 Mar 2023,20230308,4 Bryant St,CORRYONG,VIC,3707,-36.1912537,147.90416,4,2,4,House,House,False,964,m2,False

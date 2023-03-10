@@ -1004,3 +1004,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018336557,listing,/6-12-sherwood-avenue-ringwood-east-vic-3135-2018336557,,is-sold,Sold by private treaty 04 Mar 2023,20230304,6/12 Sherwood Avenue,RINGWOOD EAST,VIC,3135,-37.81567,145.24263,2,2,2,House,House,False,0,m2,False
 2018334463,listing,/11-edna-street-heathmont-vic-3135-2018334463,,is-sold,Sold at auction 04 Mar 2023,20230304,11 Edna Street,HEATHMONT,VIC,3135,-37.8260536,145.239883,3,1,2,House,House,False,1025,m2,False
 2018339788,listing,/2-kenbry-road-heathmont-vic-3135-2018339788,855000,is-sold,Sold at auction 04 Mar 2023,20230304,2 Kenbry Road,HEATHMONT,VIC,3135,-37.83556,145.244461,3,1,,House,House,False,744,m2,False
+2018356150,listing,/2-9-sunbeam-avenue-ringwood-east-vic-3135-2018356150,830000,is-sold,Sold by private treaty 08 Mar 2023,20230308,2/9 Sunbeam Avenue,RINGWOOD EAST,VIC,3135,-37.8025932,145.253952,3,1,1,House,House,False,0,m2,False

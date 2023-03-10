@@ -11,3 +11,6 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018322379,listing,/brabham-wa-6055-2018322379,,is-sold,Sold by private treaty 03 Mar 2023,20230303,,BRABHAM,WA,6055,-31.8271236,115.969231,4,4,4,NewHouseLand,New House & Land,False,0,m2,False
 2018344458,listing,/5-heisler-boulevard-brabham-wa-6055-2018344458,,is-sold,Sold by private treaty 07 Mar 2023,20230307,5 Heisler Boulevard,BRABHAM,WA,6055,-31.8169289,115.96447,3,2,2,House,House,False,360,m2,False
 2018377889,listing,/blackmore-loop-brabham-wa-6055-2018377889,,is-sold,Sold 07 Mar 2023,20230307,Blackmore Loop,BRABHAM,WA,6055,-31.8301811,115.965363,,,,NewHouseLand,New House & Land,False,0,m2,False
+2018292668,listing,/97-pannage-way-brabham-wa-6055-2018292668,512000,is-sold,Sold by private treaty 09 Mar 2023,20230309,97 Pannage Way,BRABHAM,WA,6055,-31.81461,115.975929,4,2,2,House,House,False,337,m2,False
+2018341172,listing,/29-melnik-street-caversham-wa-6055-2018341172,,is-sold,Sold by private treaty 09 Mar 2023,20230309,29 Melnik Street,CAVERSHAM,WA,6055,-31.8657036,115.967911,4,2,2,House,House,False,502,m2,False
+2018062673,listing,/54-12-loder-way-south-guildford-wa-6055-2018062673,,is-sold,Sold by private treaty 09 Mar 2023,20230309,54/12 LODER WAY,SOUTH GUILDFORD,WA,6055,-31.9159985,115.960945,3,2,2,House,House,False,301,m2,False

@@ -999,3 +999,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014382384,listing,/28-elrose-street-keperra-qld-4054-2014382384,608000,is-sold,Sold by private treaty 30 Apr 2018,20180430,28 Elrose Street,KEPERRA,QLD,4054,-27.4091835,152.9641,3,3,3,House,House,False,761,m2,False
 2017132169,listing,/8-jane-street-arana-hills-qld-4054-2017132169,547000,is-sold,Sold by private treaty 05 Jun 2018,20180605,8 Jane Street,ARANA HILLS,QLD,4054,-27.4016953,152.9585,3,3,3,House,House,False,640,m2,False
 2018119038,listing,/5-eveleigh-street-arana-hills-qld-4054-2018119038,520000,is-sold,Sold by private treaty 28 May 2018,20180528,5 Eveleigh Street,ARANA HILLS,QLD,4054,-27.3920689,152.9487,3,3,3,House,House,False,842,m2,False
+2018024882,listing,/20-park-road-arana-hills-qld-4054-2018024882,,is-sold,Sold by private treaty 08 Mar 2023,20230308,20 Park Road,ARANA HILLS,QLD,4054,-27.3934231,152.945847,3,2,2,House,House,False,746,m2,False
+2018225972,listing,/110-patricks-road-arana-hills-qld-4054-2018225972,,is-sold,Sold by private treaty 10 Mar 2023,20230310,110 Patricks Road,ARANA HILLS,QLD,4054,-27.3958035,152.949951,3,2,2,House,House,False,0,m2,False

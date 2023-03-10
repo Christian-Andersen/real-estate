@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018302453,listing,/49a-westminster-road-leeming-wa-6149-2018302453,888000,is-sold,Sold by private treaty 24 Feb 2023,20230224,49A Westminster Road,LEEMING,WA,6149,-32.0742035,115.8657,4,4,4,House,House,False,533,m2,False
 2018313403,listing,/5-gariver-street-leeming-wa-6149-2018313403,1202000,is-sold,Sold by private treaty 15 Feb 2023,20230215,5 Gariver Street,LEEMING,WA,6149,-32.07208,115.87101,4,4,4,House,House,False,700,m2,False
 2018317316,listing,/5-san-miguel-drive-leeming-wa-6149-2018317316,890000,is-sold,Sold by private treaty 24 Feb 2023,20230224,5 San Miguel Drive,LEEMING,WA,6149,-32.07966,115.853989,5,5,5,House,House,False,700,m2,False
+2018298813,listing,/9-hadlow-court-leeming-wa-6149-2018298813,705000,is-sold,Sold by private treaty 08 Mar 2023,20230308,9 Hadlow Court,LEEMING,WA,6149,-32.07387,115.865746,3,1,1,House,House,False,837,m2,False

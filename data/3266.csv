@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018213407,listing,/329-centre-road-simpson-vic-3266-2018213407,,is-sold,Sold by private treaty 03 Feb 2023,20230203,329 Centre Road,SIMPSON,VIC,3266,-38.53511,143.208038,4,4,4,Rural,Rural,True,247.26,ha,False
 2018214808,listing,/120-cobden-port-campbell-road-cobden-vic-3266-2018214808,,is-sold,Sold by private treaty 08 Feb 2023,20230208,120 Cobden - Port Campbell Road,COBDEN,VIC,3266,-38.34641,143.0543,3,3,3,Rural,Rural,True,6474.0,m2,False
 2018288097,listing,/97-parrott-street-cobden-vic-3266-2018288097,,is-sold,Sold by private treaty 06 Feb 2023,20230206,97 Parrott Street,COBDEN,VIC,3266,-38.3288879,143.066986,3,3,3,House,House,False,975.0,m2,False
+2018257442,listing,/21-neylon-street-cobden-vic-3266-2018257442,,is-sold,Sold by private treaty 08 Mar 2023,20230308,21 Neylon Street,COBDEN,VIC,3266,-38.3232727,143.07695,2,2,1,House,House,False,1011,m2,False

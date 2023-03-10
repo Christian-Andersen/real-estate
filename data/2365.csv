@@ -489,3 +489,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007643986,listing,/guyra-nsw-2365-2007643986,235000,is-sold,Sold by private treaty 22 Apr 2009,20090422,,GUYRA,NSW,2365,-30.2216625,151.675613,4,4,4,House,House,False,0.0,m2,False
 2007853674,listing,/guyra-nsw-2365-2007853674,143000,is-sold,Sold by private treaty 09 Jul 2009,20090709,,GUYRA,NSW,2365,-30.2156258,151.67778,3,3,3,House,House,False,0.0,m2,False
 2008420758,listing,/lot-10-cnr-glencoe-street-campbell-street-glencoe-nsw-2365-2008420758,,is-sold,Sold by private treaty 28 Feb 2009,20090228,Lot 10 Cnr Glencoe Street & Campbell Street,GLENCOE,NSW,2365,-29.9272442,151.726486,,,,VacantLand,Vacant land,False,0.0,m2,False
+2018077241,listing,/283-falconer-street-south-guyra-nsw-2365-2018077241,,is-sold,Sold by private treaty 09 Mar 2023,20230309,283 Falconer Street,SOUTH GUYRA,NSW,2365,-30.2381973,151.67131,4,3,7,House,House,False,3068,m2,False

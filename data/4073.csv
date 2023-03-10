@@ -19,3 +19,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018266569,listing,/51-condamine-drive-sinnamon-park-qld-4073-2018266569,1500000,is-sold,Sold by private treaty 03 Jan 2023,20230103,51 Condamine Drive,SINNAMON PARK,QLD,4073,-27.5370522,152.957779,5,5,5,House,House,False,700,m2,False
 2018267712,listing,/11-palmer-place-sinnamon-park-qld-4073-2018267712,1705000,is-sold,Sold by private treaty 21 Jan 2023,20230121,11 Palmer Place,SINNAMON PARK,QLD,4073,-27.5362434,152.957962,5,5,5,House,House,False,700,m2,False
 2018280839,listing,/4-olympic-place-sinnamon-park-qld-4073-2018280839,780000,is-sold,Sold by private treaty 28 Feb 2023,20230228,4 Olympic Place,SINNAMON PARK,QLD,4073,-27.542902,152.951233,3,3,3,House,House,False,487,m2,False
+2018235409,listing,/sinnamon-park-qld-4073-2018235409,,is-sold,Sold by private treaty 08 Mar 2023,20230308,,SINNAMON PARK,QLD,4073,-27.5454235,152.944748,4,2,2,House,House,False,665,m2,False

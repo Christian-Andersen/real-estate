@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018381126,listing,/82-livingston-avenue-kambah-act-2902-2018381126,,is-sold,Sold at auction 06 Mar 2023,20230306,82 Livingston Avenue,KAMBAH,ACT,2902,-35.38847,149.079849,4,1,2,House,House,False,444,m2,False
 2018342338,listing,/16-horton-close-kambah-act-2902-2018342338,1171000,is-sold,Sold at auction 04 Mar 2023,20230304,16 Horton Close,KAMBAH,ACT,2902,-35.38752,149.088272,4,2,2,House,House,False,766,m2,False
 2018357279,listing,/7-tanner-place-kambah-act-2902-2018357279,,is-sold,Sold at auction 07 Mar 2023,20230307,7 Tanner Place,KAMBAH,ACT,2902,-35.3896866,149.072235,3,1,1,House,House,False,0,m2,False
+2018344444,listing,/40-bissenberger-crescent-kambah-act-2902-2018344444,,is-sold,Sold by private treaty 08 Mar 2023,20230308,40 Bissenberger Crescent,KAMBAH,ACT,2902,-35.3808632,149.069275,3,1,,House,House,False,966,m2,False

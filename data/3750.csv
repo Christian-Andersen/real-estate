@@ -995,3 +995,7 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016882475,listing,/10-swagman-walk-wollert-vic-3750-2016882475,350000,is-sold,Sold at auction 01 Apr 2021,20210401,10 Swagman Walk,WOLLERT,VIC,3750,-37.6167526,145.032166,2,1,1,Townhouse,Townhouse,False,0,m2,False
 2017127306,listing,/14-banjo-close-wollert-vic-3750-2017127306,714000,is-sold,Sold by private treaty 31 Mar 2021,20210331,14 Banjo Close,WOLLERT,VIC,3750,-37.6187325,145.031342,4,3,2,House,House,False,0,m2,False
 2017189199,listing,/17-banjo-close-wollert-vic-3750-2017189199,674000,is-sold,Sold by private treaty 31 Mar 2021,20210331,17 Banjo Close,WOLLERT,VIC,3750,-37.6187325,145.031342,4,2,2,House,House,False,0,m2,False
+2018247673,listing,/20-conjola-way-wollert-vic-3750-2018247673,580000,is-sold,Sold by private treaty 08 Mar 2023,20230308,20 Conjola Way,WOLLERT,VIC,3750,-37.6077271,144.9984,4,2,1,House,House,False,0,m2,False
+2018403884,listing,/4230-wollert-wollert-vic-3750-2018403884,,is-sold,Sold by private treaty 08 Mar 2023,20230308,4230 Wollert,WOLLERT,VIC,3750,,,,,,VacantLand,Vacant land,False,332,m2,False
+2018305492,listing,/15-catanzaro-crescent-wollert-vic-3750-2018305492,,is-sold,Sold by private treaty 09 Mar 2023,20230309,15 Catanzaro Crescent,WOLLERT,VIC,3750,-37.5959625,144.997,4,2,2,House,House,False,448,m2,False
+2018334173,listing,/58-steen-avenue-wollert-vic-3750-2018334173,650000,is-sold,Sold by private treaty 09 Mar 2023,20230309,58 Steen Avenue,WOLLERT,VIC,3750,-37.61291,145.000351,4,2,2,House,House,False,0,m2,False

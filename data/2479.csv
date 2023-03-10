@@ -972,3 +972,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008217542,listing,/61-jorgensens-lane-brooklet-nsw-2479-2008217542,1425000,is-sold,Sold at auction 06 Mar 2010,20100306,61 Jorgensens Lane,BROOKLET,NSW,2479,-28.7360744,153.52446,3,3,3,House,House,False,0.0,m2,False
 2009673273,listing,/11-newrybar-swamp-road-newrybar-nsw-2479-2009673273,,is-sold,Sold by private treaty 27 Apr 2009,20090427,11 Newrybar Swamp Road,NEWRYBAR,NSW,2479,-28.7391853,153.5549,,,,Rural,Rural,True,38.53,ha,False
 2015689688,listing,/189-coorabell-road-coorabell-nsw-2479-2015689688,950000,is-sold,Sold by private treaty 26 Aug 2009,20090826,"189 Coorabell Road,",COORABELL,NSW,2479,-28.649889,153.470642,4,4,4,House,House,False,0.0,m2,False
+2017969091,listing,/17-ivory-curl-place-bangalow-nsw-2479-2017969091,1520000,is-sold,Sold by private treaty 08 Mar 2023,20230308,17 Ivory Curl Place,BANGALOW,NSW,2479,-28.6913967,153.51416,4,2,2,House,House,False,621,m2,False

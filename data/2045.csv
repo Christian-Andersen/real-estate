@@ -893,3 +893,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018320632,listing,/135-bland-street-haberfield-nsw-2045-2018320632,1659000,is-sold,Sold at auction 04 Mar 2023,20230304,135 Bland Street,HABERFIELD,NSW,2045,-33.8804169,151.1325,4,4,4,House,House,False,537,m2,False
 2018335218,listing,/23-o-connor-street-haberfield-nsw-2045-2018335218,,is-sold,Sold at auction 04 Mar 2023,20230304,23 O'Connor Street,HABERFIELD,NSW,2045,-33.88386,151.138977,4,4,4,House,House,False,695,m2,False
 2018335687,listing,/122-hawthorne-parade-haberfield-nsw-2045-2018335687,4095000,is-sold,Sold at auction 04 Mar 2023,20230304,122 Hawthorne Parade,HABERFIELD,NSW,2045,-33.8834229,151.143982,4,2,3,House,House,False,575,m2,False
+2018340480,listing,/29-hawthorne-parade-haberfield-nsw-2045-2018340480,2080000,is-sold,Sold by private treaty 09 Mar 2023,20230309,29 Hawthorne Parade,HABERFIELD,NSW,2045,-33.8883057,151.144562,3,2,1,House,House,False,297,m2,False

@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014080370,listing,/15-valley-view-road-cowra-nsw-2794-2014080370,619000,is-sold,Sold by private treaty 23 Jan 2018,20180123,15 Valley View Road,COWRA,NSW,2794,-33.864418,148.741043,4,4,4,Rural,Rural,True,2.0,ha,False
 2014081116,listing,/1-jindalee-circuit-cowra-nsw-2794-2014081116,,is-sold,Sold by private treaty 05 Jan 2018,20180105,1 Jindalee Circuit,COWRA,NSW,2794,-33.81733,148.680573,3,3,3,House,House,False,637.0,m2,False
 2018369118,listing,/28-lee-street-cowra-nsw-2794-2018369118,,is-sold,Sold by private treaty 06 Mar 2023,20230306,28 Lee Street,COWRA,NSW,2794,-33.8229561,148.681519,5,1,2,House,House,False,1012,m2,False
+2018342372,listing,/17-courallie-street-cowra-nsw-2794-2018342372,330000,is-sold,Sold by private treaty 09 Mar 2023,20230309,17 Courallie Street,COWRA,NSW,2794,-33.8434067,148.69014,3,1,2,House,House,False,1012,m2,False

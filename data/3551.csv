@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017119060,listing,/2-rothschild-close-epsom-vic-3551-2017119060,485000,is-sold,Sold by private treaty 15 Jul 2021,20210715,2 Rothschild Close,EPSOM,VIC,3551,-36.71573,144.306656,4,2,2,House,House,False,357,m2,False
 2017125438,listing,/76-lanark-drive-junortoun-vic-3551-2017125438,435000,is-sold,Sold by private treaty 19 Jul 2021,20210719,76 Lanark Drive,JUNORTOUN,VIC,3551,-36.7808342,144.338547,,,,VacantLand,Vacant land,False,2004,m2,False
 2017189855,listing,/11-24-manna-gum-drive-epsom-vic-3551-2017189855,365000,is-sold,Sold by private treaty 15 Jul 2021,20210715,11/24 Manna Gum Drive,EPSOM,VIC,3551,-36.71029,144.305466,2,1,2,Townhouse,Townhouse,False,589,m2,False
+2018338875,listing,/dunolly-inglewood-road-arnold-vic-3551-2018338875,,is-sold,Sold by private treaty 09 Mar 2023,20230309,Dunolly-Inglewood Road,ARNOLD,VIC,3551,-36.66518,143.866943,,,,Rural,Rural,True,2.85,ha,False

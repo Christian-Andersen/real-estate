@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018264450,listing,/lot-21-filippo-close-tolga-qld-4882-2018264450,200000,is-sold,Sold by private treaty 16 Feb 2023,20230216,Lot 21 Filippo Close,TOLGA,QLD,4882,-17.1921864,145.454361,,,,VacantLand,Vacant land,False,4087,m2,False
 2018329244,listing,/8-elizabeth-street-tolga-qld-4882-2018329244,,is-sold,Sold by private treaty 28 Feb 2023,20230228,8 Elizabeth Street,TOLGA,QLD,4882,-17.2196522,145.4808,4,4,4,House,House,False,1012,m2,False
 2018276074,listing,/16-ogilvie-court-tolga-qld-4882-2018276074,,is-sold,Sold by private treaty 06 Mar 2023,20230306,16 Ogilvie Court,TOLGA,QLD,4882,-17.2191048,145.472031,4,2,2,House,House,False,730,m2,False
+2018218888,listing,/tolga-qld-4882-2018218888,,is-sold,Sold by private treaty 09 Mar 2023,20230309,,TOLGA,QLD,4882,-17.2031746,145.4517,4,2,2,House,House,False,763,m2,False

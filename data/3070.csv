@@ -1001,3 +1001,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017795836,listing,/79-victoria-road-northcote-vic-3070-2017795836,1150000,is-sold,Sold by private treaty 03 Mar 2023,20230303,79 Victoria Road,NORTHCOTE,VIC,3070,-37.7765121,145.010391,3,3,3,House,House,False,0,m2,False
 2018337084,listing,/4-84-helen-street-northcote-vic-3070-2018337084,,is-sold,Sold at auction 04 Mar 2023,20230304,4/84 Helen Street,NORTHCOTE,VIC,3070,-37.7705078,144.9977,3,2,1,Townhouse,Townhouse,False,0,m2,False
 2018340947,listing,/21-howitt-street-northcote-vic-3070-2018340947,2116000,is-sold,Sold at auction 04 Mar 2023,20230304,21 Howitt Street,NORTHCOTE,VIC,3070,-37.781662,145.014053,3,2,,House,House,False,0,m2,False
+2018344179,listing,/34-ryan-street-northcote-vic-3070-2018344179,1760000,is-sold,Sold by private treaty 08 Mar 2023,20230308,34 Ryan Street,NORTHCOTE,VIC,3070,-37.7700272,144.990082,3,1,1,House,House,False,0,m2,False
+2018374451,listing,/9-northcote-street-northcote-vic-3070-2018374451,1200000,is-sold,Sold at auction 08 Mar 2023,20230308,9 Northcote Street,NORTHCOTE,VIC,3070,-37.7741623,145.007767,3,1,,House,House,False,0,m2,False

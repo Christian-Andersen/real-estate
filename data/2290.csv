@@ -27,3 +27,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018301688,listing,/2-elizabeth-parade-charlestown-nsw-2290-2018301688,860000,is-sold,Sold by private treaty 07 Mar 2023,20230307,2 Elizabeth Parade,CHARLESTOWN,NSW,2290,-32.9593353,151.684937,3,1,2,House,House,False,588,m2,False
 2018339858,listing,/12a-juncea-close-charlestown-nsw-2290-2018339858,1300000,is-sold,Sold by private treaty 07 Mar 2023,20230307,12A Juncea Close,CHARLESTOWN,NSW,2290,-32.97074,151.678162,4,2,2,House,House,False,394,m2,False
 2018205139,listing,/59-auklet-road-mount-hutton-nsw-2290-2018205139,1150000,is-sold,Sold by private treaty 07 Mar 2023,20230307,59 Auklet Road,MOUNT HUTTON,NSW,2290,-32.9778481,151.673187,4,2,4,House,House,False,650,m2,False
+2017745729,listing,/44-elizabeth-street-dudley-nsw-2290-2017745729,,is-sold,Sold by private treaty 09 Mar 2023,20230309,44 Elizabeth Street,DUDLEY,NSW,2290,-32.9853325,151.716431,3,1,2,House,House,False,0,m2,False

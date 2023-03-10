@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014303922,listing,/101-hydrae-street-revesby-nsw-2212-2014303922,1180000,is-sold,Sold at auction 05 May 2018,20180505,101 Hydrae Street,REVESBY,NSW,2212,-33.962986,151.019714,3,3,3,House,House,False,1021,m2,False
 2018345672,listing,/3-11-tompson-road-revesby-nsw-2212-2018345672,855000,is-sold,Sold by private treaty 03 Mar 2023,20230303,3 / 11 Tompson Road,REVESBY,NSW,2212,-33.9606133,151.015228,3,3,3,House,House,False,0,m2,False
 2018354577,listing,/13-rowland-street-revesby-nsw-2212-2018354577,1369000,is-sold,Sold by private treaty 07 Mar 2023,20230307,13 Rowland Street,REVESBY,NSW,2212,-33.95949,151.014633,5,2,3,House,House,False,582,m2,False
+2018403112,listing,/1-reiba-crescent-revesby-nsw-2212-2018403112,1410000,is-sold,Sold by private treaty 08 Mar 2023,20230308,1 Reiba Crescent,REVESBY,NSW,2212,-33.9380569,151.023773,3,1,1,House,House,False,746,m2,False

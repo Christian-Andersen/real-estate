@@ -1003,3 +1003,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013839124,listing,/8-ping-que-court-moulden-nt-0830-2013839124,370000,is-sold,Sold by private treaty 24 Jan 2018,20180124,8 Ping Que Court,MOULDEN,NT,830,-12.5074511,130.971939,3,3,3,House,House,False,826.0,m2,False
 2014021050,listing,/14-greenhide-road-marlow-lagoon-nt-0830-2014021050,1080000,is-sold,Sold by private treaty 24 Jan 2018,20180124,14 Greenhide Road,MARLOW LAGOON,NT,830,-12.48506,130.963821,5,5,5,House,House,False,6900.0,m2,False
 2014034442,listing,/2-heroine-court-gray-nt-0830-2014034442,,is-sold,Sold by private treaty 26 Jan 2018,20180126,2 Heroine Court,GRAY,NT,830,-12.4909773,130.977173,3,3,3,House,House,False,910.0,m2,False
+2018312114,listing,/9-denebola-court-woodroffe-nt-0830-2018312114,380000,is-sold,Sold by private treaty 09 Mar 2023,20230309,9 Denebola Court,WOODROFFE,NT,0830,-12.50145,130.980667,2,1,4,House,House,False,903,m2,False

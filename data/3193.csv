@@ -1004,3 +1004,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018341509,listing,/4a-middleton-street-black-rock-vic-3193-2018341509,,is-sold,Sold at auction 04 Mar 2023,20230304,4A Middleton Street,BLACK ROCK,VIC,3193,-37.96707,145.013062,3,3,3,Townhouse,Townhouse,False,0,m2,False
 2018340082,listing,/19-bent-parade-black-rock-vic-3193-2018340082,1942500,is-sold,Sold at auction 04 Mar 2023,20230304,19 Bent Parade,BLACK ROCK,VIC,3193,-37.96911,145.01413,4,2,2,House,House,False,555,m2,False
 2018340397,listing,/13a-arranmore-avenue-black-rock-vic-3193-2018340397,,is-sold,Sold at auction 04 Mar 2023,20230304,13a Arranmore Avenue,BLACK ROCK,VIC,3193,-37.97044,145.01915,4,3,2,House,House,False,437,m2,False
+2018340611,listing,/51a-fourth-street-beaumaris-vic-3193-2018340611,,is-sold,Sold by private treaty 07 Mar 2023,20230307,51A Fourth Street,BEAUMARIS,VIC,3193,-37.98082,145.025146,2,1,4,House,House,False,1082,m2,False
+2018341626,listing,/5-percy-street-black-rock-vic-3193-2018341626,,is-sold,Sold at auction 07 Mar 2023,20230307,5 Percy Street,BLACK ROCK,VIC,3193,-37.9628944,145.014,3,2,4,House,House,False,700,m2,False

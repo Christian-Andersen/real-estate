@@ -728,3 +728,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007589460,listing,/silverdale-nsw-2752-2007589460,,is-sold,Sold by private treaty,,,SILVERDALE,NSW,2752,-33.90917,150.60582,4,4,4,House,House,False,1000.0,m2,False
 2007655050,listing,/warragamba-nsw-2752-2007655050,,is-sold,Sold by private treaty,,,WARRAGAMBA,NSW,2752,-33.8837776,150.607941,2,2,2,House,House,False,493.0,m2,False
 2009473964,listing,/silverdale-nsw-2752-2009473964,450000,is-sold,Sold by private treaty,,,SILVERDALE,NSW,2752,-33.90183,150.607147,4,4,4,House,House,False,0.0,m2,False
+2017536650,listing,/25-lake-victoria-way-silverdale-nsw-2752-2017536650,,is-sold,Sold by private treaty 09 Mar 2023,20230309,25 Lake Victoria Way,SILVERDALE,NSW,2752,-33.8998,150.601532,4,2,2,NewHouseLand,New House & Land,False,539,m2,False

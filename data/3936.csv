@@ -20,3 +20,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018354004,listing,/3-181-dromana-parade-safety-beach-vic-3936-2018354004,,is-sold,Sold at auction 24 Feb 2023,20230224,3/181 Dromana Parade,SAFETY BEACH,VIC,3936,-38.3181076,144.989685,4,4,4,Townhouse,Townhouse,False,0,m2,False
 2018381015,listing,/39-oceanic-drive-safety-beach-vic-3936-2018381015,1245000,is-sold,Sold by private treaty 25 Feb 2023,20230225,39 Oceanic Drive,SAFETY BEACH,VIC,3936,-38.3173141,145.003113,4,4,4,House,House,False,457,m2,False
 2018342652,listing,/28-maud-road-dromana-vic-3936-2018342652,1835000,is-sold,Sold at auction 04 Mar 2023,20230304,28 Maud Road,DROMANA,VIC,3936,-38.3449249,144.956558,4,2,5,House,House,False,1420,m2,False
+2018252003,listing,/3-callas-street-dromana-vic-3936-2018252003,975000,is-sold,Sold by private treaty 09 Mar 2023,20230309,3 Callas Street,DROMANA,VIC,3936,-38.3364,144.980316,4,3,4,House,House,False,773,m2,False

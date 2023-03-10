@@ -20,3 +20,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018342152,listing,/208-3-fifth-street-bowden-sa-5007-2018342152,,is-sold,Sold by private treaty 15 Feb 2023,20230215,208/3 Fifth Street,BOWDEN,SA,5007,-34.90535,138.579788,1,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018364378,listing,/3-1-brand-avenue-welland-sa-5007-2018364378,650000,is-sold,Sold by private treaty 01 Feb 2023,20230201,3/1 Brand Avenue,WELLAND,SA,5007,-34.8977852,138.557739,3,3,3,House,House,False,307,m2,False
 2018352299,listing,/40-coglin-street-brompton-sa-5007-2018352299,505000,is-sold,Sold at auction 04 Mar 2023,20230304,40 Coglin Street,BROMPTON,SA,5007,-34.8993378,138.572357,1,1,,House,House,False,162,m2,False
+2018376368,listing,/12-glanton-street-west-hindmarsh-sa-5007-2018376368,750000,is-sold,Sold at auction 07 Mar 2023,20230307,12 Glanton Street,WEST HINDMARSH,SA,5007,-34.9013977,138.561676,5,1,2,House,House,False,582,m2,False
+2018198869,listing,/42-coglin-st-brompton-sa-5007-2018198869,,is-sold,Sold by private treaty 08 Mar 2023,20230308,42 Coglin St,BROMPTON,SA,5007,-34.8991737,138.572418,3,1,,House,House,False,350,m2,False

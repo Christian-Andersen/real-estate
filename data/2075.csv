@@ -21,3 +21,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018378614,listing,/9-dalton-road-st-ives-nsw-2075-2018378614,3060000,is-sold,Sold by private treaty 24 Feb 2023,20230224,9 Dalton Road,ST IVES,NSW,2075,-33.71084,151.159134,3,3,3,House,House,False,936,m2,False
 2018329210,listing,/9-derby-street-st-ives-nsw-2075-2018329210,,is-sold,Sold prior to auction 03 Mar 2023,20230303,9 Derby Street,ST IVES,NSW,2075,-33.73647,151.16774,5,5,5,House,House,False,0,m2,False
 2018210421,listing,/94-eastern-arterial-road-st-ives-nsw-2075-2018210421,,is-sold,Sold at auction 04 Mar 2023,20230304,94 Eastern Arterial Road,ST IVES,NSW,2075,-33.74778,151.174759,5,5,5,House,House,False,934,m2,False
+2018376143,listing,/32-5-gillott-way-st-ives-nsw-2075-2018376143,,is-sold,Sold by private treaty 09 Mar 2023,20230309,32/5 Gillott Way,ST IVES,NSW,2075,-33.72919,151.164673,3,2,2,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

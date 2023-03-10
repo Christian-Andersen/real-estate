@@ -23,3 +23,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018187592,listing,/48-leahy-street-nhill-vic-3418-2018187592,,is-sold,Sold by private treaty 06 Mar 2023,20230306,48 Leahy Street,NHILL,VIC,3418,-36.3345337,141.638687,2,1,,House,House,False,1170,m2,False
 2018204070,listing,/5-nelson-street-nhill-vic-3418-2018204070,,is-sold,Sold by private treaty 06 Mar 2023,20230306,5 Nelson Street,NHILL,VIC,3418,-36.33442,141.66246,3,1,5,House,House,False,1168,m2,False
 2018283034,listing,/103-macpherson-street-nhill-vic-3418-2018283034,,is-sold,Sold by private treaty 06 Mar 2023,20230306,103 Macpherson Street,NHILL,VIC,3418,-36.3350372,141.651917,3,1,,House,House,False,1060,m2,False
+2018158427,listing,/16-park-street-nhill-vic-3418-2018158427,,is-sold,Sold by private treaty 08 Mar 2023,20230308,16 Park Street,NHILL,VIC,3418,-36.32803,141.652466,3,1,1,House,House,False,1325,m2,False
+2018330279,listing,/15-clarence-street-nhill-vic-3418-2018330279,,is-sold,Sold by private treaty 08 Mar 2023,20230308,15 Clarence Street,NHILL,VIC,3418,-36.3357,141.651474,3,1,1,House,House,False,1024,m2,False

@@ -261,3 +261,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008673400,listing,/east-gresford-nsw-2311-2008673400,145000,is-sold,Sold by private treaty 17 Nov 2010,20101117,,EAST GRESFORD,NSW,2311,-32.4234924,151.554138,,,,VacantLand,Vacant land,False,0.0,m2,False
 2007166744,listing,/gresford-nsw-2311-2007166744,210000,is-sold,Sold by private treaty 12 Sep 2008,20080912,,GRESFORD,NSW,2311,-32.4271049,151.536514,3,3,3,House,House,False,1595.0,m2,False
 2007324360,listing,/gresford-nsw-2311-2007324360,,is-sold,Sold by private treaty 10 Dec 2008,20081210,,GRESFORD,NSW,2311,-32.4506378,151.564621,5,5,5,House,House,False,0.0,m2,False
+2018290354,listing,/36-durham-road-gresford-nsw-2311-2018290354,,is-sold,Sold by private treaty 09 Mar 2023,20230309,36 Durham Road,GRESFORD,NSW,2311,-32.4274521,151.549911,,,,VacantLand,Vacant land,False,872,m2,False

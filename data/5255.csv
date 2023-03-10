@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015965817,listing,/lot-8-toby-court-strathalbyn-sa-5255-2015965817,,is-sold,Sold by private treaty 26 Nov 2019,20191126,Lot 8 Toby Court,STRATHALBYN,SA,5255,-35.2414246,138.904755,,,,VacantLand,Vacant land,True,1.05,ha,False
 2018240902,listing,/2-kibby-circuit-strathalbyn-sa-5255-2018240902,,is-sold,Sold by private treaty 06 Mar 2023,20230306,2 Kibby Circuit,STRATHALBYN,SA,5255,-35.24981,138.884369,,,,VacantLand,Vacant land,False,893,m2,False
 2018350154,listing,/2-bonnar-court-strathalbyn-sa-5255-2018350154,,is-sold,Sold by private treaty 06 Mar 2023,20230306,2 Bonnar Court,STRATHALBYN,SA,5255,-35.2476578,138.900024,4,2,5,House,House,False,1032,m2,False
+2018314396,listing,/25-strathmont-drive-strathalbyn-sa-5255-2018314396,,is-sold,Sold by private treaty 08 Mar 2023,20230308,25 Strathmont Drive,STRATHALBYN,SA,5255,-35.26606,138.898743,4,2,7,House,House,False,800,m2,False

@@ -996,3 +996,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2016308816,listing,/19-grove-street-eltham-vic-3095-2016308816,785000,is-sold,Sold by private treaty 24 Jun 2020,20200624,19 Grove Street,ELTHAM,VIC,3095,-37.7109642,145.154266,3,3,3,House,House,False,452.0,m2,False
 2016313276,listing,/87-arthur-street-eltham-vic-3095-2016313276,1150000,is-sold,Sold by private treaty 27 Jun 2020,20200627,87 Arthur Street,ELTHAM,VIC,3095,-37.7154541,145.157776,4,4,4,House,House,False,1046.0,m2,False
 2016317981,listing,/2-railway-road-eltham-vic-3095-2016317981,672500,is-sold,Sold at auction 23 Jun 2020,20200623,2 Railway Road,ELTHAM,VIC,3095,-37.7060471,145.151108,4,4,4,Townhouse,Townhouse,False,232.0,m2,False
+2018371780,listing,/105-napoleon-street-eltham-vic-3095-2018371780,1015000,is-sold,Sold at auction 09 Mar 2023,20230309,105 Napoleon Street,ELTHAM,VIC,3095,-37.72388,145.149551,3,2,2,House,House,False,472,m2,False
