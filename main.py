@@ -146,12 +146,12 @@ while True:
     driver.get(url)
     if 'The requested URL was not found on the server.' in driver.page_source:
         with open('log.txt', 'a', encoding='utf-8') as f:
-            f.write('URL not found: '+main_webpage+'\n')
+            f.write('URL not found: '+url+'\n')
         suburbs.pop(suburb)
     elif 'No exact matches' in driver.page_source:
         if 'page=1' in url:
             with open('log.txt', 'a', encoding='utf-8') as f:
-                f.write('Not properties in suburb: '+main_webpage+'\n')
+                f.write('Not properties in suburb: '+url+'\n')
         else:
             with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
                 f.write(suburb+'\n')

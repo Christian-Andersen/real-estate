@@ -1,11 +1,10 @@
-import os
 import csv
-import time
 import atexit
+import pandas as pd
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.window import WindowTypes
+
 
 def add_column(group, header):
     """Returns '' if the key 'header' does not excist in dict 'group'"""
@@ -101,70 +100,62 @@ header = [
     'isRetirement'
 ]
 
-# File Check
-for filename in os.listdir('data'):
-    path = os.path.join('data', filename)
-    for line in open(path, 'r', encoding='utf-8'):
-        if not line.startswith('id'):
-            int(line[:10])
 # Get information from the data folder
-ids = {}
-for filename in os.listdir('data'):
-    path = os.path.join('data', filename)
-    with open(path, 'r', newline='', encoding='utf-8') as f:
-        csv_reader = csv.reader(f)
-        for row in csv_reader:
-            if row[0] != 'id':
-                if row[0] in ids:
-                    print('Dupe ID found')
-                else:
-                    ids[row[0]] = row[2]
-print('Total Properties:', len(ids))
-
-# Use postcoes to create webpages to scrape
-mainpage = 'https://www.domain.com.au/sold-listings/'
+df = pd.read_csv('all.csv', dtype=object)
+print('Number of properties:', len(df))
+df['date'] = df['date'].astype(float)
+# Load in ids
+ids = set(df['id'])
+# Load in suburbs
+suburbs = df.groupby('suburb')['date'].min().to_dict()
+# Make look up dict
+series = (df['suburb'].str.replace(' ', '-').str.replace('\'','-')+'-' +
+          df['state']+'-'+df['postcode']).str.lower()
+look_up = dict(zip(df['suburb'], series))
+# Load in done webpages
+with open('loaded.txt', 'r', encoding='utf-8') as f:
+    loaded = {line.strip() for line in f.readlines()}
+# Load in finished suburbs
+with open('finished_suburbs.txt', 'r', encoding='utf-8') as f:
+    finished_suburbs = {line.strip() for line in f.readlines()}
+for finished_suburb in finished_suburbs:
+    suburbs.pop(finished_suburb)
+# Create webpages
+mainpage = 'https://www.domain.com.au/sold-listings/?excludepricewithheld=1&ssubs=0'
 webpages = [mainpage]
 states = ['nt', 'nsw', 'act', 'vic', 'qld', 'sa', 'wa', 'tas']
 for state in states:
-    webpages.append(mainpage+'?state='+state)
+    webpages.append(mainpage+'&state='+state)
 print('Total Webpages:', len(webpages))
-
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 atexit.register(driver.quit)
-
 # Scrape them
 for webpage in webpages:
-    print('\nWebpage:', webpage)
     for i in range(1, 51):
-        if '?' in webpage:
-            site = webpage+'&page='+str(i)
+        url = webpage+'&page='+str(i)
+        print(url, end=' \t')
+        driver.get(url)
+        if 'The requested URL was not found on the server.' in driver.page_source:
+            with open('log.txt', 'a', encoding='utf-8') as f:
+                f.write('URL not found: '+url+'\n')
         else:
-            site = webpage+'?page='+str(i)
-        print(site, end='\t')
-        driver.get(site)
-        print('Done', end='\t')
-        page_data = driver.page_source
-        if page_data.find('"listingsMap":') == -1:
-            print('FAILED TO FIND DATA ON WEBAGE:', site)
-            continue
-        property_dictionary = html_to_dict(page_data)
-        dupes = 0
-        for value in property_dictionary.values():
-            if str(value['id']) in ids:
-                dupes += 1
-                continue
-            postcode = value['listingModel']['address']['postcode']
-            file = os.path.join('data', postcode+'.csv')
-            if not os.path.isfile(file):
-                with open(file, 'w', newline='', encoding='utf-8') as f:
+            property_dictionary = html_to_dict(driver.page_source)
+            dupes = 0
+            for value in property_dictionary.values():
+                if str(value['id']) in ids:
+                    dupes += 1
+                    continue
+                ids.add(str(value['id']))
+                row = value_to_row(value)
+                date = float(row[6])
+                if row[8] not in suburbs:
+                    suburbs[row[8]] = date
+                elif date < suburbs[row[8]]:
+                    suburbs[row[8]] = date
+                with open('all.csv', 'a', newline='', encoding='utf-8') as f:
                     w = csv.writer(f)
-                    w.writerow(header)
-            ids[str(value['id'])] = value['listingModel']['url']
-            row = value_to_row(value)
-            with open(file, 'a', newline='', encoding='utf-8') as f:
-                w = csv.writer(f)
-                w.writerow(row)
-        print('Dupes:', dupes)
+                    w.writerow(row)
+            print('Dupes:', dupes)
