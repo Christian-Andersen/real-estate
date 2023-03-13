@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012192473,listing,/wubin-wa-6612-2012192473,460000,is-sold,Sold by private treaty 01 Oct 2015,20151001,,WUBIN,WA,6612,-30.1072826,116.632172,,,,Farm,Farm,True,3392,ha,False
-2012927989,listing,/wubin-wa-6612-2012927989,,is-sold,Sold by private treaty 17 Oct 2016,20161017,,WUBIN,WA,6612,-30.0803528,116.613693,,,,Farm,Farm,True,1946,ha,False
-2016367675,listing,/6-woodhouse-street-wubin-wa-6612-2016367675,,is-sold,Sold by private treaty 25 May 2021,20210525,6 WOODHOUSE STREET,WUBIN,WA,6612,-30.1046124,116.632545,3,3,3,House,House,False,1012,m2,False

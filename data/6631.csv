@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012179677,listing,/pindar-wa-6631-2012179677,650000,is-sold,Sold by private treaty 24 Apr 2017,20170424,,PINDAR,WA,6631,-28.4778881,115.792908,,,,Farm,Farm,True,2711,ha,False
-2013020075,listing,/pindar-wa-6631-2013020075,,is-sold,Sold by private treaty 26 Aug 2017,20170826,,PINDAR,WA,6631,-28.4766674,115.790123,,,,Rural,Rural,True,1978,ha,False
-2013758296,listing,/pindar-wa-6631-2013758296,,is-sold,Sold by private treaty 20 Feb 2019,20190220,,PINDAR,WA,6631,-28.4766674,115.790123,,,,Rural,Rural,True,770,ha,False

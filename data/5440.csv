@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2010943042,listing,/1-lot-42-high-street-yunta-sa-5440-2010943042,,is-sold,Sold by private treaty 10 May 2015,20150510,1 (Lot 42) High Street,YUNTA,SA,5440,-32.57838,139.5652,3,3,3,House,House,False,0,m2,False
-2014260005,listing,/-oulnina-park-station-via-manna-hill-sa-5440-2014260005,,is-sold,Sold by private treaty 02 May 2018,20180502,"""Oulnina Park"" Station Via",MANNA HILL,SA,5440,-32.60244,139.862366,5,5,5,Rural,Rural,True,39400,ha,False
-2017049869,listing,/sec-291-nackara-road-nackara-sa-5440-2017049869,,is-sold,Sold by private treaty 27 Jul 2021,20210727,Sec/291 Nackara Road,NACKARA,SA,5440,-32.8012352,139.238266,4,4,4,House,House,False,0,m2,False

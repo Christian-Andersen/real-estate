@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013610958,listing,/3054-kyilla-rd-glenmorgan-qld-4423-2013610958,3650000,is-sold,Sold by private treaty 21 Mar 2018,20180321,3054 KYILLA RD,GLENMORGAN,QLD,4423,-27.0456676,149.644836,4,4,4,Rural,Rural,True,1794,ha,False
-2014076906,listing,/4895-teelba-road-glenmorgan-qld-4423-2014076906,,is-sold,Sold by private treaty 07 Dec 2017,20171207,4895 TEELBA ROAD,GLENMORGAN,QLD,4423,-27.22989,149.430618,,,,Rural,Rural,False,0,m2,False
-2014455771,listing,/883-dilga-road-glenmorgan-qld-4423-2014455771,5112900,is-sold,Sold by private treaty 12 Mar 2018,20180312,883 Dilga Road,GLENMORGAN,QLD,4423,-27.3256989,149.565674,,,,Rural,Rural,False,0,m2,False

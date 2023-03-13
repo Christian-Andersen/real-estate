@@ -1,8 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2009032844,listing,/961-gurrai-road-parilla-sa-5303-2009032844,260000,is-sold,Sold by private treaty 08 Nov 2013,20131108,961 Gurrai Road,PARILLA,SA,5303,-35.2966537,140.665878,,,,Rural,Rural,True,47.0,ha,False
-2012499746,listing,/lot-14-oaks-road-parilla-sa-5303-2012499746,390000,is-sold,Sold at auction 19 Feb 2016,20160219,Lot 14 Oaks Road,PARILLA,SA,5303,-35.2966537,140.665878,,,,Rural,Rural,True,514.76,ha,False
-2012612496,listing,/49-gurrai-road-parilla-sa-5303-2012612496,,is-sold,Sold by private treaty 15 Apr 2016,20160415,49 Gurrai Road,PARILLA,SA,5303,-35.2966537,140.665878,,,,Rural,Rural,False,0.0,m2,False
-2016024934,listing,/-gregors-325-gurrai-road-parilla-sa-5303-2016024934,,is-sold,Sold by private treaty 13 Mar 2020,20200313,'Gregors' 325 Gurrai Road,PARILLA,SA,5303,-35.27046,140.64682,,,,Rural,Rural,True,0.0,m2,False
-2016248840,listing,/55-schumacher-street-parilla-sa-5303-2016248840,100000,is-sold,Sold by private treaty 14 Aug 2020,20200814,55 Schumacher Street,PARILLA,SA,5303,-35.29527,140.667572,2,2,2,House,House,False,20000.0,m2,False
-2016431423,listing,/-bews-block-cornish-road-parilla-sa-5303-2016431423,1500000,is-sold,Sold at auction 01 Oct 2020,20201001,'Bews Block' Cornish Road,PARILLA,SA,5303,-35.27408,140.627274,4,4,4,Rural,Rural,True,891.6,ha,False
-2017679808,listing,/102-eisen-rd-parilla-sa-5303-2017679808,815000,is-sold,Sold by private treaty 30 Jun 2022,20220630,102 Eisen Rd,PARILLA,SA,5303,-35.3236771,140.7063,,,,SpecialistFarm,Specialist Farm,True,0.0,m2,False

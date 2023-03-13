@@ -1,6 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013621180,listing,/90-william-street-hilltown-sa-5455-2013621180,225000,is-sold,Sold by private treaty 05 Sep 2017,20170905,90 William Street,HILLTOWN,SA,5455,-33.7133179,138.592529,2,2,2,House,House,False,0.0,m2,False
-2013872158,listing,/lot-307-the-bluff-road-hilltown-sa-5455-2013872158,,is-sold,Sold by private treaty 13 Nov 2017,20171113,Lot/307 The Bluff Road,HILLTOWN,SA,5455,-33.66828,138.61322,,,,Rural,Rural,True,168.75,ha,False
-2014803422,listing,/22-hutt-street-hilltown-sa-5455-2014803422,,is-sold,Sold by private treaty 08 Feb 2019,20190208,22 Hutt Street,HILLTOWN,SA,5455,-33.68545,138.636642,3,3,3,House,House,False,2023.0,m2,False
-2014899309,listing,/lot-85-browne-street-hilltown-sa-5455-2014899309,,is-sold,Sold by private treaty 15 Oct 2020,20201015,Lot 85 Browne Street,HILLTOWN,SA,5455,-33.6855431,138.636673,,,,VacantLand,Vacant land,False,2000.0,m2,False
-2016108710,listing,/-pinewood-hilltown-road-hilltown-sa-5455-2016108710,,is-sold,Sold by private treaty 07 Apr 2020,20200407,'Pinewood' Hilltown Road,HILLTOWN,SA,5455,-33.7092,138.646286,,,,Rural,Rural,True,297.8,ha,False

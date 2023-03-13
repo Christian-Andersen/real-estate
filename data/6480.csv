@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2011528688,listing,/2410-chandler-merredin-road-nukarni-wa-6480-2011528688,,is-sold,Sold by private treaty 22 Aug 2014,20140822,2410 Chandler-Merredin Road,NUKARNI,WA,6480,-31.28944,118.355209,5,5,5,Rural,Rural,False,0.0,m2,False
-2013467331,listing,/1415-knungajin-merredin-road-nukarni-wa-6480-2013467331,,is-sold,Sold by private treaty 22 Mar 2017,20170322,1415 Knungajin - Merredin Road,NUKARNI,WA,6480,-31.3083534,118.243721,2,2,2,House,House,True,12.3,ha,False

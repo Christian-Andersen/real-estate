@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013789482,listing,/0-trellies-canna-wa-6627-2013789482,,is-sold,Sold by private treaty 01 Dec 2017,20171201,0 Trellies,CANNA,WA,6627,-28.8940582,115.811417,2,2,2,Rural,Rural,True,1964.7,ha,False
-2015505992,listing,/591-stephen-road-canna-wa-6627-2015505992,,is-sold,Sold by private treaty 25 Jul 2019,20190725,591 Stephen Road,CANNA,WA,6627,-28.83815,115.994095,,,,Rural,Rural,True,1224.83,ha,False
-2018374016,listing,/394-newnham-road-canna-wa-6627-2018374016,,is-sold,Sold by private treaty 01 Jan 2023,20230101,394 Newnham Road,CANNA,WA,6627,-28.7724876,116.056,,,,Farm,Farm,True,1759.0,ha,False

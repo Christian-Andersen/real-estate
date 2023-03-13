@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2009372568,listing,/25-railway-tce-copley-sa-5732-2009372568,,is-sold,Sold by private treaty 25 Nov 2011,20111125,25 Railway Tce,COPLEY,SA,5732,-30.5541267,138.426743,2,2,2,House,House,False,0,m2,False
-2010240143,listing,/lot-77-william-street-copley-sa-5732-2010240143,,is-sold,Sold by private treaty 08 Apr 2013,20130408,Lot 77 William Street,COPLEY,SA,5732,-30.553772,138.431778,,,,VacantLand,Vacant land,False,0,m2,False

@@ -1,7 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2009033725,listing,/lot-14-radar-hill-road-lockhart-river-qld-4892-2009033725,290000,is-sold,Sold by private treaty 07 Sep 2012,20120907,Lot 14 Radar Hill Road,LOCKHART RIVER,QLD,4892,-12.5996208,143.4095,3,3,3,House,House,False,5500.0,m2,False
-2009978015,listing,/147-the-esplanade-lockhart-river-qld-4892-2009978015,300000,is-sold,Sold by private treaty 08 Oct 2012,20121008,147 The Esplanade,LOCKHART RIVER,QLD,4892,-12.6141939,143.435944,2,2,2,House,House,False,0.0,m2,False
-2012630255,listing,/coen-qld-4892-2012630255,,is-sold,Sold by private treaty 12 Dec 2019,20191212,,COEN,QLD,4892,-13.9416666,143.2,,,,Rural,Rural,True,118.98,ha,False
-2013543827,listing,/0-unnamed-rd-crystal-vale-coen-qld-4892-2013543827,,is-sold,Sold at auction 02 Jun 2017,20170602,"0 Unnamed Rd, Crystal Vale",COEN,QLD,4892,-13.9416666,143.2,,,,Rural,Rural,True,90600.0,ha,False
-2015319355,listing,/palmerville-station-palmer-qld-4892-2015319355,,is-sold,Sold by private treaty 20 Aug 2019,20190820,Palmerville Station,PALMER,QLD,4892,-15.9528809,143.613327,,,,Rural,Rural,True,134000.0,ha,False
-2016406102,listing,/lakefield-qld-4892-2016406102,450000,is-sold,Sold by private treaty 28 Oct 2020,20201028,,LAKEFIELD,QLD,4892,-14.8184137,144.211349,,,,VacantLand,Vacant land,True,115.94,ha,False

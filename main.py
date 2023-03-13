@@ -1,11 +1,10 @@
-import os
 import csv
-import time
 import atexit
+import pandas as pd
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.window import WindowTypes
+
 
 def add_column(group, header):
     """Returns '' if the key 'header' does not excist in dict 'group'"""
@@ -101,117 +100,81 @@ header = [
     'isRetirement'
 ]
 
-# File Check
-for filename in os.listdir('data'):
-    path = os.path.join('data', filename)
-    for line in open(path, 'r', encoding='utf-8'):
-        if not line.startswith('id'):
-            int(line[:10])
 # Get information from the data folder
-ids = {}
-postcodes = {}
-for filename in os.listdir('data'):
-    path = os.path.join('data', filename)
-    with open(path, 'r', newline='', encoding='utf-8') as f:
-        csv_reader = csv.reader(f)
-        oldest = float('inf')
-        for row in csv_reader:
-            if row[0] != 'id':
-                if row[0] in ids:
-                    print('Dupe ID found')
-                else:
-                    if row[6] != '':
-                        if int(row[6]) < oldest:
-                            oldest = int(row[6])
-                    ids[row[0]] = row[2]
-            date = row[6]
-    postcodes[filename.split('.')[0]] = oldest
-print('Total Properties:', len(ids))
-print('Total Postcodes:', len(postcodes))
-
-# Load in finished postcodes
-skip = []
-with open('done.txt', 'r') as f:
-    for row in f:
-        skip.append(row.rstrip())
-skip = list(set(skip))
-
-# Use postcoes to create webpages to scrape
-mainpage = 'https://www.domain.com.au/sold-listings/'
-webpages = [mainpage]
-while len(postcodes) > 0:
-    postcode = max(postcodes, key=postcodes.get) # type:ignore
-    postcodes.pop(postcode)
-    if postcode not in skip:
-        webpages.append(mainpage+'?postcode='+str(postcode))
-print('Total Webpages:', len(webpages))
-
+df = pd.read_csv('all.csv', dtype=object)
+print('Number of properties:', len(df))
+df['date'] = df['date'].astype(float)
+# Load in ids
+ids = set(df['id'])
+# Load in suburbs
+suburbs = df.groupby('suburb')['date'].min().to_dict()
+# Make look up dict
+series = (df['suburb'].str.replace(' ', '-').str.replace('\'','-')+'-' +
+          df['state']+'-'+df['postcode']).str.lower()
+look_up = dict(zip(df['suburb'], series))
+# Load in done webpages
+with open('loaded.txt', 'r', encoding='utf-8') as f:
+    loaded = {line.strip() for line in f.readlines()}
+# Load in finished suburbs
+with open('finished_suburbs.txt', 'r', encoding='utf-8') as f:
+    finished_suburbs = {line.strip() for line in f.readlines()}
+for finished_suburb in finished_suburbs:
+    suburbs.pop(finished_suburb)
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
-# driver = webdriver.Firefox(options=options)
-
+driver = webdriver.Firefox(options=options)
+atexit.register(driver.quit)
 # Scrape them
-for webpage in webpages:
-    print('\nWebpage:', webpage)
-    pc = webpage[webpage.find('postcode=')+9:]
-    driver = webdriver.Firefox(options=options)
-    try:
-        driver.get(webpage)
-        atexit.register(driver.quit)
-        sites = [driver.page_source]
-        start_index = len('<strong>')+sites[0].find('<strong>')
-        end_index = sites[0].find('</strong>')
-        info = sites[0][start_index:end_index].split()
-        if info[1] in ['Property', 'Properties']:
-            number_of_properties = int(info[0])
-            number_of_pages = 1+(number_of_properties//20)
-            print('Number of pages:', number_of_pages)
+while True:
+    suburb = max(suburbs, key=suburbs.get) # type: ignore
+    main_webpage = 'https://www.domain.com.au/sold-listings/'+look_up[suburb]+'/?excludepricewithheld=1&ssubs=0&page='
+    url = False
+    for i in range(1, 51):
+        webpage = main_webpage+str(i)
+        if webpage not in loaded:
+            url = webpage
+            break
+    if not url:
+        with open('log.txt', 'a', encoding='utf-8') as f:
+            f.write('All pages have been loaded: '+main_webpage+'\n')
+        continue
+    year = str(suburbs[suburb])[0:4]
+    month = str(suburbs[suburb])[4:6]
+    day = str(suburbs[suburb])[6:8]
+    print(f'{day}/{month}/{year} : {suburb: <30} - {url}')
+    driver.get(url)
+    if 'The requested URL was not found on the server.' in driver.page_source:
+        with open('log.txt', 'a', encoding='utf-8') as f:
+            f.write('URL not found: '+main_webpage+'\n')
+        suburbs.pop(suburb)
+    elif 'No exact matches' in driver.page_source:
+        if 'page=1' in url:
+            with open('log.txt', 'a', encoding='utf-8') as f:
+                f.write('Not properties in suburb: '+main_webpage+'\n')
         else:
-            print('Failed to find number of properties')
-            raise KeyError
-        for i in range(2, min(51, number_of_pages+2)):
-            if '?' in webpage:
-                site = webpage+'&page='+str(i)
-            else:
-                site = webpage+'?page='+str(i)
-            driver.switch_to.new_window(WindowTypes.TAB)
-            driver.execute_script(f"window.location.href = '{site}';")
-        for window_handle in driver.window_handles:
-            driver.switch_to.window(window_handle)
-            print(driver.current_url)
-            startTime = time.time()
-            while True:
-                if (time.time()-startTime)>60:
-                    print('Failed to fetch in 60 seconds')
-                    raise KeyError
-                if 'No exact matches' in driver.page_source:
-                    break
-                if '"listingsMap":' in driver.page_source:
-                    sites.append(driver.page_source)
-                    break
-        for site in sites:
-            property_dictionary = html_to_dict(site)
-            for value in property_dictionary.values():
-                if str(value['id']) in ids:
-                    continue
-                postcode = value['listingModel']['address']['postcode']
-                file = os.path.join('data', postcode+'.csv')
-                if not os.path.isfile(file):
-                    with open(file, 'w', newline='', encoding='utf-8') as f:
-                        w = csv.writer(f)
-                        w.writerow(header)
-                ids[str(value['id'])] = value['listingModel']['url']
-                row = value_to_row(value)
-                with open(file, 'a', newline='', encoding='utf-8') as f:
-                    w = csv.writer(f)
-                    w.writerow(row)
-        driver.quit()
-        with open('done.txt', 'a') as f:
-            if 'postcode=' in webpage:
-                f.write(pc+'\n')
-    except KeyboardInterrupt:
-        driver.quit()
-        break
-    except:
-        driver.quit()
+            with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
+                f.write(suburb+'\n')
+        suburbs.pop(suburb)
+    else:
+        property_dictionary = html_to_dict(driver.page_source)
+        for value in property_dictionary.values():
+            if str(value['id']) in ids:
+                continue
+            ids.add(str(value['id']))
+            row = value_to_row(value)
+            date = float(row[6])
+            if row[8] not in suburbs:
+                suburbs[row[8]] = date
+            elif date < suburbs[row[8]]:
+                suburbs[row[8]] = date
+            with open('all.csv', 'a', newline='', encoding='utf-8') as f:
+                w = csv.writer(f)
+                w.writerow(row)
+        if len(property_dictionary.values()) < 20:
+            with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
+                f.write(suburb+'\n')
+            suburbs.pop(suburb)
+    loaded.add(url)
+    with open('loaded.txt', 'a', encoding='utf-8') as f:
+        f.write(url+'\n')

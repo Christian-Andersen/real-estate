@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2011528608,listing,/lot-303-great-eastern-highway-moorine-rock-wa-6425-2011528608,,is-sold,Sold by private treaty 20 Jun 2014,20140620,Lot 303 Great Eastern Highway,MOORINE ROCK,WA,6425,-31.2788887,119.203651,4,4,4,Rural,Rural,False,0.0,m2,False
-2013479548,listing,/loc-53-munyard-street-moorine-rock-wa-6425-2013479548,,is-sold,Sold by private treaty 15 Jun 2017,20170615,Loc 53 Munyard Street,MOORINE ROCK,WA,6425,-31.3164921,119.132072,3,3,3,House,House,True,1.99,ha,False
-2014072339,listing,/lots-goodhill-road-moorine-rock-wa-6425-2014072339,,is-sold,Sold by private treaty 09 Apr 2019,20190409,Lots Goodhill Road,MOORINE ROCK,WA,6425,-31.3996868,119.153954,,,,Rural,Rural,True,1037.73,ha,False
-2017273100,listing,/2691-grace-road-dulyalbin-wa-6425-2017273100,,is-sold,Sold by private treaty 02 Nov 2021,20211102,2691 Grace Road,DULYALBIN,WA,6425,-31.5993652,119.214745,,,,Rural,Rural,True,1019.06,ha,False

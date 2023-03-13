@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013508506,listing,/doolette-nicholls-street-bullfinch-wa-6484-2013508506,,is-sold,Sold by private treaty 01 Dec 2017,20171201,Doolette & Nicholls Street,BULLFINCH,WA,6484,-30.9892921,119.118149,11,11,11,House,House,False,4047.0,m2,False
-2015415710,listing,/558-della-bosca-rd-bullfinch-wa-6484-2015415710,,is-sold,Sold by private treaty 03 Jul 2019,20190703,558 Della Bosca Rd,BULLFINCH,WA,6484,-31.0874557,119.046005,,,,Rural,Rural,True,2738.84,ha,False
-2015415735,listing,/1093-della-bosca-rd-bullfinch-wa-6484-2015415735,,is-sold,Sold by private treaty 03 Jul 2019,20190703,1093 Della Bosca Rd,BULLFINCH,WA,6484,-31.0874557,119.046005,,,,Rural,Rural,True,2300.0,ha,False

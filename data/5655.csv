@@ -1,7 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2009030038,listing,/section-46-47-franceys-road-poochera-sa-5655-2009030038,,is-sold,Sold by private treaty 01 Jun 2011,20110601,Section 46-47 - Franceys Road,POOCHERA,SA,5655,-32.7105751,134.840042,2,2,2,House,House,False,0.0,m2,False
-2010985422,listing,/2-barnes-poochera-sa-5655-2010985422,85000,is-sold,Sold by private treaty 11 Apr 2014,20140411,2 Barnes,POOCHERA,SA,5655,-32.7196,134.83667,4,4,4,House,House,False,0.0,m2,False
-2013662151,listing,/30-barnes-street-poochera-sa-5655-2013662151,50000,is-sold,Sold by private treaty 27 Dec 2017,20171227,30 Barnes Street,POOCHERA,SA,5655,-32.7205544,134.839767,3,3,3,House,House,False,0.0,m2,False
-2013664641,listing,/29-barnes-street-poochera-sa-5655-2013664641,,is-sold,Sold by private treaty 07 Aug 2017,20170807,29 Barnes Street,POOCHERA,SA,5655,-32.71997,134.840256,2,2,2,House,House,False,0.0,m2,False
-2016702071,listing,/86-franceys-road-poochera-sa-5655-2016702071,,is-sold,Sold by private treaty 31 Mar 2021,20210331,86 Franceys Road,POOCHERA,SA,5655,-32.7117538,134.8401,2,2,2,House,House,False,80937.0,m2,False
-2016802689,listing,/32651-eyre-highway-poochera-sa-5655-2016802689,234300,is-sold,Sold by private treaty 15 Mar 2021,20210315,32651 Eyre Highway,POOCHERA,SA,5655,-32.7223358,134.837189,3,3,3,House,House,True,1.63,ha,False

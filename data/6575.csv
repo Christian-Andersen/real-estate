@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2013408660,listing,/18209-great-northern-highway-miling-wa-6575-2013408660,,is-sold,Sold by private treaty 02 Jul 2018,20180702,18209 Great Northern Highway,MILING,WA,6575,-30.4931049,116.360657,3,3,3,House,House,False,4068,m2,False
-2016226925,listing,/7-great-northern-highway-miling-wa-6575-2016226925,10000,is-sold,Sold by private treaty 16 Dec 2020,20201216,7 Great Northern Highway,MILING,WA,6575,-27.42677,117.893387,,,,VacantLand,Vacant land,False,1012,m2,False
-2016226926,listing,/lot-8-great-northern-highway-miling-wa-6575-2016226926,10000,is-sold,Sold by private treaty 16 Dec 2020,20201216,lot 8 Great Northern Highway,MILING,WA,6575,-30.46466,116.431664,,,,VacantLand,Vacant land,False,994,m2,False
-2016806232,listing,/miling-wa-6575-2016806232,,is-sold,Sold by private treaty 15 Mar 2022,20220315,,MILING,WA,6575,-30.3953743,116.372169,,,,Rural,Rural,True,1289,ha,False

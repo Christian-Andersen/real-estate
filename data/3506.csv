@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2014573222,listing,/4064-mallee-highway-cowangie-vic-3506-2014573222,78000,is-sold,Sold by private treaty 24 Aug 2018,20180824,4064 MALLEE HIGHWAY,COWANGIE,VIC,3506,-35.2315178,141.381943,2,2,2,House,House,True,1.49,ha,False
-2016946813,listing,/cowangie-vic-3506-2016946813,,is-sold,Sold by private treaty 26 Oct 2021,20211026,,COWANGIE,VIC,3506,-35.17668,141.368,,,,Rural,Rural,True,0.0,m2,False
-2017271619,listing,/cowangie-vic-3506-2017271619,451219,is-sold,Sold by private treaty 10 Jan 2022,20220110,,COWANGIE,VIC,3506,-35.17668,141.368,,,,Rural,Rural,True,0.0,m2,False
-2017962691,listing,/9-mallee-highway-cowangie-vic-3506-2017962691,,is-sold,Sold by private treaty 24 Nov 2022,20221124,9 Mallee Highway,COWANGIE,VIC,3506,-35.3252869,140.5137,,,,Rural,Rural,True,206.78,ha,False

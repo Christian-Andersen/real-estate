@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2010526462,listing,/lots-61-84-freeman-street-grass-patch-wa-6446-2010526462,,is-sold,Sold by private treaty 16 Sep 2014,20140916,Lots 61 & 84 Freeman Street,GRASS PATCH,WA,6446,-33.2283058,121.713676,4,4,4,House,House,False,3014,m2,False
-2012309645,listing,/grass-patch-wa-6446-2012309645,,is-sold,Sold by private treaty 24 Dec 2015,20151224,,GRASS PATCH,WA,6446,-33.2283173,121.716125,4,4,4,Rural,Rural,True,2040,ha,False
-2015490271,listing,/265-274-cooper-rd-grass-patch-wa-6446-2015490271,,is-sold,Sold by private treaty 13 Aug 2019,20190813,265 & 274 Cooper Rd,GRASS PATCH,WA,6446,-33.1250534,121.585449,,,,Rural,Rural,True,867,ha,False
-2018270183,listing,/grass-patch-west-road-grass-patch-wa-6446-2018270183,,is-sold,Sold at auction 08 Feb 2023,20230208,Grass Patch West Road,GRASS PATCH,WA,6446,-33.23016,121.57502,,,,Rural,Rural,True,1104,ha,False

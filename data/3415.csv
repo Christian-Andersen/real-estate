@@ -1,3 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2014375821,listing,/11-clarence-street-miram-vic-3415-2014375821,97000,is-sold,Sold by private treaty 29 Aug 2018,20180829,11 Clarence Street,MIRAM,VIC,3415,-36.35449,141.346588,2,2,2,House,House,False,0,m2,False
-2017627968,listing,/lot-1-williams-street-miram-vic-3415-2017627968,,is-sold,Sold by private treaty 03 May 2022,20220503,Lot 1 Williams Street,MIRAM,VIC,3415,-36.3552055,141.344055,,,,VacantLand,Vacant land,False,2951,m2,False

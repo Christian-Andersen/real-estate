@@ -1,7 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2014116804,listing,/1726-baandee-north-cross-road-north-baandee-wa-6412-2014116804,,is-sold,Sold by private treaty 01 Nov 2019,20191101,1726 Baandee North Cross Road,NORTH BAANDEE,WA,6412,-31.3782,118.024948,,,,Farm,Farm,True,975.0,ha,False
-2014200962,listing,/-pontifex-road-baandee-wa-6412-2014200962,,is-sold,Sold by private treaty 16 May 2019,20190516,. Pontifex Road,BAANDEE,WA,6412,-31.5874939,117.967575,,,,VacantLand,Vacant land,True,144.0,ha,False
-2014255278,listing,/baandee-wa-6412-2014255278,,is-sold,Sold by private treaty 14 May 2018,20180514,,BAANDEE,WA,6412,-31.5264664,117.974251,,,,AcreageSemiRural,Acreage / Semi-Rural,True,49.2,ha,False
-2015526706,listing,/north-baandee-wa-6412-2015526706,,is-sold,Sold by private treaty 03 Oct 2019,20191003,,NORTH BAANDEE,WA,6412,-31.3701458,117.934586,3,3,3,Farm,Farm,True,726.58,ha,False
-2015541724,listing,/lot-19997-pontifex-road-baandee-wa-6412-2015541724,,is-sold,Sold by private treaty 08 Mar 2021,20210308,Lot 19997 Pontifex Road,BAANDEE,WA,6412,-31.5874939,117.967575,,,,Rural,Rural,True,325.63,ha,False
-2016538589,listing,/baandee-wa-6412-2016538589,,is-sold,Sold by private treaty 15 Dec 2020,20201215,,BAANDEE,WA,6412,-31.545187,117.983345,,,,Rural,Rural,True,567.81,ha,False

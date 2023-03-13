@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2008695671,listing,/3-george-st-bungunya-qld-4494-2008695671,,is-sold,Sold by private treaty 13 Aug 2012,20120813,3 George St,BUNGUNYA,QLD,4494,-28.4260178,149.656158,3,3,3,House,House,False,2023,m2,False
-2013359613,listing,/bungunya-qld-4494-2013359613,20000,is-sold,Sold by private treaty 03 May 2017,20170503,,BUNGUNYA,QLD,4494,-28.4289455,149.65239,,,,VacantLand,Vacant land,False,3036,m2,False
-2013404063,listing,/20-main-street-bungunya-qld-4494-2013404063,110000,is-sold,Sold by private treaty 04 May 2017,20170504,20 Main Street,BUNGUNYA,QLD,4494,-28.4241,149.657288,3,3,3,Rural,Rural,False,0,m2,False

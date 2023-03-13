@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2008629447,listing,/51-55-wotton-st-wiluna-wa-6646-2008629447,,is-sold,Sold by private treaty 16 Mar 2011,20110316,51-55 Wotton St,WILUNA,WA,6646,-26.5925312,120.224174,1,1,1,House,House,False,0,m2,False
-2008810533,listing,/50-woodley-street-wiluna-wa-6646-2008810533,,is-sold,Sold by private treaty 22 Feb 2011,20110222,50 Woodley Street,WILUNA,WA,6646,-26.5923443,120.223175,4,4,4,House,House,False,0,m2,False
-2014775870,listing,/101-scotia-street-wiluna-wa-6646-2014775870,,is-sold,Sold by private treaty 16 Nov 2018,20181116,101 Scotia Street,WILUNA,WA,6646,-26.5897217,120.226791,4,4,4,House,House,False,1035,m2,False

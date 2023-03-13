@@ -1,7 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2015126482,listing,/75-milner-street-yerecoin-wa-6571-2015126482,320000,is-sold,Sold by private treaty 10 Jul 2019,20190710,75 Milner Street,YERECOIN,WA,6571,-30.9184361,116.389465,4,4,4,House,House,False,1012,m2,False
-2016042856,listing,/74-miling-road-yerecoin-wa-6571-2016042856,,is-sold,Sold by private treaty 17 Jun 2021,20210617,74 Miling Road,YERECOIN,WA,6571,-30.9187641,116.388977,4,4,4,House,House,False,2038,m2,False
-2016484453,listing,/31-milner-street-yerecoin-wa-6571-2016484453,,is-sold,Sold by private treaty 01 Nov 2021,20211101,31 Milner Street,YERECOIN,WA,6571,-30.9223137,116.391373,,,,VacantLand,Vacant land,False,1052,m2,False
-2016547654,listing,/33-milner-street-yerecoin-wa-6571-2016547654,,is-sold,Sold by private treaty 01 Jun 2021,20210601,33 Milner Street,YERECOIN,WA,6571,-30.9221439,116.391273,,,,VacantLand,Vacant land,False,1052,m2,False
-2016850674,listing,/22-miling-road-yerecoin-wa-6571-2016850674,,is-sold,Sold by private treaty 19 Nov 2021,20211119,22 Miling Road,YERECOIN,WA,6571,-30.9235516,116.3914,,,,VacantLand,Vacant land,False,1019,m2,False
-2017288028,listing,/63-milner-street-yerecoin-wa-6571-2017288028,,is-sold,Sold by private treaty 11 Feb 2022,20220211,63 Milner Street,YERECOIN,WA,6571,-30.9195213,116.389946,4,4,4,House,House,False,2144,m2,False

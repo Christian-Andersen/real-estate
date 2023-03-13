@@ -1,8 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2008876651,listing,/174-tabilk-monea-road-tabilk-vic-3607-2008876651,181000,is-sold,Sold by private treaty 12 Oct 2012,20121012,174 Tabilk Monea Road,TABILK,VIC,3607,-36.8468971,145.162018,3,3,3,House,House,False,2023.0,m2,False
-2012819422,listing,/tabilk-vic-3607-2012819422,120000,is-sold,Sold by private treaty 09 Sep 2016,20160909,,TABILK,VIC,3607,-36.8464355,145.16156,,,,VacantLand,Vacant land,False,2020.0,m2,False
-2014367474,listing,/10-gillespie-street-tabilk-vic-3607-2014367474,100000,is-sold,Sold by private treaty 06 Aug 2020,20200806,10 Gillespie Street,TABILK,VIC,3607,-36.8474159,145.162964,,,,VacantLand,Vacant land,False,2023.0,m2,False
-2016580163,listing,/298-mitchellstown-road-tabilk-vic-3607-2016580163,,is-sold,Sold by private treaty 20 Dec 2020,20201220,298 Mitchellstown Road,TABILK,VIC,3607,-36.8463554,145.1089,3,3,3,Rural,Rural,True,114.53,ha,False
-2017221166,listing,/176-tabilk-monea-road-tabilk-vic-3607-2017221166,350000,is-sold,Sold by private treaty 29 Oct 2021,20211029,176 TABILK-MONEA ROAD,TABILK,VIC,3607,-36.8466034,145.162628,3,3,3,House,House,False,2024.0,m2,False
-2017239664,listing,/tabilk-vic-3607-2017239664,3700000,is-sold,Sold prior to auction 13 Oct 2021,20211013,,TABILK,VIC,3607,-36.8378143,145.1707,4,4,4,AcreageSemiRural,Acreage / Semi-Rural,True,28.81,ha,False
-2017701983,listing,/24-gillespie-street-tabilk-vic-3607-2017701983,372000,is-sold,Sold by private treaty 26 May 2022,20220526,24 Gillespie Street,TABILK,VIC,3607,-36.84855,145.162964,4,4,4,House,House,False,2024.0,m2,False

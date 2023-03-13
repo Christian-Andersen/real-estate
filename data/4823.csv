@@ -1,9 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012880355,listing,/41-coyne-street-julia-creek-qld-4823-2012880355,44000,is-sold,Sold by private treaty 28 Feb 2017,20170228,41 Coyne Street,JULIA CREEK,QLD,4823,-20.6558018,141.743,2,2,2,House,House,False,1012,m2,False
-2013013667,listing,/37-coyne-street-julia-creek-qld-4823-2013013667,65000,is-sold,Sold at auction 24 Sep 2016,20160924,37 Coyne Street,JULIA CREEK,QLD,4823,-20.6557636,141.743378,2,2,2,House,House,False,1004,m2,False
-2013804511,listing,/24-middleton-street-mckinlay-qld-4823-2013804511,20000,is-sold,Sold by private treaty 07 Dec 2017,20171207,24 Middleton Street,MCKINLAY,QLD,4823,-21.2736588,141.287933,2,2,2,House,House,False,2023,m2,False
-2015395213,listing,/73-goldring-street-julia-creek-qld-4823-2015395213,130000,is-sold,Sold by private treaty 13 Mar 2020,20200313,73 Goldring Street,JULIA CREEK,QLD,4823,-20.6586,141.74144,2,2,2,House,House,False,0,m2,False
-2015617127,listing,/61-burke-street-julia-creek-qld-4823-2015617127,90000,is-sold,Sold by private treaty 11 Feb 2020,20200211,61 Burke Street,JULIA CREEK,QLD,4823,-20.6571922,141.74234,3,3,3,House,House,False,0,m2,False
-2016287751,listing,/mckinlay-qld-4823-2016287751,,is-sold,Sold by private treaty 03 Mar 2021,20210303,,MCKINLAY,QLD,4823,-21.2740135,141.289688,5,5,5,Farm,Farm,True,29035,ha,False
-2017295267,listing,/40-coyne-street-julia-creek-qld-4823-2017295267,60000,is-sold,Sold by private treaty 17 Nov 2021,20211117,40 Coyne Street,JULIA CREEK,QLD,4823,-20.656414,141.743423,3,3,3,House,House,False,1012,m2,False
-2017949827,listing,/33-middleton-street-mckinlay-qld-4823-2017949827,98000,is-sold,Sold by private treaty 31 Jan 2023,20230131,33 Middleton Street,MCKINLAY,QLD,4823,-21.272131,141.289673,2,2,2,House,House,False,2023,m2,False

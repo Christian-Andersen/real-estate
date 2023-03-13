@@ -1,6 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2010255829,listing,/1581-namban-west-road-namban-wa-6512-2010255829,,is-sold,Sold by private treaty 16 May 2014,20140516,1581 Namban West Road,NAMBAN,WA,6512,-30.3711357,115.971878,,,,VacantLand,Vacant land,True,3695,ha,False
-2014363051,listing,/16-20-pryre-street-coomberdale-wa-6512-2014363051,62000,is-sold,Sold by private treaty 17 Oct 2018,20181017,16-20 Pryre Street,COOMBERDALE,WA,6512,-30.4607925,116.042671,3,3,3,House,House,False,2015,m2,False
-2015528904,listing,/14-pryre-street-coomberdale-wa-6512-2015528904,90000,is-sold,Sold by private treaty 13 Nov 2019,20191113,14 Pryre Street,COOMBERDALE,WA,6512,-30.46816,116.03672,2,2,2,House,House,False,1008,m2,False
-2016987976,listing,/14-pryre-street-coomberdale-wa-6512-2016987976,135000,is-sold,Sold by private treaty 21 Oct 2021,20211021,14 Pryre Street,COOMBERDALE,WA,6512,-30.46816,116.03672,2,2,2,House,House,False,0,m2,False
-2017218400,listing,/3-pryre-street-coomberdale-wa-6512-2017218400,175000,is-sold,Sold by private treaty 25 Nov 2021,20211125,3 Pryre Street,COOMBERDALE,WA,6512,-30.4624043,116.038925,3,3,3,House,House,False,1012,m2,False

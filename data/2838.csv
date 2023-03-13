@@ -1,4 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2010753157,listing,/minramar-goodooga-nsw-2838-2010753157,1570000,is-sold,Sold at auction 20 Jun 2014,20140620,MINRAMAR,GOODOOGA,NSW,2838,-29.1123276,147.452545,5,5,5,Farm,Farm,True,9270,ha,False
-2017625271,listing,/coobienda-goodooga-nsw-2838-2017625271,,is-sold,Sold at auction 26 May 2022,20220526,COOBIENDA,GOODOOGA,NSW,2838,-29.114994,147.451111,3,3,3,Rural,Rural,True,0,m2,False
-2018384299,listing,/4-123-test-st-goodooga-nsw-2838-2018384299,,is-sold,Sold by private treaty 03 Mar 2023,20230303,4/123 Test St,GOODOOGA,NSW,2838,-29.328228,147.372253,,,,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

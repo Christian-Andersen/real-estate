@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2012675722,listing,/0-scott-street-muckadilla-qld-4461-2012675722,,is-sold,Sold by private treaty 02 Jun 2016,20160602,0 SCOTT STREET,MUCKADILLA,QLD,4461,-26.5849762,148.386749,2,2,2,House,House,False,0.0,m2,False
-2012938681,listing,/87-brinsop-road-muckadilla-qld-4461-2012938681,,is-sold,Sold at auction 22 Aug 2016,20160822,87 BRINSOP ROAD,MUCKADILLA,QLD,4461,-26.5873737,148.433044,,,,Rural,Rural,True,141.3,ha,False
-2015822445,listing,/49293-warrego-highway-muckadilla-qld-4461-2015822445,490000,is-sold,Sold by private treaty 16 Mar 2020,20200316,49293 Warrego Highway,MUCKADILLA,QLD,4461,-26.5936432,148.369492,,,,Rural,Rural,True,89.39,ha,False
-2015826874,listing,/49293-warrego-highway-muckadilla-qld-4461-2015826874,490000,is-sold,Sold by private treaty 16 Mar 2020,20200316,49293 WARREGO HIGHWAY,MUCKADILLA,QLD,4461,-26.5936432,148.369492,,,,Rural,Rural,True,0.0,m2,False

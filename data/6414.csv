@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2011528501,listing,/n-a-lot-cahill-road-nangeenan-wa-6414-2011528501,,is-sold,Sold by private treaty 27 Jul 2014,20140727,N/ A Lot Cahill Road,NANGEENAN,WA,6414,-31.5431232,118.150856,,,,Rural,Rural,True,791.0,ha,False
-2017651322,listing,/lot-18-great-eastern-highway-nangeenan-wa-6414-2017651322,90000,is-sold,Sold by private treaty 09 Jun 2022,20220609,Lot/18 Great Eastern Highway,NANGEENAN,WA,6414,-31.5065613,118.197815,,,,VacantLand,Vacant land,True,8.09,ha,False
-2017913913,listing,/225-rutter-road-nangeenan-wa-6414-2017913913,,is-sold,Sold by private treaty 25 Aug 2022,20220825,225 Rutter Road,NANGEENAN,WA,6414,-31.5243149,118.147446,4,4,4,Rural,Rural,True,64.75,ha,False
-2018195761,listing,/77-snell-road-nangeenan-wa-6414-2018195761,,is-sold,Sold by private treaty 02 Dec 2022,20221202,77 Snell Road,NANGEENAN,WA,6414,-31.49875,118.147026,,,,Rural,Rural,True,8.09,ha,False

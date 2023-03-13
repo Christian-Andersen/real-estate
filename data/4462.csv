@@ -1,5 +1,0 @@
-id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,lat,lng,beds,baths,parking,propertyType,propertyTypeFormatted,isRural,landSize,landUnit,isRetirement
-2008103439,listing,/5-school-street-amby-qld-4462-2008103439,170000,is-sold,Sold by private treaty 23 Dec 2009,20091223,5 School Street,AMBY,QLD,4462,-26.5466423,148.186951,4,4,4,House,House,False,5464,m2,False
-2009347075,listing,/12-school-street-amby-qld-4462-2009347075,120000,is-sold,Sold by private treaty 10 May 2012,20120510,12 School Street,AMBY,QLD,4462,-26.5461,148.187042,3,3,3,House,House,False,2023,m2,False
-2013728747,listing,/17-creek-street-amby-qld-4462-2013728747,90000,is-sold,Sold by private treaty 13 Aug 2019,20190813,17 CREEK STREET,AMBY,QLD,4462,-26.5468979,148.187317,2,2,2,House,House,False,4046,m2,False
-2018151657,listing,/27-queen-street-amby-qld-4462-2018151657,,is-sold,Sold 29 Nov 2022,20221129,27 Queen Street,AMBY,QLD,4462,-26.54966,148.187439,1,1,1,House,House,False,4046,m2,False
