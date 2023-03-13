@@ -163,11 +163,12 @@ while True:
                 continue
             ids.add(str(value['id']))
             row = value_to_row(value)
-            date = float(row[6])
-            if row[8] not in suburbs:
-                suburbs[row[8]] = date
-            elif date < suburbs[row[8]]:
-                suburbs[row[8]] = date
+            if row[6] != '':
+                date = float(row[6])
+                if row[8] not in suburbs:
+                    suburbs[row[8]] = date
+                elif date < suburbs[row[8]]:
+                    suburbs[row[8]] = date
             with open('all.csv', 'a', newline='', encoding='utf-8') as f:
                 w = csv.writer(f)
                 w.writerow(row)
