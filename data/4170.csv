@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017112075,listing,/44-muir-st-cannon-hill-qld-4170-2017112075,722000,is-sold,Sold by private treaty 11 Jul 2021,20210711,44 Muir St,CANNON HILL,QLD,4170,-27.4704838,153.0887,1,1,,House,House,False,405,m2,False
 2017592622,listing,/1-20-dorothea-street-cannon-hill-qld-4170-2017592622,812000,is-sold,Sold by private treaty 06 Jul 2021,20210706,1/20 Dorothea Street,CANNON HILL,QLD,4170,-27.47044,153.093674,4,3,2,Townhouse,Townhouse,False,0,m2,False
 2017592835,listing,/4-20-dorothea-street-cannon-hill-qld-4170-2017592835,,is-sold,Sold by private treaty 07 Jul 2021,20210707,4/20 Dorothea Street,CANNON HILL,QLD,4170,-27.47053,153.093918,4,2,2,Townhouse,Townhouse,False,0,m2,False
+2018373845,listing,/19-morgan-street-norman-park-qld-4170-2018373845,,is-sold,Sold at auction 11 Mar 2023,20230311,19 Morgan Street,NORMAN PARK,QLD,4170,-27.4810486,153.0674,4,2,2,House,House,False,400,m2,False

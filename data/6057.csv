@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018144229,listing,/10-munday-road-high-wycombe-wa-6057-2018144229,445000,is-sold,Sold by private treaty 05 Mar 2023,20230305,10 Munday Road,HIGH WYCOMBE,WA,6057,-31.9357,115.998184,3,2,1,House,House,False,631,m2,False
 2018205490,listing,/78-david-street-maida-vale-wa-6057-2018205490,435000,is-sold,Sold by private treaty 03 Mar 2023,20230303,78 David Street,MAIDA VALE,WA,6057,-31.9505081,116.01786,3,1,1,House,House,False,817,m2,False
 2018225294,listing,/22-edwards-road-high-wycombe-wa-6057-2018225294,470000,is-sold,Sold by private treaty 02 Mar 2023,20230302,22 Edwards Road,HIGH WYCOMBE,WA,6057,-31.9429855,116.004791,3,1,1,House,House,False,837,m2,False
+2018019289,listing,/9-ellis-court-high-wycombe-wa-6057-2018019289,,is-sold,Sold 11 Mar 2023,20230311,9 ELLIS COURT,HIGH WYCOMBE,WA,6057,-31.93789,116.014931,4,2,3,House,House,False,859,m2,False

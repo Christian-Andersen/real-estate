@@ -1008,3 +1008,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018145621,listing,/4a-elfrida-street-mosman-nsw-2088-2018145621,,is-sold,Sold by private treaty 09 Mar 2023,20230309,4a Elfrida Street,MOSMAN,NSW,2088,-33.8376923,151.240875,5,3,2,House,House,False,854,m2,False
 2018355504,listing,/16-97-cabramatta-road-mosman-nsw-2088-2018355504,975000,is-sold,Sold prior to auction 09 Mar 2023,20230309,16/97 Cabramatta Road,MOSMAN,NSW,2088,-33.8288155,151.230865,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
 2018185030,listing,/97-bay-street-mosman-nsw-2088-2018185030,,is-sold,Sold by private treaty 10 Mar 2023,20230310,97 Bay Street,MOSMAN,NSW,2088,-33.8107567,151.23764,4,3,2,House,House,False,746,m2,False
+2018357272,listing,/11-awaba-street-mosman-nsw-2088-2018357272,8000000,is-sold,Sold at auction 11 Mar 2023,20230311,11 Awaba Street,MOSMAN,NSW,2088,-33.82143,151.248825,,,,VacantLand,Vacant land,False,0,m2,False
+2018377148,listing,/2-10-lang-street-mosman-nsw-2088-2018377148,2466000,is-sold,Sold at auction 11 Mar 2023,20230311,2/10 Lang Street,MOSMAN,NSW,2088,-33.82362,151.234909,4,2,2,House,House,False,0,m2,False

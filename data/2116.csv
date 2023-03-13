@@ -998,3 +998,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2008401234,listing,/16-finch-avenue-rydalmere-nsw-2116-2008401234,686000,is-sold,Sold at auction 26 Jun 2010,20100626,16 Finch Avenue,RYDALMERE,NSW,2116,-33.8108368,151.047821,5,5,5,House,House,False,0,m2,False
 2008430776,listing,/11-yimbala-street-rydalmere-nsw-2116-2008430776,692000,is-sold,Sold by private treaty 09 Jul 2010,20100709,11 Yimbala Street,RYDALMERE,NSW,2116,-33.80665,151.0471,3,3,3,House,House,False,0,m2,False
 2018354002,listing,/4-christina-street-rydalmere-nsw-2116-2018354002,1650000,is-sold,Sold by private treaty 10 Mar 2023,20230310,4 Christina Street,RYDALMERE,NSW,2116,-33.81017,151.044571,4,2,4,House,House,False,658,m2,False
+2018385887,listing,/31-gammell-street-rydalmere-nsw-2116-2018385887,1230000,is-sold,Sold at auction 10 Mar 2023,20230310,31 Gammell Street,RYDALMERE,NSW,2116,-33.814415,151.050385,3,1,2,House,House,False,512,m2,False

@@ -1001,3 +1001,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018287330,listing,/9-hillview-avenue-moama-nsw-2731-2018287330,570000,is-sold,Sold by private treaty 06 Mar 2023,20230306,9 Hillview Avenue,MOAMA,NSW,2731,-36.10272,144.755951,3,1,1,House,House,False,795,m2,False
 2018044527,listing,/6-the-vines-boulevard-moama-nsw-2731-2018044527,290000,is-sold,Sold by private treaty 09 Mar 2023,20230309,6 The Vines Boulevard,MOAMA,NSW,2731,-36.1069336,144.755981,,,,VacantLand,Vacant land,False,1083,m2,False
 2018279290,listing,/32-winbi-avenue-moama-nsw-2731-2018279290,,is-sold,Sold by private treaty 08 Mar 2023,20230308,32 Winbi Avenue,MOAMA,NSW,2731,-36.0950241,144.731781,4,2,4,House,House,False,1500,m2,False
+2018361620,listing,/9-shetland-drive-moama-nsw-2731-2018361620,,is-sold,Sold by private treaty 12 Mar 2023,20230312,9 Shetland Drive,MOAMA,NSW,2731,-36.0994835,144.755081,3,2,2,House,House,False,951,m2,False

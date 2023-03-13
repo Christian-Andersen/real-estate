@@ -1003,3 +1003,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018344678,listing,/70-barter-crescent-forest-hill-vic-3131-2018344678,1120000,is-sold,Sold by private treaty 06 Mar 2023,20230306,70 Barter Crescent,FOREST HILL,VIC,3131,-37.842205,145.165955,4,2,3,House,House,False,585,m2,False
 2018333790,listing,/20-bennett-street-forest-hill-vic-3131-2018333790,1411000,is-sold,Sold at auction 04 Mar 2023,20230304,20 Bennett Street,FOREST HILL,VIC,3131,-37.83616,145.1622,3,2,2,House,House,False,696,m2,False
 2018337612,listing,/2-6-gee-court-nunawading-vic-3131-2018337612,845000,is-sold,Sold by private treaty 07 Mar 2023,20230307,2/6 Gee Court,NUNAWADING,VIC,3131,-37.8304634,145.174911,3,1,1,Townhouse,Townhouse,False,157,m2,False
+2018349594,listing,/7-meringer-court-nunawading-vic-3131-2018349594,1000000,is-sold,Sold at auction 11 Mar 2023,20230311,7 Meringer Court,NUNAWADING,VIC,3131,-37.8115768,145.183792,3,2,2,House,House,False,530,m2,False

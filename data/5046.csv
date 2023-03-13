@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014204121,listing,/27-bowden-grove-oaklands-park-sa-5046-2014204121,564000,is-sold,Sold at auction 19 Mar 2018,20180319,27 Bowden Grove,OAKLANDS PARK,SA,5046,-35.0055733,138.548569,4,2,3,House,House,False,0,m2,False
 2014228769,listing,/18-pine-avenue-warradale-sa-5046-2014228769,587000,is-sold,Sold prior to auction 13 Mar 2018,20180313,18 Pine Avenue,WARRADALE,SA,5046,-35.00162,138.536484,3,1,1,House,House,False,744,m2,False
 2014229612,listing,/36-cedar-avenue-warradale-sa-5046-2014229612,746000,is-sold,Sold by private treaty 26 Mar 2018,20180326,36 Cedar Avenue,WARRADALE,SA,5046,-35.00005,138.537476,3,2,2,House,House,False,0,m2,False
+2018335383,listing,/20-pine-avenue-warradale-sa-5046-2018335383,811500,is-sold,Sold by private treaty 10 Mar 2023,20230310,20 Pine Avenue,WARRADALE,SA,5046,-35.0015678,138.536728,3,1,4,House,House,False,752,m2,False

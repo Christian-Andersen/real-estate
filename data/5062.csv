@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018380472,listing,/2-owen-street-torrens-park-sa-5062-2018380472,1615000,is-sold,Sold by private treaty 10 Mar 2023,20230310,2 Owen Street,TORRENS PARK,SA,5062,-34.9904137,138.612,5,2,4,House,House,False,710,m2,False
 2018325408,listing,/16-thorpe-street-torrens-park-sa-5062-2018325408,,is-sold,Sold by private treaty 07 Mar 2023,20230307,16 Thorpe Street,TORRENS PARK,SA,5062,-34.98521,138.6173,4,2,2,House,House,False,994,m2,False
 2018343641,listing,/10-elmglade-road-springfield-sa-5062-2018343641,,is-sold,Sold by private treaty 03 Mar 2023,20230303,10 Elmglade Road,SPRINGFIELD,SA,5062,-34.9764557,138.635162,4,2,5,House,House,False,1991,m2,False
+2018369026,listing,/7-bellavista-avenue-clapham-sa-5062-2018369026,886000,is-sold,Sold at auction 11 Mar 2023,20230311,7 Bellavista Avenue,CLAPHAM,SA,5062,-34.98729,138.608551,3,1,,House,House,False,690,m2,False

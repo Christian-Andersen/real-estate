@@ -210,5 +210,8 @@ for webpage in webpages:
         with open('done.txt', 'a') as f:
             if 'postcode=' in webpage:
                 f.write(pc+'\n')
+    except KeyboardInterrupt:
+        driver.quit()
+        break
     except:
         driver.quit()

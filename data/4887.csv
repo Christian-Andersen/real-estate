@@ -19,3 +19,5 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018201539,listing,/9-white-street-herberton-qld-4887-2018201539,,is-sold,Sold by private treaty 19 Dec 2022,20221219,9 White Street,HERBERTON,QLD,4887,-17.38643,145.388947,1,1,1,House,House,False,1012.0,m2,False
 2018304155,listing,/3-james-road-wondecla-qld-4887-2018304155,,is-sold,Sold by private treaty 27 Feb 2023,20230227,3 James Road,WONDECLA,QLD,4887,-17.40866,145.390472,4,4,4,House,House,False,883.0,m2,False
 2018342598,listing,/7-toft-street-herberton-qld-4887-2018342598,,is-sold,Sold at auction 20 Feb 2023,20230220,7 Toft Street,HERBERTON,QLD,4887,-17.3980045,145.387817,2,2,2,House,House,False,2076.0,m2,False
+2018286161,listing,/herberton-qld-4887-2018286161,242000,is-sold,Sold by private treaty 12 Mar 2023,20230312,,HERBERTON,QLD,4887,-17.3798351,145.384277,3,1,4,House,House,False,1012,m2,False
+2018333562,listing,/herberton-qld-4887-2018333562,370000,is-sold,Sold by private treaty 12 Mar 2023,20230312,,HERBERTON,QLD,4887,-17.3798351,145.384277,4,1,2,House,House,False,1973,m2,False

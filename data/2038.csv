@@ -1003,3 +1003,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018341415,listing,/127-nelson-street-annandale-nsw-2038-2018341415,2230000,is-sold,Sold at auction 04 Mar 2023,20230304,127 Nelson Street,ANNANDALE,NSW,2038,-33.88328,151.173523,3,1,1,House,House,False,0,m2,False
 2018344290,listing,/18-trafalgar-street-annandale-nsw-2038-2018344290,2575000,is-sold,Sold by private treaty 06 Mar 2023,20230306,18 Trafalgar Street,ANNANDALE,NSW,2038,-33.88685,151.169754,4,2,,House,House,False,0,m2,False
 2018338817,listing,/123-albion-street-annandale-nsw-2038-2018338817,,is-sold,Sold at auction 09 Mar 2023,20230309,123 Albion Street,ANNANDALE,NSW,2038,-33.8871346,151.162537,1,1,,House,House,False,105,m2,False
+2018365650,listing,/5-300-johnston-street-annandale-nsw-2038-2018365650,,is-sold,Sold prior to auction 10 Mar 2023,20230310,5/300 Johnston Street,ANNANDALE,NSW,2038,-33.87277,151.1743,3,3,1,Townhouse,Townhouse,False,0,m2,False

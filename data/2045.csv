@@ -896,3 +896,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018340480,listing,/29-hawthorne-parade-haberfield-nsw-2045-2018340480,2080000,is-sold,Sold by private treaty 09 Mar 2023,20230309,29 Hawthorne Parade,HABERFIELD,NSW,2045,-33.8883057,151.144562,3,2,1,House,House,False,297,m2,False
 2017837740,listing,/50-ramsay-street-haberfield-nsw-2045-2017837740,,is-sold,Sold by private treaty 10 Mar 2023,20230310,50 Ramsay Street,HABERFIELD,NSW,2045,-33.8829155,151.140427,4,3,4,House,House,False,1042,m2,False
 2018197510,listing,/146-alt-street-haberfield-nsw-2045-2018197510,2100000,is-sold,Sold by private treaty 09 Mar 2023,20230309,146 Alt Street,HABERFIELD,NSW,2045,-33.8785248,151.131912,3,1,2,House,House,False,481,m2,False
+2018336515,listing,/101-chandos-street-haberfield-nsw-2045-2018336515,2410000,is-sold,Sold at auction 11 Mar 2023,20230311,101 Chandos Street,HABERFIELD,NSW,2045,-33.8821449,151.133652,4,2,4,House,House,False,658,m2,False

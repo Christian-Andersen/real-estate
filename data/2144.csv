@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2015629054,listing,/89-chiswick-road-auburn-nsw-2144-2015629054,670000,is-sold,Sold by private treaty 06 Aug 2019,20190806,89 Chiswick Road,AUBURN,NSW,2144,-33.8597755,151.020538,3,3,3,House,House,False,343,m2,False
 2018328025,listing,/20-normanby-road-auburn-nsw-2144-2018328025,1170000,is-sold,Sold at auction 04 Mar 2023,20230304,20 Normanby Road,AUBURN,NSW,2144,-33.8470879,151.026825,3,1,1,House,House,False,627,m2,False
 2018333327,listing,/38-40-albert-road-auburn-nsw-2144-2018333327,3450000,is-sold,Sold at auction 08 Mar 2023,20230308,38-40 Albert Road,AUBURN,NSW,2144,-33.8683624,151.0226,,,,VacantLand,Vacant land,False,1562,m2,False
+2018346463,listing,/110-chisholm-road-auburn-nsw-2144-2018346463,,is-sold,Sold at auction 11 Mar 2023,20230311,110 Chisholm Road,AUBURN,NSW,2144,-33.85405,151.020645,6,3,2,House,House,False,467,m2,False

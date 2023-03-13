@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017132177,listing,/19-mikkelsen-avenue-tregear-nsw-2770-2017132177,640000,is-sold,Sold by private treaty 30 Jul 2021,20210730,19 Mikkelsen Avenue,TREGEAR,NSW,2770,-33.74781,150.797867,3,2,1,House,House,False,575,m2,False
 2017264732,listing,/17-methven-st-mount-druitt-nsw-2770-2017264732,810000,is-sold,Sold by private treaty 23 Jul 2021,20210723,17 Methven St,MOUNT DRUITT,NSW,2770,-33.76135,150.819717,4,2,4,House,House,False,456,m2,False
 2018253856,listing,/28-leyte-avenue-lethbridge-park-nsw-2770-2018253856,550000,is-sold,Sold by private treaty 10 Mar 2023,20230310,28 Leyte Avenue,LETHBRIDGE PARK,NSW,2770,-33.7384224,150.794281,4,1,1,House,House,False,657,m2,False
+2018369297,listing,/1-carpenter-place-minchinbury-nsw-2770-2018369297,775000,is-sold,Sold at auction 12 Mar 2023,20230312,1 Carpenter Place,MINCHINBURY,NSW,2770,-33.7842979,150.8262,3,1,2,House,House,False,587,m2,False

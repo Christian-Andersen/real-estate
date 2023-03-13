@@ -1003,3 +1003,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018175764,listing,/482-lawrence-hargrave-drive-wombarra-nsw-2515-2018175764,,is-sold,Sold by private treaty 07 Mar 2023,20230307,482 Lawrence Hargrave Drive,WOMBARRA,NSW,2515,-34.27339,150.95517,5,3,4,House,House,False,1973,m2,False
 2018299355,listing,/4-arunta-drive-thirroul-nsw-2515-2018299355,1400000,is-sold,Sold by private treaty 09 Mar 2023,20230309,4 Arunta Drive,THIRROUL,NSW,2515,-34.3119659,150.91243,4,2,2,House,House,False,0,m2,False
 2018310814,listing,/14-samuel-close-thirroul-nsw-2515-2018310814,,is-sold,Sold by private treaty 10 Mar 2023,20230310,14 Samuel Close,THIRROUL,NSW,2515,-34.3218155,150.916489,4,2,1,House,House,False,369,m2,False
+2018358338,listing,/12-14-broadridge-street-wombarra-nsw-2515-2018358338,3261000,is-sold,Sold at auction 11 Mar 2023,20230311,12-14 Broadridge Street,WOMBARRA,NSW,2515,-34.2769966,150.953033,3,1,2,House,House,False,2637,m2,False

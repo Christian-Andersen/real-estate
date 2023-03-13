@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014320892,listing,/31-parkside-avenue-keilor-east-vic-3033-2014320892,775000,is-sold,Sold at auction 12 May 2018,20180512,31 Parkside Avenue,KEILOR EAST,VIC,3033,-37.74207,144.857025,3,3,3,House,House,False,0,m2,False
 2014327800,listing,/23-woorite-place-keilor-east-vic-3033-2014327800,785000,is-sold,Sold at auction 26 Apr 2018,20180426,23 Woorite Place,KEILOR EAST,VIC,3033,-37.7301064,144.866852,3,3,3,Townhouse,Townhouse,False,0,m2,False
 2018323113,listing,/39-phillip-road-keilor-east-vic-3033-2018323113,1061000,is-sold,Sold at auction 05 Mar 2023,20230305,39 Phillip Road,KEILOR EAST,VIC,3033,-37.7464828,144.869446,4,4,4,House,House,False,663,m2,False
+2018363701,listing,/2-548-buckley-street-keilor-east-vic-3033-2018363701,581000,is-sold,Sold at auction 11 Mar 2023,20230311,2/548 Buckley Street,KEILOR EAST,VIC,3033,-37.7506371,144.8628,2,2,1,Townhouse,Townhouse,False,0,m2,False

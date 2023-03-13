@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2014691165,listing,/3-2-galilee-close-bossley-park-nsw-2176-2014691165,510000,is-sold,Sold at auction 02 Nov 2018,20181102,3/2 Galilee Close,BOSSLEY PARK,NSW,2176,-33.8615952,150.885544,3,3,3,Villa,Villa,False,0,m2,False
 2018334817,listing,/41-mariner-crescent-abbotsbury-nsw-2176-2018334817,1451000,is-sold,Sold at auction 04 Mar 2023,20230304,41 Mariner Crescent,ABBOTSBURY,NSW,2176,-33.87645,150.866409,6,3,2,House,House,False,770,m2,False
 2018335507,listing,/23-allambie-road-edensor-park-nsw-2176-2018335507,1220000,is-sold,Sold at auction 04 Mar 2023,20230304,23 Allambie Road,EDENSOR PARK,NSW,2176,-33.8715172,150.881638,3,1,2,House,House,False,590,m2,False
+2018350495,listing,/4-cobar-close-wakeley-nsw-2176-2018350495,1420000,is-sold,Sold at auction 11 Mar 2023,20230311,4 Cobar Close,WAKELEY,NSW,2176,-33.8723679,150.907532,5,3,2,House,House,False,623,m2,False

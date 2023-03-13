@@ -1002,3 +1002,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018335050,listing,/22-chippewa-avenue-donvale-vic-3111-2018335050,1241800,is-sold,Sold at auction 04 Mar 2023,20230304,22 Chippewa Avenue,DONVALE,VIC,3111,-37.805294,145.193939,4,4,4,House,House,False,939.0,m2,False
 2018158434,listing,/80-tunstall-road-donvale-vic-3111-2018158434,1734000,is-sold,Sold by private treaty 09 Mar 2023,20230309,80 Tunstall Road,DONVALE,VIC,3111,-37.7950935,145.17038,4,3,2,Townhouse,Townhouse,False,0,m2,False
 2018370976,listing,/26-flora-road-donvale-vic-3111-2018370976,1950000,is-sold,Sold by private treaty 10 Mar 2023,20230310,26 Flora Road,DONVALE,VIC,3111,-37.7848167,145.191986,5,3,2,House,House,False,4097,m2,False
+2018352518,listing,/6-roy-street-donvale-vic-3111-2018352518,,is-sold,Sold at auction 11 Mar 2023,20230311,6 Roy Street,DONVALE,VIC,3111,-37.797554,145.170212,5,3,2,Townhouse,Townhouse,False,0,m2,False

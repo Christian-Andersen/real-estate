@@ -976,3 +976,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007634779,listing,/1153-sheffield-road-lower-barrington-tas-7306-2007634779,,is-sold,Sold by private treaty 21 Apr 2009,20090421,1153 Sheffield Road,LOWER BARRINGTON,TAS,7306,-41.30011,146.285629,3,3,3,House,House,False,0.0,m2,False
 2007637590,listing,/beulah-tas-7306-2007637590,,is-sold,Sold by private treaty 23 Mar 2009,20090323,,BEULAH,TAS,7306,-41.44455,146.379517,,,,VacantLand,Vacant land,True,32.37,ha,False
 2007656764,listing,/barrington-tas-7306-2007656764,,is-sold,Sold by private treaty 20 Apr 2009,20090420,,BARRINGTON,TAS,7306,-41.34329,146.273331,2,2,2,House,House,False,2846.0,m2,False
+2018297310,listing,/56-claude-road-sheffield-tas-7306-2018297310,246000,is-sold,Sold by private treaty 10 Mar 2023,20230310,56 Claude Road,SHEFFIELD,TAS,7306,-41.3858948,146.330963,,,,VacantLand,Vacant land,True,2.43,ha,False

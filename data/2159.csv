@@ -462,3 +462,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2007618273,listing,/galston-nsw-2159-2007618273,1100000,is-sold,Sold by private treaty 03 Mar 2009,20090303,,GALSTON,NSW,2159,-33.64171,151.050446,3,3,3,House,House,False,0.0,m2,False
 2007680006,listing,/galston-nsw-2159-2007680006,,is-sold,Sold by private treaty 01 Jan 2009,20090101,,GALSTON,NSW,2159,-33.6538658,151.065048,4,4,4,Rural,Rural,True,2.02,ha,False
 2018297351,listing,/395-galston-road-galston-nsw-2159-2018297351,,is-sold,Sold by private treaty 09 Mar 2023,20230309,395 Galston Road,GALSTON,NSW,2159,-33.6587868,151.0416,7,5,17,AcreageSemiRural,Acreage / Semi-Rural,True,2.02,ha,False
+2018346600,listing,/16-hansen-avenue-galston-nsw-2159-2018346600,1605000,is-sold,Sold at auction 11 Mar 2023,20230311,16 Hansen Avenue,GALSTON,NSW,2159,-33.65006,151.039078,4,2,4,House,House,False,950,m2,False

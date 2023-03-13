@@ -1019,3 +1019,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018349783,listing,/32-nalya-road-narraweena-nsw-2099-2018349783,,is-sold,Sold prior to auction 10 Mar 2023,20230310,32 Nalya Road,NARRAWEENA,NSW,2099,-33.7451477,151.271652,3,2,2,House,House,False,556,m2,False
 2018334630,listing,/1a-wabash-avenue-cromer-nsw-2099-2018334630,,is-sold,Sold at auction 09 Mar 2023,20230309,1A Wabash Avenue,CROMER,NSW,2099,-33.73367,151.276443,4,2,2,House,House,False,0,m2,False
 2018342972,listing,/3-20-richmond-avenue-dee-why-nsw-2099-2018342972,,is-sold,Sold at auction 09 Mar 2023,20230309,3/20 Richmond Avenue,DEE WHY,NSW,2099,-33.7507,151.292343,2,1,1,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False
+2018208311,listing,/26-monash-parade-dee-why-nsw-2099-2018208311,,is-sold,Sold prior to auction 11 Mar 2023,20230311,26 Monash Parade,DEE WHY,NSW,2099,-33.7575836,151.299225,4,3,2,House,House,False,518,m2,False

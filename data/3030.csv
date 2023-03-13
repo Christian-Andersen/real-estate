@@ -999,3 +999,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2017969382,listing,/11-grasso-avenue-point-cook-vic-3030-2017969382,660000,is-sold,Sold by private treaty 01 Aug 2022,20220801,11 Grasso Avenue,POINT COOK,VIC,3030,-37.9146156,144.765228,4,2,,House,House,False,0,m2,False
 2018034225,listing,/30-daglish-way-werribee-vic-3030-2018034225,610000,is-sold,Sold by private treaty 01 Aug 2022,20220801,30 Daglish Way,WERRIBEE,VIC,3030,-37.90039,144.6013,4,2,2,House,House,False,0,m2,False
 2018310760,listing,/30-43-latham-street-werribee-vic-3030-2018310760,480000,is-sold,Sold by private treaty 09 Mar 2023,20230309,30/43 Latham Street,WERRIBEE,VIC,3030,-37.8785362,144.655716,3,2,2,House,House,False,0,m2,False
+2018344588,listing,/7-carnival-place-point-cook-vic-3030-2018344588,1010000,is-sold,Sold at auction 11 Mar 2023,20230311,7 Carnival Place,POINT COOK,VIC,3030,-37.90408,144.7445,4,2,2,House,House,False,526,m2,False

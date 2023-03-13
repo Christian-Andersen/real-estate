@@ -121,13 +121,6 @@ for filename in os.listdir('data'):
                     ids[row[0]] = row[2]
 print('Total Properties:', len(ids))
 
-# Load in finished postcodes
-skip = []
-with open('done.txt', 'r') as f:
-    for row in f:
-        skip.append(row.rstrip())
-skip = list(set(skip))
-
 # Use postcoes to create webpages to scrape
 mainpage = 'https://www.domain.com.au/sold-listings/'
 webpages = [mainpage]
@@ -174,4 +167,4 @@ for webpage in webpages:
             with open(file, 'a', newline='', encoding='utf-8') as f:
                 w = csv.writer(f)
                 w.writerow(row)
-        print(dupes)
+        print('Dupes:', dupes)

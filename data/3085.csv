@@ -1000,3 +1000,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2013154875,listing,/16-strathallan-road-macleod-vic-3085-2013154875,1050000,is-sold,Sold at auction 19 Nov 2016,20161119,16 Strathallan Road,MACLEOD,VIC,3085,-37.7240944,145.078339,3,3,3,House,House,False,950,m2,False
 2013154877,listing,/56-braid-hill-road-macleod-vic-3085-2013154877,850000,is-sold,Sold at auction 19 Nov 2016,20161119,56 Braid Hill Road,MACLEOD,VIC,3085,-37.7275467,145.077118,3,3,3,House,House,False,353,m2,False
 2018339185,listing,/140-somers-avenue-macleod-vic-3085-2018339185,,is-sold,Sold by private treaty 07 Mar 2023,20230307,140 Somers Avenue,MACLEOD,VIC,3085,-37.7174149,145.078125,3,2,2,House,House,False,207,m2,False
+2017965809,listing,/42-116-main-drive-macleod-vic-3085-2017965809,,is-sold,Sold by private treaty 11 Mar 2023,20230311,42/116 Main Drive,MACLEOD,VIC,3085,-37.71474,145.0609,1,1,,ApartmentUnitFlat,Apartment / Unit / Flat,False,0,m2,False

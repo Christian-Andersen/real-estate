@@ -22,3 +22,4 @@ id,listingType,url,price,tagClassName,tagText,date,street,suburb,state,postcode,
 2018099923,listing,/atherton-qld-4883-2018099923,,is-sold,Sold by private treaty 07 Mar 2023,20230307,,ATHERTON,QLD,4883,-17.2666836,145.476868,3,2,2,Villa,Villa,False,0,m2,False
 2018296595,listing,/15-forrest-street-carrington-qld-4883-2018296595,215000,is-sold,Sold by private treaty 08 Mar 2023,20230308,15 Forrest Street,CARRINGTON,QLD,4883,-17.302309,145.457214,,,,VacantLand,Vacant land,False,4004,m2,False
 2018362733,listing,/19-putt-street-atherton-qld-4883-2018362733,,is-sold,Sold by private treaty 08 Mar 2023,20230308,19 Putt Street,ATHERTON,QLD,4883,-17.26698,145.485275,3,1,2,House,House,False,878,m2,False
+2018155354,listing,/17-high-street-atherton-qld-4883-2018155354,,is-sold,Sold by private treaty 10 Mar 2023,20230310,17 High Street,ATHERTON,QLD,4883,-17.2591076,145.475677,5,2,2,House,House,False,1012,m2,False
