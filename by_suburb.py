@@ -109,7 +109,7 @@ ids = set(df['id'])
 # Load in suburbs
 suburbs = df.groupby('suburb')['date'].min().to_dict()
 # Make look up dict
-series = (df['suburb'].str.replace(' ', '-')+'-' +
+series = (df['suburb'].str.replace(' ', '-').str.replace('\'','-')+'-' +
           df['state']+'-'+df['postcode']).str.lower()
 look_up = dict(zip(df['suburb'], series))
 # Load in done webpages
@@ -142,7 +142,7 @@ while True:
     year = str(suburbs[suburb])[0:4]
     month = str(suburbs[suburb])[4:6]
     day = str(suburbs[suburb])[6:8]
-    print(f'{day}/{month}/{year} - {suburb} - \t{url}')
+    print(f'{day}/{month}/{year} : {suburb: <30} - {url}')
     driver.get(url)
     if 'The requested URL was not found on the server.' in driver.page_source:
         with open('log.txt', 'a', encoding='utf-8') as f:
@@ -164,7 +164,9 @@ while True:
             ids.add(str(value['id']))
             row = value_to_row(value)
             date = float(row[6])
-            if date < suburbs[row[8]]:
+            if row[8] not in suburbs:
+                suburbs[row[8]] = date
+            elif date < suburbs[row[8]]:
                 suburbs[row[8]] = date
             with open('all.csv', 'a', newline='', encoding='utf-8') as f:
                 w = csv.writer(f)
