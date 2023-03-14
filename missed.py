@@ -107,27 +107,13 @@ print('Number of properties:', len(df))
 df['date'] = df['date'].astype(float)
 # Load in ids
 ids = set(df['id'])
-# Load in suburbs
-suburbs = df.groupby('suburb')['date'].min().to_dict()
-# Make look up dict
-series = (df['suburb'].str.replace(' ', '-').str.replace('\'','-')+'-' +
-          df['state']+'-'+df['postcode']).str.lower()
-look_up = dict(zip(df['suburb'], series))
-# Load in done webpages
-with open('loaded.txt', 'r', encoding='utf-8') as f:
-    loaded = {line.strip() for line in f.readlines()}
-# Load in finished suburbs
-with open('finished_suburbs.txt', 'r', encoding='utf-8') as f:
-    finished_suburbs = {line.strip() for line in f.readlines()}
-for finished_suburb in finished_suburbs:
-    suburbs.pop(finished_suburb)
 # Create webpages
-mainpage = 'https://www.domain.com.au/sold-listings/?excludepricewithheld=1&ssubs=0'
-webpages = [mainpage]
-states = ['nt', 'nsw', 'act', 'vic', 'qld', 'sa', 'wa', 'tas']
-for state in states:
-    webpages.append(mainpage+'&state='+state)
-print('Total Webpages:', len(webpages))
+with open('toomany.txt', 'r', encoding='utf-8') as f:
+    webpages = [line.strip() for line in f.readlines()]
+price_ranges = []
+for i in range(100):
+    price_ranges.append(str(10_000*i)+'-'+str(10_000*i+9_999))
+price_ranges.append('1000000-any')
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
@@ -135,24 +121,36 @@ driver = webdriver.Firefox(options=options)
 atexit.register(driver.quit)
 # Scrape them
 for webpage in webpages:
-    for i in range(1, 51):
-        url = webpage+'&page='+str(i)
-        print(url, end='')
-        driver.get(url)
-        property_dictionary = html_to_dict(driver.page_source)
-        dupes = 0
-        for value in property_dictionary.values():
-            if str(value['id']) in ids:
-                dupes += 1
-                continue
-            ids.add(str(value['id']))
-            row = value_to_row(value)
-            date = float(row[6])
-            if row[8] not in suburbs:
-                suburbs[row[8]] = date
-            elif date < suburbs[row[8]]:
-                suburbs[row[8]] = date
-            with open('all.csv', 'a', newline='', encoding='utf-8') as f:
-                w = csv.writer(f)
-                w.writerow(row)
-        print(' \tDupes:', dupes)
+    for price_range in price_ranges:
+        for i in range(1, 51):
+            url = webpage+'&price='+price_range+'&page='+str(i)
+            print(url)
+            last_page = False
+            driver.get(url)
+            if 'The requested URL was not found on the server.' in driver.page_source:
+                print('URL not found: '+url)
+                raise
+            elif 'No exact matches' in driver.page_source:
+                break
+            elif i == 1:
+                search_string = '"searchResultCount":'
+                start = driver.page_source.find(search_string)+len(search_string)
+                end = driver.page_source[start:].find(',')
+                number_of_properties = int(driver.page_source[start:start+end])
+                print('Number of Properties:', number_of_properties)
+                if number_of_properties <= 20:
+                    last_page = True
+                elif number_of_properties > 1_000:
+                    print('Over 1000 properties at URL: '+url)
+                    raise
+            property_dictionary = html_to_dict(driver.page_source)
+            for value in property_dictionary.values():
+                if str(value['id']) in ids:
+                    continue
+                ids.add(str(value['id']))
+                row = value_to_row(value)
+                with open('all.csv', 'a', newline='', encoding='utf-8') as f:
+                    w = csv.writer(f)
+                    w.writerow(row)
+            if last_page:
+                break

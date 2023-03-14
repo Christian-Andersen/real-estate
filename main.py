@@ -1,4 +1,5 @@
 import csv
+import json
 import atexit
 import pandas as pd
 from datetime import datetime
@@ -32,7 +33,7 @@ def html_to_dict(s):
         if count == 0:
             break
         end_index += 1
-    return eval(s[start_index:end_index+1])
+    return json.loads(s[start_index:end_index+1])
 
 
 def value_to_row(value):
@@ -135,23 +136,23 @@ while True:
         if webpage not in loaded:
             url = webpage
             break
-    if not url:
-        with open('log.txt', 'a', encoding='utf-8') as f:
-            f.write('All pages have been loaded: '+main_webpage+'\n')
-        continue
     year = str(suburbs[suburb])[0:4]
     month = str(suburbs[suburb])[4:6]
     day = str(suburbs[suburb])[6:8]
     print(f'{day}/{month}/{year} : {suburb: <30} - {url}')
+    if not url:
+        with open('toomany.txt', 'a', encoding='utf-8') as f:
+            f.write(main_webpage[:-6]+'\n')
+        suburbs.pop(suburb)
+        continue
     driver.get(url)
     if 'The requested URL was not found on the server.' in driver.page_source:
-        with open('log.txt', 'a', encoding='utf-8') as f:
-            f.write('URL not found: '+url+'\n')
-        suburbs.pop(suburb)
+        print('URL not found: '+url)
+        raise
     elif 'No exact matches' in driver.page_source:
         if 'page=1' in url:
-            with open('log.txt', 'a', encoding='utf-8') as f:
-                f.write('Not properties in suburb: '+url+'\n')
+            print('No properties in suburb: '+url)
+            raise
         else:
             with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
                 f.write(suburb+'\n')
