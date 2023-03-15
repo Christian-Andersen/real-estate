@@ -156,7 +156,7 @@ while True:
         else:
             with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
                 f.write(suburb+'\n')
-        suburbs.pop(suburb)
+            suburbs.pop(suburb)
     else:
         property_dictionary = html_to_dict(driver.page_source)
         for value in property_dictionary.values():
