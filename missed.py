@@ -107,9 +107,12 @@ print('Number of properties:', len(df))
 df['date'] = df['date'].astype(float)
 # Load in ids
 ids = set(df['id'])
+# Load in done webpages
+with open('loaded.txt', 'r', encoding='utf-8') as f:
+    loaded = {line.strip() for line in f.readlines()}
 # Create webpages
 with open('toomany.txt', 'r', encoding='utf-8') as f:
-    webpages = [line.strip() for line in f.readlines()]
+    webpages = {line.strip() for line in f.readlines()}
 price_ranges = []
 for i in range(100):
     price_ranges.append(str(10_000*i)+'-'+str(10_000*i+9_999))
@@ -124,6 +127,8 @@ for webpage in webpages:
     for price_range in price_ranges:
         for i in range(1, 51):
             url = webpage+'&price='+price_range+'&page='+str(i)
+            if url in loaded:
+                continue
             print(url)
             last_page = False
             driver.get(url)
@@ -154,3 +159,6 @@ for webpage in webpages:
                     w.writerow(row)
             if last_page:
                 break
+            loaded.add(url)
+            with open('loaded.txt', 'a', encoding='utf-8') as f:
+                f.write(url+'\n')
