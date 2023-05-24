@@ -152,7 +152,10 @@ while True:
     elif 'No exact matches' in driver.page_source:
         if 'page=1' in url:
             print('No properties in suburb: '+url)
-            raise
+            with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
+                f.write(suburb+'\n')
+            suburbs.pop(suburb)
+            continue
         else:
             with open('finished_suburbs.txt', 'a', encoding='utf-8') as f:
                 f.write(suburb+'\n')

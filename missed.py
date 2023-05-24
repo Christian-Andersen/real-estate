@@ -116,7 +116,8 @@ with open('toomany.txt', 'r', encoding='utf-8') as f:
 price_ranges = []
 for i in range(100):
     price_ranges.append(str(10_000*i)+'-'+str(10_000*i+9_999))
-price_ranges.append('1000000-any')
+price_ranges.append('1000000-1500000')
+price_ranges.append('1500000-any')
 # Create selenium driver
 options = Options()
 options.add_argument('-headless')
@@ -136,6 +137,9 @@ for webpage in webpages:
                 print('URL not found: '+url)
                 raise
             elif 'No exact matches' in driver.page_source:
+                loaded.add(url)
+                with open('loaded.txt', 'a', encoding='utf-8') as f:
+                    f.write(url+'\n')
                 break
             elif i == 1:
                 search_string = '"searchResultCount":'
@@ -157,8 +161,8 @@ for webpage in webpages:
                 with open('all.csv', 'a', newline='', encoding='utf-8') as f:
                     w = csv.writer(f)
                     w.writerow(row)
-            if last_page:
-                break
             loaded.add(url)
             with open('loaded.txt', 'a', encoding='utf-8') as f:
                 f.write(url+'\n')
+            if last_page:
+                break
