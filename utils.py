@@ -37,45 +37,77 @@ def html_to_dict(s: str) -> dict[str, Any]:
         return {}
 
 
-def value_to_row(value: dict[str, Any]) -> list[Any]:
-    """Converts property dictionary to a list of values for CSV."""
-    row = []
-    row.append(value["id"])
-    row.append(value["listingType"])
-    row.append(value["listingModel"]["url"])
-    row.append(value["listingModel"]["price"])
-    if row[-1] == "Price Withheld":
-        row[-1] = ""
-    elif isinstance(row[-1], str) and row[-1].startswith("$"):
-        row[-1] = row[-1][1:].replace(",", "")
+def value_to_dict(value: dict[str, Any]) -> dict[str, Any]:
+    """Converts property dictionary to a structured dictionary."""
+    data = {}
+    data["id"] = str(value["id"])
+    data["listingType"] = value["listingType"]
+    data["url"] = value["listingModel"]["url"]
+    price = value["listingModel"]["price"]
+    if price == "Price Withheld":
+        price = ""
+    elif isinstance(price, str) and price.startswith("$"):
+        price = price[1:].replace(",", "")
+    data["price"] = price
 
-    row.append(value["listingModel"]["tags"]["tagClassName"])
-    row.append(value["listingModel"]["tags"]["tagText"])
+    data["tagClassName"] = value["listingModel"]["tags"]["tagClassName"]
+    tag_text = value["listingModel"]["tags"]["tagText"]
+    data["tagText"] = tag_text
     try:
-        date_str = " ".join(row[-1].split()[-3:])
+        date_str = " ".join(tag_text.split()[-3:])
         date = datetime.strptime(date_str, "%d %b %Y").replace(tzinfo=UTC)
-        row.append(date.strftime("%Y%m%d"))
-    except ValueError, IndexError:
-        row.append("")
+        data["date"] = date.strftime("%Y%m%d")
+    except (ValueError, IndexError):
+        data["date"] = ""
 
     address = value["listingModel"]["address"]
-    row.append(add_column(address, "street").replace("\n", " "))
-    row.append(add_column(address, "suburb"))
-    row.append(add_column(address, "state"))
-    row.append(add_column(address, "postcode"))
-    row.append(add_column(address, "lat"))
-    row.append(add_column(address, "lng"))
+    data["street"] = add_column(address, "street").replace("\n", " ")
+    data["suburb"] = add_column(address, "suburb")
+    data["state"] = add_column(address, "state")
+    data["postcode"] = add_column(address, "postcode")
+    data["lat"] = add_column(address, "lat")
+    data["lng"] = add_column(address, "lng")
 
     features = value["listingModel"]["features"]
-    row.append(add_column(features, "beds"))
-    row.append(add_column(features, "baths"))
-    row.append(add_column(features, "parking"))
-    row.append(add_column(features, "propertyType"))
-    row.append(add_column(features, "propertyTypeFormatted"))
-    row.append(add_column(features, "isRural"))
-    row.append(add_column(features, "landSize"))
-    row.append(add_column(features, "landUnit"))
-    if row[-1] == "m²":
-        row[-1] = "m2"
-    row.append(add_column(features, "isRetirement"))
-    return row
+    data["beds"] = add_column(features, "beds")
+    data["baths"] = add_column(features, "baths")
+    data["parking"] = add_column(features, "parking")
+    data["propertyType"] = add_column(features, "propertyType")
+    data["propertyTypeFormatted"] = add_column(features, "propertyTypeFormatted")
+    data["isRural"] = add_column(features, "isRural")
+    data["landSize"] = add_column(features, "landSize")
+    land_unit = add_column(features, "landUnit")
+    if land_unit == "m²":
+        land_unit = "m2"
+    data["landUnit"] = land_unit
+    data["isRetirement"] = add_column(features, "isRetirement")
+    return data
+
+
+def value_to_row(value: dict[str, Any]) -> list[Any]:
+    """Converts property dictionary to a list of values for CSV."""
+    data = value_to_dict(value)
+    return [
+        data["id"],
+        data["listingType"],
+        data["url"],
+        data["price"],
+        data["tagClassName"],
+        data["tagText"],
+        data["date"],
+        data["street"],
+        data["suburb"],
+        data["state"],
+        data["postcode"],
+        data["lat"],
+        data["lng"],
+        data["beds"],
+        data["baths"],
+        data["parking"],
+        data["propertyType"],
+        data["propertyTypeFormatted"],
+        data["isRural"],
+        data["landSize"],
+        data["landUnit"],
+        data["isRetirement"],
+    ]

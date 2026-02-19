@@ -4,57 +4,27 @@ Breaks down searches by price range to ensure all properties are captured.
 """
 
 import atexit
-import csv
+import json
 from pathlib import Path
 
-import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-from utils import html_to_dict, value_to_row
+from utils import html_to_dict, value_to_dict
 
 PAGE_SIZE_LIMIT = 20
 MAX_PROPERTIES_LIMIT = 1_000
 
-header = [
-    "id",
-    "listingType",
-    "url",
-    "price",
-    "tagClassName",
-    "tagText",
-    "date",
-    "street",
-    "suburb",
-    "state",
-    "postcode",
-    "lat",
-    "lng",
-    "beds",
-    "baths",
-    "parking",
-    "propertyType",
-    "propertyTypeFormatted",
-    "isRural",
-    "landSize",
-    "landUnit",
-    "isRetirement",
-]
-
 # Get information from the data folder
-all_csv = Path("all.csv")
-if all_csv.exists():
-    df = pd.read_csv(all_csv, dtype=object)
-    print("Number of properties:", len(df))
-    df["date"] = df["date"].astype(float)
-    # Load in ids
-    ids = set(df["id"])
-else:
-    print("all.csv not found. Starting with empty data.")
-    ids = set()
-    with all_csv.open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(header)
+data_dir = Path("data")
+data_dir.mkdir(exist_ok=True)
+ids_file = Path("ids.txt")
+
+ids = set()
+
+if ids_file.exists():
+    with ids_file.open(encoding="utf-8") as f:
+        ids = {line.strip() for line in f if line.strip()}
 
 # Load in done webpages
 loaded_file = Path("loaded.txt")
@@ -115,13 +85,20 @@ for webpage in webpages:
                     raise RuntimeError(msg)
             property_dictionary = html_to_dict(driver.page_source)
             for value in property_dictionary.values():
-                if str(value["id"]) in ids:
+                prop_id = str(value["id"])
+                if prop_id in ids:
                     continue
-                ids.add(str(value["id"]))
-                row = value_to_row(value)
-                with Path("all.csv").open("a", newline="", encoding="utf-8") as f:
-                    w = csv.writer(f)
-                    w.writerow(row)
+                ids.add(prop_id)
+                data = value_to_dict(value)
+
+                # Save JSON file
+                with (data_dir / f"{prop_id}.json").open("w", encoding="utf-8") as f:
+                    json.dump(data, f, indent=4)
+
+                # Update ids.txt
+                with ids_file.open("a", encoding="utf-8") as f:
+                    f.write(prop_id + "\n")
+
             loaded.add(url)
             with loaded_file.open("a", encoding="utf-8") as f:
                 f.write(url + "\n")

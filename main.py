@@ -4,65 +4,56 @@ Iterates through suburbs and scrapes sold property data into a CSV file.
 """
 
 import atexit
-import csv
+import json
 from pathlib import Path
 
-import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-from utils import html_to_dict, value_to_row
+from utils import html_to_dict, value_to_dict
 
 PAGE_SIZE_LIMIT = 20
 
-header = [
-    "id",
-    "listingType",
-    "url",
-    "price",
-    "tagClassName",
-    "tagText",
-    "date",
-    "street",
-    "suburb",
-    "state",
-    "postcode",
-    "lat",
-    "lng",
-    "beds",
-    "baths",
-    "parking",
-    "propertyType",
-    "propertyTypeFormatted",
-    "isRural",
-    "landSize",
-    "landUnit",
-    "isRetirement",
-]
-
 # Get information from the data folder
-all_csv = Path("all.csv")
-if all_csv.exists():
-    df = pd.read_csv(all_csv, dtype=object)
-    print("Number of properties:", len(df))
-    df["date"] = df["date"].astype(float)
-    # Load in ids
-    ids = set(df["id"])
-    # Load in suburbs
-    suburbs = df.groupby("suburb")["date"].min().to_dict()
-    # Make look up dict
-    series = (
-        df["suburb"].str.replace(" ", "-").str.replace("'", "-") + "-" + df["state"] + "-" + df["postcode"]
-    ).str.lower()
-    look_up = dict(zip(df["suburb"], series, strict=False))
-else:
-    print("all.csv not found. Starting with empty data.")
-    ids = set()
-    suburbs = {}
-    look_up = {}
-    with all_csv.open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(header)
+data_dir = Path("data")
+data_dir.mkdir(exist_ok=True)
+ids_file = Path("ids.txt")
+
+ids = set()
+suburbs = {}
+look_up = {}
+
+if ids_file.exists():
+    with ids_file.open(encoding="utf-8") as f:
+        ids = {line.strip() for line in f if line.strip()}
+
+# We still need to populate 'suburbs' and 'look_up' for the scraper logic.
+# Since we no longer have 'all.csv' for the min date, we'll scan the JSON files.
+print(f"Loading {len(ids)} existing properties...")
+for prop_id in ids:
+    prop_file = data_dir / f"{prop_id}.json"
+    if prop_file.exists():
+        try:
+            with prop_file.open(encoding="utf-8") as f:
+                data = json.load(f)
+                suburb = data.get("suburb")
+                date_str = data.get("date")
+                state = data.get("state")
+                postcode = data.get("postcode")
+
+                if suburb and date_str:
+                    date_val = float(date_str)
+                    if suburb not in suburbs or date_val < suburbs[suburb]:
+                        suburbs[suburb] = date_val
+
+                    if suburb not in look_up:
+                        series = f"{suburb}-{state}-{postcode}".replace(" ", "-").replace("'", "-").lower()
+                        look_up[suburb] = series
+        except (json.JSONDecodeError, ValueError):
+            continue
+
+if not ids:
+    print("No existing data found. Starting fresh.")
 # Load in done webpages
 loaded_file = Path("loaded.txt")
 if loaded_file.exists():
@@ -133,17 +124,25 @@ while True:
     else:
         property_dictionary = html_to_dict(driver.page_source)
         for value in property_dictionary.values():
-            if str(value["id"]) in ids:
+            prop_id = str(value["id"])
+            if prop_id in ids:
                 continue
-            ids.add(str(value["id"]))
-            row = value_to_row(value)
-            if row[6] != "":
-                date = float(row[6])
-                if row[8] not in suburbs or date < suburbs[row[8]]:
-                    suburbs[row[8]] = date
-            with Path("all.csv").open("a", newline="", encoding="utf-8") as f:
-                w = csv.writer(f)
-                w.writerow(row)
+            ids.add(prop_id)
+            data = value_to_dict(value)
+            if data["date"] != "":
+                date = float(data["date"])
+                suburb_name = data["suburb"]
+                if suburb_name not in suburbs or date < suburbs[suburb_name]:
+                    suburbs[suburb_name] = date
+
+            # Save JSON file
+            with (data_dir / f"{prop_id}.json").open("w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4)
+
+            # Update ids.txt
+            with ids_file.open("a", encoding="utf-8") as f:
+                f.write(prop_id + "\n")
+
         if len(property_dictionary.values()) < PAGE_SIZE_LIMIT:
             with finished_suburbs_file.open("a", encoding="utf-8") as f:
                 f.write(suburb + "\n")
